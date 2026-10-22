@@ -57,4 +57,16 @@ a:hover { text-decoration: underline; }
 .app-name { font-weight: 600; font-size: 17px; color: var(--text); display: block; margin-bottom: 4px; }
 .app-links a { margin-right: 16px; font-size: 15px; }
 
+.button {
+  display: inline-block;
+  background: var(--link);
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 16px;
+  padding: 12px 22px;
+  border-radius: 12px;
+  margin-top: 24px;
+}
+.button:hover { text-decoration: none; opacity: 0.9; }
+
 footer { margin-top: 48px; font-size: 13px; color: var(--faint); }

@@ -25,4 +25,9 @@ _redirections/             pages à copier dans les anciens dépôts (non publi�
 
 | Appli | Support | Confidentialité |
 |---|---|---|
+| Atelier Fichiers | https://regemathieu-hue.github.io/atelier-fichiers/ | https://regemathieu-hue.github.io/atelier-fichiers/privacy.html |
 | Convert Everything | https://regemathieu-hue.github.io/convert-everything/ | https://regemathieu-hue.github.io/convert-everything/privacy.html |
+| Flashbooth | https://regemathieu-hue.github.io/flashbooth/ | https://regemathieu-hue.github.io/flashbooth/privacy.html |
+| Nuit Claire | https://regemathieu-hue.github.io/nuitclaire/ | https://regemathieu-hue.github.io/nuitclaire/privacy.html |
+
+`nuitclaire/soiree.html` est la page d'invitation ouverte par les liens « soirée » partagés depuis Nuit Claire : ne pas la renommer ni la déplacer, l'app pointe vers cette adresse.

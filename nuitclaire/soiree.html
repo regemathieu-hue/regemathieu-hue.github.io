@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
+  <title>Soirée étoiles – Nuit Claire</title>
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+  <p class="subtitle" style="margin-bottom: 8px;">Invitation Nuit Claire</p>
+  <h1 id="title">Soirée étoiles</h1>
+  <p class="subtitle" id="host"></p>
+
+  <div id="details" class="card" hidden>
+    <p><strong>Quand</strong><br><span id="date"></span></p>
+    <p><strong>Où</strong><br><span id="place"></span><br>
+      <a id="map" href="#" target="_blank" rel="noopener">Voir sur la carte →</a></p>
+    <p id="note-block" hidden><strong>Le mot de l'organisateur</strong><br><span id="note"></span></p>
+  </div>
+
+  <p id="invalid" class="card" hidden>Ce lien d'invitation est incomplet. Demande à la personne qui t'a invité de te le renvoyer.</p>
+
+  <p id="open-block" hidden>
+    <a id="open" class="button" href="#">Ouvrir dans Nuit Claire</a>
+  </p>
+  <p id="open-hint" hidden style="font-size: 14px;">Tu as l'app ? Le bouton ajoute la soirée et te donne la météo et les passages prévus sur place.</p>
+
+  <footer><a href="./">Nuit Claire</a> · <a href="privacy.html">Confidentialité</a></footer>
+
+  <script>
+    (function () {
+      var q = new URLSearchParams(location.search);
+      var lat = parseFloat(q.get('lat'));
+      var lon = parseFloat(q.get('lon'));
+      var d = parseInt(q.get('d'), 10);
+      if (!isFinite(lat) || !isFinite(lon) || !isFinite(d) || Math.abs(lat) > 90 || Math.abs(lon) > 180) {
+        document.getElementById('invalid').hidden = false;
+        return;
+      }
+
+      function text(id, value) { document.getElementById(id).textContent = value; }
+      function cut(value, max) { return (value || '').slice(0, max); }
+
+      var title = cut(q.get('t'), 80) || 'Soirée étoiles';
+      var place = cut(q.get('p'), 80);
+      var host = cut(q.get('h'), 40);
+      var note = cut(q.get('n'), 300);
+
+      text('title', title);
+      document.title = title + ' – Nuit Claire';
+      if (host) text('host', host + ' t’invite à observer le ciel');
+
+      var date = new Date(d * 1000);
+      var formatted = date.toLocaleString('fr-FR', {
+        weekday: 'long', day: 'numeric', month: 'long', year: 'numeric',
+        hour: '2-digit', minute: '2-digit'
+      });
+      text('date', formatted.charAt(0).toUpperCase() + formatted.slice(1));
+
+      text('place', place || (lat.toFixed(4) + ', ' + lon.toFixed(4)));
+      var maps = 'https://maps.apple.com/?ll=' + lat + ',' + lon + '&q=' + encodeURIComponent(place || title);
+      document.getElementById('map').href = maps;
+
+      if (note) {
+        text('note', note);
+        document.getElementById('note-block').hidden = false;
+      }
+
+      document.getElementById('open').href = 'nuitclaire://soiree' + location.search;
+      document.getElementById('details').hidden = false;
+      document.getElementById('open-block').hidden = false;
+      document.getElementById('open-hint').hidden = false;
+    })();
+  </script>
+
+</body>
+</html>
