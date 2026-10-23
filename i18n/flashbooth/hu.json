@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "Fotófülke az Ön bulijaihoz iPaden és iPhone-on",
+    "contact": "Kérdés vagy hibajelentés esetén írjon nekem:<br>{email}",
+    "faq": [
+      { "q": "Milyen fényképezőgépeket használhatok?",
+        "a": "Az iPad vagy az iPhone kameráját, Wi-Fi-s fényképezőgépet (Lumix, Canon), GoPro kamerát (Wi-Fi és Bluetooth) vagy HDMI-rögzítőkártyát." },
+      { "q": "Nem ismeri fel a Wi-Fi-s fényképezőgépemet, mit tegyek?",
+        "a": "Ellenőrizze, hogy az iPad csatlakozik-e a fényképezőgép Wi-Fi hálózatához, és hogy a Flashbooth rendelkezik-e „Helyi hálózat” engedéllyel a Beállítások › Flashbooth menüpontban." },
+      { "q": "Hogyan kapják meg a vendégek a fotóikat?",
+        "a": "AirDroppal, az Üzenetek vagy a Mail alkalmazással, vagy a Fotók alkalmazásba mentve. Ha bekapcsolja az online galériát, egy QR-kód ad hozzáférést az esemény oldalához." },
+      { "q": "Hogyan működik az online galéria?",
+        "a": "Ez egy alapértelmezés szerint kikapcsolt opció. Az esemény fotóit egy olyan szerverre küldi, amelynek címét és hozzáférési kulcsát Ön adja meg. A szerveren tárolt fotókat bármikor törölheti az alkalmazásból." },
+      { "q": "Hogyan akadályozhatom meg, hogy a vendégek kilépjenek az alkalmazásból?",
+        "a": "Használja a Flashbooth kioszk módját, és kapcsolja be az iOS Irányított hozzáférés funkcióját (Beállítások › Kisegítő lehetőségek › Irányított hozzáférés), hogy az iPadet az alkalmazásra zárolja." }
+    ],
+    "privacy_summary": "A Flashbooth semmilyen személyes adatot nem gyűjt. A fotók az Ön készülékén maradnak, hacsak Ön nem dönt a megosztásuk mellett."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Röviden", "blocks": [
+        { "p": "A Flashbooth semmilyen személyes adatot nem gyűjt, és a fejlesztő egyetlen fotóhoz sem fér hozzá. Az eseményei során készült fotók az Ön készülékére kerülnek mentésre. Csak akkor hagyják el azt, ha Ön megosztja őket, vagy ha Ön maga kapcsolja be az online galériát vagy a mappába másolást." } ] },
+      { "h": "A fotók", "blocks": [
+        { "p": "A fotók, fotócsíkok és GIF-ek az esemény albumában, az Ön készülékén tárolódnak. Bármikor törölheti őket az alkalmazásból; az alkalmazás törlésével ezek is törlődnek." } ] },
+      { "h": "Megosztás", "blocks": [
+        { "p": "A megosztás az iOS eszközein keresztül történik (AirDrop, Üzenetek, Mail, Fotók, nyomtatás…). Az ezekben az ablakokban megadott e-mail-címeket és telefonszámokat az iOS kezeli: a Flashbooth nem olvassa és nem tárolja őket." } ] },
+      { "h": "Választható opciók", "blocks": [
+        { "ul": [
+          "<strong>Online galéria</strong> (alapértelmezés szerint kikapcsolva): az esemény fotóit az Ön által megadott című szerverre küldi, hogy azok QR-kóddal elérhetők legyenek. Ezt a szervert Ön választja és kezeli, nem a fejlesztő. A hozzáférési kulcsa a készülék biztonságos kulcskarikáján tárolódik. A fotók az alkalmazásból törölhetők a szerverről.",
+          "<strong>Mappába másolás</strong> (alapértelmezés szerint kikapcsolva): az albumot az Ön által választott mappába másolja (iCloud Drive vagy a Fájlok alkalmazás más szolgáltatása). A fájlokra ekkor az adott szolgáltatás feltételei vonatkoznak." ] } ] },
+      { "h": "Kért engedélyek", "blocks": [
+        { "p": "Az alkalmazás minden engedélyt csak akkor kér, amikor Ön az adott funkciót használja, és az engedélyt a készülék Beállításaiban bármikor visszavonhatja." },
+        { "ul": [
+          "<strong>Kamera</strong>: a fotózás során készülő fotókhoz.",
+          "<strong>Bluetooth</strong>: GoPro kamera vezérléséhez.",
+          "<strong>Helyi hálózat</strong>: a Wi-Fi-s fényképezőgépekhez (Lumix, Canon, GoPro) és a helyi hálózaton lévő galériájához való csatlakozáshoz.",
+          "<strong>Fotók (csak hozzáadás)</strong>: a fotócsíkok és GIF-ek Fotók alkalmazásba mentéséhez. Az alkalmazás nem olvassa a fotókönyvtárát." ] } ] },
+      { "h": "Szervezők és vendégek", "blocks": [
+        { "p": "Ha a Flashboothot egy eseményen használja, Ön felel a készült fotókért és azok terjesztéséért. Ne felejtse el tájékoztatni a vendégeit, különösen, ha az online galéria be van kapcsolva." } ] },
+      { "h": "Hirdetések és nyomkövetés", "blocks": [
+        { "p": "A Flashbooth nem tartalmaz hirdetéseket, nyomkövetőket, sem elemző vagy használati statisztikai eszközöket." } ] },
+      { "h": "Módosítások", "blocks": [
+        { "p": "Ha ez a szabályzat módosul, az új verzió ezen az oldalon jelenik meg a frissítés dátumával együtt." } ] },
+      { "h": "Kapcsolat", "blocks": [
+        { "p": "A szabályzattal kapcsolatos kérdéseivel forduljon ide: {email}" } ] }
+    ]
+  }
+}

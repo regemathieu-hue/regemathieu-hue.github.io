@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "De photobooth voor uw feesten op iPad en iPhone",
+    "contact": "Voor vragen of het melden van een bug kunt u mij schrijven:<br>{email}",
+    "faq": [
+      { "q": "Welke camera’s kan ik gebruiken?",
+        "a": "De camera van de iPad of iPhone, een wifi-camera (Lumix, Canon), een GoPro (wifi en Bluetooth) of een HDMI-capturekaart." },
+      { "q": "Mijn wifi-camera wordt niet gevonden, wat nu?",
+        "a": "Controleer of de iPad verbonden is met het wifi-netwerk van de camera en of Flashbooth de toestemming ‘Lokaal netwerk’ heeft in Instellingen › Flashbooth." },
+      { "q": "Hoe krijgen gasten hun foto’s?",
+        "a": "Via AirDrop, Berichten, Mail of door ze te bewaren in Foto’s. Als u de online galerij inschakelt, geeft een QR-code toegang tot de pagina van het evenement." },
+      { "q": "Hoe werkt de online galerij?",
+        "a": "Dit is een optie die standaard uitstaat. Ze stuurt de foto’s van het evenement naar een server waarvan u zelf het adres en de toegangssleutel invoert. U kunt de foto’s die op die server staan op elk moment vanuit de app verwijderen." },
+      { "q": "Hoe voorkom ik dat gasten de app verlaten?",
+        "a": "Gebruik de kioskmodus van Flashbooth en schakel Begeleide toegang van iOS in (Instellingen › Toegankelijkheid › Begeleide toegang) om de iPad op de app te vergrendelen." }
+    ],
+    "privacy_summary": "Flashbooth verzamelt geen persoonsgegevens. De foto’s blijven op uw apparaat, tenzij u ervoor kiest ze te delen."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "In het kort", "blocks": [
+        { "p": "Flashbooth verzamelt geen persoonsgegevens en de ontwikkelaar heeft geen toegang tot enige foto. De foto’s die tijdens uw evenementen worden gemaakt, worden op uw apparaat bewaard. Ze verlaten het apparaat alleen wanneer u ze deelt, of als u zelf de online galerij of het kopiëren naar een map inschakelt." } ] },
+      { "h": "De foto’s", "blocks": [
+        { "p": "De foto’s, fotostrips en gifs worden bewaard in het album van het evenement, op uw apparaat. U kunt ze op elk moment vanuit de app verwijderen; als u de app verwijdert, worden ze ook gewist." } ] },
+      { "h": "Delen", "blocks": [
+        { "p": "Delen verloopt via de tools van iOS (AirDrop, Berichten, Mail, Foto’s, afdrukken …). De e-mailadressen of telefoonnummers die u in die vensters invoert, worden door iOS beheerd: Flashbooth leest ze niet en bewaart ze niet." } ] },
+      { "h": "Optionele functies", "blocks": [
+        { "ul": [
+          "<strong>Online galerij</strong> (standaard uit): stuurt de foto’s van het evenement naar de server waarvan u het adres invoert, zodat ze via een QR-code toegankelijk zijn. Deze server wordt door u gekozen en beheerd, niet door de ontwikkelaar. De toegangssleutel wordt opgeslagen in de beveiligde sleutelhanger van het apparaat. De foto’s kunnen vanuit de app van de server worden verwijderd.",
+          "<strong>Kopie naar een map</strong> (standaard uit): kopieert het album naar de map die u kiest (iCloud Drive of een andere dienst in de app Bestanden). De bestanden vallen dan onder de voorwaarden van die dienst." ] } ] },
+      { "h": "Gevraagde toestemmingen", "blocks": [
+        { "p": "Elke toestemming wordt pas gevraagd op het moment dat u de betreffende functie gebruikt, en u kunt die intrekken in de Instellingen van uw apparaat." },
+        { "ul": [
+          "<strong>Camera</strong>: om de foto’s van de sessie te maken.",
+          "<strong>Bluetooth</strong>: om een GoPro te bedienen.",
+          "<strong>Lokaal netwerk</strong>: om verbinding te maken met wifi-camera’s (Lumix, Canon, GoPro) en met uw galerij op het lokale netwerk.",
+          "<strong>Foto’s (alleen toevoegen)</strong>: om de fotostrips en gifs te bewaren in de app Foto’s. De app leest uw fotobibliotheek niet." ] } ] },
+      { "h": "Organisatoren en gasten", "blocks": [
+        { "p": "Als u Flashbooth tijdens een evenement gebruikt, bent u verantwoordelijk voor de gemaakte foto’s en de verspreiding ervan. Vergeet niet uw gasten te informeren, zeker als de online galerij is ingeschakeld." } ] },
+      { "h": "Advertenties en tracking", "blocks": [
+        { "p": "Flashbooth bevat geen advertenties, geen trackers en geen analyse- of gebruiksstatistiektools." } ] },
+      { "h": "Wijzigingen", "blocks": [
+        { "p": "Als dit beleid wijzigt, wordt de nieuwe versie met de bijbehorende datum op deze pagina gepubliceerd." } ] },
+      { "h": "Contact", "blocks": [
+        { "p": "Voor vragen over dit beleid: {email}" } ] }
+    ]
+  }
+}

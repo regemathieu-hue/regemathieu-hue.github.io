@@ -1,0 +1,16 @@
+{
+  "lang": "no",
+  "dir": "ltr",
+  "name": "Norsk",
+  "support_title": "Support",
+  "privacy_title": "Personvernerklæring",
+  "contact_h": "Kontakt",
+  "faq_h": "Vanlige spørsmål",
+  "privacy_h": "Personvernerklæring",
+  "read_full_privacy": "Les hele personvernerklæringen →",
+  "back_to_support": "← Tilbake til support",
+  "updated": "Sist oppdatert: {date}",
+  "all_apps": "Alle appene mine",
+  "other_languages": "Andre språk",
+  "language_list_h": "Denne siden på andre språk"
+}

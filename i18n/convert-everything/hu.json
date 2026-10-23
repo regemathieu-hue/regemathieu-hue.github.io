@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Univerzális átváltó alkalmazás iOS-re",
+    "contact": "Kérdés vagy hibajelentés esetén írjon nekünk e-mailben:<br>{email}",
+    "faq": [
+      { "q": "Az árfolyamok valós időben frissülnek?",
+        "a": "Az árfolyamok az alkalmazás minden megnyitásakor frissülnek, ha van internetkapcsolat. A legfrissebb árfolyamok lekéréséhez internetkapcsolat szükséges." },
+      { "q": "Működik az alkalmazás internet nélkül?",
+        "a": "Igen, a devizák kivételével minden átváltás offline is működik. A devizaátváltás az utoljára gyorsítótárazott árfolyamot használja." },
+      { "q": "Hogyan változtathatom meg az alkalmazás nyelvét?",
+        "a": "A nyelv közvetlenül az alkalmazás beállításaiban módosítható. Több mint 16 nyelv érhető el." }
+    ],
+    "privacy_summary": "A Convert Everything semmilyen személyes adatot nem gyűjt. Semmilyen információ nem kerül továbbításra harmadik fél szervereire."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Adatgyűjtés", "blocks": [
+        { "p": "A Convert Everything semmilyen személyes adatot nem gyűjt, nem tárol és nem továbbít. Az alkalmazás teljes egészében helyben, az Ön készülékén működik." } ] },
+      { "h": "Felhasznált adatok", "blocks": [
+        { "p": "Az alkalmazás kizárólag a következő erőforrásokhoz fér hozzá:" },
+        { "ul": [
+          "<strong>Internet</strong> — kizárólag az árfolyamok lekéréséhez egy nyilvános API-ból. Semmilyen személyes adat nem kerül elküldésre." ] } ] },
+      { "h": "Harmadik féltől származó szolgáltatások", "blocks": [
+        { "p": "Az árfolyamokat a <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a> ingyenes, nyilvános API szolgáltatja. A lekérés során semmilyen felhasználói adat nem kerül továbbításra." } ] },
+      { "h": "Hirdetések és nyomkövetés", "blocks": [
+        { "p": "A Convert Everything nem tartalmaz hirdetéseket, nyomkövetőket, sem viselkedéselemző SDK-t." } ] },
+      { "h": "Gyermekek", "blocks": [
+        { "p": "Ez az alkalmazás semmilyen adatot nem gyűjt, és minden korosztály számára megfelelő." } ] },
+      { "h": "Kapcsolat", "blocks": [
+        { "p": "A szabályzattal kapcsolatos kérdéseivel forduljon ide: {email}" } ] }
+    ]
+  }
+}

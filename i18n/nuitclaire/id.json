@@ -1,0 +1,57 @@
+{
+  "support": {
+    "subtitle": "Jangan lewatkan apa pun di langit malam",
+    "contact": "Ada pertanyaan, ide, atau bug? Tulis ke saya:<br>{email}",
+    "faq": [
+      { "q": "Kenapa aplikasi meminta lokasi saya?",
+        "a": "Waktu lintasan satelit, malam gelap sepenuhnya, dan cuaca bergantung pada tempat kamu mengamati. Lokasimu tetap berada di ponselmu; hanya posisi yang dibulatkan sekitar 1 km yang dikirim ke layanan cuaca. Kamu juga bisa memilih kota secara manual di pengaturan, tanpa mengaktifkan lokasi." },
+      { "q": "Saya tidak menerima peringatan, kenapa?",
+        "a": "Pastikan pemberitahuan Nuit Claire diizinkan di Pengaturan iOS. Peringatan hanya dikirim jika langit di tempatmu diperkirakan cerah: malam berawan tidak akan memicu peringatan, bahkan untuk lintasan ISS yang bagus sekalipun." },
+      { "q": "Teleskop apa saja yang kompatibel?",
+        "a": "Mounting yang bisa dikendalikan melalui adaptor Wi-Fi SkyFi, Celestron, atau OnStep. iPhone-mu dan adaptor harus berada di jaringan Wi-Fi yang sama." },
+      { "q": "Bagaimana cara menemukan jurnal saya di perangkat lain?",
+        "a": "Aktifkan “Sinkronkan dengan iCloud” di pengaturan aplikasi. Jurnal, lokasi, pengaturan, dan malam pengamatanmu akan mengikuti akun iCloud-mu." },
+      { "q": "Bagaimana cara mengundang teman ke malam pengamatan?",
+        "a": "Buat malam pengamatan di aplikasi, lalu bagikan tautannya. Teman-temanmu akan melihat undangan di browser mereka dan bisa membukanya langsung di Nuit Claire." }
+    ],
+    "privacy_summary": "Nuit Claire tidak mengumpulkan data pribadi apa pun dan tidak memuat iklan maupun pelacak."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Ringkasnya", "blocks": [
+        { "p": "Nuit Claire tidak mengumpulkan data pribadi apa pun dan tidak memiliki server. Perhitungan (lintasan satelit, posisi benda langit, malam gelap sepenuhnya) dilakukan di perangkatmu. Hanya informasi yang benar-benar diperlukan yang dikirim ke beberapa layanan publik, yang dijelaskan di bawah ini." } ] },
+      { "h": "Lokasimu", "blocks": [
+        { "p": "Lokasimu digunakan untuk menghitung lintasan satelit, jam malam, dan cuaca langit di tempatmu. Lokasi hanya digunakan saat aplikasi terbuka dan tetap tersimpan di perangkatmu." },
+        { "p": "Untuk cuaca, posisi yang <strong>dibulatkan sekitar 1 km</strong> dikirim ke Open-Meteo dan 7Timer!. Kamu juga bisa menolak akses lokasi dan memilih kota secara manual: nama yang kamu ketik kemudian dikirim ke layanan pencarian kota Open-Meteo." } ] },
+      { "h": "Layanan yang digunakan", "blocks": [
+        { "p": "Aplikasi mengunduh data publik dari layanan berikut. Tidak ada pengenal maupun informasi pribadi yang dikirim kepada mereka; seperti pada koneksi internet mana pun, mereka melihat alamat IP permintaan tersebut." },
+        { "ul": [
+          "<a href=\"https://open-meteo.com\">Open-Meteo</a>: prakiraan awan dan pencarian kota (posisi yang dibulatkan atau nama kota).",
+          "<a href=\"https://www.7timer.info\">7Timer!</a>: prakiraan astronomi (posisi yang dibulatkan).",
+          "<a href=\"https://celestrak.org\">CelesTrak</a>: orbit satelit.",
+          "<a href=\"https://www.swpc.noaa.gov\">NOAA SWPC</a>: aktivitas matahari dan prakiraan aurora.",
+          "<a href=\"https://minorplanetcenter.net\">Minor Planet Center</a>: orbit komet." ] } ] },
+      { "h": "Izin yang diminta", "blocks": [
+        { "p": "Setiap izin hanya diminta saat kamu menggunakan fitur terkait, dan kamu bisa mencabutnya di Pengaturan perangkatmu." },
+        { "ul": [
+          "<strong>Lokasi</strong>: lihat di atas. Di Apple Watch, lokasi juga mengarahkan kompas ke satelit.",
+          "<strong>Kamera</strong>: menampilkan langit di balik penanda tampilan “Ke mana harus melihat”. Tidak ada gambar yang direkam.",
+          "<strong>Gerakan</strong>: mengarahkan tampilan “Ke mana harus melihat” ke bagian langit yang kamu bidik.",
+          "<strong>Kalender (hanya tambah)</strong>: menambahkan peristiwa langit yang kamu pilih. Aplikasi tidak membaca kalendermu.",
+          "<strong>Jaringan Lokal</strong>: terhubung ke adaptor Wi-Fi teleskopmu untuk mengarahkannya. Tidak ada yang keluar dari jaringanmu.",
+          "<strong>Pemberitahuan</strong>: peringatan lintasan, aurora, dan malam cerah, dibuat di perangkatmu." ] } ] },
+      { "h": "Jurnalmu dan iCloud", "blocks": [
+        { "p": "Jurnal pengamatanmu (termasuk foto yang kamu tambahkan), lokasi favorit, pengaturan, dan malam pengamatanmu disimpan di perangkatmu. Jika kamu mengaktifkan sinkronisasi iCloud, semuanya juga disimpan di akun iCloud-mu sendiri, yang dikelola oleh Apple, agar bisa kamu temukan di perangkat lainmu. Pengembang tidak memiliki akses ke data tersebut." } ] },
+      { "h": "Malam pengamatan yang dibagikan", "blocks": [
+        { "p": "Saat kamu membagikan malam pengamatan, tautannya berisi informasi undangan: judul, nama dan koordinat lokasi, tanggal, nama depan atau nama panggilanmu, dan catatanmu. Siapa pun yang menerima tautan dapat membacanya. Halaman undangan situs ini menampilkannya langsung di browser, tanpa menyimpannya di server. Situs ini di-hosting oleh GitHub Pages, yang mungkin menyimpan log teknis koneksi." } ] },
+      { "h": "Iklan dan pelacakan", "blocks": [
+        { "p": "Nuit Claire tidak memuat iklan, pelacak, maupun alat analitik atau statistik penggunaan apa pun." } ] },
+      { "h": "Anak-anak", "blocks": [
+        { "p": "Aplikasi ini tidak mengumpulkan data apa pun dan cocok untuk semua usia." } ] },
+      { "h": "Perubahan", "blocks": [
+        { "p": "Jika kebijakan ini berubah, versi barunya akan dipublikasikan di halaman ini beserta tanggal pembaruannya." } ] },
+      { "h": "Kontak", "blocks": [
+        { "p": "Untuk pertanyaan apa pun mengenai kebijakan ini: {email}" } ] }
+    ]
+  }
+}

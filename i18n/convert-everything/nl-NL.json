@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Universele conversie-app voor iOS",
+    "contact": "Voor vragen of het melden van een bug kunt u ons e-mailen:<br>{email}",
+    "faq": [
+      { "q": "Worden de wisselkoersen in realtime bijgewerkt?",
+        "a": "De wisselkoersen worden bij elke start van de app vernieuwd als er een internetverbinding beschikbaar is. Een internetverbinding is nodig om de meest recente koersen op te halen." },
+      { "q": "Werkt de app zonder internet?",
+        "a": "Ja, alle conversies behalve valuta werken offline. Valutaconversies gebruiken de laatst opgeslagen koers." },
+      { "q": "Hoe verander ik de taal van de app?",
+        "a": "De taal kan rechtstreeks in de instellingen van de app worden gewijzigd. Er zijn meer dan 16 talen beschikbaar." }
+    ],
+    "privacy_summary": "Convert Everything verzamelt geen persoonsgegevens. Er wordt geen informatie naar servers van derden verzonden."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Gegevensverzameling", "blocks": [
+        { "p": "Convert Everything verzamelt, bewaart en verzendt geen persoonsgegevens. De app werkt volledig lokaal op uw apparaat." } ] },
+      { "h": "Gebruikte gegevens", "blocks": [
+        { "p": "De app maakt uitsluitend gebruik van de volgende bronnen:" },
+        { "ul": [
+          "<strong>Internet</strong> — alleen om de wisselkoersen op te halen via een openbare API. Er worden geen persoonsgegevens verzonden." ] } ] },
+      { "h": "Diensten van derden", "blocks": [
+        { "p": "De wisselkoersen worden geleverd door <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, een gratis openbare API. Bij dit verzoek worden geen gebruikersgegevens verzonden." } ] },
+      { "h": "Advertenties en tracking", "blocks": [
+        { "p": "Convert Everything bevat geen advertenties, geen trackers en geen SDK voor gedragsanalyse." } ] },
+      { "h": "Kinderen", "blocks": [
+        { "p": "Deze app verzamelt geen gegevens en is geschikt voor alle leeftijden." } ] },
+      { "h": "Contact", "blocks": [
+        { "p": "Voor vragen over dit beleid: {email}" } ] }
+    ]
+  }
+}

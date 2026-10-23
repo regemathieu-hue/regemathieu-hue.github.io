@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Aplikasi konversi satuan serbaguna untuk iOS",
+    "contact": "Untuk pertanyaan atau laporan bug, hubungi kami melalui email:<br>{email}",
+    "faq": [
+      { "q": "Apakah kurs mata uang diperbarui secara real-time?",
+        "a": "Kurs mata uang diperbarui setiap kali aplikasi dibuka jika koneksi internet tersedia. Koneksi internet diperlukan untuk mendapatkan kurs terbaru." },
+      { "q": "Apakah aplikasi berfungsi tanpa internet?",
+        "a": "Ya, semua konversi kecuali mata uang berfungsi secara offline. Konversi mata uang menggunakan kurs terakhir yang tersimpan di cache." },
+      { "q": "Bagaimana cara mengubah bahasa aplikasi?",
+        "a": "Bahasa dapat diubah langsung di pengaturan aplikasi. Tersedia lebih dari 16 bahasa." }
+    ],
+    "privacy_summary": "Convert Everything tidak mengumpulkan data pribadi apa pun. Tidak ada informasi yang dikirim ke server pihak ketiga."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Pengumpulan data", "blocks": [
+        { "p": "Convert Everything tidak mengumpulkan, menyimpan, maupun mengirimkan data pribadi apa pun. Aplikasi berjalan sepenuhnya secara lokal di perangkat Anda." } ] },
+      { "h": "Data yang digunakan", "blocks": [
+        { "p": "Aplikasi hanya mengakses sumber daya berikut:" },
+        { "ul": [
+          "<strong>Internet</strong> — hanya untuk mengambil kurs mata uang dari API publik. Tidak ada data pribadi yang dikirim." ] } ] },
+      { "h": "Layanan pihak ketiga", "blocks": [
+        { "p": "Kurs mata uang disediakan oleh <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, sebuah API publik gratis. Tidak ada data pengguna yang dikirimkan dalam permintaan ini." } ] },
+      { "h": "Iklan dan pelacakan", "blocks": [
+        { "p": "Convert Everything tidak memuat iklan, pelacak, maupun SDK analitik perilaku apa pun." } ] },
+      { "h": "Anak-anak", "blocks": [
+        { "p": "Aplikasi ini tidak mengumpulkan data apa pun dan cocok untuk semua usia." } ] },
+      { "h": "Kontak", "blocks": [
+        { "p": "Untuk pertanyaan apa pun mengenai kebijakan ini: {email}" } ] }
+    ]
+  }
+}

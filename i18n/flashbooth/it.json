@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "Il photo booth delle sue feste su iPad e iPhone",
+    "contact": "Per qualsiasi domanda o segnalazione di bug, mi scriva:<br>{email}",
+    "faq": [
+      { "q": "Quali fotocamere posso usare?",
+        "a": "La fotocamera dell'iPad o dell'iPhone, una fotocamera Wi-Fi (Lumix, Canon), una GoPro (Wi-Fi e Bluetooth) oppure una scheda di acquisizione HDMI." },
+      { "q": "La mia fotocamera Wi-Fi non viene rilevata, cosa posso fare?",
+        "a": "Verifichi che l'iPad sia connesso al Wi-Fi della fotocamera e che Flashbooth abbia l'autorizzazione “Rete locale” in Impostazioni › Flashbooth." },
+      { "q": "Come fanno gli invitati a recuperare le loro foto?",
+        "a": "Tramite AirDrop, Messaggi, Mail o salvandole in Foto. Se attiva la galleria online, un codice QR dà accesso alla pagina dell'evento." },
+      { "q": "Come funziona la galleria online?",
+        "a": "È un'opzione disattivata per impostazione predefinita. Invia le foto dell'evento a un server di cui è lei a inserire l'indirizzo e la chiave di accesso. Può eliminare in qualsiasi momento le foto memorizzate su quel server dall'app." },
+      { "q": "Come impedire agli invitati di uscire dall'app?",
+        "a": "Usi la modalità chiosco di Flashbooth e attivi Accesso Guidato di iOS (Impostazioni › Accessibilità › Accesso Guidato) per bloccare l'iPad sull'app." }
+    ],
+    "privacy_summary": "Flashbooth non raccoglie alcun dato personale. Le foto restano sul suo dispositivo, a meno che non scelga di condividerle."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "In breve", "blocks": [
+        { "p": "Flashbooth non raccoglie alcun dato personale e lo sviluppatore non ha accesso ad alcuna foto. Le foto scattate durante i suoi eventi vengono salvate sul suo dispositivo. Ne escono solo quando le condivide, oppure se è lei ad attivare la galleria online o la copia in una cartella." } ] },
+      { "h": "Le foto", "blocks": [
+        { "p": "Foto, strisce fotografiche e GIF sono conservate nell'album dell'evento, sul suo dispositivo. Può eliminarle in qualsiasi momento dall'app; anche l'eliminazione dell'app le cancella." } ] },
+      { "h": "Condivisione", "blocks": [
+        { "p": "La condivisione passa dagli strumenti di iOS (AirDrop, Messaggi, Mail, Foto, stampa…). Gli indirizzi email o i numeri inseriti in quelle finestre sono gestiti da iOS: Flashbooth non li legge e non li conserva." } ] },
+      { "h": "Opzioni facoltative", "blocks": [
+        { "ul": [
+          "<strong>Galleria online</strong> (disattivata per impostazione predefinita): invia le foto dell'evento al server di cui inserisce l'indirizzo, per renderle accessibili tramite codice QR. Quel server è scelto e gestito da lei, non dallo sviluppatore. La sua chiave di accesso è memorizzata nel portachiavi sicuro del dispositivo. Le foto possono essere eliminate dal server dall'app.",
+          "<strong>Copia in una cartella</strong> (disattivata per impostazione predefinita): copia l'album nella cartella che sceglie (iCloud Drive o un altro servizio dell'app File). I file sono quindi soggetti alle condizioni di quel servizio." ] } ] },
+      { "h": "Autorizzazioni richieste", "blocks": [
+        { "p": "Ogni autorizzazione viene richiesta solo nel momento in cui utilizza la funzione corrispondente, e può revocarla nelle Impostazioni del suo dispositivo." },
+        { "ul": [
+          "<strong>Fotocamera</strong>: per scattare le foto della sessione.",
+          "<strong>Bluetooth</strong>: per controllare una GoPro.",
+          "<strong>Rete locale</strong>: per connettersi alle fotocamere Wi-Fi (Lumix, Canon, GoPro) e alla sua galleria sulla rete locale.",
+          "<strong>Foto (solo aggiunta)</strong>: per salvare le strisce fotografiche e le GIF nell'app Foto. L'app non legge la sua libreria foto." ] } ] },
+      { "h": "Organizzatori e invitati", "blocks": [
+        { "p": "Se utilizza Flashbooth durante un evento, la responsabilità delle foto scattate e della loro diffusione è sua. Ricordi di informare i suoi invitati, soprattutto se la galleria online è attiva." } ] },
+      { "h": "Pubblicità e tracciamento", "blocks": [
+        { "p": "Flashbooth non contiene alcuna pubblicità, alcun tracker e alcuno strumento di analisi o di statistiche d'uso." } ] },
+      { "h": "Modifiche", "blocks": [
+        { "p": "Se questa informativa dovesse cambiare, la nuova versione sarà pubblicata su questa pagina con la data di aggiornamento." } ] },
+      { "h": "Contatti", "blocks": [
+        { "p": "Per qualsiasi domanda su questa informativa: {email}" } ] }
+    ]
+  }
+}

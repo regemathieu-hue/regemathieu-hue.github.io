@@ -1,0 +1,57 @@
+{
+  "support": {
+    "subtitle": "Gece gökyüzünde hiçbir şeyi kaçırma",
+    "contact": "Bir soru, bir fikir ya da bir hata mı var? Bana yaz:<br>{email}",
+    "faq": [
+      { "q": "Uygulama neden konumumu istiyor?",
+        "a": "Uydu geçiş saatleri, tam karanlık ve hava durumu gözlem yaptığın yere bağlıdır. Konumun telefonunda kalır; hava durumu servislerine yalnızca yaklaşık 1 km'ye yuvarlanmış bir konum gönderilir. Konum servislerini açmadan, ayarlardan elle bir şehir de seçebilirsin." },
+      { "q": "Uyarı almıyorum, neden?",
+        "a": "iOS Ayarlar'da Nuit Claire bildirimlerine izin verildiğinden emin ol. Uyarılar yalnızca bulunduğun yerde gökyüzünün açık olması bekleniyorsa gönderilir: bulutlu bir gece, güzel bir ISS geçişi için bile uyarı tetiklemez." },
+      { "q": "Hangi teleskoplar uyumlu?",
+        "a": "SkyFi, Celestron veya OnStep Wi-Fi adaptörüyle kontrol edilebilen kundaklar. iPhone'un ve adaptör aynı Wi-Fi ağında olmalı." },
+      { "q": "Günlüğümü başka bir aygıtta nasıl bulurum?",
+        "a": "Uygulama ayarlarında “iCloud ile eşzamanla” seçeneğini aç. Günlüğün, yerlerin, ayarların ve gecelerin iCloud hesabını takip eder." },
+      { "q": "Arkadaşlarımı bir gözlem gecesine nasıl davet ederim?",
+        "a": "Uygulamada bir gece oluştur, sonra bağlantıyı paylaş. Arkadaşların daveti tarayıcılarında görür ve doğrudan Nuit Claire'de açabilir." }
+    ],
+    "privacy_summary": "Nuit Claire hiçbir kişisel veri toplamaz; reklam ya da izleyici içermez."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Özetle", "blocks": [
+        { "p": "Nuit Claire hiçbir kişisel veri toplamaz ve bir sunucusu yoktur. Hesaplamalar (uydu geçişleri, gök cisimlerinin konumları, tam karanlık) aygıtında yapılır. Yalnızca kesinlikle gerekli bilgiler, aşağıda açıklanan birkaç herkese açık servise gönderilir." } ] },
+      { "h": "Konumun", "blocks": [
+        { "p": "Konumun; uydu geçişlerini, gece saatlerini ve gökyüzünün hava durumunu hesaplamak için kullanılır. Yalnızca uygulama açıkken kullanılır ve aygıtında kayıtlı kalır." },
+        { "p": "Hava durumu için <strong>yaklaşık 1 km'ye yuvarlanmış</strong> bir konum Open-Meteo ve 7Timer!'a gönderilir. Konum erişimini reddedip elle bir şehir de seçebilirsin: bu durumda yazdığın ad, Open-Meteo'nun şehir arama servisine gönderilir." } ] },
+      { "h": "Kullanılan servisler", "blocks": [
+        { "p": "Uygulama, aşağıdaki servislerden herkese açık verileri indirir. Onlara hiçbir tanımlayıcı veya kişisel bilgi iletilmez; her internet bağlantısında olduğu gibi, isteğin IP adresini görürler." },
+        { "ul": [
+          "<a href=\"https://open-meteo.com\">Open-Meteo</a>: bulut tahminleri ve şehir arama (yuvarlanmış konum veya şehir adı).",
+          "<a href=\"https://www.7timer.info\">7Timer!</a>: astronomi tahminleri (yuvarlanmış konum).",
+          "<a href=\"https://celestrak.org\">CelesTrak</a>: uydu yörüngeleri.",
+          "<a href=\"https://www.swpc.noaa.gov\">NOAA SWPC</a>: güneş etkinliği ve kutup ışıkları tahminleri.",
+          "<a href=\"https://minorplanetcenter.net\">Minor Planet Center</a>: kuyruklu yıldız yörüngeleri." ] } ] },
+      { "h": "İstenen izinler", "blocks": [
+        { "p": "Her izin yalnızca ilgili özelliği kullandığın anda istenir ve aygıtının Ayarlar bölümünden geri alabilirsin." },
+        { "ul": [
+          "<strong>Konum</strong>: yukarıya bak. Apple Watch'ta pusulayı uydulara doğru da yönlendirir.",
+          "<strong>Kamera</strong>: “Nereye bakmalı” görünümündeki işaretlerin arkasında gökyüzünü gösterir. Hiçbir görüntü kaydedilmez.",
+          "<strong>Hareket</strong>: “Nereye bakmalı” görünümünü, hedeflediğin gökyüzü bölgesine doğru yönlendirir.",
+          "<strong>Takvim (yalnızca ekleme)</strong>: seçtiğin gök olaylarını ekler. Uygulama takvimini okumaz.",
+          "<strong>Yerel Ağ</strong>: teleskopunu yönlendirmek için Wi-Fi adaptörüne bağlanır. Hiçbir şey ağından dışarı çıkmaz.",
+          "<strong>Bildirimler</strong>: aygıtında oluşturulan geçiş, kutup ışıkları ve açık gece uyarıları." ] } ] },
+      { "h": "Günlüğün ve iCloud", "blocks": [
+        { "p": "Gözlem günlüğün (ona eklediğin fotoğraflar dahil), favori yerlerin, ayarların ve gecelerin aygıtında saklanır. iCloud eşzamanlamasını açarsan, diğer aygıtlarında da bulabilmen için Apple tarafından yönetilen kendi iCloud hesabına da kaydedilir. Geliştiricinin bunlara erişimi yoktur." } ] },
+      { "h": "Paylaşılan geceler", "blocks": [
+        { "p": "Bir gözlem gecesini paylaştığında bağlantı, davet bilgilerini içerir: başlık, yerin adı ve koordinatları, tarih, adın ya da takma adın ve notun. Bağlantıyı alan herkes bunları okuyabilir. Bu sitenin davet sayfası, bunları bir sunucuya kaydetmeden doğrudan tarayıcıda gösterir. Bu site, teknik bağlantı günlükleri tutabilen GitHub Pages tarafından barındırılır." } ] },
+      { "h": "Reklam ve izleme", "blocks": [
+        { "p": "Nuit Claire hiçbir reklam, izleyici, analiz veya kullanım istatistiği aracı içermez." } ] },
+      { "h": "Çocuklar", "blocks": [
+        { "p": "Uygulama hiçbir veri toplamaz ve her yaşa uygundur." } ] },
+      { "h": "Değişiklikler", "blocks": [
+        { "p": "Bu politika değişirse yeni sürüm, güncelleme tarihiyle birlikte bu sayfada yayımlanır." } ] },
+      { "h": "İletişim", "blocks": [
+        { "p": "Bu politikayla ilgili her türlü soru için: {email}" } ] }
+    ]
+  }
+}

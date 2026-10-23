@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "iOS 上的萬用單位換算 App",
+    "contact": "如有任何問題或錯誤回報，請透過電子郵件與我們聯絡：<br>{email}",
+    "faq": [
+      { "q": "匯率是即時更新的嗎？",
+        "a": "在有網路連線的情況下，每次開啟 App 時都會更新匯率。取得最新匯率需要網路連線。" },
+      { "q": "App 可以離線使用嗎？",
+        "a": "可以，除貨幣以外的所有換算都可離線使用。貨幣換算會使用最後一次快取的匯率。" },
+      { "q": "如何更改 App 的語言？",
+        "a": "可以直接在 App 的設定中更改語言。提供 16 種以上的語言。" }
+    ],
+    "privacy_summary": "Convert Everything 不會收集任何個人資料。不會將任何資訊傳送到第三方伺服器。"
+  },
+  "privacy": {
+    "sections": [
+      { "h": "資料收集", "blocks": [
+        { "p": "Convert Everything 不會收集、儲存或傳送任何個人資料。App 完全在您的裝置上本機執行。" } ] },
+      { "h": "使用的資料", "blocks": [
+        { "p": "App 僅存取以下資源：" },
+        { "ul": [
+          "<strong>網際網路</strong> — 僅用於從公開 API 取得匯率。不會傳送任何個人資料。" ] } ] },
+      { "h": "第三方服務", "blocks": [
+        { "p": "匯率由 <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>（免費的公開 API）提供。此請求過程中不會傳送任何使用者資料。" } ] },
+      { "h": "廣告與追蹤", "blocks": [
+        { "p": "Convert Everything 不含任何廣告、追蹤器或行為分析 SDK。" } ] },
+      { "h": "兒童", "blocks": [
+        { "p": "本 App 不會收集任何資料，適合所有年齡層使用。" } ] },
+      { "h": "聯絡方式", "blocks": [
+        { "p": "如對本政策有任何疑問，請聯絡：{email}" } ] }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Conversor universal de unidades para iOS",
+    "contact": "Para dúvidas ou relatos de bugs, fale conosco por e-mail:<br>{email}",
+    "faq": [
+      { "q": "As taxas de câmbio são atualizadas em tempo real?",
+        "a": "As taxas de câmbio são atualizadas sempre que o app é aberto, se houver conexão com a internet. É necessária uma conexão com a internet para obter as taxas mais recentes." },
+      { "q": "O app funciona sem internet?",
+        "a": "Sim, todas as conversões, exceto as de moedas, funcionam off-line. As conversões de moedas usam a última taxa salva em cache." },
+      { "q": "Como mudo o idioma do app?",
+        "a": "O idioma pode ser alterado diretamente nos ajustes do app. Há mais de 16 idiomas disponíveis." }
+    ],
+    "privacy_summary": "O Convert Everything não coleta nenhum dado pessoal. Nenhuma informação é enviada a servidores de terceiros."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Coleta de dados", "blocks": [
+        { "p": "O Convert Everything não coleta, não armazena nem transmite nenhum dado pessoal. O app funciona inteiramente de forma local no seu aparelho." } ] },
+      { "h": "Dados utilizados", "blocks": [
+        { "p": "O app acessa apenas os seguintes recursos:" },
+        { "ul": [
+          "<strong>Internet</strong> — apenas para obter as taxas de câmbio de uma API pública. Nenhum dado pessoal é enviado." ] } ] },
+      { "h": "Serviços de terceiros", "blocks": [
+        { "p": "As taxas de câmbio são fornecidas por <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, uma API pública e gratuita. Nenhum dado do usuário é transmitido nessa requisição." } ] },
+      { "h": "Publicidade e rastreamento", "blocks": [
+        { "p": "O Convert Everything não contém publicidade, rastreadores nem SDKs de análise comportamental." } ] },
+      { "h": "Crianças", "blocks": [
+        { "p": "Este app não coleta nenhum dado e é adequado para todas as idades." } ] },
+      { "h": "Contato", "blocks": [
+        { "p": "Para qualquer dúvida sobre esta política: {email}" } ] }
+    ]
+  }
+}

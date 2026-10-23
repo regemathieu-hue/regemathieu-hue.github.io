@@ -1,0 +1,16 @@
+{
+  "lang": "ko",
+  "dir": "ltr",
+  "name": "한국어",
+  "support_title": "지원",
+  "privacy_title": "개인정보 처리방침",
+  "contact_h": "문의",
+  "faq_h": "자주 묻는 질문",
+  "privacy_h": "개인정보 처리방침",
+  "read_full_privacy": "개인정보 처리방침 전문 읽기 →",
+  "back_to_support": "← 지원 페이지로 돌아가기",
+  "updated": "최종 업데이트: {date}",
+  "all_apps": "내 모든 앱",
+  "other_languages": "다른 언어",
+  "language_list_h": "다른 언어로 보기"
+}

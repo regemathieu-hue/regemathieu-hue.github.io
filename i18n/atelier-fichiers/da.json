@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "Værktøjskassen til dine filer på iPhone, iPad og Mac",
+    "contact": "Har du spørgsmål, forslag eller vil du rapportere en fejl, så skriv til mig:<br>{email}",
+    "faq": [
+      { "q": "Bliver mine filer sendt til en server?",
+        "a": "Nej. Alle konverteringer, komprimeringer og redigeringer sker direkte på din enhed. Appen sender ingen filer over internettet." },
+      { "q": "Kræver appen en internetforbindelse?",
+        "a": "Nej, værktøjerne fungerer offline. Kun oversættelsen kan bede dig om at hente et sprog første gang via Apples indstillinger, og købet af Atelier Pro går gennem App Store." },
+      { "q": "Hvad indeholder gratisversionen?",
+        "a": "Alle værktøjer, uden vandmærke, med en grænse på 3 handlinger om dagen. Atelier Pro fjerner denne grænse." },
+      { "q": "Jeg har skiftet enhed – hvordan får jeg Atelier Pro tilbage?",
+        "a": "Åbn skærmen Atelier Pro, og tryk på »Gendan køb«. Brug den samme Apple-konto som ved købet." },
+      { "q": "Hvordan rydder jeg historikken?",
+        "a": "Stryg over en linje i historikken for at slette den, eller brug »Ryd hele historikken«." }
+    ],
+    "privacy_summary": "Atelier Fichiers indsamler ingen personlige oplysninger. Dine filer bliver på din enhed."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Kort fortalt", "blocks": [
+        { "p": "Atelier Fichiers indsamler ingen personlige oplysninger, gemmer dem ikke på en server og sender dem ikke videre. Al behandling af filer foregår på din enhed. Udvikleren har hverken adgang til dine filer eller til nogen oplysninger om dig." } ] },
+      { "h": "Dine filer", "blocks": [
+        { "p": "De filer, du åbner i appen (dokumenter, PDF’er, billeder, lyd, videoer, arkiver …), behandles lokalt og gemmes det sted, du vælger. Appen sender dem aldrig over internettet." },
+        { "p": "Historikken over handlinger gemmes udelukkende på din enhed. Du kan til enhver tid slette den fra appen." } ] },
+      { "h": "Tilladelser, der bedes om", "blocks": [
+        { "p": "Hver tilladelse bliver først bedt om, når du bruger den pågældende funktion, og du kan fjerne den igen i Indstillinger på din enhed." },
+        { "ul": [
+          "<strong>Kamera</strong>: til at scanne dokumenter og læse koder. Billederne bliver på enheden.",
+          "<strong>Fotos (kun tilføj)</strong>: til at gemme konverterede billeder i dit fotobibliotek. Appen læser ikke dit fotobibliotek; du vælger selv, hvilke fotos du importerer.",
+          "<strong>Talegenkendelse</strong>: til at omsætte dine optagelser til tekst og lave undertekster. Transskriptionen sker på enheden, uden at noget sendes.",
+          "<strong>Notifikationer</strong>: til at give dig besked, når en længere handling er færdig. Disse notifikationer oprettes lokalt." ] } ] },
+      { "h": "Intelligente funktioner og oversættelse", "blocks": [
+        { "p": "Resuméer, udtræk af opskrifter og læsning af visitkort bruger den Apple Intelligence-model, der er indbygget i enheden. Oversættelsen bruger Apples oversættelsestjeneste på enheden: kun download af sprog går gennem Apple. I begge tilfælde sendes dine tekster ikke til udvikleren." } ] },
+      { "h": "Køb i appen", "blocks": [
+        { "p": "Købet af Atelier Pro håndteres fuldt ud af Apple via App Store. Appen tjekker kun, om købet er gennemført; den modtager ingen betalingsoplysninger. Tælleren for gratis handlinger gemmes på din enhed." } ] },
+      { "h": "Reklamer og sporing", "blocks": [
+        { "p": "Atelier Fichiers indeholder ingen reklamer, ingen trackere og ingen værktøjer til analyse eller brugsstatistik." } ] },
+      { "h": "Børn", "blocks": [
+        { "p": "Appen indsamler ingen oplysninger og egner sig til alle aldre." } ] },
+      { "h": "Ændringer", "blocks": [
+        { "p": "Hvis denne politik ændres, bliver den nye version offentliggjort på denne side sammen med datoen for opdateringen." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "Spørgsmål til denne politik: {email}" } ] }
+    ]
+  }
+}

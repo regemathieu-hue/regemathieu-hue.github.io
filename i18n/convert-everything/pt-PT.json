@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Conversor universal de unidades para iOS",
+    "contact": "Para qualquer questão ou comunicação de erro, contacte-nos por e-mail:<br>{email}",
+    "faq": [
+      { "q": "As taxas de câmbio são atualizadas em tempo real?",
+        "a": "As taxas de câmbio são atualizadas sempre que a aplicação é aberta, desde que exista ligação à Internet. É necessária uma ligação à Internet para obter as taxas mais recentes." },
+      { "q": "A aplicação funciona sem Internet?",
+        "a": "Sim, todas as conversões, exceto as de moedas, funcionam sem ligação. As conversões de moedas utilizam a última taxa guardada em cache." },
+      { "q": "Como se altera a língua da aplicação?",
+        "a": "A língua pode ser alterada diretamente nas definições da aplicação. Estão disponíveis mais de 16 línguas." }
+    ],
+    "privacy_summary": "O Convert Everything não recolhe quaisquer dados pessoais. Nenhuma informação é transmitida a servidores de terceiros."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Recolha de dados", "blocks": [
+        { "p": "O Convert Everything não recolhe, não armazena nem transmite quaisquer dados pessoais. A aplicação funciona integralmente de forma local no dispositivo." } ] },
+      { "h": "Dados utilizados", "blocks": [
+        { "p": "A aplicação acede apenas aos seguintes recursos:" },
+        { "ul": [
+          "<strong>Internet</strong> — apenas para obter as taxas de câmbio a partir de uma API pública. Não são enviados quaisquer dados pessoais." ] } ] },
+      { "h": "Serviços de terceiros", "blocks": [
+        { "p": "As taxas de câmbio são fornecidas por <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, uma API pública e gratuita. Não são transmitidos quaisquer dados do utilizador durante este pedido." } ] },
+      { "h": "Publicidade e rastreio", "blocks": [
+        { "p": "O Convert Everything não contém publicidade, rastreadores nem SDK de análise comportamental." } ] },
+      { "h": "Crianças", "blocks": [
+        { "p": "Esta aplicação não recolhe quaisquer dados e é adequada a todas as idades." } ] },
+      { "h": "Contacto", "blocks": [
+        { "p": "Para qualquer questão sobre esta política: {email}" } ] }
+    ]
+  }
+}

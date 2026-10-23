@@ -1,0 +1,14 @@
+{
+  "base_url": "https://regemathieu-hue.github.io",
+  "default_locale": "fr-FR",
+  "fallback_locale": "en-US",
+  "email": "rege.mathieu@icloud.com",
+  "author": "Mathieu REGE",
+  "year": "2026",
+  "apps": [
+    { "id": "atelier-fichiers", "name": "Atelier Fichiers", "updated": "2026-10-22" },
+    { "id": "convert-everything", "name": "Convert Everything", "updated": "2026-05-02" },
+    { "id": "flashbooth", "name": "Flashbooth", "updated": "2026-10-22" },
+    { "id": "nuitclaire", "name": "Nuit Claire", "updated": "2026-10-22" }
+  ]
+}

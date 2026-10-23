@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "Photo booth untuk pesta Anda di iPad dan iPhone",
+    "contact": "Untuk pertanyaan atau laporan bug, silakan tulis kepada saya:<br>{email}",
+    "faq": [
+      { "q": "Kamera apa saja yang bisa saya gunakan?",
+        "a": "Kamera iPad atau iPhone, kamera Wi-Fi (Lumix, Canon), GoPro (Wi-Fi dan Bluetooth), atau capture card HDMI." },
+      { "q": "Kamera Wi-Fi saya tidak terdeteksi, apa yang harus dilakukan?",
+        "a": "Pastikan iPad terhubung ke Wi-Fi kamera dan Flashbooth memiliki izin “Jaringan Lokal” di Pengaturan › Flashbooth." },
+      { "q": "Bagaimana tamu mendapatkan foto mereka?",
+        "a": "Melalui AirDrop, Pesan, Mail, atau dengan menyimpan ke Foto. Jika Anda mengaktifkan galeri online, kode QR akan memberikan akses ke halaman acara." },
+      { "q": "Bagaimana cara kerja galeri online?",
+        "a": "Ini adalah opsi yang nonaktif secara default. Opsi ini mengirim foto acara ke server yang alamat dan kunci aksesnya Anda masukkan sendiri. Anda dapat menghapus foto yang tersimpan di server tersebut kapan saja dari dalam aplikasi." },
+      { "q": "Bagaimana cara mencegah tamu keluar dari aplikasi?",
+        "a": "Gunakan mode kios Flashbooth, dan aktifkan Akses Terpandu di iOS (Pengaturan › Aksesibilitas › Akses Terpandu) untuk mengunci iPad pada aplikasi." }
+    ],
+    "privacy_summary": "Flashbooth tidak mengumpulkan data pribadi apa pun. Foto tetap berada di perangkat Anda, kecuali Anda memilih untuk membagikannya."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Ringkasnya", "blocks": [
+        { "p": "Flashbooth tidak mengumpulkan data pribadi apa pun dan pengembang tidak memiliki akses ke foto mana pun. Foto yang diambil selama acara Anda disimpan di perangkat Anda. Foto hanya keluar dari perangkat saat Anda membagikannya, atau jika Anda sendiri mengaktifkan galeri online atau penyalinan ke folder." } ] },
+      { "h": "Foto", "blocks": [
+        { "p": "Foto, strip foto, dan GIF disimpan di album acara, di perangkat Anda. Anda dapat menghapusnya kapan saja dari dalam aplikasi; menghapus aplikasi juga akan menghapusnya." } ] },
+      { "h": "Berbagi", "blocks": [
+        { "p": "Berbagi dilakukan melalui alat bawaan iOS (AirDrop, Pesan, Mail, Foto, cetak…). Alamat email atau nomor telepon yang dimasukkan di jendela tersebut dikelola oleh iOS: Flashbooth tidak membaca maupun menyimpannya." } ] },
+      { "h": "Opsi tambahan", "blocks": [
+        { "ul": [
+          "<strong>Galeri online</strong> (nonaktif secara default): mengirim foto acara ke server yang alamatnya Anda masukkan, agar dapat diakses melalui kode QR. Server ini Anda pilih dan kelola sendiri, bukan pengembang. Kunci aksesnya disimpan di keychain aman perangkat. Foto dapat dihapus dari server melalui aplikasi.",
+          "<strong>Salin ke folder</strong> (nonaktif secara default): menyalin album ke folder yang Anda pilih (iCloud Drive atau layanan lain di aplikasi File). File tersebut kemudian tunduk pada ketentuan layanan tersebut." ] } ] },
+      { "h": "Izin yang diminta", "blocks": [
+        { "p": "Setiap izin hanya diminta saat Anda menggunakan fitur terkait, dan Anda dapat mencabutnya di Pengaturan perangkat Anda." },
+        { "ul": [
+          "<strong>Kamera</strong>: untuk mengambil foto selama sesi.",
+          "<strong>Bluetooth</strong>: untuk mengendalikan GoPro.",
+          "<strong>Jaringan Lokal</strong>: untuk terhubung ke kamera Wi-Fi (Lumix, Canon, GoPro) dan ke galeri Anda di jaringan lokal.",
+          "<strong>Foto (hanya tambah)</strong>: untuk menyimpan strip foto dan GIF ke aplikasi Foto. Aplikasi tidak membaca pustaka foto Anda." ] } ] },
+      { "h": "Penyelenggara dan tamu", "blocks": [
+        { "p": "Jika Anda menggunakan Flashbooth di sebuah acara, Anda bertanggung jawab atas foto yang diambil dan penyebarannya. Jangan lupa memberi tahu tamu Anda, terutama jika galeri online diaktifkan." } ] },
+      { "h": "Iklan dan pelacakan", "blocks": [
+        { "p": "Flashbooth tidak memuat iklan, pelacak, maupun alat analitik atau statistik penggunaan apa pun." } ] },
+      { "h": "Perubahan", "blocks": [
+        { "p": "Jika kebijakan ini berubah, versi barunya akan dipublikasikan di halaman ini beserta tanggal pembaruannya." } ] },
+      { "h": "Kontak", "blocks": [
+        { "p": "Untuk pertanyaan apa pun mengenai kebijakan ini: {email}" } ] }
+    ]
+  }
+}

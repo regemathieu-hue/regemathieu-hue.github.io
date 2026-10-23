@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Universelle Umrechnungs-App für iOS",
+    "contact": "Bei Fragen oder Fehlermeldungen kontaktieren Sie uns per E-Mail:<br>{email}",
+    "faq": [
+      { "q": "Werden die Wechselkurse in Echtzeit aktualisiert?",
+        "a": "Die Wechselkurse werden bei jedem Öffnen der App aktualisiert, sofern eine Internetverbindung besteht. Für die aktuellsten Kurse ist eine Internetverbindung erforderlich." },
+      { "q": "Funktioniert die App ohne Internet?",
+        "a": "Ja, alle Umrechnungen außer Währungen funktionieren offline. Währungsumrechnungen verwenden den zuletzt zwischengespeicherten Kurs." },
+      { "q": "Wie ändere ich die Sprache der App?",
+        "a": "Die Sprache kann direkt in den Einstellungen der App geändert werden. Es stehen mehr als 16 Sprachen zur Verfügung." }
+    ],
+    "privacy_summary": "Convert Everything erhebt keine personenbezogenen Daten. Es werden keine Informationen an Server Dritter übertragen."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Datenerhebung", "blocks": [
+        { "p": "Convert Everything erhebt, speichert und überträgt keine personenbezogenen Daten. Die App arbeitet vollständig lokal auf Ihrem Gerät." } ] },
+      { "h": "Verwendete Daten", "blocks": [
+        { "p": "Die App greift ausschließlich auf die folgenden Ressourcen zu:" },
+        { "ul": [
+          "<strong>Internet</strong> – nur zum Abrufen der Wechselkurse von einer öffentlichen API. Es werden keine personenbezogenen Daten gesendet." ] } ] },
+      { "h": "Dienste Dritter", "blocks": [
+        { "p": "Die Wechselkurse werden von <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a> bereitgestellt, einer kostenlosen öffentlichen API. Bei dieser Anfrage werden keine Nutzerdaten übertragen." } ] },
+      { "h": "Werbung und Tracking", "blocks": [
+        { "p": "Convert Everything enthält keine Werbung, keine Tracker und kein SDK zur Verhaltensanalyse." } ] },
+      { "h": "Kinder", "blocks": [
+        { "p": "Diese App erhebt keine Daten und ist für alle Altersgruppen geeignet." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "Bei Fragen zu dieser Erklärung: {email}" } ] }
+    ]
+  }
+}

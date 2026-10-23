@@ -1,0 +1,57 @@
+{
+  "support": {
+    "subtitle": "Mis niets meer van de nachtelijke hemel",
+    "contact": "Een vraag, een idee of een bug? Schrijf me:<br>{email}",
+    "faq": [
+      { "q": "Waarom vraagt de app om mijn locatie?",
+        "a": "De overkomsttijden van satellieten, de echte duisternis en het weer hangen af van waar je waarneemt. Je locatie blijft op je telefoon; alleen een positie afgerond op ongeveer 1 km wordt naar de weerdiensten gestuurd. Je kunt in de instellingen ook handmatig een stad kiezen, zonder locatie in te schakelen." },
+      { "q": "Ik krijg geen meldingen, hoe komt dat?",
+        "a": "Controleer of meldingen van Nuit Claire zijn toegestaan in de Instellingen van iOS. Meldingen worden alleen verstuurd als de hemel bij jou helder belooft te worden: een bewolkte nacht geeft geen melding, zelfs niet bij een mooie overkomst van het ISS." },
+      { "q": "Welke telescopen zijn compatibel?",
+        "a": "Montures die bestuurd kunnen worden via een wifi-adapter van SkyFi, Celestron of OnStep. Je iPhone en de adapter moeten op hetzelfde wifi-netwerk zitten." },
+      { "q": "Hoe vind ik mijn logboek terug op een ander apparaat?",
+        "a": "Schakel ‘Synchroniseren met iCloud’ in bij de instellingen van de app. Je logboek, je plekken, je instellingen en je avonden volgen je iCloud-account." },
+      { "q": "Hoe nodig ik vrienden uit voor een waarneemavond?",
+        "a": "Maak een avond aan in de app en deel vervolgens de link. Je vrienden zien de uitnodiging in hun browser en kunnen die direct in Nuit Claire openen." }
+    ],
+    "privacy_summary": "Nuit Claire verzamelt geen persoonsgegevens en bevat geen advertenties of trackers."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "In het kort", "blocks": [
+        { "p": "Nuit Claire verzamelt geen persoonsgegevens en heeft geen server. De berekeningen (overkomsten van satellieten, posities van hemellichamen, echte duisternis) gebeuren op je apparaat. Alleen de strikt noodzakelijke informatie wordt naar een paar openbare diensten gestuurd, die hieronder worden beschreven." } ] },
+      { "h": "Je locatie", "blocks": [
+        { "p": "Je locatie wordt gebruikt om overkomsten van satellieten, de nachttijden en het weer boven jouw hemel te berekenen. Ze wordt alleen gebruikt als de app open is en blijft opgeslagen op je apparaat." },
+        { "p": "Voor het weer wordt een positie <strong>afgerond op ongeveer 1 km</strong> naar Open-Meteo en 7Timer! gestuurd. Je kunt locatie ook weigeren en handmatig een stad kiezen: de naam die je typt, wordt dan naar de stedenzoekdienst van Open-Meteo gestuurd." } ] },
+      { "h": "Gebruikte diensten", "blocks": [
+        { "p": "De app downloadt openbare gegevens van de volgende diensten. Er worden geen identificatiegegevens of persoonlijke informatie naar hen gestuurd; zoals bij elke internetverbinding zien ze het IP-adres van het verzoek." },
+        { "ul": [
+          "<a href=\"https://open-meteo.com\">Open-Meteo</a>: bewolkingsverwachtingen en het zoeken van steden (afgeronde positie of plaatsnaam).",
+          "<a href=\"https://www.7timer.info\">7Timer!</a>: astronomische verwachtingen (afgeronde positie).",
+          "<a href=\"https://celestrak.org\">CelesTrak</a>: banen van satellieten.",
+          "<a href=\"https://www.swpc.noaa.gov\">NOAA SWPC</a>: zonneactiviteit en poollichtverwachtingen.",
+          "<a href=\"https://minorplanetcenter.net\">Minor Planet Center</a>: banen van kometen." ] } ] },
+      { "h": "Gevraagde toestemmingen", "blocks": [
+        { "p": "Elke toestemming wordt pas gevraagd op het moment dat je de betreffende functie gebruikt, en je kunt die intrekken in de Instellingen van je apparaat." },
+        { "ul": [
+          "<strong>Locatie</strong>: zie hierboven. Op Apple Watch richt ze ook het kompas op de satellieten.",
+          "<strong>Camera</strong>: toont de hemel achter de markeringen van de weergave ‘Waar kijken’. Er worden geen beelden opgeslagen.",
+          "<strong>Beweging</strong>: richt de weergave ‘Waar kijken’ op het deel van de hemel waar je naar kijkt.",
+          "<strong>Agenda (alleen toevoegen)</strong>: voegt de hemelgebeurtenissen toe die je kiest. De app leest je agenda niet.",
+          "<strong>Lokaal netwerk</strong>: maakt verbinding met de wifi-adapter van je telescoop om die te richten. Niets verlaat je netwerk.",
+          "<strong>Meldingen</strong>: waarschuwingen voor overkomsten, poollicht en heldere nachten, aangemaakt op je apparaat." ] } ] },
+      { "h": "Je logboek en iCloud", "blocks": [
+        { "p": "Je waarneemlogboek (inclusief de foto’s die je eraan toevoegt), je favoriete plekken, je instellingen en je avonden worden opgeslagen op je apparaat. Als je iCloud-synchronisatie inschakelt, worden ze ook bewaard in je eigen iCloud-account, beheerd door Apple, zodat je ze op je andere apparaten terugvindt. De ontwikkelaar heeft er geen toegang toe." } ] },
+      { "h": "Gedeelde avonden", "blocks": [
+        { "p": "Wanneer je een waarneemavond deelt, bevat de link de gegevens van de uitnodiging: titel, naam en coördinaten van de plek, datum, je voornaam of bijnaam en je notitie. Iedereen die de link ontvangt, kan ze lezen. De uitnodigingspagina van deze site toont ze rechtstreeks in de browser, zonder ze op een server op te slaan. Deze site wordt gehost door GitHub Pages, dat technische verbindingslogboeken kan bewaren." } ] },
+      { "h": "Advertenties en tracking", "blocks": [
+        { "p": "Nuit Claire bevat geen advertenties, geen trackers en geen analyse- of gebruiksstatistiektools." } ] },
+      { "h": "Kinderen", "blocks": [
+        { "p": "De app verzamelt geen gegevens en is geschikt voor alle leeftijden." } ] },
+      { "h": "Wijzigingen", "blocks": [
+        { "p": "Als dit beleid wijzigt, wordt de nieuwe versie met de bijbehorende datum op deze pagina gepubliceerd." } ] },
+      { "h": "Contact", "blocks": [
+        { "p": "Voor vragen over dit beleid: {email}" } ] }
+    ]
+  }
+}

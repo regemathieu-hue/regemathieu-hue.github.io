@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Universell omregningsapp for iOS",
+    "contact": "Har du spørsmål eller vil rapportere en feil? Kontakt oss på e-post:<br>{email}",
+    "faq": [
+      { "q": "Oppdateres valutakursene i sanntid?",
+        "a": "Valutakursene oppdateres hver gang appen åpnes, hvis det finnes en internettforbindelse. En internettforbindelse kreves for å få de nyeste kursene." },
+      { "q": "Fungerer appen uten internett?",
+        "a": "Ja, alle omregninger unntatt valuta fungerer uten nett. Valutaomregninger bruker den sist lagrede kursen." },
+      { "q": "Hvordan bytter jeg språk i appen?",
+        "a": "Språket kan endres direkte i innstillingene i appen. Mer enn 16 språk er tilgjengelige." }
+    ],
+    "privacy_summary": "Convert Everything samler ikke inn noen personopplysninger. Ingen informasjon sendes til tredjeparts servere."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Datainnsamling", "blocks": [
+        { "p": "Convert Everything samler ikke inn, lagrer ikke og overfører ingen personopplysninger. Appen fungerer helt lokalt på enheten din." } ] },
+      { "h": "Data som brukes", "blocks": [
+        { "p": "Appen bruker kun følgende ressurser:" },
+        { "ul": [
+          "<strong>Internett</strong> – kun for å hente valutakurser fra et offentlig API. Ingen personopplysninger sendes." ] } ] },
+      { "h": "Tredjepartstjenester", "blocks": [
+        { "p": "Valutakursene leveres av <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, et gratis offentlig API. Ingen brukerdata sendes ved denne forespørselen." } ] },
+      { "h": "Reklame og sporing", "blocks": [
+        { "p": "Convert Everything inneholder ingen reklame, ingen sporere og ingen SDK for atferdsanalyse." } ] },
+      { "h": "Barn", "blocks": [
+        { "p": "Denne appen samler ikke inn noen opplysninger og passer for alle aldre." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "Spørsmål om denne erklæringen: {email}" } ] }
+    ]
+  }
+}

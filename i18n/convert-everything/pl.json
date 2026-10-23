@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Uniwersalna aplikacja do przeliczania jednostek na iOS",
+    "contact": "W razie pytań lub zgłoszeń błędów prosimy o kontakt e-mailem:<br>{email}",
+    "faq": [
+      { "q": "Czy kursy walut są aktualizowane w czasie rzeczywistym?",
+        "a": "Kursy walut są odświeżane przy każdym uruchomieniu aplikacji, jeśli dostępne jest połączenie z internetem. Do pobrania najnowszych kursów wymagane jest połączenie z internetem." },
+      { "q": "Czy aplikacja działa bez internetu?",
+        "a": "Tak, wszystkie przeliczenia poza walutami działają offline. Przeliczanie walut korzysta z ostatniego kursu zapisanego w pamięci podręcznej." },
+      { "q": "Jak zmienić język aplikacji?",
+        "a": "Język można zmienić bezpośrednio w ustawieniach aplikacji. Dostępnych jest ponad 16 języków." }
+    ],
+    "privacy_summary": "Convert Everything nie gromadzi żadnych danych osobowych. Żadne informacje nie są przesyłane na serwery zewnętrzne."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Gromadzenie danych", "blocks": [
+        { "p": "Convert Everything nie gromadzi, nie przechowuje ani nie przesyła żadnych danych osobowych. Aplikacja działa w całości lokalnie na Państwa urządzeniu." } ] },
+      { "h": "Wykorzystywane dane", "blocks": [
+        { "p": "Aplikacja korzysta wyłącznie z następujących zasobów:" },
+        { "ul": [
+          "<strong>Internet</strong> — wyłącznie do pobierania kursów walut z publicznego API. Żadne dane osobowe nie są wysyłane." ] } ] },
+      { "h": "Usługi zewnętrzne", "blocks": [
+        { "p": "Kursy walut dostarcza <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, bezpłatne publiczne API. Podczas tego zapytania nie są przesyłane żadne dane użytkownika." } ] },
+      { "h": "Reklamy i śledzenie", "blocks": [
+        { "p": "Convert Everything nie zawiera żadnych reklam, trackerów ani pakietów SDK do analizy behawioralnej." } ] },
+      { "h": "Dzieci", "blocks": [
+        { "p": "Ta aplikacja nie gromadzi żadnych danych i jest odpowiednia dla osób w każdym wieku." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "W razie pytań dotyczących niniejszej polityki: {email}" } ] }
+    ]
+  }
+}

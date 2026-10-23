@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "iOS 上的万能单位换算 App",
+    "contact": "如有任何问题或错误反馈，请通过电子邮件联系我们：<br>{email}",
+    "faq": [
+      { "q": "汇率是实时更新的吗？",
+        "a": "在有网络连接的情况下，每次打开 App 时都会刷新汇率。获取最新汇率需要联网。" },
+      { "q": "App 可以离线使用吗？",
+        "a": "可以，除货币以外的所有换算都可离线使用。货币换算会使用最后一次缓存的汇率。" },
+      { "q": "如何更改 App 的语言？",
+        "a": "可以直接在 App 的设置中更改语言。提供 16 种以上的语言。" }
+    ],
+    "privacy_summary": "Convert Everything 不收集任何个人数据。不会向第三方服务器传输任何信息。"
+  },
+  "privacy": {
+    "sections": [
+      { "h": "数据收集", "blocks": [
+        { "p": "Convert Everything 不收集、不存储、也不传输任何个人数据。App 完全在您的设备上本地运行。" } ] },
+      { "h": "使用的数据", "blocks": [
+        { "p": "App 仅访问以下资源：" },
+        { "ul": [
+          "<strong>互联网</strong> — 仅用于从公共 API 获取汇率。不会发送任何个人数据。" ] } ] },
+      { "h": "第三方服务", "blocks": [
+        { "p": "汇率由 <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>（一个免费的公共 API）提供。此请求过程中不会传输任何用户数据。" } ] },
+      { "h": "广告与跟踪", "blocks": [
+        { "p": "Convert Everything 不包含任何广告、跟踪器或行为分析 SDK。" } ] },
+      { "h": "儿童", "blocks": [
+        { "p": "本 App 不收集任何数据，适合所有年龄段使用。" } ] },
+      { "h": "联系方式", "blocks": [
+        { "p": "如对本政策有任何疑问，请联系：{email}" } ] }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{lang}" dir="{dir}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{app} – {privacy_title}</title>
+  <link rel="stylesheet" href="{root}assets/style.css">
+{alternates}{redirect}</head>
+<body>
+
+  <p class="back"><a href="./">{back_to_support}</a></p>
+
+  <h1>{privacy_title}</h1>
+  <p class="subtitle">{app} · {updated}</p>
+  <p class="lang-switch"><a href="#languages">{other_languages} ↓</a></p>
+
+{sections}
+  <h2 id="languages">{language_list_h}</h2>
+  <ul class="languages">
+{languages}
+  </ul>
+
+  <footer>© {year} {author} · <a href="{home}">{all_apps}</a></footer>
+
+</body>
+</html>

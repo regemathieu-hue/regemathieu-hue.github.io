@@ -1,0 +1,16 @@
+{
+  "lang": "nl-NL",
+  "dir": "ltr",
+  "name": "Nederlands",
+  "support_title": "Ondersteuning",
+  "privacy_title": "Privacybeleid",
+  "contact_h": "Contact",
+  "faq_h": "Veelgestelde vragen",
+  "privacy_h": "Privacybeleid",
+  "read_full_privacy": "Lees het volledige privacybeleid →",
+  "back_to_support": "← Terug naar ondersteuning",
+  "updated": "Laatst bijgewerkt: {date}",
+  "all_apps": "Al mijn apps",
+  "other_languages": "Andere talen",
+  "language_list_h": "Deze pagina in andere talen"
+}

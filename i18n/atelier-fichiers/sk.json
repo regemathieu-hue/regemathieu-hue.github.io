@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "Súprava nástrojov pre vaše súbory na iPhone, iPade a Macu",
+    "contact": "S otázkami, návrhmi alebo hlásením chýb mi napíšte:<br>{email}",
+    "faq": [
+      { "q": "Odosielajú sa moje súbory na server?",
+        "a": "Nie. Všetky konverzie, kompresie a úpravy prebiehajú priamo vo vašom zariadení. Aplikácia neodosiela žiadne súbory na internet." },
+      { "q": "Je potrebné pripojenie na internet?",
+        "a": "Nie, nástroje fungujú offline. Iba preklad môže vyžadovať jednorazové stiahnutie jazyka z nastavení Apple a nákup Atelier Pro prebieha cez App Store." },
+      { "q": "Čo obsahuje bezplatná verzia?",
+        "a": "Všetky nástroje bez vodoznaku, s limitom 3 operácií denne. Atelier Pro tento limit ruší." },
+      { "q": "Vymenil som zariadenie, ako získam Atelier Pro späť?",
+        "a": "Otvorte obrazovku Atelier Pro a ťuknite na „Obnoviť nákupy“. Použite rovnaký účet Apple ako pri nákupe." },
+      { "q": "Ako vymažem históriu?",
+        "a": "V histórii potiahnite prstom po riadku a vymažte ho, alebo použite „Vymazať celú históriu“." }
+    ],
+    "privacy_summary": "Atelier Fichiers nezhromažďuje žiadne osobné údaje. Vaše súbory zostávajú vo vašom zariadení."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "V skratke", "blocks": [
+        { "p": "Atelier Fichiers nezhromažďuje, neukladá na server ani neprenáša žiadne osobné údaje. Všetko spracovanie súborov prebieha vo vašom zariadení. Vývojár nemá prístup k žiadnemu z vašich súborov ani k žiadnym informáciám o vás." } ] },
+      { "h": "Vaše súbory", "blocks": [
+        { "p": "Súbory, ktoré v aplikácii otvoríte (dokumenty, PDF, obrázky, zvuky, videá, archívy…), sa spracúvajú lokálne a ukladajú na miesto, ktoré si zvolíte. Aplikácia ich nikdy neodosiela na internet." },
+        { "p": "História operácií sa uchováva iba vo vašom zariadení. Môžete ju kedykoľvek vymazať priamo v aplikácii." } ] },
+      { "h": "Požadované povolenia", "blocks": [
+        { "p": "Každé povolenie sa vyžiada až vo chvíli, keď danú funkciu použijete, a môžete ho kedykoľvek odobrať v Nastaveniach svojho zariadenia." },
+        { "ul": [
+          "<strong>Fotoaparát</strong>: na skenovanie dokumentov a čítanie kódov. Snímky zostávajú v zariadení.",
+          "<strong>Fotky (iba pridávanie)</strong>: na ukladanie skonvertovaných obrázkov do vašej knižnice fotiek. Aplikácia vašu knižnicu nečíta; fotky na import si vyberáte sami.",
+          "<strong>Rozpoznávanie reči</strong>: na prepis vašich nahrávok do textu a tvorbu titulkov. Prepis prebieha v zariadení, nič sa neodosiela.",
+          "<strong>Hlásenia</strong>: aby vás upozornili na dokončenie dlhého spracovania. Tieto hlásenia sa vytvárajú lokálne." ] } ] },
+      { "h": "Inteligentné funkcie a preklad", "blocks": [
+        { "p": "Zhrnutia, extrakcia receptov alebo čítanie vizitiek využívajú model Apple Intelligence integrovaný v zariadení. Preklad využíva prekladovú službu Apple v zariadení: cez Apple prebieha iba sťahovanie jazykov. V oboch prípadoch sa vaše texty neprenášajú vývojárovi." } ] },
+      { "h": "Nákupy v aplikácii", "blocks": [
+        { "p": "Nákup Atelier Pro v plnej miere zabezpečuje Apple prostredníctvom App Store. Aplikácia iba overuje, či bol nákup uskutočnený; nedostáva žiadne platobné údaje. Počítadlo bezplatných operácií je uložené vo vašom zariadení." } ] },
+      { "h": "Reklama a sledovanie", "blocks": [
+        { "p": "Atelier Fichiers neobsahuje žiadnu reklamu, žiadne sledovacie prvky ani nástroje na analýzu či štatistiky používania." } ] },
+      { "h": "Deti", "blocks": [
+        { "p": "Aplikácia nezhromažďuje žiadne údaje a je vhodná pre všetky vekové kategórie." } ] },
+      { "h": "Zmeny", "blocks": [
+        { "p": "Ak sa tieto zásady zmenia, nová verzia bude zverejnená na tejto stránke s dátumom aktualizácie." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "S otázkami k týmto zásadám sa obráťte na: {email}" } ] }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "De gereedschapskist voor uw bestanden, op iPhone, iPad en Mac",
+    "contact": "Voor vragen, suggesties of het melden van een bug kunt u mij schrijven:<br>{email}",
+    "faq": [
+      { "q": "Worden mijn bestanden naar een server gestuurd?",
+        "a": "Nee. Alle conversies, compressies en bewerkingen gebeuren rechtstreeks op uw apparaat. De app stuurt geen enkel bestand via internet." },
+      { "q": "Is een internetverbinding nodig?",
+        "a": "Nee, de tools werken offline. Alleen de vertaalfunctie kan u de eerste keer vragen om een taal te downloaden via de instellingen van Apple, en de aankoop van Atelier Pro verloopt via de App Store." },
+      { "q": "Wat zit er in de gratis versie?",
+        "a": "Alle tools, zonder watermerk, met een limiet van 3 bewerkingen per dag. Atelier Pro heft deze limiet op." },
+      { "q": "Ik heb een nieuw apparaat, hoe krijg ik Atelier Pro terug?",
+        "a": "Open het scherm Atelier Pro en tik op ‘Herstel aankopen’. Gebruik dezelfde Apple Account als bij de aankoop." },
+      { "q": "Hoe wis ik de geschiedenis?",
+        "a": "Veeg in de geschiedenis over een regel om die te wissen, of gebruik ‘Volledige geschiedenis wissen’." }
+    ],
+    "privacy_summary": "Atelier Fichiers verzamelt geen persoonsgegevens. Uw bestanden blijven op uw apparaat."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "In het kort", "blocks": [
+        { "p": "Atelier Fichiers verzamelt geen persoonsgegevens, slaat ze niet op een server op en verzendt ze niet. Alle bestandsverwerking vindt plaats op uw apparaat. De ontwikkelaar heeft geen toegang tot uw bestanden, noch tot enige informatie over u." } ] },
+      { "h": "Uw bestanden", "blocks": [
+        { "p": "De bestanden die u in de app opent (documenten, pdf’s, afbeeldingen, audio, video’s, archieven …) worden lokaal verwerkt en opgeslagen op de plek die u kiest. Ze worden door de app nooit via internet verzonden." },
+        { "p": "De geschiedenis van bewerkingen wordt uitsluitend op uw apparaat bewaard. U kunt die op elk moment vanuit de app wissen." } ] },
+      { "h": "Gevraagde toestemmingen", "blocks": [
+        { "p": "Elke toestemming wordt pas gevraagd op het moment dat u de betreffende functie gebruikt, en u kunt die intrekken in de Instellingen van uw apparaat." },
+        { "ul": [
+          "<strong>Camera</strong>: om documenten te scannen en codes te lezen. De beelden blijven op het apparaat.",
+          "<strong>Foto’s (alleen toevoegen)</strong>: om geconverteerde afbeeldingen in uw fotobibliotheek te bewaren. De app leest uw fotobibliotheek niet; u kiest zelf welke foto’s u importeert.",
+          "<strong>Spraakherkenning</strong>: om uw opnamen om te zetten in tekst en ondertitels te maken. De transcriptie gebeurt op het apparaat, zonder iets te verzenden.",
+          "<strong>Meldingen</strong>: om u te waarschuwen wanneer een lange bewerking klaar is. Deze meldingen worden lokaal aangemaakt." ] } ] },
+      { "h": "Slimme functies en vertaling", "blocks": [
+        { "p": "Samenvattingen, het uitlezen van recepten of visitekaartjes gebruiken het Apple Intelligence-model dat in het apparaat is ingebouwd. De vertaalfunctie gebruikt de vertaaldienst van Apple op het apparaat: alleen het downloaden van talen verloopt via Apple. In beide gevallen worden uw teksten niet naar de ontwikkelaar verzonden." } ] },
+      { "h": "In-app-aankopen", "blocks": [
+        { "p": "De aankoop van Atelier Pro wordt volledig door Apple afgehandeld via de App Store. De app controleert alleen of de aankoop is gedaan; zij ontvangt geen enkel betalingsgegeven. De teller van gratis bewerkingen wordt op uw apparaat opgeslagen." } ] },
+      { "h": "Advertenties en tracking", "blocks": [
+        { "p": "Atelier Fichiers bevat geen advertenties, geen trackers en geen analyse- of gebruiksstatistiektools." } ] },
+      { "h": "Kinderen", "blocks": [
+        { "p": "De app verzamelt geen gegevens en is geschikt voor alle leeftijden." } ] },
+      { "h": "Wijzigingen", "blocks": [
+        { "p": "Als dit beleid wijzigt, wordt de nieuwe versie met de bijbehorende datum op deze pagina gepubliceerd." } ] },
+      { "h": "Contact", "blocks": [
+        { "p": "Voor vragen over dit beleid: {email}" } ] }
+    ]
+  }
+}

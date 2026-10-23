@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "Fotoautomaten för dina fester på iPad och iPhone",
+    "contact": "Har du frågor eller vill rapportera en bugg? Skriv till mig:<br>{email}",
+    "faq": [
+      { "q": "Vilka kameror kan jag använda?",
+        "a": "Kameran i iPad eller iPhone, en Wi-Fi-kamera (Lumix, Canon), en GoPro (Wi-Fi och Bluetooth) eller ett HDMI-capturekort." },
+      { "q": "Min Wi-Fi-kamera hittas inte – vad gör jag?",
+        "a": "Kontrollera att din iPad är ansluten till kamerans Wi-Fi och att Flashbooth har behörigheten ”Lokalt nätverk” under Inställningar › Flashbooth." },
+      { "q": "Hur får gästerna sina bilder?",
+        "a": "Via AirDrop, Meddelanden, Mail eller genom att spara i Bilder. Om du aktiverar onlinegalleriet ger en QR-kod tillgång till evenemangets sida." },
+      { "q": "Hur fungerar onlinegalleriet?",
+        "a": "Det är en funktion som är avstängd som standard. Den skickar evenemangets bilder till en server vars adress och åtkomstnyckel du själv anger. Du kan när som helst radera bilderna som lagras på servern från appen." },
+      { "q": "Hur hindrar jag gästerna från att lämna appen?",
+        "a": "Använd kioskläget i Flashbooth och aktivera Guidad åtkomst i iOS (Inställningar › Hjälpmedel › Guidad åtkomst) för att låsa din iPad till appen." }
+    ],
+    "privacy_summary": "Flashbooth samlar inte in några personuppgifter. Bilderna stannar på din enhet om du inte själv väljer att dela dem."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "I korthet", "blocks": [
+        { "p": "Flashbooth samlar inte in några personuppgifter, och utvecklaren har inte tillgång till några bilder. Bilderna som tas under dina evenemang sparas på din enhet. De lämnar den bara när du delar dem, eller om du själv aktiverar onlinegalleriet eller kopiering till en mapp." } ] },
+      { "h": "Bilderna", "blocks": [
+        { "p": "Bilder, fotoremsor och GIF-filer sparas i evenemangets album på din enhet. Du kan när som helst radera dem från appen; om du tar bort appen raderas de också." } ] },
+      { "h": "Delning", "blocks": [
+        { "p": "Delning sker via verktygen i iOS (AirDrop, Meddelanden, Mail, Bilder, utskrift …). E-postadresser eller telefonnummer som anges i dessa fönster hanteras av iOS: Flashbooth varken läser eller sparar dem." } ] },
+      { "h": "Valfria funktioner", "blocks": [
+        { "ul": [
+          "<strong>Onlinegalleri</strong> (avstängt som standard): skickar evenemangets bilder till den server vars adress du anger, så att de kan nås via en QR-kod. Servern väljs och hanteras av dig, inte av utvecklaren. Åtkomstnyckeln lagras i enhetens säkra nyckelring. Bilderna kan raderas från servern via appen.",
+          "<strong>Kopia till en mapp</strong> (avstängt som standard): kopierar albumet till den mapp du väljer (iCloud Drive eller en annan tjänst i appen Filer). Filerna omfattas då av den tjänstens villkor." ] } ] },
+      { "h": "Behörigheter som begärs", "blocks": [
+        { "p": "Varje behörighet begärs först när du använder den aktuella funktionen, och du kan återkalla den i Inställningar på din enhet." },
+        { "ul": [
+          "<strong>Kamera</strong>: för att ta bilderna under sessionen.",
+          "<strong>Bluetooth</strong>: för att styra en GoPro.",
+          "<strong>Lokalt nätverk</strong>: för att ansluta till Wi-Fi-kameror (Lumix, Canon, GoPro) och till ditt galleri i det lokala nätverket.",
+          "<strong>Bilder (endast lägg till)</strong>: för att spara fotoremsor och GIF-filer i appen Bilder. Appen läser inte ditt bildbibliotek." ] } ] },
+      { "h": "Arrangörer och gäster", "blocks": [
+        { "p": "Om du använder Flashbooth på ett evenemang är du ansvarig för bilderna som tas och för hur de sprids. Kom ihåg att informera dina gäster, särskilt om onlinegalleriet är aktiverat." } ] },
+      { "h": "Reklam och spårning", "blocks": [
+        { "p": "Flashbooth innehåller ingen reklam, inga spårare och inga verktyg för analys eller användningsstatistik." } ] },
+      { "h": "Ändringar", "blocks": [
+        { "p": "Om den här policyn ändras publiceras den nya versionen på den här sidan med datum för uppdateringen." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "Frågor om den här policyn: {email}" } ] }
+    ]
+  }
+}

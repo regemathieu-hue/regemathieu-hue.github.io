@@ -1,0 +1,16 @@
+{
+  "lang": "es-MX",
+  "dir": "ltr",
+  "name": "Español (México)",
+  "support_title": "Soporte",
+  "privacy_title": "Aviso de privacidad",
+  "contact_h": "Contacto",
+  "faq_h": "Preguntas frecuentes",
+  "privacy_h": "Aviso de privacidad",
+  "read_full_privacy": "Leer el aviso de privacidad completo →",
+  "back_to_support": "← Regresar al soporte",
+  "updated": "Última actualización: {date}",
+  "all_apps": "Todas mis apps",
+  "other_languages": "Otros idiomas",
+  "language_list_h": "Esta página en otros idiomas"
+}

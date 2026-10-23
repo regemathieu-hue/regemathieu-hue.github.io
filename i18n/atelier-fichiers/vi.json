@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "Bộ công cụ cho tệp của bạn, trên iPhone, iPad và Mac",
+    "contact": "Mọi câu hỏi, góp ý hoặc báo lỗi, hãy viết thư cho tôi:<br>{email}",
+    "faq": [
+      { "q": "Tệp của tôi có được gửi lên máy chủ không?",
+        "a": "Không. Mọi thao tác chuyển đổi, nén và chỉnh sửa đều diễn ra trực tiếp trên thiết bị của bạn. Ứng dụng không bao giờ gửi bất kỳ tệp nào qua internet." },
+      { "q": "Có cần kết nối internet không?",
+        "a": "Không, các công cụ hoạt động ngoại tuyến. Chỉ tính năng dịch có thể yêu cầu bạn tải một ngôn ngữ lần đầu từ cài đặt của Apple, và việc mua Atelier Pro được thực hiện qua App Store." },
+      { "q": "Phiên bản miễn phí bao gồm những gì?",
+        "a": "Tất cả công cụ, không có hình mờ, giới hạn 3 thao tác mỗi ngày. Atelier Pro gỡ bỏ giới hạn này." },
+      { "q": "Tôi đã đổi thiết bị, làm sao để lấy lại Atelier Pro?",
+        "a": "Mở màn hình Atelier Pro và chạm vào “Khôi phục mua hàng”. Hãy dùng cùng Tài khoản Apple mà bạn đã dùng khi mua." },
+      { "q": "Làm sao để xóa lịch sử?",
+        "a": "Trong lịch sử, vuốt một dòng để xóa, hoặc dùng “Xóa toàn bộ lịch sử”." }
+    ],
+    "privacy_summary": "Atelier Fichiers không thu thập bất kỳ dữ liệu cá nhân nào. Tệp của bạn luôn ở trên thiết bị của bạn."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Tóm tắt", "blocks": [
+        { "p": "Atelier Fichiers không thu thập, không lưu trữ trên máy chủ và không truyền đi bất kỳ dữ liệu cá nhân nào. Mọi quá trình xử lý tệp đều diễn ra trên thiết bị của bạn. Nhà phát triển không có quyền truy cập vào bất kỳ tệp nào của bạn hay bất kỳ thông tin nào về bạn." } ] },
+      { "h": "Tệp của bạn", "blocks": [
+        { "p": "Các tệp bạn mở trong ứng dụng (tài liệu, PDF, hình ảnh, âm thanh, video, tệp nén…) được xử lý cục bộ và lưu vào nơi bạn chọn. Ứng dụng không bao giờ gửi chúng qua internet." },
+        { "p": "Lịch sử thao tác chỉ được lưu trên thiết bị của bạn. Bạn có thể xóa bất cứ lúc nào từ trong ứng dụng." } ] },
+      { "h": "Quyền được yêu cầu", "blocks": [
+        { "p": "Mỗi quyền chỉ được yêu cầu khi bạn sử dụng tính năng liên quan, và bạn có thể thu hồi trong Cài đặt của thiết bị." },
+        { "ul": [
+          "<strong>Camera</strong>: để quét tài liệu và đọc mã. Hình ảnh được giữ trên thiết bị.",
+          "<strong>Ảnh (chỉ thêm)</strong>: để lưu hình ảnh đã chuyển đổi vào thư viện ảnh của bạn. Ứng dụng không đọc thư viện ảnh của bạn; bạn tự chọn ảnh cần nhập.",
+          "<strong>Nhận dạng giọng nói</strong>: để chuyển bản ghi âm của bạn thành văn bản và tạo phụ đề. Việc chuyển đổi được thực hiện trên thiết bị, không gửi đi bất cứ thứ gì.",
+          "<strong>Thông báo</strong>: để báo cho bạn biết khi một tác vụ dài đã hoàn tất. Các thông báo này được tạo cục bộ." ] } ] },
+      { "h": "Tính năng thông minh và dịch", "blocks": [
+        { "p": "Tóm tắt, trích xuất công thức nấu ăn hoặc đọc danh thiếp sử dụng mô hình Apple Intelligence tích hợp trong thiết bị. Tính năng dịch sử dụng dịch vụ dịch trên thiết bị của Apple: chỉ việc tải ngôn ngữ là đi qua Apple. Trong cả hai trường hợp, văn bản của bạn không bao giờ được truyền đến nhà phát triển." } ] },
+      { "h": "Mua trong ứng dụng", "blocks": [
+        { "p": "Việc mua Atelier Pro hoàn toàn do Apple xử lý qua App Store. Ứng dụng chỉ kiểm tra xem giao dịch mua đã được thực hiện hay chưa; ứng dụng không nhận bất kỳ dữ liệu thanh toán nào. Bộ đếm thao tác miễn phí được lưu trên thiết bị của bạn." } ] },
+      { "h": "Quảng cáo và theo dõi", "blocks": [
+        { "p": "Atelier Fichiers không chứa quảng cáo, không có trình theo dõi và không có công cụ phân tích hay thống kê sử dụng nào." } ] },
+      { "h": "Trẻ em", "blocks": [
+        { "p": "Ứng dụng không thu thập bất kỳ dữ liệu nào và phù hợp với mọi lứa tuổi." } ] },
+      { "h": "Thay đổi", "blocks": [
+        { "p": "Nếu chính sách này thay đổi, phiên bản mới sẽ được đăng trên trang này kèm ngày cập nhật." } ] },
+      { "h": "Liên hệ", "blocks": [
+        { "p": "Mọi câu hỏi về chính sách này: {email}" } ] }
+    ]
+  }
+}

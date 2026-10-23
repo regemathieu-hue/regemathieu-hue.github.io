@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "A cabine fotográfica das suas festas no iPad e iPhone",
+    "contact": "Para qualquer questão ou comunicação de erro, escreva-me:<br>{email}",
+    "faq": [
+      { "q": "Que câmaras posso utilizar?",
+        "a": "A câmara do iPad ou do iPhone, uma câmara Wi-Fi (Lumix, Canon), uma GoPro (Wi-Fi e Bluetooth) ou uma placa de captura HDMI." },
+      { "q": "A minha câmara Wi-Fi não é detetada. O que fazer?",
+        "a": "Verifique se o iPad está ligado ao Wi-Fi da câmara e se o Flashbooth tem a permissão «Rede local» em Definições › Flashbooth." },
+      { "q": "Como é que os convidados recebem as fotografias?",
+        "a": "Por AirDrop, Mensagens, Mail ou guardando na aplicação Fotografias. Se a galeria online estiver ativada, um código QR dá acesso à página do evento." },
+      { "q": "Como funciona a galeria online?",
+        "a": "É uma opção desativada por predefinição. Envia as fotografias do evento para um servidor cujo endereço e chave de acesso são introduzidos pelo próprio utilizador. As fotografias guardadas nesse servidor podem ser apagadas a qualquer momento a partir da aplicação." },
+      { "q": "Como impedir que os convidados saiam da aplicação?",
+        "a": "Utilize o modo de quiosque do Flashbooth e ative o Acesso Guiado do iOS (Definições › Acessibilidade › Acesso Guiado) para bloquear o iPad na aplicação." }
+    ],
+    "privacy_summary": "O Flashbooth não recolhe quaisquer dados pessoais. As fotografias permanecem no seu dispositivo, salvo se optar por partilhá-las."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Em resumo", "blocks": [
+        { "p": "O Flashbooth não recolhe quaisquer dados pessoais e o programador não tem acesso a nenhuma fotografia. As fotografias tiradas durante os eventos são guardadas no dispositivo. Só saem dele quando o utilizador as partilha ou se ativar, por sua iniciativa, a galeria online ou a cópia para uma pasta." } ] },
+      { "h": "As fotografias", "blocks": [
+        { "p": "As fotografias, tiras e GIF são conservados no álbum do evento, no dispositivo. Podem ser apagados a qualquer momento a partir da aplicação; a eliminação da aplicação também os apaga." } ] },
+      { "h": "Partilha", "blocks": [
+        { "p": "A partilha é feita através das ferramentas do iOS (AirDrop, Mensagens, Mail, Fotografias, impressão…). Os endereços de e-mail ou números introduzidos nessas janelas são geridos pelo iOS: o Flashbooth não os lê nem os conserva." } ] },
+      { "h": "Opções facultativas", "blocks": [
+        { "ul": [
+          "<strong>Galeria online</strong> (desativada por predefinição): envia as fotografias do evento para o servidor cujo endereço o utilizador introduz, para que fiquem acessíveis por código QR. Esse servidor é escolhido e gerido pelo utilizador, não pelo programador. A respetiva chave de acesso é guardada no porta-chaves seguro do dispositivo. As fotografias podem ser apagadas do servidor a partir da aplicação.",
+          "<strong>Cópia para uma pasta</strong> (desativada por predefinição): copia o álbum para a pasta escolhida (iCloud Drive ou outro serviço da aplicação Ficheiros). Os ficheiros ficam então sujeitos às condições desse serviço." ] } ] },
+      { "h": "Permissões pedidas", "blocks": [
+        { "p": "Cada permissão só é pedida no momento em que a função correspondente é utilizada, e pode ser retirada nas Definições do dispositivo." },
+        { "ul": [
+          "<strong>Câmara</strong>: para tirar as fotografias da sessão.",
+          "<strong>Bluetooth</strong>: para controlar uma GoPro.",
+          "<strong>Rede local</strong>: para ligar às câmaras Wi-Fi (Lumix, Canon, GoPro) e à galeria na rede local.",
+          "<strong>Fotografias (apenas adicionar)</strong>: para guardar as tiras e os GIF na aplicação Fotografias. A aplicação não lê a fototeca." ] } ] },
+      { "h": "Organizadores e convidados", "blocks": [
+        { "p": "Quem utiliza o Flashbooth num evento é responsável pelas fotografias tiradas e pela sua divulgação. Convém informar os convidados, sobretudo se a galeria online estiver ativada." } ] },
+      { "h": "Publicidade e rastreio", "blocks": [
+        { "p": "O Flashbooth não contém publicidade, rastreadores nem ferramentas de análise ou de estatísticas de utilização." } ] },
+      { "h": "Alterações", "blocks": [
+        { "p": "Se esta política for alterada, a nova versão será publicada nesta página com a respetiva data de atualização." } ] },
+      { "h": "Contacto", "blocks": [
+        { "p": "Para qualquer questão sobre esta política: {email}" } ] }
+    ]
+  }
+}

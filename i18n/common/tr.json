@@ -1,0 +1,16 @@
+{
+  "lang": "tr",
+  "dir": "ltr",
+  "name": "Türkçe",
+  "support_title": "Destek",
+  "privacy_title": "Gizlilik Politikası",
+  "contact_h": "İletişim",
+  "faq_h": "SSS",
+  "privacy_h": "Gizlilik Politikası",
+  "read_full_privacy": "Gizlilik politikasının tamamını okuyun →",
+  "back_to_support": "← Desteğe dön",
+  "updated": "Son güncelleme: {date}",
+  "all_apps": "Tüm uygulamalarım",
+  "other_languages": "Diğer diller",
+  "language_list_h": "Bu sayfa diğer dillerde"
+}

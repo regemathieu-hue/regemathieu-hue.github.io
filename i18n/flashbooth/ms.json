@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "Photo booth untuk majlis anda di iPad dan iPhone",
+    "contact": "Untuk sebarang soalan atau laporan pepijat, tulis kepada saya:<br>{email}",
+    "faq": [
+      { "q": "Kamera apakah yang boleh saya gunakan?",
+        "a": "Kamera iPad atau iPhone, kamera Wi-Fi (Lumix, Canon), GoPro (Wi-Fi dan Bluetooth) atau kad tangkapan HDMI." },
+      { "q": "Kamera Wi-Fi saya tidak dikesan, apa yang perlu dilakukan?",
+        "a": "Pastikan iPad disambungkan ke Wi-Fi kamera dan Flashbooth mempunyai kebenaran “Rangkaian Setempat” dalam Seting › Flashbooth." },
+      { "q": "Bagaimana tetamu mendapatkan foto mereka?",
+        "a": "Melalui AirDrop, Mesej, Mel atau dengan menyimpan ke Foto. Jika anda mengaktifkan galeri dalam talian, kod QR memberikan akses ke halaman acara." },
+      { "q": "Bagaimana galeri dalam talian berfungsi?",
+        "a": "Ia adalah pilihan yang dinyahaktifkan secara lalai. Ia menghantar foto acara ke pelayan yang alamat dan kunci aksesnya anda masukkan sendiri. Anda boleh memadamkan foto yang disimpan pada pelayan tersebut pada bila-bila masa daripada aplikasi." },
+      { "q": "Bagaimana untuk menghalang tetamu daripada keluar dari aplikasi?",
+        "a": "Gunakan mod kiosk Flashbooth, dan aktifkan Akses Berpandu iOS (Seting › Kebolehcapaian › Akses Berpandu) untuk mengunci iPad pada aplikasi." }
+    ],
+    "privacy_summary": "Flashbooth tidak mengumpul sebarang data peribadi. Foto kekal pada peranti anda, melainkan anda memilih untuk berkongsi."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Ringkasnya", "blocks": [
+        { "p": "Flashbooth tidak mengumpul sebarang data peribadi dan pembangun tidak mempunyai akses kepada mana-mana foto. Foto yang diambil semasa acara anda disimpan pada peranti anda. Foto hanya keluar daripada peranti apabila anda berkongsinya, atau jika anda sendiri mengaktifkan galeri dalam talian atau penyalinan ke folder." } ] },
+      { "h": "Foto", "blocks": [
+        { "p": "Foto, jalur foto dan GIF disimpan dalam album acara, pada peranti anda. Anda boleh memadamkannya pada bila-bila masa daripada aplikasi; memadamkan aplikasi juga akan memadamkannya." } ] },
+      { "h": "Perkongsian", "blocks": [
+        { "p": "Perkongsian dibuat melalui alat iOS (AirDrop, Mesej, Mel, Foto, cetakan…). Alamat e-mel atau nombor telefon yang dimasukkan dalam tetingkap tersebut diuruskan oleh iOS: Flashbooth tidak membaca dan tidak menyimpannya." } ] },
+      { "h": "Pilihan tambahan", "blocks": [
+        { "ul": [
+          "<strong>Galeri dalam talian</strong> (dinyahaktifkan secara lalai): menghantar foto acara ke pelayan yang alamatnya anda masukkan, supaya boleh diakses melalui kod QR. Pelayan ini dipilih dan diuruskan oleh anda, bukan oleh pembangun. Kunci aksesnya disimpan dalam rantai kunci selamat peranti. Foto boleh dipadamkan daripada pelayan melalui aplikasi.",
+          "<strong>Salin ke folder</strong> (dinyahaktifkan secara lalai): menyalin album ke folder yang anda pilih (iCloud Drive atau perkhidmatan lain dalam aplikasi Fail). Fail tersebut kemudiannya tertakluk kepada terma perkhidmatan berkenaan." ] } ] },
+      { "h": "Kebenaran yang diminta", "blocks": [
+        { "p": "Setiap kebenaran hanya diminta apabila anda menggunakan ciri berkaitan, dan anda boleh menariknya balik dalam Seting peranti anda." },
+        { "ul": [
+          "<strong>Kamera</strong>: untuk mengambil foto semasa sesi.",
+          "<strong>Bluetooth</strong>: untuk mengawal GoPro.",
+          "<strong>Rangkaian Setempat</strong>: untuk menyambung ke kamera Wi-Fi (Lumix, Canon, GoPro) dan ke galeri anda pada rangkaian setempat.",
+          "<strong>Foto (tambah sahaja)</strong>: untuk menyimpan jalur foto dan GIF ke aplikasi Foto. Aplikasi tidak membaca pustaka foto anda." ] } ] },
+      { "h": "Penganjur dan tetamu", "blocks": [
+        { "p": "Jika anda menggunakan Flashbooth di sesuatu acara, anda bertanggungjawab terhadap foto yang diambil dan penyebarannya. Ingatlah untuk memaklumkan tetamu anda, terutamanya jika galeri dalam talian diaktifkan." } ] },
+      { "h": "Pengiklanan dan penjejakan", "blocks": [
+        { "p": "Flashbooth tidak mengandungi sebarang iklan, penjejak atau alat analitik dan statistik penggunaan." } ] },
+      { "h": "Perubahan", "blocks": [
+        { "p": "Jika dasar ini berubah, versi baharu akan diterbitkan di halaman ini bersama tarikh kemas kininya." } ] },
+      { "h": "Hubungi", "blocks": [
+        { "p": "Untuk sebarang soalan mengenai dasar ini: {email}" } ] }
+    ]
+  }
+}

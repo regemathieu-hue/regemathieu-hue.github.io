@@ -1,0 +1,57 @@
+{
+  "support": {
+    "subtitle": "Älä enää missaa mitään yötaivaalta",
+    "contact": "Kysymys, idea tai bugi? Kirjoita minulle:<br>{email}",
+    "faq": [
+      { "q": "Miksi sovellus pyytää sijaintiani?",
+        "a": "Satelliittien ylilentojen ajat, täysi pimeys ja sää riippuvat siitä, missä havainnoit. Sijaintisi pysyy puhelimellasi; sääpalveluille lähetetään vain noin 1 km:n tarkkuuteen pyöristetty sijainti. Voit myös valita kaupungin käsin asetuksista ottamatta sijaintipalveluja käyttöön." },
+      { "q": "En saa hälytyksiä, miksi?",
+        "a": "Tarkista, että Nuit Clairen ilmoitukset on sallittu iOS:n Asetuksissa. Hälytyksiä lähetetään vain, jos taivas näyttää selkenevän kohdallasi: pilvinen yö ei laukaise hälytystä, vaikka ISS:n ylilento olisi kuinka hieno." },
+      { "q": "Mitkä kaukoputket ovat yhteensopivia?",
+        "a": "Jalustat, joita voi ohjata SkyFi-, Celestron- tai OnStep-Wi-Fi-sovittimella. iPhonesi ja sovittimen on oltava samassa Wi-Fi-verkossa." },
+      { "q": "Miten löydän päiväkirjani toisella laitteella?",
+        "a": "Ota käyttöön ”Synkronoi iCloudin kanssa” sovelluksen asetuksista. Päiväkirjasi, paikkasi, asetuksesi ja havaintoiltasi seuraavat iCloud-tiliäsi." },
+      { "q": "Miten kutsun ystäviä havaintoiltaan?",
+        "a": "Luo ilta sovelluksessa ja jaa linkki. Ystäväsi näkevät kutsun selaimessaan ja voivat avata sen suoraan Nuit Clairessa." }
+    ],
+    "privacy_summary": "Nuit Claire ei kerää mitään henkilötietoja eikä sisällä mainoksia tai seurantatyökaluja."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Lyhyesti", "blocks": [
+        { "p": "Nuit Claire ei kerää mitään henkilötietoja, eikä sillä ole palvelinta. Laskelmat (satelliittien ylilennot, taivaankappaleiden sijainnit, täysi pimeys) tehdään laitteellasi. Vain välttämättömät tiedot lähetetään muutamalle julkiselle palvelulle, jotka kuvataan alla." } ] },
+      { "h": "Sijaintisi", "blocks": [
+        { "p": "Sijaintiasi käytetään satelliittien ylilentojen, yön tuntien ja taivaasi sään laskemiseen. Sitä käytetään vain sovelluksen ollessa auki, ja se pysyy tallennettuna laitteellasi." },
+        { "p": "Säätä varten Open-Meteolle ja 7Timer!:lle lähetetään <strong>noin 1 km:n tarkkuuteen pyöristetty</strong> sijainti. Voit myös kieltäytyä sijainnin jakamisesta ja valita kaupungin käsin: kirjoittamasi nimi lähetetään tällöin Open-Meteon kaupunkihakupalveluun." } ] },
+      { "h": "Käytetyt palvelut", "blocks": [
+        { "p": "Sovellus lataa julkisia tietoja seuraavilta palveluilta. Niille ei välitetä mitään tunnisteita tai henkilötietoja; kuten missä tahansa internetyhteydessä, ne näkevät pyynnön IP-osoitteen." },
+        { "ul": [
+          "<a href=\"https://open-meteo.com\">Open-Meteo</a>: pilviennusteet ja kaupunkihaku (pyöristetty sijainti tai kaupungin nimi).",
+          "<a href=\"https://www.7timer.info\">7Timer!</a>: tähtitieteelliset ennusteet (pyöristetty sijainti).",
+          "<a href=\"https://celestrak.org\">CelesTrak</a>: satelliittien radat.",
+          "<a href=\"https://www.swpc.noaa.gov\">NOAA SWPC</a>: auringon aktiivisuus ja revontuliennusteet.",
+          "<a href=\"https://minorplanetcenter.net\">Minor Planet Center</a>: komeettojen radat." ] } ] },
+      { "h": "Pyydettävät käyttöoikeudet", "blocks": [
+        { "p": "Kutakin käyttöoikeutta pyydetään vasta, kun käytät kyseistä toimintoa, ja voit peruuttaa sen laitteesi Asetuksista." },
+        { "ul": [
+          "<strong>Sijainti</strong>: katso yllä. Apple Watchilla se suuntaa myös kompassin kohti satelliitteja.",
+          "<strong>Kamera</strong>: näyttää taivaan ”Minne katsoa” -näkymän merkkien takana. Kuvia ei tallenneta.",
+          "<strong>Liike</strong>: suuntaa ”Minne katsoa” -näkymän siihen taivaan osaan, jota kohti osoitat.",
+          "<strong>Kalenteri (vain lisääminen)</strong>: lisää valitsemasi taivaan tapahtumat. Sovellus ei lue kalenteriasi.",
+          "<strong>Lähiverkko</strong>: yhdistää kaukoputkesi Wi-Fi-sovittimeen sen suuntaamista varten. Mikään ei poistu verkostasi.",
+          "<strong>Ilmoitukset</strong>: hälytykset ylilennoista, revontulista ja selkeistä öistä, luodaan laitteellasi." ] } ] },
+      { "h": "Päiväkirjasi ja iCloud", "blocks": [
+        { "p": "Havaintopäiväkirjasi (mukaan lukien siihen lisäämäsi kuvat), suosikkipaikkasi, asetuksesi ja havaintoiltasi tallennetaan laitteellesi. Jos otat iCloud-synkronoinnin käyttöön, ne tallennetaan myös omalle, Applen hallinnoimalle iCloud-tilillesi, jotta löydät ne muilta laitteiltasi. Kehittäjällä ei ole niihin pääsyä." } ] },
+      { "h": "Jaetut havaintoillat", "blocks": [
+        { "p": "Kun jaat havaintoillan, linkki sisältää kutsun tiedot: otsikon, paikan nimen ja koordinaatit, päivämäärän, etunimesi tai nimimerkkisi sekä viestisi. Kuka tahansa linkin saaja voi lukea ne. Tämän sivuston kutsusivu näyttää ne suoraan selaimessa tallentamatta niitä palvelimelle. Sivustoa isännöi GitHub Pages, joka voi säilyttää teknisiä yhteyslokeja." } ] },
+      { "h": "Mainonta ja seuranta", "blocks": [
+        { "p": "Nuit Claire ei sisällä mainoksia, seurantatyökaluja eikä analytiikka- tai käyttötilastotyökaluja." } ] },
+      { "h": "Lapset", "blocks": [
+        { "p": "Sovellus ei kerää mitään tietoja ja sopii kaikenikäisille." } ] },
+      { "h": "Muutokset", "blocks": [
+        { "p": "Jos tämä käytäntö muuttuu, uusi versio julkaistaan tällä sivulla päivityspäivämäärän kera." } ] },
+      { "h": "Yhteystiedot", "blocks": [
+        { "p": "Tätä käytäntöä koskevat kysymykset: {email}" } ] }
+    ]
+  }
+}

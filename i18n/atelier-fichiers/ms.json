@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "Kotak alat untuk fail anda, di iPhone, iPad dan Mac",
+    "contact": "Untuk sebarang soalan, cadangan atau laporan pepijat, tulis kepada saya:<br>{email}",
+    "faq": [
+      { "q": "Adakah fail saya dihantar ke pelayan?",
+        "a": "Tidak. Semua penukaran, pemampatan dan suntingan dilakukan terus pada peranti anda. Aplikasi tidak pernah menghantar sebarang fail melalui internet." },
+      { "q": "Adakah sambungan internet diperlukan?",
+        "a": "Tidak, semua alat berfungsi di luar talian. Hanya ciri terjemahan yang mungkin meminta anda memuat turun bahasa buat kali pertama daripada seting Apple, dan pembelian Atelier Pro dibuat melalui App Store." },
+      { "q": "Apakah yang terkandung dalam versi percuma?",
+        "a": "Semua alat, tanpa tera air, dengan had 3 operasi sehari. Atelier Pro membuang had ini." },
+      { "q": "Saya telah menukar peranti, bagaimana untuk mendapatkan semula Atelier Pro?",
+        "a": "Buka skrin Atelier Pro dan ketik “Pulihkan Pembelian”. Gunakan Akaun Apple yang sama seperti semasa pembelian." },
+      { "q": "Bagaimana untuk memadamkan sejarah?",
+        "a": "Dalam sejarah, leret satu baris untuk memadamkannya, atau gunakan “Padam semua sejarah”." }
+    ],
+    "privacy_summary": "Atelier Fichiers tidak mengumpul sebarang data peribadi. Fail anda kekal pada peranti anda."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Ringkasnya", "blocks": [
+        { "p": "Atelier Fichiers tidak mengumpul, menyimpan pada pelayan atau menghantar sebarang data peribadi. Semua pemprosesan fail berlaku pada peranti anda. Pembangun tidak mempunyai akses kepada mana-mana fail anda atau sebarang maklumat tentang anda." } ] },
+      { "h": "Fail anda", "blocks": [
+        { "p": "Fail yang anda buka dalam aplikasi (dokumen, PDF, imej, audio, video, arkib…) diproses secara setempat dan disimpan di lokasi yang anda pilih. Aplikasi tidak pernah menghantarnya melalui internet." },
+        { "p": "Sejarah operasi disimpan pada peranti anda sahaja. Anda boleh memadamkannya pada bila-bila masa daripada aplikasi." } ] },
+      { "h": "Kebenaran yang diminta", "blocks": [
+        { "p": "Setiap kebenaran hanya diminta apabila anda menggunakan ciri berkaitan, dan anda boleh menariknya balik dalam Seting peranti anda." },
+        { "ul": [
+          "<strong>Kamera</strong>: untuk mengimbas dokumen dan membaca kod. Imej kekal pada peranti.",
+          "<strong>Foto (tambah sahaja)</strong>: untuk menyimpan imej yang telah ditukar ke pustaka foto anda. Aplikasi tidak membaca pustaka foto anda; anda sendiri yang memilih foto untuk diimport.",
+          "<strong>Pengecaman Pertuturan</strong>: untuk mentranskripsi rakaman anda kepada teks dan mencipta sari kata. Transkripsi dilakukan pada peranti, tanpa menghantar apa-apa.",
+          "<strong>Pemberitahuan</strong>: untuk memaklumkan anda apabila pemprosesan yang lama telah selesai. Pemberitahuan ini dijana secara setempat." ] } ] },
+      { "h": "Ciri pintar dan terjemahan", "blocks": [
+        { "p": "Ringkasan, pengekstrakan resipi atau pembacaan kad perniagaan menggunakan model Apple Intelligence yang terbina dalam peranti. Terjemahan menggunakan perkhidmatan terjemahan Apple pada peranti: hanya muat turun bahasa yang melalui Apple. Dalam kedua-dua kes, teks anda tidak pernah dihantar kepada pembangun." } ] },
+      { "h": "Pembelian dalam aplikasi", "blocks": [
+        { "p": "Pembelian Atelier Pro diuruskan sepenuhnya oleh Apple melalui App Store. Aplikasi hanya menyemak sama ada pembelian telah dibuat; ia tidak menerima sebarang data pembayaran. Pembilang operasi percuma disimpan pada peranti anda." } ] },
+      { "h": "Pengiklanan dan penjejakan", "blocks": [
+        { "p": "Atelier Fichiers tidak mengandungi sebarang iklan, penjejak atau alat analitik dan statistik penggunaan." } ] },
+      { "h": "Kanak-kanak", "blocks": [
+        { "p": "Aplikasi ini tidak mengumpul sebarang data dan sesuai untuk semua peringkat umur." } ] },
+      { "h": "Perubahan", "blocks": [
+        { "p": "Jika dasar ini berubah, versi baharu akan diterbitkan di halaman ini bersama tarikh kemas kininya." } ] },
+      { "h": "Hubungi", "blocks": [
+        { "p": "Untuk sebarang soalan mengenai dasar ini: {email}" } ] }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "lang": "hr",
+  "dir": "ltr",
+  "name": "Hrvatski",
+  "support_title": "Podrška",
+  "privacy_title": "Pravila privatnosti",
+  "contact_h": "Kontakt",
+  "faq_h": "Česta pitanja",
+  "privacy_h": "Pravila privatnosti",
+  "read_full_privacy": "Pročitajte cjelovita pravila privatnosti →",
+  "back_to_support": "← Natrag na podršku",
+  "updated": "Zadnje ažuriranje: {date}",
+  "all_apps": "Sve moje aplikacije",
+  "other_languages": "Drugi jezici",
+  "language_list_h": "Ova stranica na drugim jezicima"
+}

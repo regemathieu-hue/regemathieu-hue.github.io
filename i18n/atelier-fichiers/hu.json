@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "Eszköztár a fájljaihoz iPhone-on, iPaden és Macen",
+    "contact": "Kérdés, javaslat vagy hibajelentés esetén írjon nekem:<br>{email}",
+    "faq": [
+      { "q": "A fájljaim felkerülnek egy szerverre?",
+        "a": "Nem. Minden konvertálás, tömörítés és szerkesztés közvetlenül az Ön készülékén történik. Az alkalmazás semmilyen fájlt nem küld az internetre." },
+      { "q": "Szükség van internetkapcsolatra?",
+        "a": "Nem, az eszközök offline is működnek. Csak a fordításhoz lehet szükség egy nyelv egyszeri letöltésére az Apple beállításaiból, az Atelier Pro megvásárlása pedig az App Store-on keresztül történik." },
+      { "q": "Mit tartalmaz az ingyenes verzió?",
+        "a": "Az összes eszközt, vízjel nélkül, napi 3 műveletig. Az Atelier Pro megszünteti ezt a korlátot." },
+      { "q": "Készüléket cseréltem, hogyan kapom vissza az Atelier Prót?",
+        "a": "Nyissa meg az Atelier Pro képernyőt, és koppintson a „Vásárlások visszaállítása” lehetőségre. Ugyanazt az Apple-fiókot használja, mint a vásárláskor." },
+      { "q": "Hogyan törölhetem az előzményeket?",
+        "a": "Az előzményekben húzzon el egy sort a törléséhez, vagy használja az „Összes előzmény törlése” lehetőséget." }
+    ],
+    "privacy_summary": "Az Atelier Fichiers semmilyen személyes adatot nem gyűjt. A fájljai az Ön készülékén maradnak."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Röviden", "blocks": [
+        { "p": "Az Atelier Fichiers semmilyen személyes adatot nem gyűjt, nem tárol szerveren és nem továbbít. A fájlok feldolgozása teljes egészében az Ön készülékén történik. A fejlesztő nem fér hozzá sem a fájljaihoz, sem semmilyen Önre vonatkozó információhoz." } ] },
+      { "h": "Az Ön fájljai", "blocks": [
+        { "p": "Az alkalmazásban megnyitott fájlok (dokumentumok, PDF-ek, képek, hangok, videók, archívumok…) feldolgozása helyben történik, és az Ön által választott helyre kerülnek mentésre. Az alkalmazás soha nem küldi el őket az internetre." },
+        { "p": "A műveletek előzményei kizárólag az Ön készülékén tárolódnak. Ezeket bármikor törölheti az alkalmazásból." } ] },
+      { "h": "Kért engedélyek", "blocks": [
+        { "p": "Az alkalmazás minden engedélyt csak akkor kér, amikor Ön az adott funkciót használja, és az engedélyt a készülék Beállításaiban bármikor visszavonhatja." },
+        { "ul": [
+          "<strong>Kamera</strong>: dokumentumok beolvasásához és kódok leolvasásához. A képek a készüléken maradnak.",
+          "<strong>Fotók (csak hozzáadás)</strong>: a konvertált képek fotókönyvtárba mentéséhez. Az alkalmazás nem olvassa a fotókönyvtárát; az importálandó fotókat Ön választja ki.",
+          "<strong>Beszédfelismerés</strong>: a felvételei szöveggé alakításához és feliratok készítéséhez. Az átírás a készüléken történik, semmi nem kerül elküldésre.",
+          "<strong>Értesítések</strong>: hogy értesítse Önt, amikor egy hosszabb feldolgozás befejeződött. Ezek az értesítések helyben jönnek létre." ] } ] },
+      { "h": "Intelligens funkciók és fordítás", "blocks": [
+        { "p": "Az összefoglalók, a receptek kinyerése és a névjegykártyák leolvasása a készülékbe épített Apple Intelligence modellt használja. A fordítás az Apple készüléken futó fordítószolgáltatását használja: csak a nyelvek letöltése történik az Apple-ön keresztül. Egyik esetben sem jutnak el a szövegei a fejlesztőhöz." } ] },
+      { "h": "Alkalmazáson belüli vásárlások", "blocks": [
+        { "p": "Az Atelier Pro megvásárlását teljes egészében az Apple kezeli az App Store-on keresztül. Az alkalmazás csak azt ellenőrzi, hogy a vásárlás megtörtént-e; semmilyen fizetési adatot nem kap. Az ingyenes műveletek számlálója az Ön készülékén tárolódik." } ] },
+      { "h": "Hirdetések és nyomkövetés", "blocks": [
+        { "p": "Az Atelier Fichiers nem tartalmaz hirdetéseket, nyomkövetőket, sem elemző vagy használati statisztikai eszközöket." } ] },
+      { "h": "Gyermekek", "blocks": [
+        { "p": "Az alkalmazás semmilyen adatot nem gyűjt, és minden korosztály számára megfelelő." } ] },
+      { "h": "Módosítások", "blocks": [
+        { "p": "Ha ez a szabályzat módosul, az új verzió ezen az oldalon jelenik meg a frissítés dátumával együtt." } ] },
+      { "h": "Kapcsolat", "blocks": [
+        { "p": "A szabályzattal kapcsolatos kérdéseivel forduljon ide: {email}" } ] }
+    ]
+  }
+}

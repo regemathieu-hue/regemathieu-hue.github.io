@@ -1,0 +1,16 @@
+{
+  "lang": "pl",
+  "dir": "ltr",
+  "name": "Polski",
+  "support_title": "Pomoc",
+  "privacy_title": "Polityka prywatności",
+  "contact_h": "Kontakt",
+  "faq_h": "FAQ",
+  "privacy_h": "Polityka prywatności",
+  "read_full_privacy": "Przeczytaj pełną politykę prywatności →",
+  "back_to_support": "← Powrót do pomocy",
+  "updated": "Ostatnia aktualizacja: {date}",
+  "all_apps": "Wszystkie moje aplikacje",
+  "other_languages": "Inne języki",
+  "language_list_h": "Ta strona w innych językach"
+}

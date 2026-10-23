@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Aplikasi penukaran unit serba guna untuk iOS",
+    "contact": "Untuk sebarang soalan atau laporan pepijat, hubungi kami melalui e-mel:<br>{email}",
+    "faq": [
+      { "q": "Adakah kadar pertukaran dikemas kini dalam masa nyata?",
+        "a": "Kadar pertukaran dikemas kini setiap kali aplikasi dibuka jika sambungan internet tersedia. Sambungan internet diperlukan untuk mendapatkan kadar terkini." },
+      { "q": "Adakah aplikasi berfungsi tanpa internet?",
+        "a": "Ya, semua penukaran kecuali mata wang berfungsi di luar talian. Penukaran mata wang menggunakan kadar terakhir yang disimpan dalam cache." },
+      { "q": "Bagaimana untuk menukar bahasa aplikasi?",
+        "a": "Bahasa boleh ditukar terus dalam seting aplikasi. Lebih daripada 16 bahasa tersedia." }
+    ],
+    "privacy_summary": "Convert Everything tidak mengumpul sebarang data peribadi. Tiada maklumat dihantar ke pelayan pihak ketiga."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Pengumpulan data", "blocks": [
+        { "p": "Convert Everything tidak mengumpul, menyimpan atau menghantar sebarang data peribadi. Aplikasi berfungsi sepenuhnya secara setempat pada peranti anda." } ] },
+      { "h": "Data yang digunakan", "blocks": [
+        { "p": "Aplikasi hanya mengakses sumber berikut:" },
+        { "ul": [
+          "<strong>Internet</strong> — hanya untuk mendapatkan kadar pertukaran daripada API awam. Tiada data peribadi dihantar." ] } ] },
+      { "h": "Perkhidmatan pihak ketiga", "blocks": [
+        { "p": "Kadar pertukaran disediakan oleh <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, sebuah API awam percuma. Tiada data pengguna dihantar semasa permintaan ini." } ] },
+      { "h": "Pengiklanan dan penjejakan", "blocks": [
+        { "p": "Convert Everything tidak mengandungi sebarang iklan, penjejak atau SDK analitik tingkah laku." } ] },
+      { "h": "Kanak-kanak", "blocks": [
+        { "p": "Aplikasi ini tidak mengumpul sebarang data dan sesuai untuk semua peringkat umur." } ] },
+      { "h": "Hubungi", "blocks": [
+        { "p": "Untuk sebarang soalan mengenai dasar ini: {email}" } ] }
+    ]
+  }
+}

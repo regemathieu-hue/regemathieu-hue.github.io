@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "Fotobudka na Państwa imprezy na iPadzie i iPhonie",
+    "contact": "W razie pytań lub zgłoszeń błędów proszę pisać do mnie:<br>{email}",
+    "faq": [
+      { "q": "Z jakich aparatów mogę korzystać?",
+        "a": "Z aparatu iPada lub iPhone'a, aparatu z Wi-Fi (Lumix, Canon), kamery GoPro (Wi-Fi i Bluetooth) lub karty przechwytującej HDMI." },
+      { "q": "Mój aparat Wi-Fi nie jest wykrywany, co robić?",
+        "a": "Proszę sprawdzić, czy iPad jest połączony z siecią Wi-Fi aparatu i czy Flashbooth ma uprawnienie „Sieć lokalna” w Ustawienia › Flashbooth." },
+      { "q": "Jak goście odbierają swoje zdjęcia?",
+        "a": "Przez AirDrop, Wiadomości, Mail lub zapisując je w aplikacji Zdjęcia. Jeśli włączą Państwo galerię online, kod QR daje dostęp do strony wydarzenia." },
+      { "q": "Jak działa galeria online?",
+        "a": "To opcja domyślnie wyłączona. Wysyła zdjęcia z wydarzenia na serwer, którego adres i klucz dostępu wpisują Państwo samodzielnie. Zdjęcia przechowywane na tym serwerze można w każdej chwili usunąć z poziomu aplikacji." },
+      { "q": "Jak uniemożliwić gościom wyjście z aplikacji?",
+        "a": "Proszę użyć trybu kiosku Flashbooth i włączyć Dostęp nadzorowany w iOS (Ustawienia › Dostępność › Dostęp nadzorowany), aby zablokować iPada na tej aplikacji." }
+    ],
+    "privacy_summary": "Flashbooth nie gromadzi żadnych danych osobowych. Zdjęcia pozostają na Państwa urządzeniu, chyba że zdecydują się Państwo je udostępnić."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "W skrócie", "blocks": [
+        { "p": "Flashbooth nie gromadzi żadnych danych osobowych, a deweloper nie ma dostępu do żadnych zdjęć. Zdjęcia wykonane podczas Państwa wydarzeń są zapisywane na Państwa urządzeniu. Opuszczają je tylko wtedy, gdy je Państwo udostępnią lub gdy samodzielnie włączą Państwo galerię online lub kopiowanie do folderu." } ] },
+      { "h": "Zdjęcia", "blocks": [
+        { "p": "Zdjęcia, plansze i GIF-y są przechowywane w albumie wydarzenia, na Państwa urządzeniu. Można je w każdej chwili usunąć z poziomu aplikacji; usunięcie aplikacji również je kasuje." } ] },
+      { "h": "Udostępnianie", "blocks": [
+        { "p": "Udostępnianie odbywa się za pomocą narzędzi iOS (AirDrop, Wiadomości, Mail, Zdjęcia, drukowanie…). Adresy e-mail lub numery wpisywane w tych oknach są obsługiwane przez iOS: Flashbooth ich nie odczytuje ani nie przechowuje." } ] },
+      { "h": "Opcje dodatkowe", "blocks": [
+        { "ul": [
+          "<strong>Galeria online</strong> (domyślnie wyłączona): wysyła zdjęcia z wydarzenia na serwer, którego adres Państwo wpisują, aby udostępnić je za pomocą kodu QR. Serwer ten wybierają i zarządzają nim Państwo, a nie deweloper. Jego klucz dostępu jest przechowywany w zabezpieczonym pęku kluczy urządzenia. Zdjęcia można usunąć z serwera z poziomu aplikacji.",
+          "<strong>Kopiowanie do folderu</strong> (domyślnie wyłączone): kopiuje album do wybranego przez Państwa folderu (iCloud Drive lub inna usługa z aplikacji Pliki). Pliki podlegają wówczas warunkom tej usługi." ] } ] },
+      { "h": "Wymagane uprawnienia", "blocks": [
+        { "p": "Każde uprawnienie jest wymagane dopiero w momencie użycia danej funkcji i można je cofnąć w Ustawieniach urządzenia." },
+        { "ul": [
+          "<strong>Aparat</strong>: do wykonywania zdjęć podczas sesji.",
+          "<strong>Bluetooth</strong>: do sterowania kamerą GoPro.",
+          "<strong>Sieć lokalna</strong>: do łączenia się z aparatami Wi-Fi (Lumix, Canon, GoPro) oraz z Państwa galerią w sieci lokalnej.",
+          "<strong>Zdjęcia (tylko dodawanie)</strong>: do zapisywania plansz i GIF-ów w aplikacji Zdjęcia. Aplikacja nie odczytuje Państwa biblioteki zdjęć." ] } ] },
+      { "h": "Organizatorzy i goście", "blocks": [
+        { "p": "Jeśli korzystają Państwo z Flashbooth podczas wydarzenia, odpowiadają Państwo za wykonane zdjęcia i ich rozpowszechnianie. Proszę pamiętać o poinformowaniu gości, zwłaszcza gdy galeria online jest włączona." } ] },
+      { "h": "Reklamy i śledzenie", "blocks": [
+        { "p": "Flashbooth nie zawiera żadnych reklam, trackerów ani narzędzi analitycznych czy statystyk użytkowania." } ] },
+      { "h": "Zmiany", "blocks": [
+        { "p": "W przypadku zmiany niniejszej polityki nowa wersja zostanie opublikowana na tej stronie wraz z datą aktualizacji." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "W razie pytań dotyczących niniejszej polityki: {email}" } ] }
+    ]
+  }
+}

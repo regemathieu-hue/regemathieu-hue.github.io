@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Universel omregningsapp til iOS",
+    "contact": "Har du spørgsmål eller vil du rapportere en fejl, så kontakt os på e-mail:<br>{email}",
+    "faq": [
+      { "q": "Bliver valutakurserne opdateret i realtid?",
+        "a": "Valutakurserne opdateres, hver gang appen åbnes, hvis der er en internetforbindelse. Der kræves en internetforbindelse for at få de nyeste kurser." },
+      { "q": "Virker appen uden internet?",
+        "a": "Ja, alle omregninger undtagen valuta fungerer offline. Valutaomregninger bruger den senest gemte kurs." },
+      { "q": "Hvordan skifter jeg appens sprog?",
+        "a": "Sproget kan ændres direkte i appens indstillinger. Der er mere end 16 sprog at vælge imellem." }
+    ],
+    "privacy_summary": "Convert Everything indsamler ingen personlige oplysninger. Der sendes ingen oplysninger til tredjeparts servere."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Dataindsamling", "blocks": [
+        { "p": "Convert Everything indsamler, gemmer og sender ingen personlige oplysninger. Appen fungerer udelukkende lokalt på din enhed." } ] },
+      { "h": "Anvendte data", "blocks": [
+        { "p": "Appen bruger kun følgende ressourcer:" },
+        { "ul": [
+          "<strong>Internet</strong> – kun til at hente valutakurser fra et offentligt API. Der sendes ingen personlige oplysninger." ] } ] },
+      { "h": "Tredjepartstjenester", "blocks": [
+        { "p": "Valutakurserne leveres af <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, et gratis offentligt API. Der sendes ingen brugerdata ved denne forespørgsel." } ] },
+      { "h": "Reklamer og sporing", "blocks": [
+        { "p": "Convert Everything indeholder ingen reklamer, ingen trackere og ingen SDK til adfærdsanalyse." } ] },
+      { "h": "Børn", "blocks": [
+        { "p": "Denne app indsamler ingen oplysninger og egner sig til alle aldre." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "Spørgsmål til denne politik: {email}" } ] }
+    ]
+  }
+}

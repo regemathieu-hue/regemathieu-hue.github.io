@@ -1,0 +1,16 @@
+{
+  "lang": "it",
+  "dir": "ltr",
+  "name": "Italiano",
+  "support_title": "Supporto",
+  "privacy_title": "Informativa sulla privacy",
+  "contact_h": "Contatti",
+  "faq_h": "FAQ",
+  "privacy_h": "Informativa sulla privacy",
+  "read_full_privacy": "Leggi l'informativa sulla privacy completa →",
+  "back_to_support": "← Torna al supporto",
+  "updated": "Ultimo aggiornamento: {date}",
+  "all_apps": "Tutte le mie app",
+  "other_languages": "Altre lingue",
+  "language_list_h": "Questa pagina in altre lingue"
+}

@@ -1,0 +1,57 @@
+{
+  "support": {
+    "subtitle": "Never miss a thing in the night sky",
+    "contact": "A question, an idea or a bug? Write to me:<br>{email}",
+    "faq": [
+      { "q": "Why does the app ask for my location?",
+        "a": "Satellite pass times, true darkness and the weather depend on where you observe. Your location stays on your phone; only a position rounded to about 1 km is sent to the weather services. You can also pick a town manually in the settings, without turning on location." },
+      { "q": "I'm not getting alerts, why?",
+        "a": "Check that notifications for Nuit Claire are allowed in iOS Settings. Alerts are only sent if the sky looks clear where you are: a cloudy night does not trigger an alert, even for a great ISS pass." },
+      { "q": "Which telescopes are compatible?",
+        "a": "Mounts that can be controlled through a SkyFi, Celestron or OnStep Wi-Fi adapter. Your iPhone and the adapter must be on the same Wi-Fi network." },
+      { "q": "How do I find my log on another device?",
+        "a": "Turn on ‘Sync with iCloud’ in the app's settings. Your log, your places, your settings and your nights follow your iCloud account." },
+      { "q": "How do I invite friends to an observing night?",
+        "a": "Create a night in the app, then share the link. Your friends see the invitation in their browser and can open it directly in Nuit Claire." }
+    ],
+    "privacy_summary": "Nuit Claire collects no personal data and contains no advertising or trackers."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "In short", "blocks": [
+        { "p": "Nuit Claire collects no personal data and has no server. Calculations (satellite passes, positions of celestial objects, true darkness) are done on your device. Only the strictly necessary information is sent to a few public services, described below." } ] },
+      { "h": "Your location", "blocks": [
+        { "p": "Your location is used to compute satellite passes, night hours and the weather for your sky. It is only used while the app is open and stays stored on your device." },
+        { "p": "For the weather, a position <strong>rounded to about 1 km</strong> is sent to Open-Meteo and 7Timer!. You can also decline location access and pick a town manually: the name you type is then sent to Open-Meteo's town search service." } ] },
+      { "h": "Services used", "blocks": [
+        { "p": "The app downloads public data from the following services. No identifier or personal information is sent to them; as with any internet connection, they see the request's IP address." },
+        { "ul": [
+          "<a href=\"https://open-meteo.com\">Open-Meteo</a>: cloud forecasts and town search (rounded position or town name).",
+          "<a href=\"https://www.7timer.info\">7Timer!</a>: astronomical forecasts (rounded position).",
+          "<a href=\"https://celestrak.org\">CelesTrak</a>: satellite orbits.",
+          "<a href=\"https://www.swpc.noaa.gov\">NOAA SWPC</a>: solar activity and aurora forecasts.",
+          "<a href=\"https://minorplanetcenter.net\">Minor Planet Center</a>: comet orbits." ] } ] },
+      { "h": "Permissions requested", "blocks": [
+        { "p": "Each permission is only requested when you use the related feature, and you can revoke it in your device's Settings." },
+        { "ul": [
+          "<strong>Location</strong>: see above. On Apple Watch, it also points the compass towards satellites.",
+          "<strong>Camera</strong>: shows the sky behind the markers of the ‘Where to look’ view. No image is recorded.",
+          "<strong>Motion</strong>: points the ‘Where to look’ view towards the part of the sky you are aiming at.",
+          "<strong>Calendar (add only)</strong>: adds the sky events you choose. The app does not read your calendar.",
+          "<strong>Local Network</strong>: connects to your telescope's Wi-Fi adapter to point it. Nothing leaves your network.",
+          "<strong>Notifications</strong>: pass, aurora and clear-night alerts, generated on your device." ] } ] },
+      { "h": "Your log and iCloud", "blocks": [
+        { "p": "Your observing log (including the photos you add to it), your favourite places, your settings and your nights are stored on your device. If you turn on iCloud sync, they are also saved in your own iCloud account, managed by Apple, so you can find them on your other devices. The developer has no access to them." } ] },
+      { "h": "Shared nights", "blocks": [
+        { "p": "When you share an observing night, the link contains the invitation details: title, place name and coordinates, date, your first name or nickname and your note. Anyone who receives the link can read them. This site's invitation page displays them directly in the browser, without saving them on a server. This site is hosted by GitHub Pages, which may keep technical connection logs." } ] },
+      { "h": "Advertising and tracking", "blocks": [
+        { "p": "Nuit Claire contains no advertising, no trackers and no analytics or usage statistics tools." } ] },
+      { "h": "Children", "blocks": [
+        { "p": "The app collects no data and is suitable for all ages." } ] },
+      { "h": "Changes", "blocks": [
+        { "p": "If this policy changes, the new version will be published on this page with its update date." } ] },
+      { "h": "Contact", "blocks": [
+        { "p": "For any question about this policy: {email}" } ] }
+    ]
+  }
+}

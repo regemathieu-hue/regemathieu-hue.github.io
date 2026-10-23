@@ -1,0 +1,16 @@
+{
+  "lang": "zh-Hans",
+  "dir": "ltr",
+  "name": "简体中文",
+  "support_title": "支持",
+  "privacy_title": "隐私政策",
+  "contact_h": "联系方式",
+  "faq_h": "常见问题",
+  "privacy_h": "隐私政策",
+  "read_full_privacy": "阅读完整隐私政策 →",
+  "back_to_support": "← 返回支持页面",
+  "updated": "最后更新：{date}",
+  "all_apps": "我的所有 App",
+  "other_languages": "其他语言",
+  "language_list_h": "本页面的其他语言版本"
+}

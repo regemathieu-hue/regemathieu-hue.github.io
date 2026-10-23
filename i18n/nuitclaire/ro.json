@@ -1,0 +1,57 @@
+{
+  "support": {
+    "subtitle": "Nu mai rata nimic de pe cerul nopții",
+    "contact": "O întrebare, o idee sau o eroare? Scrie-mi:<br>{email}",
+    "faq": [
+      { "q": "De ce îmi cere aplicația locația?",
+        "a": "Orele de trecere ale sateliților, întunericul deplin și vremea depind de locul în care observi. Locația ta rămâne pe telefonul tău; serviciilor meteo li se trimite doar o poziție rotunjită la aproximativ 1 km. Poți alege și manual un oraș din configurări, fără a activa localizarea." },
+      { "q": "Nu primesc alerte, de ce?",
+        "a": "Verifică dacă notificările Nuit Claire sunt permise în Configurările iOS. Alertele sunt trimise doar dacă se anunță cer senin la tine: o noapte înnorată nu declanșează nicio alertă, nici măcar pentru o trecere frumoasă a ISS." },
+      { "q": "Ce telescoape sunt compatibile?",
+        "a": "Monturile care pot fi controlate printr-un adaptor Wi-Fi SkyFi, Celestron sau OnStep. iPhone-ul tău și adaptorul trebuie să fie în aceeași rețea Wi-Fi." },
+      { "q": "Cum îmi regăsesc jurnalul pe un alt dispozitiv?",
+        "a": "Activează „Sincronizare cu iCloud” în configurările aplicației. Jurnalul, locurile, configurările și serile tale urmează contul tău iCloud." },
+      { "q": "Cum invit prieteni la o seară de observație?",
+        "a": "Creează o seară în aplicație, apoi partajează linkul. Prietenii tăi văd invitația în browserul lor și o pot deschide direct în Nuit Claire." }
+    ],
+    "privacy_summary": "Nuit Claire nu colectează nicio dată personală și nu conține nici reclame, nici instrumente de urmărire."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Pe scurt", "blocks": [
+        { "p": "Nuit Claire nu colectează nicio dată personală și nu are server. Calculele (treceri ale sateliților, poziții ale aștrilor, întuneric deplin) sunt făcute pe dispozitivul tău. Doar informațiile strict necesare sunt trimise către câteva servicii publice, descrise mai jos." } ] },
+      { "h": "Locația ta", "blocks": [
+        { "p": "Locația ta servește la calcularea trecerilor sateliților, a orelor de noapte și a vremii pentru cerul tău. Este folosită doar când aplicația este deschisă și rămâne salvată pe dispozitivul tău." },
+        { "p": "Pentru vreme, o poziție <strong>rotunjită la aproximativ 1 km</strong> este trimisă către Open-Meteo și 7Timer!. Poți refuza localizarea și alege manual un oraș: numele pe care îl tastezi este atunci trimis către serviciul de căutare a orașelor al Open-Meteo." } ] },
+      { "h": "Servicii utilizate", "blocks": [
+        { "p": "Aplicația descarcă date publice de la următoarele servicii. Niciun identificator și nicio informație personală nu le sunt transmise; ca la orice conexiune la internet, ele văd adresa IP a cererii." },
+        { "ul": [
+          "<a href=\"https://open-meteo.com\">Open-Meteo</a>: prognoze de nori și căutare de orașe (poziție rotunjită sau nume de oraș).",
+          "<a href=\"https://www.7timer.info\">7Timer!</a>: prognoze astronomice (poziție rotunjită).",
+          "<a href=\"https://celestrak.org\">CelesTrak</a>: orbitele sateliților.",
+          "<a href=\"https://www.swpc.noaa.gov\">NOAA SWPC</a>: activitate solară și prognoze de aurore.",
+          "<a href=\"https://minorplanetcenter.net\">Minor Planet Center</a>: orbitele cometelor." ] } ] },
+      { "h": "Permisiuni solicitate", "blocks": [
+        { "p": "Fiecare permisiune este solicitată doar în momentul în care folosești funcția respectivă și o poți retrage din Configurările dispozitivului tău." },
+        { "ul": [
+          "<strong>Localizare</strong>: vezi mai sus. Pe Apple Watch, orientează și busola către sateliți.",
+          "<strong>Cameră</strong>: afișează cerul în spatele reperelor din vizualizarea „Unde să privești”. Nicio imagine nu este salvată.",
+          "<strong>Mișcare</strong>: orientează vizualizarea „Unde să privești” către partea de cer pe care o țintești.",
+          "<strong>Calendar (doar adăugare)</strong>: adaugă evenimentele cerești pe care le alegi. Aplicația nu îți citește calendarul.",
+          "<strong>Rețea locală</strong>: se conectează la adaptorul Wi-Fi al telescopului tău pentru a-l orienta. Nimic nu iese din rețeaua ta.",
+          "<strong>Notificări</strong>: alerte de treceri, de aurore și de nopți senine, generate pe dispozitivul tău." ] } ] },
+      { "h": "Jurnalul tău și iCloud", "blocks": [
+        { "p": "Jurnalul tău de observații (inclusiv pozele pe care le adaugi în el), locurile tale favorite, configurările și serile tale sunt stocate pe dispozitivul tău. Dacă activezi sincronizarea iCloud, ele sunt salvate și în propriul tău cont iCloud, gestionat de Apple, pentru a le regăsi pe celelalte dispozitive ale tale. Dezvoltatorul nu are acces la ele." } ] },
+      { "h": "Seri partajate", "blocks": [
+        { "p": "Când partajezi o seară de observație, linkul conține informațiile invitației: titlul, numele și coordonatele locului, data, prenumele sau pseudonimul tău și nota ta. Oricine primește linkul le poate citi. Pagina de invitație a acestui site le afișează direct în browser, fără a le salva pe un server. Acest site este găzduit de GitHub Pages, care poate păstra jurnale tehnice de conectare." } ] },
+      { "h": "Publicitate și urmărire", "blocks": [
+        { "p": "Nuit Claire nu conține nicio reclamă, niciun instrument de urmărire și niciun instrument de analiză sau de statistici de utilizare." } ] },
+      { "h": "Copii", "blocks": [
+        { "p": "Aplicația nu colectează nicio dată și este potrivită pentru toate vârstele." } ] },
+      { "h": "Modificări", "blocks": [
+        { "p": "Dacă această politică se schimbă, noua versiune va fi publicată pe această pagină împreună cu data actualizării." } ] },
+      { "h": "Contact", "blocks": [
+        { "p": "Pentru orice întrebare privind această politică: {email}" } ] }
+    ]
+  }
+}

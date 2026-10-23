@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "Kotak peralatan untuk file Anda, di iPhone, iPad, dan Mac",
+    "contact": "Untuk pertanyaan, saran, atau laporan bug, silakan tulis kepada saya:<br>{email}",
+    "faq": [
+      { "q": "Apakah file saya dikirim ke server?",
+        "a": "Tidak. Semua konversi, kompresi, dan penyuntingan dilakukan langsung di perangkat Anda. Aplikasi tidak pernah mengirim file apa pun melalui internet." },
+      { "q": "Apakah perlu koneksi internet?",
+        "a": "Tidak, semua alat berfungsi secara offline. Hanya fitur terjemahan yang mungkin meminta Anda mengunduh bahasa untuk pertama kali dari pengaturan Apple, dan pembelian Atelier Pro dilakukan melalui App Store." },
+      { "q": "Apa saja yang termasuk dalam versi gratis?",
+        "a": "Semua alat, tanpa watermark, dengan batas 3 operasi per hari. Atelier Pro menghapus batas ini." },
+      { "q": "Saya berganti perangkat, bagaimana cara mendapatkan Atelier Pro kembali?",
+        "a": "Buka layar Atelier Pro dan ketuk “Pulihkan Pembelian”. Gunakan Akun Apple yang sama dengan yang Anda gunakan saat membeli." },
+      { "q": "Bagaimana cara menghapus riwayat?",
+        "a": "Di riwayat, geser sebuah baris untuk menghapusnya, atau gunakan “Hapus semua riwayat”." }
+    ],
+    "privacy_summary": "Atelier Fichiers tidak mengumpulkan data pribadi apa pun. File Anda tetap berada di perangkat Anda."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Ringkasnya", "blocks": [
+        { "p": "Atelier Fichiers tidak mengumpulkan, menyimpan di server, maupun mengirimkan data pribadi apa pun. Semua pemrosesan file dilakukan di perangkat Anda. Pengembang tidak memiliki akses ke file Anda maupun ke informasi apa pun tentang Anda." } ] },
+      { "h": "File Anda", "blocks": [
+        { "p": "File yang Anda buka di aplikasi (dokumen, PDF, gambar, audio, video, arsip…) diproses secara lokal dan disimpan di lokasi yang Anda pilih. Aplikasi tidak pernah mengirimnya melalui internet." },
+        { "p": "Riwayat operasi hanya disimpan di perangkat Anda. Anda dapat menghapusnya kapan saja dari dalam aplikasi." } ] },
+      { "h": "Izin yang diminta", "blocks": [
+        { "p": "Setiap izin hanya diminta saat Anda menggunakan fitur terkait, dan Anda dapat mencabutnya di Pengaturan perangkat Anda." },
+        { "ul": [
+          "<strong>Kamera</strong>: untuk memindai dokumen dan membaca kode. Gambar tetap berada di perangkat.",
+          "<strong>Foto (hanya tambah)</strong>: untuk menyimpan gambar hasil konversi ke pustaka foto Anda. Aplikasi tidak membaca pustaka foto Anda; Anda sendiri yang memilih foto untuk diimpor.",
+          "<strong>Pengenalan Ucapan</strong>: untuk mentranskripsi rekaman Anda menjadi teks dan membuat subtitle. Transkripsi dilakukan di perangkat, tanpa mengirim apa pun.",
+          "<strong>Pemberitahuan</strong>: untuk memberi tahu Anda saat pemrosesan yang lama telah selesai. Pemberitahuan ini dibuat secara lokal." ] } ] },
+      { "h": "Fitur cerdas dan terjemahan", "blocks": [
+        { "p": "Ringkasan, ekstraksi resep, atau pembacaan kartu nama menggunakan model Apple Intelligence yang terpasang di perangkat. Terjemahan menggunakan layanan terjemahan Apple di perangkat: hanya pengunduhan bahasa yang melewati Apple. Dalam kedua kasus tersebut, teks Anda tidak pernah dikirimkan ke pengembang." } ] },
+      { "h": "Pembelian dalam aplikasi", "blocks": [
+        { "p": "Pembelian Atelier Pro sepenuhnya ditangani oleh Apple melalui App Store. Aplikasi hanya memeriksa apakah pembelian telah dilakukan; aplikasi tidak menerima data pembayaran apa pun. Penghitung operasi gratis disimpan di perangkat Anda." } ] },
+      { "h": "Iklan dan pelacakan", "blocks": [
+        { "p": "Atelier Fichiers tidak memuat iklan, pelacak, maupun alat analitik atau statistik penggunaan apa pun." } ] },
+      { "h": "Anak-anak", "blocks": [
+        { "p": "Aplikasi ini tidak mengumpulkan data apa pun dan cocok untuk semua usia." } ] },
+      { "h": "Perubahan", "blocks": [
+        { "p": "Jika kebijakan ini berubah, versi barunya akan dipublikasikan di halaman ini beserta tanggal pembaruannya." } ] },
+      { "h": "Kontak", "blocks": [
+        { "p": "Untuk pertanyaan apa pun mengenai kebijakan ini: {email}" } ] }
+    ]
+  }
+}

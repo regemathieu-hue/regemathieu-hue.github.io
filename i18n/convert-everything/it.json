@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "App di conversione universale per iOS",
+    "contact": "Per qualsiasi domanda o segnalazione di bug, ci contatti via email:<br>{email}",
+    "faq": [
+      { "q": "I tassi di cambio sono aggiornati in tempo reale?",
+        "a": "I tassi di cambio vengono aggiornati a ogni apertura dell'app se è disponibile una connessione a internet. Per ottenere i tassi più recenti è necessaria una connessione a internet." },
+      { "q": "L'app funziona senza internet?",
+        "a": "Sì, tutte le conversioni tranne le valute funzionano offline. Le conversioni di valuta utilizzano l'ultimo tasso memorizzato nella cache." },
+      { "q": "Come si cambia la lingua dell'app?",
+        "a": "La lingua può essere cambiata direttamente nelle impostazioni dell'app. Sono disponibili più di 16 lingue." }
+    ],
+    "privacy_summary": "Convert Everything non raccoglie alcun dato personale. Nessuna informazione viene trasmessa a server di terze parti."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Raccolta dei dati", "blocks": [
+        { "p": "Convert Everything non raccoglie, non memorizza e non trasmette alcun dato personale. L'app funziona interamente in locale sul suo dispositivo." } ] },
+      { "h": "Dati utilizzati", "blocks": [
+        { "p": "L'app accede esclusivamente alle seguenti risorse:" },
+        { "ul": [
+          "<strong>Internet</strong> — solo per recuperare i tassi di cambio da un'API pubblica. Nessun dato personale viene inviato." ] } ] },
+      { "h": "Servizi di terze parti", "blocks": [
+        { "p": "I tassi di cambio sono forniti da <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, un'API pubblica gratuita. Nessun dato dell'utente viene trasmesso durante questa richiesta." } ] },
+      { "h": "Pubblicità e tracciamento", "blocks": [
+        { "p": "Convert Everything non contiene alcuna pubblicità, alcun tracker e alcun SDK di analisi comportamentale." } ] },
+      { "h": "Minori", "blocks": [
+        { "p": "Questa app non raccoglie alcun dato ed è adatta a tutte le età." } ] },
+      { "h": "Contatti", "blocks": [
+        { "p": "Per qualsiasi domanda su questa informativa: {email}" } ] }
+    ]
+  }
+}

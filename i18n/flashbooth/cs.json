@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "Fotokoutek pro vaše večírky na iPadu a iPhonu",
+    "contact": "S dotazy nebo hlášením chyb mi napište:<br>{email}",
+    "faq": [
+      { "q": "Jaké fotoaparáty mohu použít?",
+        "a": "Fotoaparát iPadu nebo iPhonu, fotoaparát s Wi-Fi (Lumix, Canon), kameru GoPro (Wi-Fi a Bluetooth) nebo HDMI záznamovou kartu." },
+      { "q": "Můj Wi-Fi fotoaparát není rozpoznán, co dělat?",
+        "a": "Zkontrolujte, zda je iPad připojen k Wi-Fi fotoaparátu a zda má Flashbooth oprávnění „Místní síť“ v Nastavení › Flashbooth." },
+      { "q": "Jak si hosté stáhnou své fotky?",
+        "a": "Přes AirDrop, Zprávy, Mail nebo uložením do Fotek. Pokud zapnete online galerii, QR kód zpřístupní stránku události." },
+      { "q": "Jak funguje online galerie?",
+        "a": "Jde o volitelnou funkci, která je ve výchozím stavu vypnutá. Odesílá fotky z události na server, jehož adresu a přístupový klíč zadáte sami. Fotky uložené na tomto serveru můžete kdykoli smazat přímo z aplikace." },
+      { "q": "Jak zabránit hostům v opuštění aplikace?",
+        "a": "Použijte režim kiosku ve Flashboothu a zapněte Asistovaný přístup v iOS (Nastavení › Zpřístupnění › Asistovaný přístup), abyste iPad uzamkli v aplikaci." }
+    ],
+    "privacy_summary": "Flashbooth neshromažďuje žádné osobní údaje. Fotky zůstávají ve vašem zařízení, pokud se je sami nerozhodnete sdílet."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Stručně", "blocks": [
+        { "p": "Flashbooth neshromažďuje žádné osobní údaje a vývojář nemá přístup k žádné fotce. Fotky pořízené během vašich událostí se ukládají ve vašem zařízení. Opouštějí je pouze tehdy, když je sdílíte, nebo pokud sami zapnete online galerii či kopírování do složky." } ] },
+      { "h": "Fotky", "blocks": [
+        { "p": "Fotky, fotopásky a GIFy jsou uchovávány v albu události ve vašem zařízení. Můžete je kdykoli smazat přímo z aplikace; odstraněním aplikace se smažou také." } ] },
+      { "h": "Sdílení", "blocks": [
+        { "p": "Sdílení probíhá pomocí nástrojů iOS (AirDrop, Zprávy, Mail, Fotky, tisk…). E-mailové adresy nebo telefonní čísla zadaná v těchto oknech spravuje iOS: Flashbooth je nečte ani neuchovává." } ] },
+      { "h": "Volitelné funkce", "blocks": [
+        { "ul": [
+          "<strong>Online galerie</strong> (ve výchozím stavu vypnutá): odesílá fotky z události na server, jehož adresu zadáte, aby byly dostupné přes QR kód. Tento server si volíte a spravujete vy, nikoli vývojář. Jeho přístupový klíč je uložen v zabezpečené klíčence zařízení. Fotky lze ze serveru smazat přímo z aplikace.",
+          "<strong>Kopírování do složky</strong> (ve výchozím stavu vypnuté): kopíruje album do složky, kterou zvolíte (iCloud Drive nebo jiná služba z aplikace Soubory). Soubory pak podléhají podmínkám dané služby." ] } ] },
+      { "h": "Požadovaná oprávnění", "blocks": [
+        { "p": "Každé oprávnění je vyžádáno až ve chvíli, kdy danou funkci použijete, a můžete je kdykoli odebrat v Nastavení svého zařízení." },
+        { "ul": [
+          "<strong>Fotoaparát</strong>: k pořizování fotek během focení.",
+          "<strong>Bluetooth</strong>: k ovládání kamery GoPro.",
+          "<strong>Místní síť</strong>: k připojení k Wi-Fi fotoaparátům (Lumix, Canon, GoPro) a k vaší galerii v místní síti.",
+          "<strong>Fotky (pouze přidávání)</strong>: k ukládání fotopásků a GIFů do aplikace Fotky. Aplikace vaši knihovnu fotek nečte." ] } ] },
+      { "h": "Pořadatelé a hosté", "blocks": [
+        { "p": "Pokud Flashbooth používáte na události, nesete odpovědnost za pořízené fotky a jejich šíření. Nezapomeňte své hosty informovat, zejména pokud je zapnutá online galerie." } ] },
+      { "h": "Reklama a sledování", "blocks": [
+        { "p": "Flashbooth neobsahuje žádnou reklamu, žádné sledovací prvky ani nástroje pro analýzu či statistiky používání." } ] },
+      { "h": "Změny", "blocks": [
+        { "p": "Pokud se tyto zásady změní, nová verze bude zveřejněna na této stránce s datem aktualizace." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "S dotazy k těmto zásadám se obraťte na: {email}" } ] }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "lang": "en-GB",
+  "dir": "ltr",
+  "name": "English (UK)",
+  "support_title": "Support",
+  "privacy_title": "Privacy Policy",
+  "contact_h": "Contact",
+  "faq_h": "FAQ",
+  "privacy_h": "Privacy Policy",
+  "read_full_privacy": "Read the full privacy policy →",
+  "back_to_support": "← Back to support",
+  "updated": "Last updated: {date}",
+  "all_apps": "All my apps",
+  "other_languages": "Other languages",
+  "language_list_h": "This page in other languages"
+}

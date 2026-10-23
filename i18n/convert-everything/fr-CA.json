@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Application de conversion universelle pour iOS",
+    "contact": "Pour toute question ou signalement de bogue, contactez-nous par courriel:<br>{email}",
+    "faq": [
+      { "q": "Les taux de change sont-ils mis à jour en temps réel?",
+        "a": "Les taux de change sont actualisés à chaque ouverture de l'application si une connexion Internet est disponible. Une connexion Internet est requise pour obtenir les taux les plus récents." },
+      { "q": "L'application fonctionne-t-elle sans Internet?",
+        "a": "Oui, toutes les conversions, sauf celles de devises, fonctionnent hors ligne. Les conversions de devises utilisent le dernier taux mis en cache." },
+      { "q": "Comment changer la langue de l'application?",
+        "a": "La langue peut être changée directement dans les paramètres de l'application. Plus de 16 langues sont offertes." }
+    ],
+    "privacy_summary": "Convert Everything ne recueille aucune donnée personnelle. Aucun renseignement n'est transmis à des serveurs tiers."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Collecte de données", "blocks": [
+        { "p": "Convert Everything ne recueille, ne stocke et ne transmet aucune donnée personnelle. L'application fonctionne entièrement en local sur votre appareil." } ] },
+      { "h": "Données utilisées", "blocks": [
+        { "p": "L'application accède uniquement aux ressources suivantes:" },
+        { "ul": [
+          "<strong>Internet</strong> — uniquement pour récupérer les taux de change à partir d'une API publique. Aucune donnée personnelle n'est envoyée." ] } ] },
+      { "h": "Services tiers", "blocks": [
+        { "p": "Les taux de change sont fournis par <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, une API publique gratuite. Aucune donnée d'utilisateur n'est transmise lors de cette requête." } ] },
+      { "h": "Publicité et suivi", "blocks": [
+        { "p": "Convert Everything ne contient aucune publicité, aucun traceur et aucun SDK d'analyse comportementale." } ] },
+      { "h": "Enfants", "blocks": [
+        { "p": "Cette application ne recueille aucune donnée et convient à tous les âges." } ] },
+      { "h": "Contact", "blocks": [
+        { "p": "Pour toute question concernant cette politique: {email}" } ] }
+    ]
+  }
+}

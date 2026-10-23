@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "Trusa de instrumente pentru fișierele dvs., pe iPhone, iPad și Mac",
+    "contact": "Pentru orice întrebare, sugestie sau raportare a unei erori, scrieți-mi:<br>{email}",
+    "faq": [
+      { "q": "Fișierele mele sunt trimise pe un server?",
+        "a": "Nu. Toate conversiile, comprimările și editările se fac direct pe dispozitivul dvs. Aplicația nu trimite niciun fișier pe internet." },
+      { "q": "Este necesară o conexiune la internet?",
+        "a": "Nu, instrumentele funcționează offline. Doar traducerea vă poate cere să descărcați o singură dată o limbă din configurările Apple, iar achiziția Atelier Pro se face prin App Store." },
+      { "q": "Ce conține versiunea gratuită?",
+        "a": "Toate instrumentele, fără filigran, în limita a 3 operații pe zi. Atelier Pro elimină această limită." },
+      { "q": "Am schimbat dispozitivul, cum recuperez Atelier Pro?",
+        "a": "Deschideți ecranul Atelier Pro și apăsați „Restaurare cumpărături”. Folosiți același cont Apple ca la achiziție." },
+      { "q": "Cum șterg istoricul?",
+        "a": "În istoric, glisați peste un rând pentru a-l șterge sau folosiți „Șterge tot istoricul”." }
+    ],
+    "privacy_summary": "Atelier Fichiers nu colectează nicio dată personală. Fișierele dvs. rămân pe dispozitivul dvs."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Pe scurt", "blocks": [
+        { "p": "Atelier Fichiers nu colectează, nu stochează pe un server și nu transmite nicio dată personală. Toată prelucrarea fișierelor are loc pe dispozitivul dvs. Dezvoltatorul nu are acces la niciunul dintre fișierele dvs. și la nicio informație despre dvs." } ] },
+      { "h": "Fișierele dvs.", "blocks": [
+        { "p": "Fișierele pe care le deschideți în aplicație (documente, PDF-uri, imagini, sunete, videoclipuri, arhive…) sunt prelucrate local și salvate în locul pe care îl alegeți. Aplicația nu le trimite niciodată pe internet." },
+        { "p": "Istoricul operațiilor este păstrat exclusiv pe dispozitivul dvs. Îl puteți șterge oricând din aplicație." } ] },
+      { "h": "Permisiuni solicitate", "blocks": [
+        { "p": "Fiecare permisiune este solicitată doar în momentul în care folosiți funcția respectivă și o puteți retrage din Configurările dispozitivului dvs." },
+        { "ul": [
+          "<strong>Cameră</strong>: pentru a scana documente și a citi coduri. Imaginile rămân pe dispozitiv.",
+          "<strong>Poze (doar adăugare)</strong>: pentru a salva imaginile convertite în biblioteca dvs. foto. Aplicația nu citește biblioteca dvs.; alegeți singur(ă) pozele de importat.",
+          "<strong>Recunoaștere vocală</strong>: pentru a transcrie înregistrările dvs. în text și a crea subtitrări. Transcrierea se face pe dispozitiv, fără a trimite nimic.",
+          "<strong>Notificări</strong>: pentru a vă anunța când o prelucrare de durată s-a încheiat. Aceste notificări sunt generate local." ] } ] },
+      { "h": "Funcții inteligente și traducere", "blocks": [
+        { "p": "Rezumatele, extragerea rețetelor sau citirea cărților de vizită folosesc modelul Apple Intelligence integrat în dispozitiv. Traducerea folosește serviciul de traducere Apple de pe dispozitiv: doar descărcarea limbilor trece prin Apple. În ambele cazuri, textele dvs. nu sunt transmise dezvoltatorului." } ] },
+      { "h": "Cumpărături în aplicație", "blocks": [
+        { "p": "Achiziția Atelier Pro este gestionată în întregime de Apple prin App Store. Aplicația verifică doar dacă achiziția a fost efectuată; nu primește nicio dată de plată. Contorul de operații gratuite este stocat pe dispozitivul dvs." } ] },
+      { "h": "Publicitate și urmărire", "blocks": [
+        { "p": "Atelier Fichiers nu conține nicio reclamă, niciun instrument de urmărire și niciun instrument de analiză sau de statistici de utilizare." } ] },
+      { "h": "Copii", "blocks": [
+        { "p": "Aplicația nu colectează nicio dată și este potrivită pentru toate vârstele." } ] },
+      { "h": "Modificări", "blocks": [
+        { "p": "Dacă această politică se schimbă, noua versiune va fi publicată pe această pagină împreună cu data actualizării." } ] },
+      { "h": "Contact", "blocks": [
+        { "p": "Pentru orice întrebare privind această politică: {email}" } ] }
+    ]
+  }
+}

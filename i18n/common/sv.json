@@ -1,0 +1,16 @@
+{
+  "lang": "sv",
+  "dir": "ltr",
+  "name": "Svenska",
+  "support_title": "Support",
+  "privacy_title": "Integritetspolicy",
+  "contact_h": "Kontakt",
+  "faq_h": "Vanliga frågor",
+  "privacy_h": "Integritetspolicy",
+  "read_full_privacy": "Läs hela integritetspolicyn →",
+  "back_to_support": "← Tillbaka till supporten",
+  "updated": "Senast uppdaterad: {date}",
+  "all_apps": "Alla mina appar",
+  "other_languages": "Andra språk",
+  "language_list_h": "Den här sidan på andra språk"
+}

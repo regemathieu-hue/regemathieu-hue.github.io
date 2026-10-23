@@ -1,0 +1,57 @@
+{
+  "support": {
+    "subtitle": "Gå aldri mer glipp av nattehimmelen",
+    "contact": "Et spørsmål, en idé eller en feil? Skriv til meg:<br>{email}",
+    "faq": [
+      { "q": "Hvorfor ber appen om posisjonen min?",
+        "a": "Satellittenes passeringstider, det ekte mørket og været avhenger av hvor du observerer. Posisjonen din blir på telefonen din; bare en posisjon avrundet til omtrent 1 km sendes til værtjenestene. Du kan også velge en by manuelt i innstillingene, uten å slå på stedstjenester." },
+      { "q": "Jeg får ingen varsler – hvorfor?",
+        "a": "Sjekk at varslinger fra Nuit Claire er tillatt i iOS-innstillingene. Varsler sendes bare hvis himmelen ser ut til å bli klar der du er: en overskyet natt utløser ikke noe varsel, selv ikke ved en flott passering av ISS." },
+      { "q": "Hvilke teleskoper er kompatible?",
+        "a": "Monteringer som kan styres via en Wi-Fi-adapter fra SkyFi, Celestron eller OnStep. iPhone-en din og adapteren må være på samme Wi-Fi-nettverk." },
+      { "q": "Hvordan finner jeg loggboken min på en annen enhet?",
+        "a": "Slå på «Synkroniser med iCloud» i innstillingene i appen. Loggboken, stedene, innstillingene og kveldene dine følger iCloud-kontoen din." },
+      { "q": "Hvordan inviterer jeg venner til en observasjonskveld?",
+        "a": "Opprett en kveld i appen, og del deretter lenken. Vennene dine ser invitasjonen i nettleseren sin og kan åpne den direkte i Nuit Claire." }
+    ],
+    "privacy_summary": "Nuit Claire samler ikke inn noen personopplysninger og inneholder verken reklame eller sporere."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Kort fortalt", "blocks": [
+        { "p": "Nuit Claire samler ikke inn noen personopplysninger og har ingen server. Beregningene (satellittpasseringer, himmellegemenes posisjoner, ekte mørke) gjøres på enheten din. Bare de strengt nødvendige opplysningene sendes til noen få offentlige tjenester, som beskrives nedenfor." } ] },
+      { "h": "Posisjonen din", "blocks": [
+        { "p": "Posisjonen din brukes til å beregne satellittpasseringer, nattens tider og været over himmelen din. Den brukes bare når appen er åpen, og den blir lagret på enheten din." },
+        { "p": "For været sendes en posisjon <strong>avrundet til omtrent 1 km</strong> til Open-Meteo og 7Timer!. Du kan også avslå stedstjenester og velge en by manuelt: navnet du skriver inn, sendes da til bysøket hos Open-Meteo." } ] },
+      { "h": "Tjenester som brukes", "blocks": [
+        { "p": "Appen laster ned offentlige data fra følgende tjenester. Verken identifikatorer eller personlige opplysninger sendes til dem; som ved enhver internettforbindelse ser de IP-adressen til forespørselen." },
+        { "ul": [
+          "<a href=\"https://open-meteo.com\">Open-Meteo</a>: skyvarsler og bysøk (avrundet posisjon eller bynavn).",
+          "<a href=\"https://www.7timer.info\">7Timer!</a>: astronomiske varsler (avrundet posisjon).",
+          "<a href=\"https://celestrak.org\">CelesTrak</a>: satellittbaner.",
+          "<a href=\"https://www.swpc.noaa.gov\">NOAA SWPC</a>: solaktivitet og nordlysvarsler.",
+          "<a href=\"https://minorplanetcenter.net\">Minor Planet Center</a>: kometbaner." ] } ] },
+      { "h": "Tillatelser som etterspørres", "blocks": [
+        { "p": "Hver tillatelse blir først etterspurt når du bruker den aktuelle funksjonen, og du kan trekke den tilbake i Innstillinger på enheten din." },
+        { "ul": [
+          "<strong>Sted</strong>: se ovenfor. På Apple Watch retter den også kompasset mot satellittene.",
+          "<strong>Kamera</strong>: viser himmelen bak markørene i visningen «Hvor skal jeg se». Ingen bilder lagres.",
+          "<strong>Bevegelse</strong>: retter visningen «Hvor skal jeg se» mot den delen av himmelen du sikter på.",
+          "<strong>Kalender (kun legg til)</strong>: legger til himmelhendelsene du velger. Appen leser ikke kalenderen din.",
+          "<strong>Lokalt nettverk</strong>: kobler til Wi-Fi-adapteren til teleskopet ditt for å peke det. Ingenting forlater nettverket ditt.",
+          "<strong>Varslinger</strong>: varsler om passeringer, nordlys og klare netter, laget på enheten din." ] } ] },
+      { "h": "Loggboken din og iCloud", "blocks": [
+        { "p": "Observasjonsloggboken din (inkludert bildene du legger til i den), favorittstedene, innstillingene og kveldene dine lagres på enheten din. Hvis du slår på iCloud-synkronisering, lagres de også i din egen iCloud-konto, som administreres av Apple, slik at du finner dem igjen på de andre enhetene dine. Utvikleren har ikke tilgang til dem." } ] },
+      { "h": "Delte kvelder", "blocks": [
+        { "p": "Når du deler en observasjonskveld, inneholder lenken opplysningene i invitasjonen: tittel, stedets navn og koordinater, dato, fornavnet eller kallenavnet ditt og notatet ditt. Alle som mottar lenken, kan lese dem. Invitasjonssiden på dette nettstedet viser dem direkte i nettleseren, uten å lagre dem på noen server. Nettstedet driftes av GitHub Pages, som kan oppbevare tekniske tilkoblingslogger." } ] },
+      { "h": "Reklame og sporing", "blocks": [
+        { "p": "Nuit Claire inneholder ingen reklame, ingen sporere og ingen verktøy for analyse eller bruksstatistikk." } ] },
+      { "h": "Barn", "blocks": [
+        { "p": "Appen samler ikke inn noen opplysninger og passer for alle aldre." } ] },
+      { "h": "Endringer", "blocks": [
+        { "p": "Hvis denne erklæringen endres, blir den nye versjonen publisert på denne siden sammen med datoen for oppdateringen." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "Spørsmål om denne erklæringen: {email}" } ] }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "Fotokútik pre vaše večierky na iPade a iPhone",
+    "contact": "S otázkami alebo hlásením chýb mi napíšte:<br>{email}",
+    "faq": [
+      { "q": "Aké fotoaparáty môžem použiť?",
+        "a": "Fotoaparát iPadu alebo iPhonu, fotoaparát s Wi-Fi (Lumix, Canon), kameru GoPro (Wi-Fi a Bluetooth) alebo HDMI záznamovú kartu." },
+      { "q": "Môj Wi-Fi fotoaparát sa nerozpoznal, čo robiť?",
+        "a": "Skontrolujte, či je iPad pripojený k Wi-Fi fotoaparátu a či má Flashbooth povolenie „Lokálna sieť“ v Nastavenia › Flashbooth." },
+      { "q": "Ako si hostia získajú svoje fotky?",
+        "a": "Cez AirDrop, Správy, Mail alebo uložením do Fotiek. Ak zapnete online galériu, QR kód sprístupní stránku udalosti." },
+      { "q": "Ako funguje online galéria?",
+        "a": "Je to voliteľná funkcia, ktorá je predvolene vypnutá. Odosiela fotky z udalosti na server, ktorého adresu a prístupový kľúč zadáte sami. Fotky uložené na tomto serveri môžete kedykoľvek vymazať priamo z aplikácie." },
+      { "q": "Ako zabrániť hosťom opustiť aplikáciu?",
+        "a": "Použite režim kiosku vo Flashboothe a zapnite Asistovaný prístup v iOS (Nastavenia › Prístupnosť › Asistovaný prístup), aby ste iPad uzamkli v aplikácii." }
+    ],
+    "privacy_summary": "Flashbooth nezhromažďuje žiadne osobné údaje. Fotky zostávajú vo vašom zariadení, pokiaľ sa ich sami nerozhodnete zdieľať."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "V skratke", "blocks": [
+        { "p": "Flashbooth nezhromažďuje žiadne osobné údaje a vývojár nemá prístup k žiadnej fotke. Fotky nasnímané počas vašich udalostí sa ukladajú vo vašom zariadení. Opúšťajú ho iba vtedy, keď ich zdieľate, alebo ak sami zapnete online galériu či kopírovanie do priečinka." } ] },
+      { "h": "Fotky", "blocks": [
+        { "p": "Fotky, fotopásy a GIFy sa uchovávajú v albume udalosti vo vašom zariadení. Môžete ich kedykoľvek vymazať priamo z aplikácie; odstránením aplikácie sa vymažú tiež." } ] },
+      { "h": "Zdieľanie", "blocks": [
+        { "p": "Zdieľanie prebieha pomocou nástrojov iOS (AirDrop, Správy, Mail, Fotky, tlač…). E-mailové adresy alebo telefónne čísla zadané v týchto oknách spravuje iOS: Flashbooth ich nečíta ani neuchováva." } ] },
+      { "h": "Voliteľné funkcie", "blocks": [
+        { "ul": [
+          "<strong>Online galéria</strong> (predvolene vypnutá): odosiela fotky z udalosti na server, ktorého adresu zadáte, aby boli dostupné cez QR kód. Tento server si vyberáte a spravujete vy, nie vývojár. Jeho prístupový kľúč je uložený v zabezpečenej kľúčenke zariadenia. Fotky možno zo servera vymazať priamo z aplikácie.",
+          "<strong>Kopírovanie do priečinka</strong> (predvolene vypnuté): skopíruje album do priečinka, ktorý si zvolíte (iCloud Drive alebo iná služba z aplikácie Súbory). Súbory potom podliehajú podmienkam danej služby." ] } ] },
+      { "h": "Požadované povolenia", "blocks": [
+        { "p": "Každé povolenie sa vyžiada až vo chvíli, keď danú funkciu použijete, a môžete ho kedykoľvek odobrať v Nastaveniach svojho zariadenia." },
+        { "ul": [
+          "<strong>Fotoaparát</strong>: na snímanie fotiek počas fotenia.",
+          "<strong>Bluetooth</strong>: na ovládanie kamery GoPro.",
+          "<strong>Lokálna sieť</strong>: na pripojenie k Wi-Fi fotoaparátom (Lumix, Canon, GoPro) a k vašej galérii v lokálnej sieti.",
+          "<strong>Fotky (iba pridávanie)</strong>: na ukladanie fotopásov a GIFov do aplikácie Fotky. Aplikácia vašu knižnicu fotiek nečíta." ] } ] },
+      { "h": "Organizátori a hostia", "blocks": [
+        { "p": "Ak Flashbooth používate na udalosti, nesiete zodpovednosť za nasnímané fotky a ich šírenie. Nezabudnite informovať svojich hostí, najmä ak je zapnutá online galéria." } ] },
+      { "h": "Reklama a sledovanie", "blocks": [
+        { "p": "Flashbooth neobsahuje žiadnu reklamu, žiadne sledovacie prvky ani nástroje na analýzu či štatistiky používania." } ] },
+      { "h": "Zmeny", "blocks": [
+        { "p": "Ak sa tieto zásady zmenia, nová verzia bude zverejnená na tejto stránke s dátumom aktualizácie." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "S otázkami k týmto zásadám sa obráťte na: {email}" } ] }
+    ]
+  }
+}
