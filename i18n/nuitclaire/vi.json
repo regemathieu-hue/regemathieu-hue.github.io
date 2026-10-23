@@ -1,0 +1,57 @@
+{
+  "support": {
+    "subtitle": "Không bỏ lỡ điều gì trên bầu trời đêm",
+    "contact": "Có câu hỏi, ý tưởng hay gặp lỗi? Viết thư cho mình nhé:<br>{email}",
+    "faq": [
+      { "q": "Vì sao ứng dụng hỏi vị trí của tôi?",
+        "a": "Giờ vệ tinh bay qua, thời điểm trời tối hẳn và thời tiết phụ thuộc vào nơi bạn quan sát. Vị trí của bạn được giữ trên điện thoại; chỉ một vị trí làm tròn khoảng 1 km được gửi đến các dịch vụ thời tiết. Bạn cũng có thể tự chọn một thành phố trong cài đặt mà không cần bật định vị." },
+      { "q": "Tôi không nhận được cảnh báo, vì sao?",
+        "a": "Hãy kiểm tra xem thông báo của Nuit Claire đã được cho phép trong Cài đặt của iOS chưa. Cảnh báo chỉ được gửi khi bầu trời nơi bạn ở dự báo quang đãng: một đêm nhiều mây sẽ không kích hoạt cảnh báo, kể cả khi ISS bay qua rất đẹp." },
+      { "q": "Những kính thiên văn nào tương thích?",
+        "a": "Các chân đế có thể điều khiển qua bộ chuyển đổi Wi-Fi SkyFi, Celestron hoặc OnStep. iPhone của bạn và bộ chuyển đổi phải ở cùng một mạng Wi-Fi." },
+      { "q": "Làm sao để xem nhật ký của tôi trên thiết bị khác?",
+        "a": "Bật “Đồng bộ với iCloud” trong cài đặt của ứng dụng. Nhật ký, địa điểm, cài đặt và các buổi quan sát của bạn sẽ theo tài khoản iCloud của bạn." },
+      { "q": "Làm sao để mời bạn bè đến một buổi quan sát?",
+        "a": "Tạo một buổi quan sát trong ứng dụng rồi chia sẻ liên kết. Bạn bè của bạn sẽ thấy lời mời trong trình duyệt và có thể mở trực tiếp trong Nuit Claire." }
+    ],
+    "privacy_summary": "Nuit Claire không thu thập bất kỳ dữ liệu cá nhân nào và không chứa quảng cáo hay trình theo dõi."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Tóm tắt", "blocks": [
+        { "p": "Nuit Claire không thu thập bất kỳ dữ liệu cá nhân nào và không có máy chủ riêng. Các phép tính (vệ tinh bay qua, vị trí các thiên thể, thời điểm trời tối hẳn) được thực hiện trên thiết bị của bạn. Chỉ những thông tin thực sự cần thiết mới được gửi đến một vài dịch vụ công khai, được mô tả dưới đây." } ] },
+      { "h": "Vị trí của bạn", "blocks": [
+        { "p": "Vị trí của bạn dùng để tính giờ vệ tinh bay qua, giờ ban đêm và thời tiết bầu trời nơi bạn ở. Vị trí chỉ được dùng khi ứng dụng đang mở và được lưu trên thiết bị của bạn." },
+        { "p": "Để lấy thời tiết, một vị trí <strong>làm tròn khoảng 1 km</strong> được gửi đến Open-Meteo và 7Timer!. Bạn cũng có thể từ chối định vị và tự chọn một thành phố: khi đó tên bạn nhập sẽ được gửi đến dịch vụ tìm kiếm thành phố của Open-Meteo." } ] },
+      { "h": "Dịch vụ được sử dụng", "blocks": [
+        { "p": "Ứng dụng tải dữ liệu công khai từ các dịch vụ sau. Không có định danh hay thông tin cá nhân nào được gửi cho họ; như với mọi kết nối internet, họ nhìn thấy địa chỉ IP của yêu cầu." },
+        { "ul": [
+          "<a href=\"https://open-meteo.com\">Open-Meteo</a>: dự báo mây và tìm kiếm thành phố (vị trí làm tròn hoặc tên thành phố).",
+          "<a href=\"https://www.7timer.info\">7Timer!</a>: dự báo thiên văn (vị trí làm tròn).",
+          "<a href=\"https://celestrak.org\">CelesTrak</a>: quỹ đạo vệ tinh.",
+          "<a href=\"https://www.swpc.noaa.gov\">NOAA SWPC</a>: hoạt động mặt trời và dự báo cực quang.",
+          "<a href=\"https://minorplanetcenter.net\">Minor Planet Center</a>: quỹ đạo sao chổi." ] } ] },
+      { "h": "Quyền được yêu cầu", "blocks": [
+        { "p": "Mỗi quyền chỉ được yêu cầu khi bạn sử dụng tính năng liên quan, và bạn có thể thu hồi trong Cài đặt của thiết bị." },
+        { "ul": [
+          "<strong>Vị trí</strong>: xem ở trên. Trên Apple Watch, vị trí còn giúp la bàn chỉ hướng về các vệ tinh.",
+          "<strong>Camera</strong>: hiển thị bầu trời phía sau các điểm đánh dấu trong chế độ xem “Nhìn về đâu”. Không có hình ảnh nào được ghi lại.",
+          "<strong>Chuyển động</strong>: hướng chế độ xem “Nhìn về đâu” về phần bầu trời bạn đang nhắm tới.",
+          "<strong>Lịch (chỉ thêm)</strong>: thêm các sự kiện thiên văn bạn chọn. Ứng dụng không đọc lịch của bạn.",
+          "<strong>Mạng cục bộ</strong>: kết nối với bộ chuyển đổi Wi-Fi của kính thiên văn để điều khiển hướng. Không có gì rời khỏi mạng của bạn.",
+          "<strong>Thông báo</strong>: cảnh báo vệ tinh bay qua, cực quang và đêm trời quang, được tạo trên thiết bị của bạn." ] } ] },
+      { "h": "Nhật ký của bạn và iCloud", "blocks": [
+        { "p": "Nhật ký quan sát của bạn (bao gồm cả ảnh bạn thêm vào), các địa điểm yêu thích, cài đặt và các buổi quan sát được lưu trên thiết bị của bạn. Nếu bạn bật đồng bộ iCloud, chúng cũng được lưu trong tài khoản iCloud của riêng bạn, do Apple quản lý, để bạn tìm lại trên các thiết bị khác. Nhà phát triển không có quyền truy cập vào chúng." } ] },
+      { "h": "Buổi quan sát được chia sẻ", "blocks": [
+        { "p": "Khi bạn chia sẻ một buổi quan sát, liên kết chứa thông tin lời mời: tiêu đề, tên và tọa độ địa điểm, ngày, tên hoặc biệt danh của bạn và ghi chú của bạn. Bất kỳ ai nhận được liên kết đều có thể đọc chúng. Trang lời mời của trang web này hiển thị chúng trực tiếp trong trình duyệt mà không lưu lên máy chủ. Trang web này được lưu trữ bởi GitHub Pages, nơi có thể giữ nhật ký kỹ thuật về kết nối." } ] },
+      { "h": "Quảng cáo và theo dõi", "blocks": [
+        { "p": "Nuit Claire không chứa quảng cáo, không có trình theo dõi và không có công cụ phân tích hay thống kê sử dụng nào." } ] },
+      { "h": "Trẻ em", "blocks": [
+        { "p": "Ứng dụng không thu thập bất kỳ dữ liệu nào và phù hợp với mọi lứa tuổi." } ] },
+      { "h": "Thay đổi", "blocks": [
+        { "p": "Nếu chính sách này thay đổi, phiên bản mới sẽ được đăng trên trang này kèm ngày cập nhật." } ] },
+      { "h": "Liên hệ", "blocks": [
+        { "p": "Mọi câu hỏi về chính sách này: {email}" } ] }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "La caixa d'eines per als seus fitxers, a l'iPhone, l'iPad i el Mac",
+    "contact": "Per a qualsevol pregunta, suggeriment o informe d'error, escrigui'm:<br>{email}",
+    "faq": [
+      { "q": "Els meus fitxers s'envien a un servidor?",
+        "a": "No. Totes les conversions, compressions i retocs es fan directament al seu dispositiu. L'aplicació no envia cap fitxer a internet." },
+      { "q": "Cal connexió a internet?",
+        "a": "No, les eines funcionen sense connexió. Només la traducció pot demanar-li descarregar un idioma el primer cop des de la configuració d'Apple, i la compra d'Atelier Pro es fa a través de l'App Store." },
+      { "q": "Què inclou la versió gratuïta?",
+        "a": "Totes les eines, sense marca d'aigua, amb un límit de 3 operacions al dia. Atelier Pro elimina aquest límit." },
+      { "q": "He canviat de dispositiu, com recupero Atelier Pro?",
+        "a": "Obri la pantalla d'Atelier Pro i toqui «Restaura les compres». Faci servir el mateix compte d'Apple que va utilitzar per a la compra." },
+      { "q": "Com esborro l'historial?",
+        "a": "A l'historial, llisqui una fila per esborrar-la, o faci servir «Esborra tot l'historial»." }
+    ],
+    "privacy_summary": "Atelier Fichiers no recull cap dada personal. Els seus fitxers es queden al seu dispositiu."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "En resum", "blocks": [
+        { "p": "Atelier Fichiers no recull, no emmagatzema en cap servidor ni transmet cap dada personal. Tot el processament de fitxers té lloc al seu dispositiu. El desenvolupador no té accés a cap dels seus fitxers ni a cap informació sobre vostè." } ] },
+      { "h": "Els seus fitxers", "blocks": [
+        { "p": "Els fitxers que obre a l'aplicació (documents, PDF, imatges, àudio, vídeos, arxius comprimits…) es processen localment i es desen al lloc que vostè triï. L'aplicació no els envia mai a internet." },
+        { "p": "L'historial d'operacions es conserva únicament al seu dispositiu. Pot esborrar-lo en qualsevol moment des de l'aplicació." } ] },
+      { "h": "Permisos sol·licitats", "blocks": [
+        { "p": "Cada permís només es demana en el moment en què fa servir la funció corresponent, i pot retirar-lo a la Configuració del seu dispositiu." },
+        { "ul": [
+          "<strong>Càmera</strong>: per escanejar documents i llegir codis. Les imatges es queden al dispositiu.",
+          "<strong>Fotos (només afegir)</strong>: per desar les imatges convertides a la seva fototeca. L'aplicació no llegeix la seva fototeca; és vostè qui tria les fotos que vol importar.",
+          "<strong>Reconeixement de veu</strong>: per transcriure les seves gravacions a text i crear subtítols. La transcripció es fa al dispositiu, sense enviar res.",
+          "<strong>Notificacions</strong>: per avisar-lo quan ha acabat un procés llarg. Aquestes notificacions es generen localment." ] } ] },
+      { "h": "Funcions intel·ligents i traducció", "blocks": [
+        { "p": "Els resums, l'extracció de receptes o la lectura de targetes de visita fan servir el model d'Apple Intelligence integrat al dispositiu. La traducció fa servir el servei de traducció d'Apple al dispositiu: només la descàrrega d'idiomes passa per Apple. En tots dos casos, els seus textos no es transmeten al desenvolupador." } ] },
+      { "h": "Compres integrades", "blocks": [
+        { "p": "La compra d'Atelier Pro la gestiona íntegrament Apple a través de l'App Store. L'aplicació només comprova si s'ha fet la compra; no rep cap dada de pagament. El comptador d'operacions gratuïtes es desa al seu dispositiu." } ] },
+      { "h": "Publicitat i seguiment", "blocks": [
+        { "p": "Atelier Fichiers no conté cap publicitat, cap rastrejador ni cap eina d'anàlisi o d'estadístiques d'ús." } ] },
+      { "h": "Menors", "blocks": [
+        { "p": "L'aplicació no recull cap dada i és apta per a totes les edats." } ] },
+      { "h": "Modificacions", "blocks": [
+        { "p": "Si aquesta política canvia, la nova versió es publicarà en aquesta pàgina amb la seva data d'actualització." } ] },
+      { "h": "Contacte", "blocks": [
+        { "p": "Per a qualsevol pregunta sobre aquesta política: {email}" } ] }
+    ]
+  }
+}

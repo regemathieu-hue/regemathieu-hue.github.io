@@ -1,0 +1,16 @@
+{
+  "lang": "he",
+  "dir": "rtl",
+  "name": "עברית",
+  "support_title": "תמיכה",
+  "privacy_title": "מדיניות פרטיות",
+  "contact_h": "יצירת קשר",
+  "faq_h": "שאלות נפוצות",
+  "privacy_h": "מדיניות פרטיות",
+  "read_full_privacy": "לקריאת מדיניות הפרטיות המלאה ←",
+  "back_to_support": "→ חזרה לתמיכה",
+  "updated": "עדכון אחרון: {date}",
+  "all_apps": "כל האפליקציות שלי",
+  "other_languages": "שפות אחרות",
+  "language_list_h": "דף זה בשפות אחרות"
+}

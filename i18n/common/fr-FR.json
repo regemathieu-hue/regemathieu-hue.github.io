@@ -1,0 +1,16 @@
+{
+  "lang": "fr-FR",
+  "dir": "ltr",
+  "name": "Français (France)",
+  "support_title": "Support",
+  "privacy_title": "Politique de confidentialité",
+  "contact_h": "Contact",
+  "faq_h": "FAQ",
+  "privacy_h": "Politique de confidentialité",
+  "read_full_privacy": "Lire la politique de confidentialité complète →",
+  "back_to_support": "← Retour au support",
+  "updated": "Dernière mise à jour : {date}",
+  "all_apps": "Toutes mes applications",
+  "other_languages": "Autres langues",
+  "language_list_h": "Cette page dans d'autres langues"
+}

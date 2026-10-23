@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "Photobooth za vaše zabave na iPadu i iPhoneu",
+    "contact": "Za sva pitanja ili prijave grešaka pišite mi:<br>{email}",
+    "faq": [
+      { "q": "Koje fotoaparate mogu koristiti?",
+        "a": "Kameru iPada ili iPhonea, Wi-Fi fotoaparat (Lumix, Canon), GoPro (Wi-Fi i Bluetooth) ili HDMI karticu za snimanje." },
+      { "q": "Moj Wi-Fi fotoaparat nije otkriven, što učiniti?",
+        "a": "Provjerite je li iPad povezan s Wi-Fi mrežom fotoaparata i ima li Flashbooth dozvolu „Lokalna mreža“ u Postavke › Flashbooth." },
+      { "q": "Kako gosti dobivaju svoje fotografije?",
+        "a": "Putem AirDropa, Poruka, Maila ili spremanjem u Foto. Ako uključite online galeriju, QR kod daje pristup stranici događaja." },
+      { "q": "Kako funkcionira online galerija?",
+        "a": "To je opcija koja je prema zadanim postavkama isključena. Šalje fotografije događaja na poslužitelj čiju adresu i pristupni ključ sami unosite. Fotografije pohranjene na tom poslužitelju možete u bilo kojem trenutku obrisati iz aplikacije." },
+      { "q": "Kako spriječiti goste da izađu iz aplikacije?",
+        "a": "Koristite kiosk način rada aplikacije Flashbooth i uključite Vođeni pristup u iOS-u (Postavke › Pristupačnost › Vođeni pristup) kako biste zaključali iPad na aplikaciju." }
+    ],
+    "privacy_summary": "Flashbooth ne prikuplja nikakve osobne podatke. Fotografije ostaju na vašem uređaju, osim ako ih ne odlučite podijeliti."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Ukratko", "blocks": [
+        { "p": "Flashbooth ne prikuplja nikakve osobne podatke i razvojni programer nema pristup nijednoj fotografiji. Fotografije snimljene tijekom vaših događaja spremaju se na vaš uređaj. Napuštaju ga samo kada ih podijelite ili ako sami uključite online galeriju ili kopiranje u mapu." } ] },
+      { "h": "Fotografije", "blocks": [
+        { "p": "Fotografije, foto-trake i GIF-ovi čuvaju se u albumu događaja, na vašem uređaju. Možete ih obrisati u bilo kojem trenutku iz aplikacije; brisanje aplikacije također ih briše." } ] },
+      { "h": "Dijeljenje", "blocks": [
+        { "p": "Dijeljenje se odvija putem alata iOS-a (AirDrop, Poruke, Mail, Foto, ispis…). Adresama e-pošte ili brojevima unesenima u te prozore upravlja iOS: Flashbooth ih ne čita i ne čuva." } ] },
+      { "h": "Neobavezne opcije", "blocks": [
+        { "ul": [
+          "<strong>Online galerija</strong> (prema zadanim postavkama isključena): šalje fotografije događaja na poslužitelj čiju adresu unesete, kako bi bile dostupne putem QR koda. Taj poslužitelj birate i njime upravljate vi, a ne razvojni programer. Njegov pristupni ključ pohranjen je u sigurnom privjesku ključeva uređaja. Fotografije se mogu obrisati s poslužitelja iz aplikacije.",
+          "<strong>Kopiranje u mapu</strong> (prema zadanim postavkama isključeno): kopira album u mapu koju odaberete (iCloud Drive ili druga usluga u aplikaciji Datoteke). Datoteke tada podliježu uvjetima te usluge." ] } ] },
+      { "h": "Zatražene dozvole", "blocks": [
+        { "p": "Svaka se dozvola traži tek u trenutku kada koristite dotičnu funkciju, a možete je opozvati u Postavkama svog uređaja." },
+        { "ul": [
+          "<strong>Kamera</strong>: za snimanje fotografija tijekom sesije.",
+          "<strong>Bluetooth</strong>: za upravljanje GoPro kamerom.",
+          "<strong>Lokalna mreža</strong>: za povezivanje s Wi-Fi fotoaparatima (Lumix, Canon, GoPro) i s vašom galerijom na lokalnoj mreži.",
+          "<strong>Foto (samo dodavanje)</strong>: za spremanje foto-traka i GIF-ova u aplikaciju Foto. Aplikacija ne čita vašu fototeku." ] } ] },
+      { "h": "Organizatori i gosti", "blocks": [
+        { "p": "Ako koristite Flashbooth na nekom događaju, odgovorni ste za snimljene fotografije i njihovo širenje. Ne zaboravite obavijestiti svoje goste, osobito ako je uključena online galerija." } ] },
+      { "h": "Oglašavanje i praćenje", "blocks": [
+        { "p": "Flashbooth ne sadrži nikakve oglase, alate za praćenje ni alate za analitiku ili statistiku korištenja." } ] },
+      { "h": "Izmjene", "blocks": [
+        { "p": "Ako se ova pravila promijene, nova verzija bit će objavljena na ovoj stranici s datumom ažuriranja." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "Za sva pitanja u vezi s ovim pravilima: {email}" } ] }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "El fotomaton de les seves festes a l'iPad i l'iPhone",
+    "contact": "Per a qualsevol pregunta o informe d'error, escrigui'm:<br>{email}",
+    "faq": [
+      { "q": "Quines càmeres puc fer servir?",
+        "a": "La càmera de l'iPad o de l'iPhone, una càmera amb Wi-Fi (Lumix, Canon), una GoPro (Wi-Fi i Bluetooth) o una capturadora HDMI." },
+      { "q": "La meva càmera Wi-Fi no es detecta, què faig?",
+        "a": "Comprovi que l'iPad està connectat al Wi-Fi de la càmera i que Flashbooth té el permís «Xarxa local» a Configuració › Flashbooth." },
+      { "q": "Com recuperen els convidats les seves fotos?",
+        "a": "Per AirDrop, Missatges, Mail o desant-les a Fotos. Si activa la galeria en línia, un codi QR dona accés a la pàgina de l'esdeveniment." },
+      { "q": "Com funciona la galeria en línia?",
+        "a": "És una opció desactivada per defecte. Envia les fotos de l'esdeveniment a un servidor l'adreça i la clau d'accés del qual introdueix vostè. Pot eliminar en qualsevol moment les fotos emmagatzemades en aquest servidor des de l'aplicació." },
+      { "q": "Com evito que els convidats surtin de l'aplicació?",
+        "a": "Faci servir el mode quiosc de Flashbooth i activi l'Accés guiat d'iOS (Configuració › Accessibilitat › Accés guiat) per bloquejar l'iPad a l'app." }
+    ],
+    "privacy_summary": "Flashbooth no recull cap dada personal. Les fotos es queden al seu dispositiu, llevat que decideixi compartir-les."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "En resum", "blocks": [
+        { "p": "Flashbooth no recull cap dada personal i el desenvolupador no té accés a cap foto. Les fotos fetes durant els seus esdeveniments es desen al seu dispositiu. Només en surten quan vostè les comparteix, o si és vostè qui activa la galeria en línia o la còpia a una carpeta." } ] },
+      { "h": "Les fotos", "blocks": [
+        { "p": "Les fotos, les tires i els GIF es conserven a l'àlbum de l'esdeveniment, al seu dispositiu. Pot eliminar-les en qualsevol moment des de l'aplicació; en eliminar l'aplicació també s'esborren." } ] },
+      { "h": "Compartir", "blocks": [
+        { "p": "Per compartir es fan servir les eines d'iOS (AirDrop, Missatges, Mail, Fotos, impressió…). Les adreces de correu o els números introduïts en aquestes finestres els gestiona iOS: Flashbooth no els llegeix ni els conserva." } ] },
+      { "h": "Opcions facultatives", "blocks": [
+        { "ul": [
+          "<strong>Galeria en línia</strong> (desactivada per defecte): envia les fotos de l'esdeveniment al servidor l'adreça del qual introdueix vostè, perquè siguin accessibles mitjançant un codi QR. Aquest servidor el tria i el gestiona vostè, no el desenvolupador. La seva clau d'accés es desa al clauer segur del dispositiu. Les fotos es poden eliminar del servidor des de l'aplicació.",
+          "<strong>Còpia en una carpeta</strong> (desactivada per defecte): copia l'àlbum a la carpeta que vostè triï (iCloud Drive o un altre servei de l'app Fitxers). Els fitxers queden llavors subjectes a les condicions d'aquest servei." ] } ] },
+      { "h": "Permisos sol·licitats", "blocks": [
+        { "p": "Cada permís només es demana en el moment en què fa servir la funció corresponent, i pot retirar-lo a la Configuració del seu dispositiu." },
+        { "ul": [
+          "<strong>Càmera</strong>: per fer les fotos de la sessió.",
+          "<strong>Bluetooth</strong>: per controlar una GoPro.",
+          "<strong>Xarxa local</strong>: per connectar-se a les càmeres Wi-Fi (Lumix, Canon, GoPro) i a la seva galeria a la xarxa local.",
+          "<strong>Fotos (només afegir)</strong>: per desar les tires i els GIF a l'app Fotos. L'aplicació no llegeix la seva fototeca." ] } ] },
+      { "h": "Organitzadors i convidats", "blocks": [
+        { "p": "Si fa servir Flashbooth en un esdeveniment, vostè és responsable de les fotos que es facin i de la seva difusió. Recordi informar els seus convidats, sobretot si la galeria en línia està activada." } ] },
+      { "h": "Publicitat i seguiment", "blocks": [
+        { "p": "Flashbooth no conté cap publicitat, cap rastrejador ni cap eina d'anàlisi o d'estadístiques d'ús." } ] },
+      { "h": "Modificacions", "blocks": [
+        { "p": "Si aquesta política canvia, la nova versió es publicarà en aquesta pàgina amb la seva data d'actualització." } ] },
+      { "h": "Contacte", "blocks": [
+        { "p": "Per a qualsevol pregunta sobre aquesta política: {email}" } ] }
+    ]
+  }
+}

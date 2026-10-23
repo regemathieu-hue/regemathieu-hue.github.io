@@ -1,0 +1,57 @@
+{
+  "support": {
+    "subtitle": "Už ti na noční obloze nic neunikne",
+    "contact": "Dotaz, nápad nebo chyba? Napiš mi:<br>{email}",
+    "faq": [
+      { "q": "Proč aplikace žádá o moji polohu?",
+        "a": "Časy přeletů satelitů, astronomická noc i počasí závisí na tom, odkud pozoruješ. Tvoje poloha zůstává v telefonu; meteorologickým službám se odesílá pouze poloha zaokrouhlená na přibližně 1 km. V nastavení si také můžeš ručně vybrat město bez zapnutí polohových služeb." },
+      { "q": "Nedostávám upozornění, proč?",
+        "a": "Zkontroluj, zda jsou oznámení Nuit Claire povolena v Nastavení iOS. Upozornění se odesílají jen tehdy, když se u tebe očekává jasná obloha: zatažená noc upozornění nespustí, ani při pěkném přeletu ISS." },
+      { "q": "Které dalekohledy jsou kompatibilní?",
+        "a": "Montáže ovladatelné přes Wi-Fi adaptér SkyFi, Celestron nebo OnStep. Tvůj iPhone a adaptér musí být ve stejné Wi-Fi síti." },
+      { "q": "Jak najdu svůj deník na jiném zařízení?",
+        "a": "Zapni „Synchronizovat s iCloudem“ v nastavení aplikace. Tvůj deník, místa, nastavení i pozorovací večery tě budou následovat s tvým účtem iCloud." },
+      { "q": "Jak pozvat přátele na pozorovací večer?",
+        "a": "Vytvoř v aplikaci večer a sdílej odkaz. Přátelé uvidí pozvánku v prohlížeči a mohou ji otevřít přímo v Nuit Claire." }
+    ],
+    "privacy_summary": "Nuit Claire neshromažďuje žádné osobní údaje a neobsahuje reklamu ani sledovací prvky."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Stručně", "blocks": [
+        { "p": "Nuit Claire neshromažďuje žádné osobní údaje a nemá žádný server. Výpočty (přelety satelitů, polohy nebeských těles, astronomická noc) probíhají v tvém zařízení. Několika veřejným službám popsaným níže se odesílají pouze nezbytně nutné informace." } ] },
+      { "h": "Tvoje poloha", "blocks": [
+        { "p": "Tvoje poloha slouží k výpočtu přeletů satelitů, hodin noci a počasí nad tvou oblohou. Používá se pouze při otevřené aplikaci a zůstává uložená v tvém zařízení." },
+        { "p": "Pro počasí se službám Open-Meteo a 7Timer! odesílá poloha <strong>zaokrouhlená na přibližně 1 km</strong>. Můžeš také polohu odmítnout a vybrat město ručně: zadaný název se pak odešle službě pro vyhledávání měst Open-Meteo." } ] },
+      { "h": "Používané služby", "blocks": [
+        { "p": "Aplikace stahuje veřejná data od následujících služeb. Nepředává jim žádné identifikátory ani osobní údaje; jako u každého internetového připojení vidí IP adresu požadavku." },
+        { "ul": [
+          "<a href=\"https://open-meteo.com\">Open-Meteo</a>: předpověď oblačnosti a vyhledávání měst (zaokrouhlená poloha nebo název města).",
+          "<a href=\"https://www.7timer.info\">7Timer!</a>: astronomická předpověď (zaokrouhlená poloha).",
+          "<a href=\"https://celestrak.org\">CelesTrak</a>: dráhy satelitů.",
+          "<a href=\"https://www.swpc.noaa.gov\">NOAA SWPC</a>: sluneční aktivita a předpověď polárních září.",
+          "<a href=\"https://minorplanetcenter.net\">Minor Planet Center</a>: dráhy komet." ] } ] },
+      { "h": "Požadovaná oprávnění", "blocks": [
+        { "p": "Každé oprávnění je vyžádáno až ve chvíli, kdy danou funkci použiješ, a můžeš je kdykoli odebrat v Nastavení svého zařízení." },
+        { "ul": [
+          "<strong>Poloha</strong>: viz výše. Na Apple Watch navíc natáčí kompas směrem k satelitům.",
+          "<strong>Fotoaparát</strong>: zobrazuje oblohu za značkami v zobrazení „Kam se dívat“. Žádné snímky se neukládají.",
+          "<strong>Pohyb</strong>: natáčí zobrazení „Kam se dívat“ k části oblohy, na kterou míříš.",
+          "<strong>Kalendář (pouze přidávání)</strong>: přidává nebeské události, které si vybereš. Aplikace tvůj kalendář nečte.",
+          "<strong>Místní síť</strong>: připojuje se k Wi-Fi adaptéru tvého dalekohledu, aby ho mohla navádět. Nic neopouští tvou síť.",
+          "<strong>Oznámení</strong>: upozornění na přelety, polární záře a jasné noci, vytvářená v tvém zařízení." ] } ] },
+      { "h": "Tvůj deník a iCloud", "blocks": [
+        { "p": "Tvůj pozorovací deník (včetně fotek, které do něj přidáš), oblíbená místa, nastavení a pozorovací večery jsou uloženy v tvém zařízení. Pokud zapneš synchronizaci s iCloudem, ukládají se také do tvého vlastního účtu iCloud spravovaného společností Apple, aby byly dostupné i na tvých dalších zařízeních. Vývojář k nim nemá přístup." } ] },
+      { "h": "Sdílené večery", "blocks": [
+        { "p": "Když sdílíš pozorovací večer, odkaz obsahuje údaje z pozvánky: název, jméno a souřadnice místa, datum, tvoje křestní jméno nebo přezdívku a tvou poznámku. Každý, kdo odkaz obdrží, si je může přečíst. Stránka s pozvánkou na tomto webu je zobrazuje přímo v prohlížeči, aniž by je ukládala na server. Web je hostován službou GitHub Pages, která může uchovávat technické záznamy o připojení." } ] },
+      { "h": "Reklama a sledování", "blocks": [
+        { "p": "Nuit Claire neobsahuje žádnou reklamu, žádné sledovací prvky ani nástroje pro analýzu či statistiky používání." } ] },
+      { "h": "Děti", "blocks": [
+        { "p": "Aplikace neshromažďuje žádné údaje a je vhodná pro všechny věkové kategorie." } ] },
+      { "h": "Změny", "blocks": [
+        { "p": "Pokud se tyto zásady změní, nová verze bude zveřejněna na této stránce s datem aktualizace." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "S dotazy k těmto zásadám se obraťte na: {email}" } ] }
+    ]
+  }
+}

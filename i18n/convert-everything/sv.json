@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Universell omvandlingsapp för iOS",
+    "contact": "Har du frågor eller vill rapportera en bugg? Kontakta oss via e-post:<br>{email}",
+    "faq": [
+      { "q": "Uppdateras valutakurserna i realtid?",
+        "a": "Valutakurserna uppdateras varje gång appen öppnas om det finns en internetanslutning. En internetanslutning krävs för att få de senaste kurserna." },
+      { "q": "Fungerar appen utan internet?",
+        "a": "Ja, alla omvandlingar utom valutor fungerar offline. Valutaomvandlingar använder den senast sparade kursen." },
+      { "q": "Hur byter jag språk i appen?",
+        "a": "Språket kan ändras direkt i appens inställningar. Fler än 16 språk finns tillgängliga." }
+    ],
+    "privacy_summary": "Convert Everything samlar inte in några personuppgifter. Ingen information skickas till tredjepartsservrar."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Datainsamling", "blocks": [
+        { "p": "Convert Everything samlar inte in, lagrar inte och överför inga personuppgifter. Appen fungerar helt lokalt på din enhet." } ] },
+      { "h": "Data som används", "blocks": [
+        { "p": "Appen använder endast följande resurser:" },
+        { "ul": [
+          "<strong>Internet</strong> – endast för att hämta valutakurser från ett offentligt API. Inga personuppgifter skickas." ] } ] },
+      { "h": "Tredjepartstjänster", "blocks": [
+        { "p": "Valutakurserna tillhandahålls av <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, ett kostnadsfritt offentligt API. Inga användaruppgifter skickas vid den här förfrågan." } ] },
+      { "h": "Reklam och spårning", "blocks": [
+        { "p": "Convert Everything innehåller ingen reklam, inga spårare och ingen SDK för beteendeanalys." } ] },
+      { "h": "Barn", "blocks": [
+        { "p": "Den här appen samlar inte in några uppgifter och passar alla åldrar." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "Frågor om den här policyn: {email}" } ] }
+    ]
+  }
+}

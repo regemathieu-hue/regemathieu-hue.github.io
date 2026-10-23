@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "iPhone, iPad ve Mac'te dosyalarınız için araç kutusu",
+    "contact": "Her türlü soru, öneri veya hata bildirimi için bana yazın:<br>{email}",
+    "faq": [
+      { "q": "Dosyalarım bir sunucuya gönderiliyor mu?",
+        "a": "Hayır. Tüm dönüştürme, sıkıştırma ve düzenleme işlemleri doğrudan aygıtınızda yapılır. Uygulama hiçbir dosyayı internete göndermez." },
+      { "q": "İnternet bağlantısı gerekli mi?",
+        "a": "Hayır, araçlar çevrimdışı çalışır. Yalnızca çeviri özelliği, bir dili Apple ayarlarından ilk kez indirmenizi isteyebilir; Atelier Pro satın alma işlemi ise App Store üzerinden yapılır." },
+      { "q": "Ücretsiz sürüm neleri içeriyor?",
+        "a": "Tüm araçları, filigransız olarak, günde 3 işlem sınırıyla. Atelier Pro bu sınırı kaldırır." },
+      { "q": "Aygıt değiştirdim, Atelier Pro'yu nasıl geri alırım?",
+        "a": "Atelier Pro ekranını açın ve “Satın Alımları Geri Yükle”ye dokunun. Satın alma sırasında kullandığınız Apple Hesabı'nı kullanın." },
+      { "q": "Geçmişi nasıl silerim?",
+        "a": "Geçmişte bir satırı silmek için üzerinde kaydırın veya “Tüm geçmişi sil” seçeneğini kullanın." }
+    ],
+    "privacy_summary": "Atelier Fichiers hiçbir kişisel veri toplamaz. Dosyalarınız aygıtınızda kalır."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Özetle", "blocks": [
+        { "p": "Atelier Fichiers hiçbir kişisel veriyi toplamaz, bir sunucuda saklamaz ve iletmez. Tüm dosya işlemleri aygıtınızda gerçekleşir. Geliştiricinin dosyalarınıza ya da sizinle ilgili herhangi bir bilgiye erişimi yoktur." } ] },
+      { "h": "Dosyalarınız", "blocks": [
+        { "p": "Uygulamada açtığınız dosyalar (belgeler, PDF'ler, görüntüler, sesler, videolar, arşivler…) yerel olarak işlenir ve seçtiğiniz konuma kaydedilir. Uygulama bunları asla internete göndermez." },
+        { "p": "İşlem geçmişi yalnızca aygıtınızda saklanır. Uygulamadan istediğiniz zaman silebilirsiniz." } ] },
+      { "h": "İstenen izinler", "blocks": [
+        { "p": "Her izin yalnızca ilgili özelliği kullandığınız anda istenir ve aygıtınızın Ayarlar bölümünden geri alabilirsiniz." },
+        { "ul": [
+          "<strong>Kamera</strong>: belge taramak ve kodları okumak için. Görüntüler aygıtta kalır.",
+          "<strong>Fotoğraflar (yalnızca ekleme)</strong>: dönüştürülen görüntüleri fotoğraf arşivinize kaydetmek için. Uygulama arşivinizi okumaz; içe aktarılacak fotoğrafları siz seçersiniz.",
+          "<strong>Konuşma tanıma</strong>: kayıtlarınızı metne dönüştürmek ve altyazı oluşturmak için. Metne dönüştürme aygıtta yapılır, hiçbir şey gönderilmez.",
+          "<strong>Bildirimler</strong>: uzun süren bir işlem tamamlandığında sizi bilgilendirmek için. Bu bildirimler yerel olarak oluşturulur." ] } ] },
+      { "h": "Akıllı özellikler ve çeviri", "blocks": [
+        { "p": "Özetler, tarif çıkarma ve kartvizit okuma, aygıta yerleşik Apple Intelligence modelini kullanır. Çeviri, Apple'ın aygıt üzerindeki çeviri hizmetini kullanır: yalnızca dil indirmeleri Apple üzerinden geçer. Her iki durumda da metinleriniz geliştiriciye iletilmez." } ] },
+      { "h": "Uygulama içi satın almalar", "blocks": [
+        { "p": "Atelier Pro satın alma işlemi tamamen Apple tarafından App Store üzerinden yönetilir. Uygulama yalnızca satın almanın yapılıp yapılmadığını denetler; hiçbir ödeme verisi almaz. Ücretsiz işlem sayacı aygıtınızda saklanır." } ] },
+      { "h": "Reklam ve izleme", "blocks": [
+        { "p": "Atelier Fichiers hiçbir reklam, izleyici, analiz veya kullanım istatistiği aracı içermez." } ] },
+      { "h": "Çocuklar", "blocks": [
+        { "p": "Uygulama hiçbir veri toplamaz ve her yaşa uygundur." } ] },
+      { "h": "Değişiklikler", "blocks": [
+        { "p": "Bu politika değişirse yeni sürüm, güncelleme tarihiyle birlikte bu sayfada yayımlanır." } ] },
+      { "h": "İletişim", "blocks": [
+        { "p": "Bu politikayla ilgili her türlü soru için: {email}" } ] }
+    ]
+  }
+}

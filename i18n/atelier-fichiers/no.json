@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "Verktøykassen for filene dine på iPhone, iPad og Mac",
+    "contact": "Har du spørsmål, forslag eller vil rapportere en feil? Skriv til meg:<br>{email}",
+    "faq": [
+      { "q": "Blir filene mine sendt til en server?",
+        "a": "Nei. Alle konverteringer, komprimeringer og redigeringer skjer direkte på enheten din. Appen sender ingen filer over internett." },
+      { "q": "Trenger jeg en internettforbindelse?",
+        "a": "Nei, verktøyene fungerer uten nett. Bare oversettelsen kan be deg om å laste ned et språk første gang via Apples innstillinger, og kjøpet av Atelier Pro går gjennom App Store." },
+      { "q": "Hva inneholder gratisversjonen?",
+        "a": "Alle verktøyene, uten vannmerke, med en grense på 3 operasjoner per dag. Atelier Pro fjerner denne grensen." },
+      { "q": "Jeg har byttet enhet – hvordan får jeg tilbake Atelier Pro?",
+        "a": "Åpne skjermen Atelier Pro og trykk på «Gjenopprett kjøp». Bruk den samme Apple-kontoen som ved kjøpet." },
+      { "q": "Hvordan sletter jeg loggen?",
+        "a": "Sveip over en linje i loggen for å slette den, eller bruk «Tøm hele loggen»." }
+    ],
+    "privacy_summary": "Atelier Fichiers samler ikke inn noen personopplysninger. Filene dine blir på enheten din."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Kort fortalt", "blocks": [
+        { "p": "Atelier Fichiers samler ikke inn, lagrer ikke på noen server og overfører ingen personopplysninger. All behandling av filer skjer på enheten din. Utvikleren har verken tilgang til filene dine eller til noen opplysninger om deg." } ] },
+      { "h": "Filene dine", "blocks": [
+        { "p": "Filene du åpner i appen (dokumenter, PDF-er, bilder, lyd, videoer, arkiver …) behandles lokalt og lagres der du velger. Appen sender dem aldri over internett." },
+        { "p": "Loggen over operasjoner lagres kun på enheten din. Du kan når som helst slette den fra appen." } ] },
+      { "h": "Tillatelser som etterspørres", "blocks": [
+        { "p": "Hver tillatelse blir først etterspurt når du bruker den aktuelle funksjonen, og du kan trekke den tilbake i Innstillinger på enheten din." },
+        { "ul": [
+          "<strong>Kamera</strong>: for å skanne dokumenter og lese koder. Bildene blir på enheten.",
+          "<strong>Bilder (kun legg til)</strong>: for å lagre konverterte bilder i bildebiblioteket ditt. Appen leser ikke bildebiblioteket ditt; du velger selv hvilke bilder du importerer.",
+          "<strong>Talegjenkjenning</strong>: for å transkribere opptakene dine til tekst og lage undertekster. Transkripsjonen skjer på enheten, uten at noe sendes.",
+          "<strong>Varslinger</strong>: for å gi deg beskjed når en lengre operasjon er ferdig. Disse varslingene lages lokalt." ] } ] },
+      { "h": "Smarte funksjoner og oversettelse", "blocks": [
+        { "p": "Sammendrag, uthenting av oppskrifter og lesing av visittkort bruker Apple Intelligence-modellen som er innebygd i enheten. Oversettelsen bruker Apples oversettelsestjeneste på enheten: bare nedlastingen av språk går via Apple. I begge tilfeller sendes ikke tekstene dine til utvikleren." } ] },
+      { "h": "Kjøp i appen", "blocks": [
+        { "p": "Kjøpet av Atelier Pro håndteres fullt ut av Apple via App Store. Appen sjekker bare om kjøpet er gjennomført; den mottar ingen betalingsopplysninger. Telleren for gratis operasjoner lagres på enheten din." } ] },
+      { "h": "Reklame og sporing", "blocks": [
+        { "p": "Atelier Fichiers inneholder ingen reklame, ingen sporere og ingen verktøy for analyse eller bruksstatistikk." } ] },
+      { "h": "Barn", "blocks": [
+        { "p": "Appen samler ikke inn noen opplysninger og passer for alle aldre." } ] },
+      { "h": "Endringer", "blocks": [
+        { "p": "Hvis denne erklæringen endres, blir den nye versjonen publisert på denne siden sammen med datoen for oppdateringen." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "Spørsmål om denne erklæringen: {email}" } ] }
+    ]
+  }
+}

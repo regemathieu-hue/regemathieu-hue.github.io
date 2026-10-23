@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "La cassetta degli attrezzi per i suoi file, su iPhone, iPad e Mac",
+    "contact": "Per qualsiasi domanda, suggerimento o segnalazione di bug, mi scriva:<br>{email}",
+    "faq": [
+      { "q": "I miei file vengono inviati a un server?",
+        "a": "No. Tutte le conversioni, le compressioni e le modifiche avvengono direttamente sul suo dispositivo. L'app non invia alcun file su internet." },
+      { "q": "Serve una connessione a internet?",
+        "a": "No, gli strumenti funzionano offline. Solo la traduzione può richiedere di scaricare una lingua la prima volta dalle impostazioni di Apple, e l'acquisto di Atelier Pro passa dall'App Store." },
+      { "q": "Cosa include la versione gratuita?",
+        "a": "Tutti gli strumenti, senza filigrana, fino a 3 operazioni al giorno. Atelier Pro elimina questo limite." },
+      { "q": "Ho cambiato dispositivo, come recupero Atelier Pro?",
+        "a": "Apra la schermata Atelier Pro e tocchi “Ripristina acquisti”. Usi lo stesso Account Apple utilizzato per l'acquisto." },
+      { "q": "Come si cancella la cronologia?",
+        "a": "Nella cronologia, scorra una riga per eliminarla, oppure usi “Cancella tutta la cronologia”." }
+    ],
+    "privacy_summary": "Atelier Fichiers non raccoglie alcun dato personale. I suoi file restano sul suo dispositivo."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "In breve", "blocks": [
+        { "p": "Atelier Fichiers non raccoglie, non memorizza su un server e non trasmette alcun dato personale. Tutte le elaborazioni dei file avvengono sul suo dispositivo. Lo sviluppatore non ha accesso ad alcuno dei suoi file né ad alcuna informazione che la riguardi." } ] },
+      { "h": "I suoi file", "blocks": [
+        { "p": "I file che apre nell'app (documenti, PDF, immagini, audio, video, archivi…) vengono elaborati localmente e salvati nella posizione che sceglie. L'app non li invia mai su internet." },
+        { "p": "La cronologia delle operazioni è conservata solo sul suo dispositivo. Può cancellarla in qualsiasi momento dall'app." } ] },
+      { "h": "Autorizzazioni richieste", "blocks": [
+        { "p": "Ogni autorizzazione viene richiesta solo nel momento in cui utilizza la funzione corrispondente, e può revocarla nelle Impostazioni del suo dispositivo." },
+        { "ul": [
+          "<strong>Fotocamera</strong>: per scansionare documenti e leggere codici. Le immagini restano sul dispositivo.",
+          "<strong>Foto (solo aggiunta)</strong>: per salvare le immagini convertite nella sua libreria foto. L'app non legge la sua libreria; è lei a scegliere le foto da importare.",
+          "<strong>Riconoscimento vocale</strong>: per trascrivere le sue registrazioni in testo e creare sottotitoli. La trascrizione avviene sul dispositivo, senza inviare nulla.",
+          "<strong>Notifiche</strong>: per avvisarla quando un'elaborazione lunga è terminata. Queste notifiche sono generate localmente." ] } ] },
+      { "h": "Funzioni intelligenti e traduzione", "blocks": [
+        { "p": "I riassunti, l'estrazione di ricette o la lettura di biglietti da visita utilizzano il modello di Apple Intelligence integrato nel dispositivo. La traduzione utilizza il servizio di traduzione di Apple sul dispositivo: solo il download delle lingue passa da Apple. In entrambi i casi, i suoi testi non vengono trasmessi allo sviluppatore." } ] },
+      { "h": "Acquisti in-app", "blocks": [
+        { "p": "L'acquisto di Atelier Pro è gestito interamente da Apple tramite l'App Store. L'app verifica soltanto se l'acquisto è stato effettuato; non riceve alcun dato di pagamento. Il contatore delle operazioni gratuite è memorizzato sul suo dispositivo." } ] },
+      { "h": "Pubblicità e tracciamento", "blocks": [
+        { "p": "Atelier Fichiers non contiene alcuna pubblicità, alcun tracker e alcuno strumento di analisi o di statistiche d'uso." } ] },
+      { "h": "Minori", "blocks": [
+        { "p": "L'app non raccoglie alcun dato ed è adatta a tutte le età." } ] },
+      { "h": "Modifiche", "blocks": [
+        { "p": "Se questa informativa dovesse cambiare, la nuova versione sarà pubblicata su questa pagina con la data di aggiornamento." } ] },
+      { "h": "Contatti", "blocks": [
+        { "p": "Per qualsiasi domanda su questa informativa: {email}" } ] }
+    ]
+  }
+}

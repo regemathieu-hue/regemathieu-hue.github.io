@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "La caja de herramientas para sus ficheros, en iPhone, iPad y Mac",
+    "contact": "Para cualquier pregunta, sugerencia o aviso de error, escríbame:<br>{email}",
+    "faq": [
+      { "q": "¿Se envían mis ficheros a un servidor?",
+        "a": "No. Todas las conversiones, compresiones y retoques se realizan directamente en su dispositivo. La aplicación no envía ningún fichero a internet." },
+      { "q": "¿Hace falta conexión a internet?",
+        "a": "No, las herramientas funcionan sin conexión. Solo la traducción puede pedirle descargar un idioma la primera vez desde los ajustes de Apple, y la compra de Atelier Pro se realiza a través del App Store." },
+      { "q": "¿Qué incluye la versión gratuita?",
+        "a": "Todas las herramientas, sin marca de agua, con un límite de 3 operaciones al día. Atelier Pro elimina este límite." },
+      { "q": "He cambiado de dispositivo, ¿cómo recupero Atelier Pro?",
+        "a": "Abra la pantalla de Atelier Pro y pulse «Restaurar compras». Utilice la misma Cuenta de Apple que usó para la compra." },
+      { "q": "¿Cómo borro el historial?",
+        "a": "En el historial, deslice una fila para borrarla o utilice «Borrar todo el historial»." }
+    ],
+    "privacy_summary": "Atelier Fichiers no recopila ningún dato personal. Sus ficheros permanecen en su dispositivo."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "En resumen", "blocks": [
+        { "p": "Atelier Fichiers no recopila, no almacena en ningún servidor ni transmite ningún dato personal. Todo el procesamiento de ficheros se realiza en su dispositivo. El desarrollador no tiene acceso a ninguno de sus ficheros ni a ninguna información sobre usted." } ] },
+      { "h": "Sus ficheros", "blocks": [
+        { "p": "Los ficheros que abre en la aplicación (documentos, PDF, imágenes, audio, vídeos, archivos comprimidos…) se procesan localmente y se guardan donde usted elija. La aplicación nunca los envía a internet." },
+        { "p": "El historial de operaciones se conserva únicamente en su dispositivo. Puede borrarlo en cualquier momento desde la aplicación." } ] },
+      { "h": "Permisos solicitados", "blocks": [
+        { "p": "Cada permiso se solicita únicamente en el momento en que utiliza la función correspondiente, y puede retirarlo en los Ajustes de su dispositivo." },
+        { "ul": [
+          "<strong>Cámara</strong>: para escanear documentos y leer códigos. Las imágenes permanecen en el dispositivo.",
+          "<strong>Fotos (solo añadir)</strong>: para guardar las imágenes convertidas en su fototeca. La aplicación no lee su fototeca; es usted quien elige las fotos que desea importar.",
+          "<strong>Reconocimiento de voz</strong>: para transcribir sus grabaciones a texto y crear subtítulos. La transcripción se realiza en el dispositivo, sin enviar nada.",
+          "<strong>Notificaciones</strong>: para avisarle cuando ha terminado un proceso largo. Estas notificaciones se generan localmente." ] } ] },
+      { "h": "Funciones inteligentes y traducción", "blocks": [
+        { "p": "Los resúmenes, la extracción de recetas o la lectura de tarjetas de visita utilizan el modelo de Apple Intelligence integrado en el dispositivo. La traducción utiliza el servicio de traducción de Apple en el dispositivo: solo la descarga de idiomas pasa por Apple. En ambos casos, sus textos no se transmiten al desarrollador." } ] },
+      { "h": "Compras integradas", "blocks": [
+        { "p": "La compra de Atelier Pro la gestiona íntegramente Apple a través del App Store. La aplicación solo comprueba si se ha realizado la compra; no recibe ningún dato de pago. El contador de operaciones gratuitas se guarda en su dispositivo." } ] },
+      { "h": "Publicidad y seguimiento", "blocks": [
+        { "p": "Atelier Fichiers no contiene publicidad, rastreadores ni herramientas de análisis o de estadísticas de uso." } ] },
+      { "h": "Menores", "blocks": [
+        { "p": "La aplicación no recopila ningún dato y es apta para todas las edades." } ] },
+      { "h": "Modificaciones", "blocks": [
+        { "p": "Si esta política cambia, la nueva versión se publicará en esta página con su fecha de actualización." } ] },
+      { "h": "Contacto", "blocks": [
+        { "p": "Para cualquier pregunta sobre esta política: {email}" } ] }
+    ]
+  }
+}

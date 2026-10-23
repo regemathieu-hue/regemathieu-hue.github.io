@@ -1,0 +1,57 @@
+{
+  "support": {
+    "subtitle": "Não perca mais nada do céu noturno",
+    "contact": "Uma dúvida, uma ideia ou um bug? Escreva para mim:<br>{email}",
+    "faq": [
+      { "q": "Por que o app pede minha localização?",
+        "a": "Os horários de passagem dos satélites, a noite escura e a previsão do tempo dependem de onde você observa. Sua localização fica no seu celular; apenas uma posição arredondada para cerca de 1 km é enviada aos serviços de meteorologia. Você também pode escolher uma cidade manualmente nos ajustes, sem ativar a localização." },
+      { "q": "Não recebo alertas, por quê?",
+        "a": "Verifique se as notificações do Nuit Claire estão permitidas nos Ajustes do iOS. Os alertas só são enviados se a previsão for de céu limpo onde você está: uma noite nublada não dispara alerta, nem mesmo para uma bela passagem da ISS." },
+      { "q": "Quais telescópios são compatíveis?",
+        "a": "Montagens que podem ser controladas por um adaptador Wi-Fi SkyFi, Celestron ou OnStep. Seu iPhone e o adaptador precisam estar na mesma rede Wi-Fi." },
+      { "q": "Como encontro meu diário em outro aparelho?",
+        "a": "Ative “Sincronizar com o iCloud” nos ajustes do app. Seu diário, seus lugares, seus ajustes e suas noites acompanham sua conta do iCloud." },
+      { "q": "Como convido amigos para uma noite de observação?",
+        "a": "Crie uma noite no app e compartilhe o link. Seus amigos veem o convite no navegador e podem abri-lo diretamente no Nuit Claire." }
+    ],
+    "privacy_summary": "O Nuit Claire não coleta nenhum dado pessoal e não contém publicidade nem rastreadores."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Em resumo", "blocks": [
+        { "p": "O Nuit Claire não coleta nenhum dado pessoal e não tem servidor. Os cálculos (passagens de satélites, posições dos astros, noite escura) são feitos no seu aparelho. Apenas as informações estritamente necessárias são enviadas a alguns serviços públicos, descritos abaixo." } ] },
+      { "h": "Sua localização", "blocks": [
+        { "p": "Sua localização serve para calcular as passagens de satélites, os horários da noite e a previsão do tempo para o seu céu. Ela só é usada enquanto o app está aberto e fica armazenada no seu aparelho." },
+        { "p": "Para a previsão do tempo, uma posição <strong>arredondada para cerca de 1 km</strong> é enviada ao Open-Meteo e ao 7Timer!. Você também pode recusar a localização e escolher uma cidade manualmente: nesse caso, o nome que você digita é enviado ao serviço de busca de cidades do Open-Meteo." } ] },
+      { "h": "Serviços utilizados", "blocks": [
+        { "p": "O app baixa dados públicos dos seguintes serviços. Nenhum identificador nem informação pessoal é transmitido a eles; como em qualquer conexão com a internet, eles veem o endereço IP da requisição." },
+        { "ul": [
+          "<a href=\"https://open-meteo.com\">Open-Meteo</a>: previsão de nuvens e busca de cidades (posição arredondada ou nome da cidade).",
+          "<a href=\"https://www.7timer.info\">7Timer!</a>: previsões astronômicas (posição arredondada).",
+          "<a href=\"https://celestrak.org\">CelesTrak</a>: órbitas dos satélites.",
+          "<a href=\"https://www.swpc.noaa.gov\">NOAA SWPC</a>: atividade solar e previsão de auroras.",
+          "<a href=\"https://minorplanetcenter.net\">Minor Planet Center</a>: órbitas dos cometas." ] } ] },
+      { "h": "Permissões solicitadas", "blocks": [
+        { "p": "Cada permissão só é solicitada no momento em que você usa o recurso correspondente, e você pode revogá-la nos Ajustes do seu aparelho." },
+        { "ul": [
+          "<strong>Localização</strong>: veja acima. No Apple Watch, ela também orienta a bússola na direção dos satélites.",
+          "<strong>Câmera</strong>: mostra o céu atrás das marcações da visualização “Onde olhar”. Nenhuma imagem é gravada.",
+          "<strong>Movimento</strong>: orienta a visualização “Onde olhar” para a parte do céu que você está apontando.",
+          "<strong>Calendário (somente adicionar)</strong>: adiciona os eventos do céu que você escolher. O app não lê seu calendário.",
+          "<strong>Rede Local</strong>: conecta ao adaptador Wi-Fi do seu telescópio para apontá-lo. Nada sai da sua rede.",
+          "<strong>Notificações</strong>: alertas de passagens, de auroras e de noites limpas, gerados no seu aparelho." ] } ] },
+      { "h": "Seu diário e o iCloud", "blocks": [
+        { "p": "Seu diário de observação (incluindo as fotos que você adiciona a ele), seus lugares favoritos, seus ajustes e suas noites ficam armazenados no seu aparelho. Se você ativar a sincronização com o iCloud, eles também são salvos na sua própria conta do iCloud, gerenciada pela Apple, para que você os encontre nos seus outros aparelhos. O desenvolvedor não tem acesso a eles." } ] },
+      { "h": "Noites compartilhadas", "blocks": [
+        { "p": "Quando você compartilha uma noite de observação, o link contém as informações do convite: título, nome e coordenadas do lugar, data, seu primeiro nome ou apelido e sua nota. Qualquer pessoa que receber o link pode lê-las. A página de convite deste site as exibe diretamente no navegador, sem salvá-las em um servidor. Este site é hospedado pelo GitHub Pages, que pode manter registros técnicos de conexão." } ] },
+      { "h": "Publicidade e rastreamento", "blocks": [
+        { "p": "O Nuit Claire não contém publicidade, rastreadores nem ferramentas de análise ou estatísticas de uso." } ] },
+      { "h": "Crianças", "blocks": [
+        { "p": "O app não coleta nenhum dado e é adequado para todas as idades." } ] },
+      { "h": "Alterações", "blocks": [
+        { "p": "Se esta política mudar, a nova versão será publicada nesta página com a data de atualização." } ] },
+      { "h": "Contato", "blocks": [
+        { "p": "Para qualquer dúvida sobre esta política: {email}" } ] }
+    ]
+  }
+}

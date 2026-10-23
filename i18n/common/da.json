@@ -1,0 +1,16 @@
+{
+  "lang": "da",
+  "dir": "ltr",
+  "name": "Dansk",
+  "support_title": "Support",
+  "privacy_title": "Privatlivspolitik",
+  "contact_h": "Kontakt",
+  "faq_h": "FAQ",
+  "privacy_h": "Privatlivspolitik",
+  "read_full_privacy": "Læs hele privatlivspolitikken →",
+  "back_to_support": "← Tilbage til support",
+  "updated": "Senest opdateret: {date}",
+  "all_apps": "Alle mine apps",
+  "other_languages": "Andre sprog",
+  "language_list_h": "Denne side på andre sprog"
+}

@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Yleiskäyttöinen muunnossovellus iOS:lle",
+    "contact": "Kysymykset ja virheilmoitukset voitte lähettää meille sähköpostitse:<br>{email}",
+    "faq": [
+      { "q": "Päivittyvätkö valuuttakurssit reaaliajassa?",
+        "a": "Valuuttakurssit päivitetään aina sovelluksen avauksen yhteydessä, jos internetyhteys on käytettävissä. Uusimpien kurssien hakemiseen tarvitaan internetyhteys." },
+      { "q": "Toimiiko sovellus ilman internetiä?",
+        "a": "Kyllä, kaikki muunnokset valuuttoja lukuun ottamatta toimivat ilman verkkoyhteyttä. Valuuttamuunnokset käyttävät viimeksi välimuistiin tallennettua kurssia." },
+      { "q": "Miten vaihdan sovelluksen kielen?",
+        "a": "Kielen voi vaihtaa suoraan sovelluksen asetuksista. Saatavilla on yli 16 kieltä." }
+    ],
+    "privacy_summary": "Convert Everything ei kerää mitään henkilötietoja. Mitään tietoja ei välitetä kolmansien osapuolten palvelimille."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Tietojen kerääminen", "blocks": [
+        { "p": "Convert Everything ei kerää, tallenna eikä välitä mitään henkilötietoja. Sovellus toimii kokonaan paikallisesti laitteellanne." } ] },
+      { "h": "Käytettävät tiedot", "blocks": [
+        { "p": "Sovellus käyttää ainoastaan seuraavia resursseja:" },
+        { "ul": [
+          "<strong>Internet</strong> — ainoastaan valuuttakurssien hakemiseen julkisesta rajapinnasta. Mitään henkilötietoja ei lähetetä." ] } ] },
+      { "h": "Kolmansien osapuolten palvelut", "blocks": [
+        { "p": "Valuuttakurssit tarjoaa <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, ilmainen julkinen rajapinta. Tämän pyynnön yhteydessä ei välitetä mitään käyttäjätietoja." } ] },
+      { "h": "Mainonta ja seuranta", "blocks": [
+        { "p": "Convert Everything ei sisällä mainoksia, seurantatyökaluja eikä käyttäytymisanalytiikan SDK-paketteja." } ] },
+      { "h": "Lapset", "blocks": [
+        { "p": "Tämä sovellus ei kerää mitään tietoja ja sopii kaikenikäisille." } ] },
+      { "h": "Yhteystiedot", "blocks": [
+        { "p": "Tätä käytäntöä koskevat kysymykset: {email}" } ] }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "A caixa de ferramentas para seus arquivos, no iPhone, iPad e Mac",
+    "contact": "Para dúvidas, sugestões ou relatos de bugs, escreva para mim:<br>{email}",
+    "faq": [
+      { "q": "Meus arquivos são enviados para algum servidor?",
+        "a": "Não. Todas as conversões, compressões e edições acontecem diretamente no seu aparelho. O app não envia nenhum arquivo pela internet." },
+      { "q": "Preciso de conexão com a internet?",
+        "a": "Não, as ferramentas funcionam off-line. Apenas a tradução pode pedir para baixar um idioma uma única vez pelos ajustes da Apple, e a compra do Atelier Pro passa pela App Store." },
+      { "q": "O que a versão gratuita inclui?",
+        "a": "Todas as ferramentas, sem marca-d'água, com limite de 3 operações por dia. O Atelier Pro remove esse limite." },
+      { "q": "Troquei de aparelho, como recupero o Atelier Pro?",
+        "a": "Abra a tela do Atelier Pro e toque em “Restaurar Compras”. Use a mesma Conta Apple usada na compra." },
+      { "q": "Como apago o histórico?",
+        "a": "No histórico, deslize uma linha para apagá-la ou use “Limpar todo o histórico”." }
+    ],
+    "privacy_summary": "O Atelier Fichiers não coleta nenhum dado pessoal. Seus arquivos ficam no seu aparelho."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Em resumo", "blocks": [
+        { "p": "O Atelier Fichiers não coleta, não armazena em servidor nem transmite nenhum dado pessoal. Todo o processamento de arquivos acontece no seu aparelho. O desenvolvedor não tem acesso a nenhum dos seus arquivos nem a nenhuma informação sobre você." } ] },
+      { "h": "Seus arquivos", "blocks": [
+        { "p": "Os arquivos que você abre no app (documentos, PDFs, imagens, áudios, vídeos, arquivos compactados…) são processados localmente e salvos onde você escolher. O app nunca os envia pela internet." },
+        { "p": "O histórico de operações fica guardado apenas no seu aparelho. Você pode apagá-lo a qualquer momento pelo app." } ] },
+      { "h": "Permissões solicitadas", "blocks": [
+        { "p": "Cada permissão só é solicitada no momento em que você usa o recurso correspondente, e você pode revogá-la nos Ajustes do seu aparelho." },
+        { "ul": [
+          "<strong>Câmera</strong>: para digitalizar documentos e ler códigos. As imagens ficam no aparelho.",
+          "<strong>Fotos (somente adicionar)</strong>: para salvar as imagens convertidas na sua fototeca. O app não lê sua fototeca; você mesmo escolhe as fotos a importar.",
+          "<strong>Reconhecimento de fala</strong>: para transcrever suas gravações em texto e criar legendas. A transcrição é feita no aparelho, sem enviar nada.",
+          "<strong>Notificações</strong>: para avisar quando um processamento demorado terminar. Essas notificações são geradas localmente." ] } ] },
+      { "h": "Recursos inteligentes e tradução", "blocks": [
+        { "p": "Os resumos, a extração de receitas e a leitura de cartões de visita usam o modelo do Apple Intelligence integrado ao aparelho. A tradução usa o serviço de tradução da Apple no próprio aparelho: apenas o download dos idiomas passa pela Apple. Nos dois casos, seus textos não são transmitidos ao desenvolvedor." } ] },
+      { "h": "Compras dentro do app", "blocks": [
+        { "p": "A compra do Atelier Pro é gerenciada inteiramente pela Apple por meio da App Store. O app apenas verifica se a compra foi feita; ele não recebe nenhum dado de pagamento. O contador de operações gratuitas fica armazenado no seu aparelho." } ] },
+      { "h": "Publicidade e rastreamento", "blocks": [
+        { "p": "O Atelier Fichiers não contém publicidade, rastreadores nem ferramentas de análise ou estatísticas de uso." } ] },
+      { "h": "Crianças", "blocks": [
+        { "p": "O app não coleta nenhum dado e é adequado para todas as idades." } ] },
+      { "h": "Alterações", "blocks": [
+        { "p": "Se esta política mudar, a nova versão será publicada nesta página com a data de atualização." } ] },
+      { "h": "Contato", "blocks": [
+        { "p": "Para qualquer dúvida sobre esta política: {email}" } ] }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "El fotomatón de sus fiestas en iPad y iPhone",
+    "contact": "Para cualquier pregunta o aviso de error, escríbame:<br>{email}",
+    "faq": [
+      { "q": "¿Qué cámaras puedo utilizar?",
+        "a": "La cámara del iPad o del iPhone, una cámara con Wi-Fi (Lumix, Canon), una GoPro (Wi-Fi y Bluetooth) o una capturadora HDMI." },
+      { "q": "Mi cámara Wi-Fi no se detecta, ¿qué hago?",
+        "a": "Compruebe que el iPad está conectado al Wi-Fi de la cámara y que Flashbooth tiene el permiso «Red local» en Ajustes › Flashbooth." },
+      { "q": "¿Cómo recuperan los invitados sus fotos?",
+        "a": "Por AirDrop, Mensajes, Mail o guardándolas en Fotos. Si activa la galería en línea, un código QR da acceso a la página del evento." },
+      { "q": "¿Cómo funciona la galería en línea?",
+        "a": "Es una opción desactivada por defecto. Envía las fotos del evento a un servidor cuya dirección y clave de acceso introduce usted. Puede borrar en cualquier momento las fotos almacenadas en ese servidor desde la aplicación." },
+      { "q": "¿Cómo evito que los invitados salgan de la aplicación?",
+        "a": "Utilice el modo quiosco de Flashbooth y active el Acceso Guiado de iOS (Ajustes › Accesibilidad › Acceso Guiado) para bloquear el iPad en la app." }
+    ],
+    "privacy_summary": "Flashbooth no recopila ningún dato personal. Las fotos permanecen en su dispositivo, salvo que decida compartirlas."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "En resumen", "blocks": [
+        { "p": "Flashbooth no recopila ningún dato personal y el desarrollador no tiene acceso a ninguna foto. Las fotos hechas durante sus eventos se guardan en su dispositivo. Solo salen de él cuando usted las comparte, o si activa por su cuenta la galería en línea o la copia a una carpeta." } ] },
+      { "h": "Las fotos", "blocks": [
+        { "p": "Las fotos, las tiras y los GIF se conservan en el álbum del evento, en su dispositivo. Puede borrarlas en cualquier momento desde la aplicación; al desinstalar la aplicación también se eliminan." } ] },
+      { "h": "Compartir", "blocks": [
+        { "p": "Para compartir se utilizan las herramientas de iOS (AirDrop, Mensajes, Mail, Fotos, impresión…). Las direcciones de correo o los números introducidos en esas ventanas los gestiona iOS: Flashbooth no los lee ni los conserva." } ] },
+      { "h": "Opciones facultativas", "blocks": [
+        { "ul": [
+          "<strong>Galería en línea</strong> (desactivada por defecto): envía las fotos del evento al servidor cuya dirección introduce usted, para que sean accesibles mediante un código QR. Ese servidor lo elige y lo gestiona usted, no el desarrollador. Su clave de acceso se guarda en el llavero seguro del dispositivo. Las fotos se pueden borrar del servidor desde la aplicación.",
+          "<strong>Copia en una carpeta</strong> (desactivada por defecto): copia el álbum en la carpeta que usted elija (iCloud Drive u otro servicio de la app Archivos). Los ficheros quedan entonces sujetos a las condiciones de ese servicio." ] } ] },
+      { "h": "Permisos solicitados", "blocks": [
+        { "p": "Cada permiso se solicita únicamente en el momento en que utiliza la función correspondiente, y puede retirarlo en los Ajustes de su dispositivo." },
+        { "ul": [
+          "<strong>Cámara</strong>: para hacer las fotos de la sesión.",
+          "<strong>Bluetooth</strong>: para controlar una GoPro.",
+          "<strong>Red local</strong>: para conectarse a las cámaras Wi-Fi (Lumix, Canon, GoPro) y a su galería en la red local.",
+          "<strong>Fotos (solo añadir)</strong>: para guardar las tiras y los GIF en la app Fotos. La aplicación no lee su fototeca." ] } ] },
+      { "h": "Organizadores e invitados", "blocks": [
+        { "p": "Si utiliza Flashbooth en un evento, usted es responsable de las fotos que se hagan y de su difusión. Recuerde informar a sus invitados, sobre todo si la galería en línea está activada." } ] },
+      { "h": "Publicidad y seguimiento", "blocks": [
+        { "p": "Flashbooth no contiene publicidad, rastreadores ni herramientas de análisis o de estadísticas de uso." } ] },
+      { "h": "Modificaciones", "blocks": [
+        { "p": "Si esta política cambia, la nueva versión se publicará en esta página con su fecha de actualización." } ] },
+      { "h": "Contacto", "blocks": [
+        { "p": "Para cualquier pregunta sobre esta política: {email}" } ] }
+    ]
+  }
+}

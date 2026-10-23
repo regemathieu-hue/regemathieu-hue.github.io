@@ -1,0 +1,16 @@
+{
+  "lang": "es-ES",
+  "dir": "ltr",
+  "name": "Español (España)",
+  "support_title": "Soporte",
+  "privacy_title": "Política de privacidad",
+  "contact_h": "Contacto",
+  "faq_h": "Preguntas frecuentes",
+  "privacy_h": "Política de privacidad",
+  "read_full_privacy": "Leer la política de privacidad completa →",
+  "back_to_support": "← Volver al soporte",
+  "updated": "Última actualización: {date}",
+  "all_apps": "Todas mis apps",
+  "other_languages": "Otros idiomas",
+  "language_list_h": "Esta página en otros idiomas"
+}

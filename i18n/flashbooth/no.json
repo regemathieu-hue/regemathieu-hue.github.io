@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "Fotoboksen til festene dine på iPad og iPhone",
+    "contact": "Har du spørsmål eller vil rapportere en feil? Skriv til meg:<br>{email}",
+    "faq": [
+      { "q": "Hvilke kameraer kan jeg bruke?",
+        "a": "Kameraet i iPad eller iPhone, et Wi-Fi-kamera (Lumix, Canon), en GoPro (Wi-Fi og Bluetooth) eller et HDMI-opptakskort." },
+      { "q": "Wi-Fi-kameraet mitt blir ikke funnet – hva gjør jeg?",
+        "a": "Sjekk at iPad-en er koblet til kameraets Wi-Fi, og at Flashbooth har tillatelsen «Lokalt nettverk» under Innstillinger › Flashbooth." },
+      { "q": "Hvordan får gjestene bildene sine?",
+        "a": "Via AirDrop, Meldinger, Mail eller ved å lagre i Bilder. Hvis du slår på nettgalleriet, gir en QR-kode tilgang til arrangementets side." },
+      { "q": "Hvordan fungerer nettgalleriet?",
+        "a": "Det er en funksjon som er slått av som standard. Den sender bildene fra arrangementet til en server der du selv skriver inn adressen og tilgangsnøkkelen. Du kan når som helst slette bildene som ligger på serveren, fra appen." },
+      { "q": "Hvordan hindrer jeg gjestene i å forlate appen?",
+        "a": "Bruk kioskmodusen i Flashbooth, og slå på Begrenset tilgang i iOS (Innstillinger › Tilgjengelighet › Begrenset tilgang) for å låse iPad-en til appen." }
+    ],
+    "privacy_summary": "Flashbooth samler ikke inn noen personopplysninger. Bildene blir på enheten din, med mindre du velger å dele dem."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Kort fortalt", "blocks": [
+        { "p": "Flashbooth samler ikke inn noen personopplysninger, og utvikleren har ikke tilgang til noen bilder. Bildene som tas under arrangementene dine, lagres på enheten din. De forlater den bare når du deler dem, eller hvis du selv slår på nettgalleriet eller kopiering til en mappe." } ] },
+      { "h": "Bildene", "blocks": [
+        { "p": "Bilder, fotostriper og GIF-er oppbevares i arrangementets album på enheten din. Du kan når som helst slette dem fra appen; sletter du appen, forsvinner de også." } ] },
+      { "h": "Deling", "blocks": [
+        { "p": "Deling skjer gjennom verktøyene i iOS (AirDrop, Meldinger, Mail, Bilder, utskrift …). E-postadresser eller telefonnumre som skrives inn i disse vinduene, håndteres av iOS: Flashbooth verken leser eller lagrer dem." } ] },
+      { "h": "Valgfrie funksjoner", "blocks": [
+        { "ul": [
+          "<strong>Nettgalleri</strong> (slått av som standard): sender bildene fra arrangementet til serveren du skriver inn adressen til, slik at de kan nås via en QR-kode. Serveren velges og administreres av deg, ikke av utvikleren. Tilgangsnøkkelen lagres i enhetens sikre nøkkelring. Bildene kan slettes fra serveren via appen.",
+          "<strong>Kopi til en mappe</strong> (slått av som standard): kopierer albumet til mappen du velger (iCloud Drive eller en annen tjeneste i Filer-appen). Filene er da underlagt vilkårene til den tjenesten." ] } ] },
+      { "h": "Tillatelser som etterspørres", "blocks": [
+        { "p": "Hver tillatelse blir først etterspurt når du bruker den aktuelle funksjonen, og du kan trekke den tilbake i Innstillinger på enheten din." },
+        { "ul": [
+          "<strong>Kamera</strong>: for å ta bildene under økten.",
+          "<strong>Bluetooth</strong>: for å styre en GoPro.",
+          "<strong>Lokalt nettverk</strong>: for å koble til Wi-Fi-kameraer (Lumix, Canon, GoPro) og til galleriet ditt på det lokale nettverket.",
+          "<strong>Bilder (kun legg til)</strong>: for å lagre fotostriper og GIF-er i Bilder-appen. Appen leser ikke bildebiblioteket ditt." ] } ] },
+      { "h": "Arrangører og gjester", "blocks": [
+        { "p": "Hvis du bruker Flashbooth på et arrangement, er du ansvarlig for bildene som tas, og for hvordan de spres. Husk å informere gjestene dine, spesielt hvis nettgalleriet er slått på." } ] },
+      { "h": "Reklame og sporing", "blocks": [
+        { "p": "Flashbooth inneholder ingen reklame, ingen sporere og ingen verktøy for analyse eller bruksstatistikk." } ] },
+      { "h": "Endringer", "blocks": [
+        { "p": "Hvis denne erklæringen endres, blir den nye versjonen publisert på denne siden sammen med datoen for oppdateringen." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "Spørsmål om denne erklæringen: {email}" } ] }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "La boîte à outils pour vos fichiers, sur iPhone, iPad et Mac",
+    "contact": "Pour toute question, suggestion ou signalement de bogue, écrivez-moi:<br>{email}",
+    "faq": [
+      { "q": "Mes fichiers sont-ils envoyés sur un serveur?",
+        "a": "Non. Toutes les conversions, compressions et retouches se font directement sur votre appareil. L'application n'envoie aucun fichier sur Internet." },
+      { "q": "Faut-il une connexion Internet?",
+        "a": "Non, les outils fonctionnent hors ligne. Seule la traduction peut demander de télécharger une langue une première fois à partir des réglages d'Apple, et l'achat d'Atelier Pro se fait par l'App Store." },
+      { "q": "Que comprend la version gratuite?",
+        "a": "Tous les outils, sans filigrane, jusqu'à 3 opérations par jour. Atelier Pro élimine cette limite." },
+      { "q": "J'ai changé d'appareil, comment récupérer Atelier Pro?",
+        "a": "Ouvrez l'écran Atelier Pro et touchez « Restaurer les achats ». Utilisez le même compte Apple que lors de l'achat." },
+      { "q": "Comment effacer l'historique?",
+        "a": "Dans l'historique, glissez une ligne pour l'effacer, ou utilisez « Effacer tout l'historique »." }
+    ],
+    "privacy_summary": "Atelier Fichiers ne recueille aucune donnée personnelle. Vos fichiers restent sur votre appareil."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "En résumé", "blocks": [
+        { "p": "Atelier Fichiers ne recueille, ne stocke sur un serveur et ne transmet aucune donnée personnelle. Tous les traitements de fichiers ont lieu sur votre appareil. Le développeur n'a accès à aucun de vos fichiers ni à aucun renseignement vous concernant." } ] },
+      { "h": "Vos fichiers", "blocks": [
+        { "p": "Les fichiers que vous ouvrez dans l'application (documents, PDF, images, sons, vidéos, archives…) sont traités localement et enregistrés à l'endroit de votre choix. L'application ne les envoie jamais sur Internet." },
+        { "p": "L'historique des opérations est conservé uniquement sur votre appareil. Vous pouvez l'effacer en tout temps à partir de l'application." } ] },
+      { "h": "Autorisations demandées", "blocks": [
+        { "p": "Chaque autorisation n'est demandée qu'au moment où vous utilisez la fonction concernée, et vous pouvez la retirer dans les Réglages de votre appareil." },
+        { "ul": [
+          "<strong>Caméra</strong>: pour numériser des documents et lire des codes. Les images restent sur l'appareil.",
+          "<strong>Photos (ajout seulement)</strong>: pour enregistrer les images converties dans votre photothèque. L'application ne lit pas votre photothèque; vous choisissez vous-même les photos à importer.",
+          "<strong>Reconnaissance vocale</strong>: pour transcrire vos enregistrements en texte et créer des sous-titres. La transcription se fait sur l'appareil, sans rien envoyer.",
+          "<strong>Notifications</strong>: pour vous aviser quand un traitement long est terminé. Ces notifications sont générées localement." ] } ] },
+      { "h": "Fonctions intelligentes et traduction", "blocks": [
+        { "p": "Les résumés, l'extraction de recettes et la lecture de cartes professionnelles utilisent le modèle Apple Intelligence intégré à l'appareil. La traduction utilise le service de traduction d'Apple sur l'appareil: seul le téléchargement des langues passe par Apple. Dans les deux cas, vos textes ne sont pas transmis au développeur." } ] },
+      { "h": "Achats intégrés", "blocks": [
+        { "p": "L'achat d'Atelier Pro est entièrement géré par Apple par l'intermédiaire de l'App Store. L'application vérifie seulement si l'achat a été effectué; elle ne reçoit aucune donnée de paiement. Le compteur d'opérations gratuites est stocké sur votre appareil." } ] },
+      { "h": "Publicité et suivi", "blocks": [
+        { "p": "Atelier Fichiers ne contient aucune publicité, aucun traceur et aucun outil d'analyse ou de statistiques d'utilisation." } ] },
+      { "h": "Enfants", "blocks": [
+        { "p": "L'application ne recueille aucune donnée et convient à tous les âges." } ] },
+      { "h": "Modifications", "blocks": [
+        { "p": "Si cette politique change, la nouvelle version sera publiée sur cette page avec sa date de mise à jour." } ] },
+      { "h": "Contact", "blocks": [
+        { "p": "Pour toute question concernant cette politique: {email}" } ] }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "support": {
+    "subtitle": "Verpass nichts mehr am Nachthimmel",
+    "contact": "Eine Frage, eine Idee oder ein Fehler? Schreib mir:<br>{email}",
+    "faq": [
+      { "q": "Warum fragt die App nach meinem Standort?",
+        "a": "Die Überflugzeiten der Satelliten, die astronomische Nacht und das Wetter hängen davon ab, wo du beobachtest. Dein Standort bleibt auf deinem Telefon; nur eine auf etwa 1 km gerundete Position wird an die Wetterdienste gesendet. Du kannst in den Einstellungen auch eine Stadt von Hand wählen, ohne die Ortung zu aktivieren." },
+      { "q": "Ich bekomme keine Alarme – warum?",
+        "a": "Prüfe, ob die Mitteilungen von Nuit Claire in den iOS-Einstellungen erlaubt sind. Alarme werden nur gesendet, wenn der Himmel bei dir voraussichtlich klar ist: Eine bewölkte Nacht löst keinen Alarm aus, auch nicht bei einem schönen Überflug der ISS." },
+      { "q": "Welche Teleskope sind kompatibel?",
+        "a": "Montierungen, die sich über einen WLAN-Adapter von SkyFi, Celestron oder OnStep steuern lassen. Dein iPhone und der Adapter müssen im selben WLAN sein." },
+      { "q": "Wie finde ich mein Logbuch auf einem anderen Gerät wieder?",
+        "a": "Aktiviere „Mit iCloud synchronisieren“ in den Einstellungen der App. Dein Logbuch, deine Orte, deine Einstellungen und deine Beobachtungsabende folgen deinem iCloud-Account." },
+      { "q": "Wie lade ich Freunde zu einem Beobachtungsabend ein?",
+        "a": "Erstelle einen Abend in der App und teile dann den Link. Deine Freunde sehen die Einladung in ihrem Browser und können sie direkt in Nuit Claire öffnen." }
+    ],
+    "privacy_summary": "Nuit Claire erhebt keine personenbezogenen Daten und enthält weder Werbung noch Tracker."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Kurz gesagt", "blocks": [
+        { "p": "Nuit Claire erhebt keine personenbezogenen Daten und besitzt keinen Server. Die Berechnungen (Satellitenüberflüge, Positionen der Gestirne, astronomische Nacht) finden auf deinem Gerät statt. Nur die unbedingt nötigen Informationen werden an einige öffentliche Dienste gesendet, die unten beschrieben sind." } ] },
+      { "h": "Dein Standort", "blocks": [
+        { "p": "Dein Standort dient zur Berechnung der Satellitenüberflüge, der Nachtzeiten und des Wetters an deinem Himmel. Er wird nur verwendet, während die App geöffnet ist, und bleibt auf deinem Gerät gespeichert." },
+        { "p": "Für das Wetter wird eine <strong>auf etwa 1 km gerundete</strong> Position an Open-Meteo und 7Timer! gesendet. Du kannst die Ortung auch ablehnen und eine Stadt von Hand wählen: Der Name, den du eingibst, wird dann an die Städtesuche von Open-Meteo gesendet." } ] },
+      { "h": "Verwendete Dienste", "blocks": [
+        { "p": "Die App lädt öffentliche Daten von den folgenden Diensten. Es werden weder Kennungen noch persönliche Informationen an sie übertragen; wie bei jeder Internetverbindung sehen sie die IP-Adresse der Anfrage." },
+        { "ul": [
+          "<a href=\"https://open-meteo.com\">Open-Meteo</a>: Wolkenvorhersage und Städtesuche (gerundete Position oder Stadtname).",
+          "<a href=\"https://www.7timer.info\">7Timer!</a>: astronomische Vorhersagen (gerundete Position).",
+          "<a href=\"https://celestrak.org\">CelesTrak</a>: Satellitenbahnen.",
+          "<a href=\"https://www.swpc.noaa.gov\">NOAA SWPC</a>: Sonnenaktivität und Polarlichtvorhersagen.",
+          "<a href=\"https://minorplanetcenter.net\">Minor Planet Center</a>: Kometenbahnen." ] } ] },
+      { "h": "Angeforderte Berechtigungen", "blocks": [
+        { "p": "Jede Berechtigung wird erst angefordert, wenn du die entsprechende Funktion verwendest, und du kannst sie in den Einstellungen deines Geräts jederzeit wieder entziehen." },
+        { "ul": [
+          "<strong>Standort</strong>: siehe oben. Auf der Apple Watch richtet er außerdem den Kompass auf die Satelliten aus.",
+          "<strong>Kamera</strong>: zeigt den Himmel hinter den Markierungen der Ansicht „Wohin schauen“. Es werden keine Bilder gespeichert.",
+          "<strong>Bewegung</strong>: richtet die Ansicht „Wohin schauen“ auf den Teil des Himmels aus, den du anvisierst.",
+          "<strong>Kalender (nur Hinzufügen)</strong>: fügt die Himmelsereignisse hinzu, die du auswählst. Die App liest deinen Kalender nicht.",
+          "<strong>Lokales Netzwerk</strong>: verbindet sich mit dem WLAN-Adapter deines Teleskops, um es auszurichten. Nichts verlässt dein Netzwerk.",
+          "<strong>Mitteilungen</strong>: Alarme für Überflüge, Polarlichter und klare Nächte, erzeugt auf deinem Gerät." ] } ] },
+      { "h": "Dein Logbuch und iCloud", "blocks": [
+        { "p": "Dein Beobachtungslogbuch (einschließlich der Fotos, die du hinzufügst), deine Lieblingsorte, deine Einstellungen und deine Abende werden auf deinem Gerät gespeichert. Wenn du die iCloud-Synchronisierung aktivierst, werden sie zusätzlich in deinem eigenen, von Apple verwalteten iCloud-Account gespeichert, damit du sie auf deinen anderen Geräten wiederfindest. Der Entwickler hat darauf keinen Zugriff." } ] },
+      { "h": "Geteilte Abende", "blocks": [
+        { "p": "Wenn du einen Beobachtungsabend teilst, enthält der Link die Informationen der Einladung: Titel, Name und Koordinaten des Ortes, Datum, dein Vorname oder Spitzname und deine Notiz. Jeder, der den Link erhält, kann sie lesen. Die Einladungsseite dieser Website zeigt sie direkt im Browser an, ohne sie auf einem Server zu speichern. Diese Website wird von GitHub Pages gehostet, das technische Verbindungsprotokolle aufbewahren kann." } ] },
+      { "h": "Werbung und Tracking", "blocks": [
+        { "p": "Nuit Claire enthält keine Werbung, keine Tracker und keine Analyse- oder Nutzungsstatistik-Werkzeuge." } ] },
+      { "h": "Kinder", "blocks": [
+        { "p": "Die App erhebt keine Daten und ist für alle Altersgruppen geeignet." } ] },
+      { "h": "Änderungen", "blocks": [
+        { "p": "Sollte sich diese Erklärung ändern, wird die neue Fassung mit ihrem Aktualisierungsdatum auf dieser Seite veröffentlicht." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "Bei Fragen zu dieser Erklärung: {email}" } ] }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "iOS için evrensel birim dönüştürme uygulaması",
+    "contact": "Her türlü soru veya hata bildirimi için bize e-posta ile ulaşın:<br>{email}",
+    "faq": [
+      { "q": "Döviz kurları gerçek zamanlı olarak güncelleniyor mu?",
+        "a": "Döviz kurları, internet bağlantısı varsa uygulamanın her açılışında yenilenir. En güncel kurları almak için internet bağlantısı gereklidir." },
+      { "q": "Uygulama internet olmadan çalışıyor mu?",
+        "a": "Evet, para birimleri dışındaki tüm dönüştürmeler çevrimdışı çalışır. Para birimi dönüştürmeleri önbelleğe alınan son kuru kullanır." },
+      { "q": "Uygulamanın dilini nasıl değiştiririm?",
+        "a": "Dil, doğrudan uygulamanın ayarlarından değiştirilebilir. 16'dan fazla dil mevcuttur." }
+    ],
+    "privacy_summary": "Convert Everything hiçbir kişisel veri toplamaz. Üçüncü taraf sunuculara hiçbir bilgi iletilmez."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Veri toplama", "blocks": [
+        { "p": "Convert Everything hiçbir kişisel veriyi toplamaz, saklamaz ve iletmez. Uygulama tamamen aygıtınızda yerel olarak çalışır." } ] },
+      { "h": "Kullanılan veriler", "blocks": [
+        { "p": "Uygulama yalnızca aşağıdaki kaynaklara erişir:" },
+        { "ul": [
+          "<strong>İnternet</strong> — yalnızca herkese açık bir API'den döviz kurlarını almak için. Hiçbir kişisel veri gönderilmez." ] } ] },
+      { "h": "Üçüncü taraf hizmetler", "blocks": [
+        { "p": "Döviz kurları, ücretsiz ve herkese açık bir API olan <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a> tarafından sağlanır. Bu istek sırasında hiçbir kullanıcı verisi iletilmez." } ] },
+      { "h": "Reklam ve izleme", "blocks": [
+        { "p": "Convert Everything hiçbir reklam, izleyici veya davranışsal analiz SDK'sı içermez." } ] },
+      { "h": "Çocuklar", "blocks": [
+        { "p": "Bu uygulama hiçbir veri toplamaz ve her yaşa uygundur." } ] },
+      { "h": "İletişim", "blocks": [
+        { "p": "Bu politikayla ilgili her türlü soru için: {email}" } ] }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Univerzálny prevodník jednotiek pre iOS",
+    "contact": "S otázkami alebo hlásením chýb nás kontaktujte e-mailom:<br>{email}",
+    "faq": [
+      { "q": "Aktualizujú sa výmenné kurzy v reálnom čase?",
+        "a": "Výmenné kurzy sa aktualizujú pri každom otvorení aplikácie, ak je k dispozícii pripojenie na internet. Na získanie najnovších kurzov je potrebné pripojenie na internet." },
+      { "q": "Funguje aplikácia bez internetu?",
+        "a": "Áno, všetky prevody okrem mien fungujú offline. Prevod mien používa posledný kurz uložený vo vyrovnávacej pamäti." },
+      { "q": "Ako zmeniť jazyk aplikácie?",
+        "a": "Jazyk možno zmeniť priamo v nastaveniach aplikácie. K dispozícii je viac ako 16 jazykov." }
+    ],
+    "privacy_summary": "Convert Everything nezhromažďuje žiadne osobné údaje. Žiadne informácie sa neprenášajú na servery tretích strán."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Zhromažďovanie údajov", "blocks": [
+        { "p": "Convert Everything nezhromažďuje, neukladá ani neprenáša žiadne osobné údaje. Aplikácia funguje úplne lokálne vo vašom zariadení." } ] },
+      { "h": "Používané údaje", "blocks": [
+        { "p": "Aplikácia pristupuje iba k nasledujúcim zdrojom:" },
+        { "ul": [
+          "<strong>Internet</strong> — iba na načítanie výmenných kurzov z verejného API. Žiadne osobné údaje sa neodosielajú." ] } ] },
+      { "h": "Služby tretích strán", "blocks": [
+        { "p": "Výmenné kurzy poskytuje <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, bezplatné verejné API. Pri tejto požiadavke sa neprenášajú žiadne používateľské údaje." } ] },
+      { "h": "Reklama a sledovanie", "blocks": [
+        { "p": "Convert Everything neobsahuje žiadnu reklamu, žiadne sledovacie prvky ani SDK na behaviorálnu analýzu." } ] },
+      { "h": "Deti", "blocks": [
+        { "p": "Táto aplikácia nezhromažďuje žiadne údaje a je vhodná pre všetky vekové kategórie." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "S otázkami k týmto zásadám sa obráťte na: {email}" } ] }
+    ]
+  }
+}

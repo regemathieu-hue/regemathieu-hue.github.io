@@ -1,0 +1,57 @@
+{
+  "support": {
+    "subtitle": "Ne maradj le semmiről az éjszakai égbolton",
+    "contact": "Kérdésed, ötleted van, vagy hibát találtál? Írj nekem:<br>{email}",
+    "faq": [
+      { "q": "Miért kéri az alkalmazás a helyzetemet?",
+        "a": "A műholdak átvonulási ideje, a teljes sötétség és az időjárás attól függ, honnan figyeled az eget. A helyzeted a telefonodon marad; az időjárási szolgáltatásoknak csak egy kb. 1 km-re kerekített pozíció kerül elküldésre. A beállításokban kézzel is választhatsz várost, a helymeghatározás bekapcsolása nélkül." },
+      { "q": "Nem kapok riasztásokat, miért?",
+        "a": "Ellenőrizd, hogy a Nuit Claire értesítései engedélyezve vannak-e az iOS Beállításaiban. Riasztás csak akkor érkezik, ha nálad derült égbolt várható: egy felhős éjszaka nem vált ki riasztást, még egy szép ISS-átvonulás esetén sem." },
+      { "q": "Mely távcsövek kompatibilisek?",
+        "a": "A SkyFi, Celestron vagy OnStep Wi-Fi adapterrel vezérelhető mechanikák. Az iPhone-odnak és az adapternek ugyanazon a Wi-Fi hálózaton kell lennie." },
+      { "q": "Hogyan találom meg a naplómat egy másik készüléken?",
+        "a": "Kapcsold be a „Szinkronizálás az iCloud szolgáltatással” lehetőséget az alkalmazás beállításaiban. A naplód, a helyeid, a beállításaid és az észlelőestjeid követik az iCloud-fiókodat." },
+      { "q": "Hogyan hívhatom meg a barátaimat egy észlelőestre?",
+        "a": "Hozz létre egy estét az alkalmazásban, majd oszd meg a linket. A barátaid a böngészőjükben látják a meghívót, és közvetlenül a Nuit Claire-ben nyithatják meg." }
+    ],
+    "privacy_summary": "A Nuit Claire semmilyen személyes adatot nem gyűjt, és nem tartalmaz sem hirdetéseket, sem nyomkövetőket."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Röviden", "blocks": [
+        { "p": "A Nuit Claire semmilyen személyes adatot nem gyűjt, és nincs saját szervere. A számítások (műholdátvonulások, égitestek helyzete, teljes sötétség) a készülékeden történnek. Csak a feltétlenül szükséges információk kerülnek elküldésre néhány, alább leírt nyilvános szolgáltatásnak." } ] },
+      { "h": "A helyzeted", "blocks": [
+        { "p": "A helyzeted a műholdátvonulások, az éjszakai órák és az égboltod időjárásának kiszámításához szükséges. Az alkalmazás csak akkor használja, amikor meg van nyitva, és a készülékeden marad tárolva." },
+        { "p": "Az időjáráshoz egy <strong>kb. 1 km-re kerekített</strong> pozíció kerül elküldésre az Open-Meteo és a 7Timer! számára. A helymeghatározást el is utasíthatod, és kézzel választhatsz várost: ilyenkor a beírt név az Open-Meteo városkereső szolgáltatásához kerül." } ] },
+      { "h": "Használt szolgáltatások", "blocks": [
+        { "p": "Az alkalmazás nyilvános adatokat tölt le a következő szolgáltatásoktól. Semmilyen azonosító vagy személyes adat nem kerül hozzájuk; mint minden internetkapcsolatnál, a kérés IP-címét látják." },
+        { "ul": [
+          "<a href=\"https://open-meteo.com\">Open-Meteo</a>: felhőzet-előrejelzés és városkeresés (kerekített pozíció vagy városnév).",
+          "<a href=\"https://www.7timer.info\">7Timer!</a>: csillagászati előrejelzés (kerekített pozíció).",
+          "<a href=\"https://celestrak.org\">CelesTrak</a>: műholdpályák.",
+          "<a href=\"https://www.swpc.noaa.gov\">NOAA SWPC</a>: naptevékenység és sarkifény-előrejelzés.",
+          "<a href=\"https://minorplanetcenter.net\">Minor Planet Center</a>: üstököspályák." ] } ] },
+      { "h": "Kért engedélyek", "blocks": [
+        { "p": "Az alkalmazás minden engedélyt csak akkor kér, amikor az adott funkciót használod, és az engedélyt a készüléked Beállításaiban bármikor visszavonhatod." },
+        { "ul": [
+          "<strong>Helymeghatározás</strong>: lásd fent. Apple Watchon az iránytűt is a műholdak felé fordítja.",
+          "<strong>Kamera</strong>: a „Merre nézz” nézet jelölői mögött megjeleníti az eget. Nem ment el képeket.",
+          "<strong>Mozgás</strong>: a „Merre nézz” nézetet az égbolt azon része felé fordítja, amerre célzol.",
+          "<strong>Naptár (csak hozzáadás)</strong>: hozzáadja az általad kiválasztott égi eseményeket. Az alkalmazás nem olvassa a naptáradat.",
+          "<strong>Helyi hálózat</strong>: csatlakozik a távcsöved Wi-Fi adapteréhez, hogy ráállíthassa. Semmi nem hagyja el a hálózatodat.",
+          "<strong>Értesítések</strong>: átvonulásokról, sarki fényről és derült éjszakákról szóló riasztások, a készülékeden létrehozva." ] } ] },
+      { "h": "A naplód és az iCloud", "blocks": [
+        { "p": "Az észlelési naplód (beleértve a hozzáadott fotókat is), a kedvenc helyeid, a beállításaid és az észlelőestjeid a készülékeden tárolódnak. Ha bekapcsolod az iCloud-szinkronizálást, ezek a saját, Apple által kezelt iCloud-fiókodba is mentésre kerülnek, hogy a többi készülékeden is elérd őket. A fejlesztő nem fér hozzájuk." } ] },
+      { "h": "Megosztott esték", "blocks": [
+        { "p": "Amikor megosztasz egy észlelőestét, a link tartalmazza a meghívó adatait: a címet, a helyszín nevét és koordinátáit, a dátumot, a keresztnevedet vagy a beceneved és a megjegyzésed. Bárki, aki megkapja a linket, elolvashatja ezeket. Az oldal meghívóoldala közvetlenül a böngészőben jeleníti meg őket, anélkül hogy szerveren tárolná. Az oldalt a GitHub Pages szolgáltatja, amely technikai kapcsolódási naplókat őrizhet meg." } ] },
+      { "h": "Hirdetések és nyomkövetés", "blocks": [
+        { "p": "A Nuit Claire nem tartalmaz hirdetéseket, nyomkövetőket, sem elemző vagy használati statisztikai eszközöket." } ] },
+      { "h": "Gyermekek", "blocks": [
+        { "p": "Az alkalmazás semmilyen adatot nem gyűjt, és minden korosztály számára megfelelő." } ] },
+      { "h": "Módosítások", "blocks": [
+        { "p": "Ha ez a szabályzat módosul, az új verzió ezen az oldalon jelenik meg a frissítés dátumával együtt." } ] },
+      { "h": "Kapcsolat", "blocks": [
+        { "p": "A szabályzattal kapcsolatos kérdéseiddel fordulj ide: {email}" } ] }
+    ]
+  }
+}

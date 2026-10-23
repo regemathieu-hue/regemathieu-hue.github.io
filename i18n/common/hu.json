@@ -1,0 +1,16 @@
+{
+  "lang": "hu",
+  "dir": "ltr",
+  "name": "Magyar",
+  "support_title": "Támogatás",
+  "privacy_title": "Adatvédelmi irányelvek",
+  "contact_h": "Kapcsolat",
+  "faq_h": "GYIK",
+  "privacy_h": "Adatvédelmi irányelvek",
+  "read_full_privacy": "A teljes adatvédelmi irányelvek elolvasása →",
+  "back_to_support": "← Vissza a támogatáshoz",
+  "updated": "Utolsó frissítés: {date}",
+  "all_apps": "Összes alkalmazásom",
+  "other_languages": "Más nyelvek",
+  "language_list_h": "Ez az oldal más nyelveken"
+}

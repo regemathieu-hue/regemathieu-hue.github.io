@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Universal unit converter for iOS",
+    "contact": "For any question or bug report, contact us by email:<br>{email}",
+    "faq": [
+      { "q": "Are exchange rates updated in real time?",
+        "a": "Exchange rates are refreshed each time the app opens if an internet connection is available. An internet connection is required to get the latest rates." },
+      { "q": "Does the app work without internet?",
+        "a": "Yes, every conversion except currencies works offline. Currency conversions use the last cached rate." },
+      { "q": "How do I change the app's language?",
+        "a": "The language can be changed directly in the app's settings. More than 16 languages are available." }
+    ],
+    "privacy_summary": "Convert Everything collects no personal data. No information is sent to third-party servers."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Data collection", "blocks": [
+        { "p": "Convert Everything does not collect, store or transmit any personal data. The app runs entirely locally on your device." } ] },
+      { "h": "Data used", "blocks": [
+        { "p": "The app only accesses the following resources:" },
+        { "ul": [
+          "<strong>Internet</strong> — only to fetch exchange rates from a public API. No personal data is sent." ] } ] },
+      { "h": "Third-party services", "blocks": [
+        { "p": "Exchange rates are provided by <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, a free public API. No user data is transmitted during this request." } ] },
+      { "h": "Advertising and tracking", "blocks": [
+        { "p": "Convert Everything contains no advertising, no trackers and no behavioral analytics SDK." } ] },
+      { "h": "Children", "blocks": [
+        { "p": "This app collects no data and is suitable for all ages." } ] },
+      { "h": "Contact", "blocks": [
+        { "p": "For any question about this policy: {email}" } ] }
+    ]
+  }
+}

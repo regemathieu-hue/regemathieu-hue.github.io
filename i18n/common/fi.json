@@ -1,0 +1,16 @@
+{
+  "lang": "fi",
+  "dir": "ltr",
+  "name": "Suomi",
+  "support_title": "Tuki",
+  "privacy_title": "Tietosuojakäytäntö",
+  "contact_h": "Yhteystiedot",
+  "faq_h": "UKK",
+  "privacy_h": "Tietosuojakäytäntö",
+  "read_full_privacy": "Lue koko tietosuojakäytäntö →",
+  "back_to_support": "← Takaisin tukisivulle",
+  "updated": "Päivitetty viimeksi: {date}",
+  "all_apps": "Kaikki sovellukseni",
+  "other_languages": "Muut kielet",
+  "language_list_h": "Tämä sivu muilla kielillä"
+}

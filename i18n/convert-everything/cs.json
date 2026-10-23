@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Univerzální převodník jednotek pro iOS",
+    "contact": "S dotazy nebo hlášením chyb nás kontaktujte e-mailem:<br>{email}",
+    "faq": [
+      { "q": "Aktualizují se směnné kurzy v reálném čase?",
+        "a": "Směnné kurzy se aktualizují při každém otevření aplikace, pokud je k dispozici připojení k internetu. K získání nejnovějších kurzů je vyžadováno připojení k internetu." },
+      { "q": "Funguje aplikace bez internetu?",
+        "a": "Ano, všechny převody kromě měn fungují offline. Převod měn používá poslední kurz uložený v mezipaměti." },
+      { "q": "Jak změnit jazyk aplikace?",
+        "a": "Jazyk lze změnit přímo v nastavení aplikace. K dispozici je více než 16 jazyků." }
+    ],
+    "privacy_summary": "Convert Everything neshromažďuje žádné osobní údaje. Žádné informace nejsou předávány na servery třetích stran."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Shromažďování údajů", "blocks": [
+        { "p": "Convert Everything neshromažďuje, neukládá ani nepředává žádné osobní údaje. Aplikace funguje zcela místně ve vašem zařízení." } ] },
+      { "h": "Používané údaje", "blocks": [
+        { "p": "Aplikace přistupuje pouze k následujícím zdrojům:" },
+        { "ul": [
+          "<strong>Internet</strong> — pouze k načtení směnných kurzů z veřejného API. Žádné osobní údaje se neodesílají." ] } ] },
+      { "h": "Služby třetích stran", "blocks": [
+        { "p": "Směnné kurzy poskytuje <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, bezplatné veřejné API. Při tomto požadavku nejsou předávány žádné uživatelské údaje." } ] },
+      { "h": "Reklama a sledování", "blocks": [
+        { "p": "Convert Everything neobsahuje žádnou reklamu, žádné sledovací prvky ani SDK pro behaviorální analýzu." } ] },
+      { "h": "Děti", "blocks": [
+        { "p": "Tato aplikace neshromažďuje žádné údaje a je vhodná pro všechny věkové kategorie." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "S dotazy k těmto zásadám se obraťte na: {email}" } ] }
+    ]
+  }
+}

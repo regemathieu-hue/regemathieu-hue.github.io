@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "Juhlienne photobooth iPadilla ja iPhonella",
+    "contact": "Kysymykset ja virheilmoitukset voitte lähettää minulle osoitteeseen:<br>{email}",
+    "faq": [
+      { "q": "Mitä kameroita voin käyttää?",
+        "a": "iPadin tai iPhonen kameraa, Wi-Fi-kameraa (Lumix, Canon), GoPro-kameraa (Wi-Fi ja Bluetooth) tai HDMI-kaappauskorttia." },
+      { "q": "Wi-Fi-kameraani ei tunnisteta, mitä teen?",
+        "a": "Tarkistakaa, että iPad on yhdistetty kameran Wi-Fi-verkkoon ja että Flashboothilla on ”Lähiverkko”-käyttöoikeus kohdassa Asetukset › Flashbooth." },
+      { "q": "Miten vieraat saavat kuvansa?",
+        "a": "AirDropilla, Viestit- tai Mail-sovelluksella tai tallentamalla ne Kuvat-sovellukseen. Jos otatte verkkogallerian käyttöön, QR-koodi antaa pääsyn tapahtuman sivulle." },
+      { "q": "Miten verkkogalleria toimii?",
+        "a": "Se on oletusarvoisesti pois käytöstä oleva lisätoiminto. Se lähettää tapahtuman kuvat palvelimelle, jonka osoitteen ja pääsyavaimen syötätte itse. Voitte poistaa palvelimelle tallennetut kuvat milloin tahansa sovelluksesta." },
+      { "q": "Miten estän vieraita poistumasta sovelluksesta?",
+        "a": "Käyttäkää Flashboothin kioskitilaa ja ottakaa käyttöön iOS:n Ohjattu käyttö (Asetukset › Käyttöapu › Ohjattu käyttö), jotta iPad lukittuu sovellukseen." }
+    ],
+    "privacy_summary": "Flashbooth ei kerää mitään henkilötietoja. Kuvat pysyvät laitteellanne, ellette itse päätä jakaa niitä."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Lyhyesti", "blocks": [
+        { "p": "Flashbooth ei kerää mitään henkilötietoja, eikä kehittäjällä ole pääsyä yhteenkään kuvaan. Tapahtumienne aikana otetut kuvat tallennetaan laitteellenne. Ne poistuvat laitteelta vain, kun jaatte ne tai kun otatte itse käyttöön verkkogallerian tai kansioon kopioinnin." } ] },
+      { "h": "Kuvat", "blocks": [
+        { "p": "Kuvat, kuvaliuskat ja GIF-animaatiot säilytetään tapahtuman albumissa laitteellanne. Voitte poistaa ne milloin tahansa sovelluksesta; myös sovelluksen poistaminen poistaa ne." } ] },
+      { "h": "Jakaminen", "blocks": [
+        { "p": "Jakaminen tapahtuu iOS:n työkaluilla (AirDrop, Viestit, Mail, Kuvat, tulostus…). Näihin ikkunoihin syötetyt sähköpostiosoitteet ja puhelinnumerot käsittelee iOS: Flashbooth ei lue eikä tallenna niitä." } ] },
+      { "h": "Valinnaiset toiminnot", "blocks": [
+        { "ul": [
+          "<strong>Verkkogalleria</strong> (oletuksena pois käytöstä): lähettää tapahtuman kuvat palvelimelle, jonka osoitteen syötätte, jotta ne ovat saatavilla QR-koodilla. Palvelimen valitsette ja sitä hallinnoitte te, ei kehittäjä. Sen pääsyavain tallennetaan laitteen suojattuun avainnippuun. Kuvat voi poistaa palvelimelta sovelluksesta.",
+          "<strong>Kopiointi kansioon</strong> (oletuksena pois käytöstä): kopioi albumin valitsemaanne kansioon (iCloud Drive tai muu Tiedostot-sovelluksen palvelu). Tiedostoihin sovelletaan tällöin kyseisen palvelun ehtoja." ] } ] },
+      { "h": "Pyydettävät käyttöoikeudet", "blocks": [
+        { "p": "Kutakin käyttöoikeutta pyydetään vasta, kun käytätte kyseistä toimintoa, ja voitte peruuttaa sen laitteenne Asetuksista." },
+        { "ul": [
+          "<strong>Kamera</strong>: kuvaussession kuvien ottamiseen.",
+          "<strong>Bluetooth</strong>: GoPro-kameran ohjaamiseen.",
+          "<strong>Lähiverkko</strong>: yhteyden muodostamiseen Wi-Fi-kameroihin (Lumix, Canon, GoPro) ja lähiverkossa olevaan galleriaanne.",
+          "<strong>Kuvat (vain lisääminen)</strong>: kuvaliuskojen ja GIF-animaatioiden tallentamiseen Kuvat-sovellukseen. Sovellus ei lue kuvakirjastoanne." ] } ] },
+      { "h": "Järjestäjät ja vieraat", "blocks": [
+        { "p": "Jos käytätte Flashboothia tapahtumassa, olette vastuussa otetuista kuvista ja niiden levittämisestä. Muistakaa kertoa asiasta vieraillenne, erityisesti jos verkkogalleria on käytössä." } ] },
+      { "h": "Mainonta ja seuranta", "blocks": [
+        { "p": "Flashbooth ei sisällä mainoksia, seurantatyökaluja eikä analytiikka- tai käyttötilastotyökaluja." } ] },
+      { "h": "Muutokset", "blocks": [
+        { "p": "Jos tämä käytäntö muuttuu, uusi versio julkaistaan tällä sivulla päivityspäivämäärän kera." } ] },
+      { "h": "Yhteystiedot", "blocks": [
+        { "p": "Tätä käytäntöä koskevat kysymykset: {email}" } ] }
+    ]
+  }
+}

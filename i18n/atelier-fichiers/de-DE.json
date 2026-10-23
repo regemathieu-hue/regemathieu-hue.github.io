@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "Der Werkzeugkasten für Ihre Dateien auf iPhone, iPad und Mac",
+    "contact": "Bei Fragen, Anregungen oder Fehlermeldungen schreiben Sie mir:<br>{email}",
+    "faq": [
+      { "q": "Werden meine Dateien an einen Server gesendet?",
+        "a": "Nein. Alle Konvertierungen, Komprimierungen und Bearbeitungen finden direkt auf Ihrem Gerät statt. Die App sendet keine Datei ins Internet." },
+      { "q": "Brauche ich eine Internetverbindung?",
+        "a": "Nein, die Werkzeuge funktionieren offline. Nur die Übersetzung kann Sie beim ersten Mal auffordern, eine Sprache über die Apple-Einstellungen zu laden, und der Kauf von Atelier Pro läuft über den App Store." },
+      { "q": "Was enthält die kostenlose Version?",
+        "a": "Alle Werkzeuge, ohne Wasserzeichen, mit einer Grenze von 3 Vorgängen pro Tag. Atelier Pro hebt diese Grenze auf." },
+      { "q": "Ich habe das Gerät gewechselt – wie bekomme ich Atelier Pro zurück?",
+        "a": "Öffnen Sie den Bildschirm „Atelier Pro“ und tippen Sie auf „Käufe wiederherstellen“. Verwenden Sie denselben Apple Account wie beim Kauf." },
+      { "q": "Wie lösche ich den Verlauf?",
+        "a": "Streichen Sie im Verlauf über eine Zeile, um sie zu löschen, oder verwenden Sie „Gesamten Verlauf löschen“." }
+    ],
+    "privacy_summary": "Atelier Fichiers erhebt keine personenbezogenen Daten. Ihre Dateien bleiben auf Ihrem Gerät."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Kurz gesagt", "blocks": [
+        { "p": "Atelier Fichiers erhebt keine personenbezogenen Daten, speichert keine auf einem Server und überträgt keine. Die gesamte Dateiverarbeitung findet auf Ihrem Gerät statt. Der Entwickler hat weder Zugriff auf Ihre Dateien noch auf Informationen über Sie." } ] },
+      { "h": "Ihre Dateien", "blocks": [
+        { "p": "Die Dateien, die Sie in der App öffnen (Dokumente, PDFs, Bilder, Audio, Videos, Archive …), werden lokal verarbeitet und an dem Ort gespeichert, den Sie wählen. Die App sendet sie niemals ins Internet." },
+        { "p": "Der Verlauf der Vorgänge wird ausschließlich auf Ihrem Gerät gespeichert. Sie können ihn jederzeit in der App löschen." } ] },
+      { "h": "Angeforderte Berechtigungen", "blocks": [
+        { "p": "Jede Berechtigung wird erst angefordert, wenn Sie die entsprechende Funktion verwenden, und Sie können sie in den Einstellungen Ihres Geräts jederzeit wieder entziehen." },
+        { "ul": [
+          "<strong>Kamera</strong>: zum Scannen von Dokumenten und Lesen von Codes. Die Bilder bleiben auf dem Gerät.",
+          "<strong>Fotos (nur Hinzufügen)</strong>: zum Speichern konvertierter Bilder in Ihrer Mediathek. Die App liest Ihre Mediathek nicht; Sie wählen die zu importierenden Fotos selbst aus.",
+          "<strong>Spracherkennung</strong>: zum Transkribieren Ihrer Aufnahmen in Text und zum Erstellen von Untertiteln. Die Transkription erfolgt auf dem Gerät, ohne dass etwas gesendet wird.",
+          "<strong>Mitteilungen</strong>: um Sie zu benachrichtigen, wenn ein längerer Vorgang abgeschlossen ist. Diese Mitteilungen werden lokal erzeugt." ] } ] },
+      { "h": "Intelligente Funktionen und Übersetzung", "blocks": [
+        { "p": "Zusammenfassungen, das Extrahieren von Rezepten oder das Auslesen von Visitenkarten verwenden das im Gerät integrierte Apple Intelligence-Modell. Die Übersetzung verwendet den Übersetzungsdienst von Apple auf dem Gerät: Nur das Laden der Sprachen läuft über Apple. In beiden Fällen werden Ihre Texte nicht an den Entwickler übertragen." } ] },
+      { "h": "In-App-Käufe", "blocks": [
+        { "p": "Der Kauf von Atelier Pro wird vollständig von Apple über den App Store abgewickelt. Die App prüft lediglich, ob der Kauf getätigt wurde; sie erhält keinerlei Zahlungsdaten. Der Zähler der kostenlosen Vorgänge wird auf Ihrem Gerät gespeichert." } ] },
+      { "h": "Werbung und Tracking", "blocks": [
+        { "p": "Atelier Fichiers enthält keine Werbung, keine Tracker und keine Analyse- oder Nutzungsstatistik-Werkzeuge." } ] },
+      { "h": "Kinder", "blocks": [
+        { "p": "Die App erhebt keine Daten und ist für alle Altersgruppen geeignet." } ] },
+      { "h": "Änderungen", "blocks": [
+        { "p": "Sollte sich diese Erklärung ändern, wird die neue Fassung mit ihrem Aktualisierungsdatum auf dieser Seite veröffentlicht." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "Bei Fragen zu dieser Erklärung: {email}" } ] }
+    ]
+  }
+}

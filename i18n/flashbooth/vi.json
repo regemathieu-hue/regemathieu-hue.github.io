@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "Photo booth cho những buổi tiệc của bạn trên iPad và iPhone",
+    "contact": "Mọi câu hỏi hoặc báo lỗi, hãy viết thư cho tôi:<br>{email}",
+    "faq": [
+      { "q": "Tôi có thể dùng những loại máy ảnh nào?",
+        "a": "Camera của iPad hoặc iPhone, máy ảnh Wi-Fi (Lumix, Canon), GoPro (Wi-Fi và Bluetooth) hoặc card ghi hình HDMI." },
+      { "q": "Máy ảnh Wi-Fi của tôi không được phát hiện, phải làm sao?",
+        "a": "Hãy kiểm tra xem iPad đã kết nối với Wi-Fi của máy ảnh chưa và Flashbooth đã được cấp quyền “Mạng cục bộ” trong Cài đặt › Flashbooth chưa." },
+      { "q": "Khách mời nhận ảnh của họ bằng cách nào?",
+        "a": "Qua AirDrop, Tin nhắn, Mail hoặc lưu vào Ảnh. Nếu bạn bật thư viện trực tuyến, một mã QR sẽ cho phép truy cập trang của sự kiện." },
+      { "q": "Thư viện trực tuyến hoạt động như thế nào?",
+        "a": "Đây là tùy chọn được tắt theo mặc định. Nó gửi ảnh của sự kiện lên một máy chủ mà bạn tự nhập địa chỉ và khóa truy cập. Bạn có thể xóa ảnh lưu trên máy chủ đó bất cứ lúc nào từ trong ứng dụng." },
+      { "q": "Làm sao để ngăn khách mời thoát khỏi ứng dụng?",
+        "a": "Hãy dùng chế độ kiosk của Flashbooth và bật Truy cập được hướng dẫn của iOS (Cài đặt › Trợ năng › Truy cập được hướng dẫn) để khóa iPad trong ứng dụng." }
+    ],
+    "privacy_summary": "Flashbooth không thu thập bất kỳ dữ liệu cá nhân nào. Ảnh luôn ở trên thiết bị của bạn, trừ khi bạn chọn chia sẻ."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Tóm tắt", "blocks": [
+        { "p": "Flashbooth không thu thập bất kỳ dữ liệu cá nhân nào và nhà phát triển không có quyền truy cập vào bất kỳ bức ảnh nào. Ảnh chụp trong các sự kiện của bạn được lưu trên thiết bị của bạn. Chúng chỉ rời khỏi thiết bị khi bạn chia sẻ, hoặc khi chính bạn bật thư viện trực tuyến hay tính năng sao chép vào thư mục." } ] },
+      { "h": "Ảnh", "blocks": [
+        { "p": "Ảnh, dải ảnh và GIF được lưu trong album của sự kiện, trên thiết bị của bạn. Bạn có thể xóa chúng bất cứ lúc nào từ trong ứng dụng; gỡ ứng dụng cũng sẽ xóa chúng." } ] },
+      { "h": "Chia sẻ", "blocks": [
+        { "p": "Việc chia sẻ được thực hiện qua các công cụ của iOS (AirDrop, Tin nhắn, Mail, Ảnh, in…). Địa chỉ email hoặc số điện thoại nhập trong các cửa sổ đó do iOS xử lý: Flashbooth không đọc và không lưu chúng." } ] },
+      { "h": "Tùy chọn bổ sung", "blocks": [
+        { "ul": [
+          "<strong>Thư viện trực tuyến</strong> (tắt theo mặc định): gửi ảnh của sự kiện lên máy chủ mà bạn nhập địa chỉ, để có thể truy cập bằng mã QR. Máy chủ này do bạn chọn và quản lý, không phải nhà phát triển. Khóa truy cập của nó được lưu trong chuỗi khóa bảo mật của thiết bị. Ảnh có thể được xóa khỏi máy chủ từ trong ứng dụng.",
+          "<strong>Sao chép vào thư mục</strong> (tắt theo mặc định): sao chép album vào thư mục bạn chọn (iCloud Drive hoặc một dịch vụ khác trong ứng dụng Tệp). Khi đó các tệp sẽ chịu sự điều chỉnh của điều khoản dịch vụ đó." ] } ] },
+      { "h": "Quyền được yêu cầu", "blocks": [
+        { "p": "Mỗi quyền chỉ được yêu cầu khi bạn sử dụng tính năng liên quan, và bạn có thể thu hồi trong Cài đặt của thiết bị." },
+        { "ul": [
+          "<strong>Camera</strong>: để chụp ảnh trong buổi chụp.",
+          "<strong>Bluetooth</strong>: để điều khiển GoPro.",
+          "<strong>Mạng cục bộ</strong>: để kết nối với máy ảnh Wi-Fi (Lumix, Canon, GoPro) và với thư viện của bạn trên mạng cục bộ.",
+          "<strong>Ảnh (chỉ thêm)</strong>: để lưu dải ảnh và GIF vào ứng dụng Ảnh. Ứng dụng không đọc thư viện ảnh của bạn." ] } ] },
+      { "h": "Người tổ chức và khách mời", "blocks": [
+        { "p": "Nếu bạn dùng Flashbooth tại một sự kiện, bạn chịu trách nhiệm về những bức ảnh được chụp và việc phổ biến chúng. Hãy nhớ thông báo cho khách mời của bạn, đặc biệt khi thư viện trực tuyến được bật." } ] },
+      { "h": "Quảng cáo và theo dõi", "blocks": [
+        { "p": "Flashbooth không chứa quảng cáo, không có trình theo dõi và không có công cụ phân tích hay thống kê sử dụng nào." } ] },
+      { "h": "Thay đổi", "blocks": [
+        { "p": "Nếu chính sách này thay đổi, phiên bản mới sẽ được đăng trên trang này kèm ngày cập nhật." } ] },
+      { "h": "Liên hệ", "blocks": [
+        { "p": "Mọi câu hỏi về chính sách này: {email}" } ] }
+    ]
+  }
+}

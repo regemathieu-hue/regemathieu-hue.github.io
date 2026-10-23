@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "Fotoboksen til dine fester på iPad og iPhone",
+    "contact": "Har du spørgsmål eller vil du rapportere en fejl, så skriv til mig:<br>{email}",
+    "faq": [
+      { "q": "Hvilke kameraer kan jeg bruge?",
+        "a": "Kameraet i iPad eller iPhone, et Wi-Fi-kamera (Lumix, Canon), en GoPro (Wi-Fi og Bluetooth) eller et HDMI-capturekort." },
+      { "q": "Mit Wi-Fi-kamera bliver ikke fundet – hvad gør jeg?",
+        "a": "Tjek, at din iPad er forbundet til kameraets Wi-Fi, og at Flashbooth har tilladelsen »Lokalt netværk« under Indstillinger › Flashbooth." },
+      { "q": "Hvordan får gæsterne deres fotos?",
+        "a": "Via AirDrop, Beskeder, Mail eller ved at gemme i Fotos. Hvis du slår onlinegalleriet til, giver en QR-kode adgang til begivenhedens side." },
+      { "q": "Hvordan fungerer onlinegalleriet?",
+        "a": "Det er en funktion, der er slået fra som standard. Den sender begivenhedens fotos til en server, hvis adresse og adgangsnøgle du selv indtaster. Du kan til enhver tid slette de fotos, der ligger på serveren, fra appen." },
+      { "q": "Hvordan forhindrer jeg gæsterne i at forlade appen?",
+        "a": "Brug kiosktilstanden i Flashbooth, og slå Begrænset adgang til i iOS (Indstillinger › Tilgængelighed › Begrænset adgang) for at låse din iPad til appen." }
+    ],
+    "privacy_summary": "Flashbooth indsamler ingen personlige oplysninger. Dine fotos bliver på din enhed, medmindre du vælger at dele dem."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Kort fortalt", "blocks": [
+        { "p": "Flashbooth indsamler ingen personlige oplysninger, og udvikleren har ikke adgang til nogen fotos. De fotos, der tages under dine begivenheder, gemmes på din enhed. De forlader den kun, når du deler dem, eller hvis du selv slår onlinegalleriet eller kopiering til en mappe til." } ] },
+      { "h": "Fotos", "blocks": [
+        { "p": "Fotos, fotostriber og GIF’er gemmes i begivenhedens album på din enhed. Du kan til enhver tid slette dem fra appen; sletter du appen, forsvinder de også." } ] },
+      { "h": "Deling", "blocks": [
+        { "p": "Deling foregår gennem iOS’ egne værktøjer (AirDrop, Beskeder, Mail, Fotos, udskrivning …). De e-mailadresser eller telefonnumre, du indtaster i disse vinduer, håndteres af iOS: Flashbooth hverken læser eller gemmer dem." } ] },
+      { "h": "Valgfrie funktioner", "blocks": [
+        { "ul": [
+          "<strong>Onlinegalleri</strong> (slået fra som standard): sender begivenhedens fotos til den server, hvis adresse du indtaster, så de kan tilgås via en QR-kode. Serveren vælges og administreres af dig, ikke af udvikleren. Adgangsnøglen gemmes i enhedens sikre nøglering. Fotos kan slettes fra serveren via appen.",
+          "<strong>Kopi til en mappe</strong> (slået fra som standard): kopierer albummet til den mappe, du vælger (iCloud Drive eller en anden tjeneste i appen Arkiver). Filerne er derefter underlagt den pågældende tjenestes vilkår." ] } ] },
+      { "h": "Tilladelser, der bedes om", "blocks": [
+        { "p": "Hver tilladelse bliver først bedt om, når du bruger den pågældende funktion, og du kan fjerne den igen i Indstillinger på din enhed." },
+        { "ul": [
+          "<strong>Kamera</strong>: til at tage fotos under sessionen.",
+          "<strong>Bluetooth</strong>: til at styre en GoPro.",
+          "<strong>Lokalt netværk</strong>: til at forbinde til Wi-Fi-kameraer (Lumix, Canon, GoPro) og til dit galleri på det lokale netværk.",
+          "<strong>Fotos (kun tilføj)</strong>: til at gemme fotostriber og GIF’er i appen Fotos. Appen læser ikke dit fotobibliotek." ] } ] },
+      { "h": "Arrangører og gæster", "blocks": [
+        { "p": "Hvis du bruger Flashbooth til en begivenhed, er du ansvarlig for de fotos, der tages, og for hvordan de deles. Husk at informere dine gæster, især hvis onlinegalleriet er slået til." } ] },
+      { "h": "Reklamer og sporing", "blocks": [
+        { "p": "Flashbooth indeholder ingen reklamer, ingen trackere og ingen værktøjer til analyse eller brugsstatistik." } ] },
+      { "h": "Ændringer", "blocks": [
+        { "p": "Hvis denne politik ændres, bliver den nye version offentliggjort på denne side sammen med datoen for opdateringen." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "Spørgsmål til denne politik: {email}" } ] }
+    ]
+  }
+}

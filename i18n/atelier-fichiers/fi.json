@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "Työkalupakki tiedostoillenne iPhonella, iPadilla ja Macilla",
+    "contact": "Kysymykset, ehdotukset ja virheilmoitukset voitte lähettää minulle osoitteeseen:<br>{email}",
+    "faq": [
+      { "q": "Lähetetäänkö tiedostoni palvelimelle?",
+        "a": "Ei. Kaikki muunnokset, pakkaukset ja muokkaukset tehdään suoraan laitteellanne. Sovellus ei lähetä yhtään tiedostoa internetiin." },
+      { "q": "Tarvitaanko internetyhteys?",
+        "a": "Ei, työkalut toimivat ilman verkkoyhteyttä. Vain käännös voi pyytää lataamaan kielen kerran Applen asetuksista, ja Atelier Pro -osto tapahtuu App Storen kautta." },
+      { "q": "Mitä ilmaisversio sisältää?",
+        "a": "Kaikki työkalut ilman vesileimaa, enintään 3 toimintoa päivässä. Atelier Pro poistaa tämän rajoituksen." },
+      { "q": "Vaihdoin laitetta – miten saan Atelier Pron takaisin?",
+        "a": "Avatkaa Atelier Pro -näkymä ja napauttakaa ”Palauta ostot”. Käyttäkää samaa Apple-tiliä kuin ostohetkellä." },
+      { "q": "Miten tyhjennän historian?",
+        "a": "Pyyhkäiskää historiassa riviä poistaaksenne sen, tai käyttäkää toimintoa ”Tyhjennä koko historia”." }
+    ],
+    "privacy_summary": "Atelier Fichiers ei kerää mitään henkilötietoja. Tiedostonne pysyvät laitteellanne."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Lyhyesti", "blocks": [
+        { "p": "Atelier Fichiers ei kerää, tallenna palvelimelle eikä välitä mitään henkilötietoja. Kaikki tiedostojen käsittely tapahtuu laitteellanne. Kehittäjällä ei ole pääsyä tiedostoihinne eikä mihinkään teitä koskeviin tietoihin." } ] },
+      { "h": "Tiedostonne", "blocks": [
+        { "p": "Sovelluksessa avaamanne tiedostot (asiakirjat, PDF-tiedostot, kuvat, äänet, videot, arkistot…) käsitellään paikallisesti ja tallennetaan valitsemaanne sijaintiin. Sovellus ei koskaan lähetä niitä internetiin." },
+        { "p": "Toimintohistoria säilytetään vain laitteellanne. Voitte tyhjentää sen milloin tahansa sovelluksesta." } ] },
+      { "h": "Pyydettävät käyttöoikeudet", "blocks": [
+        { "p": "Kutakin käyttöoikeutta pyydetään vasta, kun käytätte kyseistä toimintoa, ja voitte peruuttaa sen laitteenne Asetuksista." },
+        { "ul": [
+          "<strong>Kamera</strong>: asiakirjojen skannaamiseen ja koodien lukemiseen. Kuvat pysyvät laitteella.",
+          "<strong>Kuvat (vain lisääminen)</strong>: muunnettujen kuvien tallentamiseen kuvakirjastoonne. Sovellus ei lue kuvakirjastoanne; valitsette itse tuotavat kuvat.",
+          "<strong>Puheentunnistus</strong>: äänitteidenne muuntamiseen tekstiksi ja tekstitysten luomiseen. Litterointi tehdään laitteella lähettämättä mitään.",
+          "<strong>Ilmoitukset</strong>: ilmoittamaan, kun pitkä käsittely on valmis. Ilmoitukset luodaan paikallisesti." ] } ] },
+      { "h": "Älykkäät toiminnot ja käännös", "blocks": [
+        { "p": "Tiivistelmät, reseptien poiminta ja käyntikorttien lukeminen käyttävät laitteeseen sisäänrakennettua Apple Intelligence -mallia. Käännös käyttää Applen laitteella toimivaa käännöspalvelua: vain kielten lataus kulkee Applen kautta. Kummassakaan tapauksessa tekstejänne ei välitetä kehittäjälle." } ] },
+      { "h": "Sovelluksen sisäiset ostot", "blocks": [
+        { "p": "Atelier Pro -oston hoitaa kokonaan Apple App Storen kautta. Sovellus tarkistaa vain, onko osto tehty; se ei saa mitään maksutietoja. Ilmaisten toimintojen laskuri tallennetaan laitteellenne." } ] },
+      { "h": "Mainonta ja seuranta", "blocks": [
+        { "p": "Atelier Fichiers ei sisällä mainoksia, seurantatyökaluja eikä analytiikka- tai käyttötilastotyökaluja." } ] },
+      { "h": "Lapset", "blocks": [
+        { "p": "Sovellus ei kerää mitään tietoja ja sopii kaikenikäisille." } ] },
+      { "h": "Muutokset", "blocks": [
+        { "p": "Jos tämä käytäntö muuttuu, uusi versio julkaistaan tällä sivulla päivityspäivämäärän kera." } ] },
+      { "h": "Yhteystiedot", "blocks": [
+        { "p": "Tätä käytäntöä koskevat kysymykset: {email}" } ] }
+    ]
+  }
+}

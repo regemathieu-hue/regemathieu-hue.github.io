@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "A cabine de fotos das suas festas no iPad e iPhone",
+    "contact": "Para dúvidas ou relatos de bugs, escreva para mim:<br>{email}",
+    "faq": [
+      { "q": "Quais câmeras posso usar?",
+        "a": "A câmera do iPad ou do iPhone, uma câmera Wi-Fi (Lumix, Canon), uma GoPro (Wi-Fi e Bluetooth) ou uma placa de captura HDMI." },
+      { "q": "Minha câmera Wi-Fi não é detectada, o que fazer?",
+        "a": "Verifique se o iPad está conectado ao Wi-Fi da câmera e se o Flashbooth tem a permissão “Rede Local” em Ajustes › Flashbooth." },
+      { "q": "Como os convidados recebem as fotos?",
+        "a": "Por AirDrop, Mensagens, Mail ou salvando no app Fotos. Se você ativar a galeria on-line, um QR code dá acesso à página do evento." },
+      { "q": "Como funciona a galeria on-line?",
+        "a": "É uma opção desativada por padrão. Ela envia as fotos do evento para um servidor cujo endereço e chave de acesso você mesmo informa. Você pode apagar a qualquer momento, pelo app, as fotos armazenadas nesse servidor." },
+      { "q": "Como impedir que os convidados saiam do app?",
+        "a": "Use o modo quiosque do Flashbooth e ative o Acesso Guiado do iOS (Ajustes › Acessibilidade › Acesso Guiado) para travar o iPad no app." }
+    ],
+    "privacy_summary": "O Flashbooth não coleta nenhum dado pessoal. As fotos ficam no seu aparelho, a menos que você escolha compartilhá-las."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Em resumo", "blocks": [
+        { "p": "O Flashbooth não coleta nenhum dado pessoal, e o desenvolvedor não tem acesso a nenhuma foto. As fotos tiradas durante seus eventos são salvas no seu aparelho. Elas só saem dele quando você as compartilha ou se você mesmo ativar a galeria on-line ou a cópia para uma pasta." } ] },
+      { "h": "As fotos", "blocks": [
+        { "p": "As fotos, tiras e GIFs ficam guardados no álbum do evento, no seu aparelho. Você pode apagá-los a qualquer momento pelo app; desinstalar o app também os apaga." } ] },
+      { "h": "Compartilhamento", "blocks": [
+        { "p": "O compartilhamento usa as ferramentas do iOS (AirDrop, Mensagens, Mail, Fotos, impressão…). Os endereços de e-mail ou números digitados nessas telas são gerenciados pelo iOS: o Flashbooth não os lê nem os guarda." } ] },
+      { "h": "Opções facultativas", "blocks": [
+        { "ul": [
+          "<strong>Galeria on-line</strong> (desativada por padrão): envia as fotos do evento para o servidor cujo endereço você informa, para que possam ser acessadas por QR code. Esse servidor é escolhido e gerenciado por você, não pelo desenvolvedor. A chave de acesso fica armazenada nas chaves seguras do aparelho. As fotos podem ser apagadas do servidor pelo app.",
+          "<strong>Cópia para uma pasta</strong> (desativada por padrão): copia o álbum para a pasta que você escolher (iCloud Drive ou outro serviço do app Arquivos). Os arquivos ficam então sujeitos aos termos desse serviço." ] } ] },
+      { "h": "Permissões solicitadas", "blocks": [
+        { "p": "Cada permissão só é solicitada no momento em que você usa o recurso correspondente, e você pode revogá-la nos Ajustes do seu aparelho." },
+        { "ul": [
+          "<strong>Câmera</strong>: para tirar as fotos da sessão.",
+          "<strong>Bluetooth</strong>: para controlar uma GoPro.",
+          "<strong>Rede Local</strong>: para conectar às câmeras Wi-Fi (Lumix, Canon, GoPro) e à sua galeria na rede local.",
+          "<strong>Fotos (somente adicionar)</strong>: para salvar as tiras e os GIFs no app Fotos. O app não lê sua fototeca." ] } ] },
+      { "h": "Organizadores e convidados", "blocks": [
+        { "p": "Se você usa o Flashbooth em um evento, você é responsável pelas fotos tiradas e pela divulgação delas. Lembre-se de informar seus convidados, principalmente se a galeria on-line estiver ativada." } ] },
+      { "h": "Publicidade e rastreamento", "blocks": [
+        { "p": "O Flashbooth não contém publicidade, rastreadores nem ferramentas de análise ou estatísticas de uso." } ] },
+      { "h": "Alterações", "blocks": [
+        { "p": "Se esta política mudar, a nova versão será publicada nesta página com a data de atualização." } ] },
+      { "h": "Contato", "blocks": [
+        { "p": "Para qualquer dúvida sobre esta política: {email}" } ] }
+    ]
+  }
+}

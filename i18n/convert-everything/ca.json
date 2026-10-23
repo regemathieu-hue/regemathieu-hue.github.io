@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "App de conversió universal per a iOS",
+    "contact": "Per a qualsevol pregunta o informe d'error, contacti amb nosaltres per correu electrònic:<br>{email}",
+    "faq": [
+      { "q": "Els tipus de canvi s'actualitzen en temps real?",
+        "a": "Els tipus de canvi s'actualitzen cada cop que s'obre l'app si hi ha connexió a internet disponible. Cal connexió a internet per obtenir els tipus de canvi més recents." },
+      { "q": "L'app funciona sense internet?",
+        "a": "Sí, totes les conversions excepte les de divises funcionen sense connexió. Les conversions de divises fan servir l'últim tipus de canvi desat a la memòria cau." },
+      { "q": "Com canvio l'idioma de l'app?",
+        "a": "L'idioma es pot canviar directament a la configuració de l'app. Hi ha més de 16 idiomes disponibles." }
+    ],
+    "privacy_summary": "Convert Everything no recull cap dada personal. No es transmet cap informació a servidors de tercers."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Recollida de dades", "blocks": [
+        { "p": "Convert Everything no recull, no emmagatzema ni transmet cap dada personal. L'aplicació funciona íntegrament en local, al seu dispositiu." } ] },
+      { "h": "Dades utilitzades", "blocks": [
+        { "p": "L'aplicació accedeix únicament als recursos següents:" },
+        { "ul": [
+          "<strong>Internet</strong> — únicament per obtenir els tipus de canvi des d'una API pública. No s'envia cap dada personal." ] } ] },
+      { "h": "Serveis de tercers", "blocks": [
+        { "p": "Els tipus de canvi els proporciona <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, una API pública i gratuïta. No es transmet cap dada de l'usuari durant aquesta petició." } ] },
+      { "h": "Publicitat i seguiment", "blocks": [
+        { "p": "Convert Everything no conté cap publicitat, cap rastrejador ni cap SDK d'anàlisi del comportament." } ] },
+      { "h": "Menors", "blocks": [
+        { "p": "Aquesta aplicació no recull cap dada i és apta per a totes les edats." } ] },
+      { "h": "Contacte", "blocks": [
+        { "p": "Per a qualsevol pregunta sobre aquesta política: {email}" } ] }
+    ]
+  }
+}

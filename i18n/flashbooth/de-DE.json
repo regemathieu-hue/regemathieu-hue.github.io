@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "Die Fotobox für Ihre Partys auf iPad und iPhone",
+    "contact": "Bei Fragen oder Fehlermeldungen schreiben Sie mir:<br>{email}",
+    "faq": [
+      { "q": "Welche Kameras kann ich verwenden?",
+        "a": "Die Kamera des iPad oder iPhone, eine WLAN-Kamera (Lumix, Canon), eine GoPro (WLAN und Bluetooth) oder eine HDMI-Capture-Karte." },
+      { "q": "Meine WLAN-Kamera wird nicht erkannt – was tun?",
+        "a": "Prüfen Sie, ob das iPad mit dem WLAN der Kamera verbunden ist und ob Flashbooth unter Einstellungen › Flashbooth die Berechtigung „Lokales Netzwerk“ hat." },
+      { "q": "Wie bekommen die Gäste ihre Fotos?",
+        "a": "Per AirDrop, Nachrichten, Mail oder durch Sichern in Fotos. Wenn Sie die Online-Galerie aktivieren, führt ein QR-Code zur Seite der Veranstaltung." },
+      { "q": "Wie funktioniert die Online-Galerie?",
+        "a": "Das ist eine standardmäßig deaktivierte Option. Sie sendet die Fotos der Veranstaltung an einen Server, dessen Adresse und Zugangsschlüssel Sie selbst eingeben. Die auf diesem Server gespeicherten Fotos können Sie jederzeit aus der App heraus löschen." },
+      { "q": "Wie verhindere ich, dass Gäste die App verlassen?",
+        "a": "Verwenden Sie den Kiosk-Modus von Flashbooth und aktivieren Sie den Geführten Zugriff von iOS (Einstellungen › Bedienungshilfen › Geführter Zugriff), um das iPad auf die App festzulegen." }
+    ],
+    "privacy_summary": "Flashbooth erhebt keine personenbezogenen Daten. Die Fotos bleiben auf Ihrem Gerät, es sei denn, Sie entscheiden sich, sie zu teilen."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Kurz gesagt", "blocks": [
+        { "p": "Flashbooth erhebt keine personenbezogenen Daten, und der Entwickler hat auf keine Fotos Zugriff. Die während Ihrer Veranstaltungen aufgenommenen Fotos werden auf Ihrem Gerät gespeichert. Sie verlassen es nur, wenn Sie sie teilen oder wenn Sie selbst die Online-Galerie oder das Kopieren in einen Ordner aktivieren." } ] },
+      { "h": "Die Fotos", "blocks": [
+        { "p": "Fotos, Fotostreifen und GIFs werden im Album der Veranstaltung auf Ihrem Gerät aufbewahrt. Sie können sie jederzeit in der App löschen; das Löschen der App entfernt sie ebenfalls." } ] },
+      { "h": "Teilen", "blocks": [
+        { "p": "Das Teilen läuft über die Werkzeuge von iOS (AirDrop, Nachrichten, Mail, Fotos, Drucken …). Die in diesen Fenstern eingegebenen E-Mail-Adressen oder Telefonnummern werden von iOS verwaltet: Flashbooth liest sie nicht und speichert sie nicht." } ] },
+      { "h": "Optionale Funktionen", "blocks": [
+        { "ul": [
+          "<strong>Online-Galerie</strong> (standardmäßig deaktiviert): sendet die Fotos der Veranstaltung an den Server, dessen Adresse Sie eingeben, um sie per QR-Code zugänglich zu machen. Diesen Server wählen und verwalten Sie, nicht der Entwickler. Sein Zugangsschlüssel wird im sicheren Schlüsselbund des Geräts gespeichert. Die Fotos können aus der App heraus vom Server gelöscht werden.",
+          "<strong>Kopie in einen Ordner</strong> (standardmäßig deaktiviert): kopiert das Album in den Ordner Ihrer Wahl (iCloud Drive oder ein anderer Dienst der App „Dateien“). Die Dateien unterliegen dann den Bedingungen dieses Dienstes." ] } ] },
+      { "h": "Angeforderte Berechtigungen", "blocks": [
+        { "p": "Jede Berechtigung wird erst angefordert, wenn Sie die entsprechende Funktion verwenden, und Sie können sie in den Einstellungen Ihres Geräts jederzeit wieder entziehen." },
+        { "ul": [
+          "<strong>Kamera</strong>: zum Aufnehmen der Fotos während der Session.",
+          "<strong>Bluetooth</strong>: zum Steuern einer GoPro.",
+          "<strong>Lokales Netzwerk</strong>: zum Verbinden mit WLAN-Kameras (Lumix, Canon, GoPro) und mit Ihrer Galerie im lokalen Netzwerk.",
+          "<strong>Fotos (nur Hinzufügen)</strong>: zum Speichern der Fotostreifen und GIFs in der App „Fotos“. Die App liest Ihre Mediathek nicht." ] } ] },
+      { "h": "Veranstalter und Gäste", "blocks": [
+        { "p": "Wenn Sie Flashbooth bei einer Veranstaltung einsetzen, sind Sie für die aufgenommenen Fotos und deren Verbreitung verantwortlich. Denken Sie daran, Ihre Gäste zu informieren, insbesondere wenn die Online-Galerie aktiviert ist." } ] },
+      { "h": "Werbung und Tracking", "blocks": [
+        { "p": "Flashbooth enthält keine Werbung, keine Tracker und keine Analyse- oder Nutzungsstatistik-Werkzeuge." } ] },
+      { "h": "Änderungen", "blocks": [
+        { "p": "Sollte sich diese Erklärung ändern, wird die neue Fassung mit ihrem Aktualisierungsdatum auf dieser Seite veröffentlicht." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "Bei Fragen zu dieser Erklärung: {email}" } ] }
+    ]
+  }
+}

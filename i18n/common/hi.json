@@ -1,0 +1,16 @@
+{
+  "lang": "hi",
+  "dir": "ltr",
+  "name": "हिन्दी",
+  "support_title": "सहायता",
+  "privacy_title": "गोपनीयता नीति",
+  "contact_h": "संपर्क",
+  "faq_h": "अक्सर पूछे जाने वाले सवाल",
+  "privacy_h": "गोपनीयता नीति",
+  "read_full_privacy": "पूरी गोपनीयता नीति पढ़ें →",
+  "back_to_support": "← सहायता पर वापस जाएँ",
+  "updated": "अंतिम अपडेट: {date}",
+  "all_apps": "मेरे सभी ऐप्स",
+  "other_languages": "अन्य भाषाएँ",
+  "language_list_h": "यह पेज अन्य भाषाओं में"
+}

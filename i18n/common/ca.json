@@ -1,0 +1,16 @@
+{
+  "lang": "ca",
+  "dir": "ltr",
+  "name": "Català",
+  "support_title": "Suport",
+  "privacy_title": "Política de privacitat",
+  "contact_h": "Contacte",
+  "faq_h": "Preguntes freqüents",
+  "privacy_h": "Política de privacitat",
+  "read_full_privacy": "Llegir la política de privacitat completa →",
+  "back_to_support": "← Tornar al suport",
+  "updated": "Darrera actualització: {date}",
+  "all_apps": "Totes les meves apps",
+  "other_languages": "Altres idiomes",
+  "language_list_h": "Aquesta pàgina en altres idiomes"
+}

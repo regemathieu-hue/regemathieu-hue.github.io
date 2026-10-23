@@ -1,0 +1,57 @@
+{
+  "support": {
+    "subtitle": "No et perdis res del cel nocturn",
+    "contact": "Una pregunta, una idea o un error? Escriu-me:<br>{email}",
+    "faq": [
+      { "q": "Per què l'app demana la meva ubicació?",
+        "a": "Les hores de pas dels satèl·lits, la nit astronòmica i el temps depenen del lloc des d'on observes. La teva ubicació es queda al teu mòbil; als serveis meteorològics només s'envia una posició arrodonida a aproximadament 1 km. També pots triar una ciutat a mà a la configuració, sense activar la localització." },
+      { "q": "No rebo alertes, per què?",
+        "a": "Comprova que les notificacions de Nuit Claire estan permeses a la Configuració d'iOS. Les alertes només s'envien si es preveu cel serè on ets: una nit ennuvolada no genera cap alerta, ni tan sols per a un bon pas de l'ISS." },
+      { "q": "Quins telescopis són compatibles?",
+        "a": "Les muntures que es poden controlar amb un adaptador Wi-Fi SkyFi, Celestron o OnStep. El teu iPhone i l'adaptador han d'estar a la mateixa xarxa Wi-Fi." },
+      { "q": "Com recupero el meu diari en un altre dispositiu?",
+        "a": "Activa «Sincronitza amb iCloud» a la configuració de l'app. El teu diari, els teus llocs, la teva configuració i les teves nits d'observació segueixen el teu compte d'iCloud." },
+      { "q": "Com convido amics a una nit d'observació?",
+        "a": "Crea una nit a l'app i comparteix l'enllaç. Els teus amics veuen la invitació al navegador i la poden obrir directament a Nuit Claire." }
+    ],
+    "privacy_summary": "Nuit Claire no recull cap dada personal i no conté ni publicitat ni rastrejadors."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "En resum", "blocks": [
+        { "p": "Nuit Claire no recull cap dada personal i no té cap servidor. Els càlculs (passos de satèl·lits, posicions dels astres, nit astronòmica) es fan al teu dispositiu. Només s'envia la informació estrictament necessària a uns quants serveis públics, descrits més avall." } ] },
+      { "h": "La teva ubicació", "blocks": [
+        { "p": "La teva ubicació serveix per calcular els passos de satèl·lits, les hores de la nit i el temps del teu cel. Només es fa servir quan l'app està oberta i es queda desada al teu dispositiu." },
+        { "p": "Per al temps, s'envia a Open-Meteo i a 7Timer! una posició <strong>arrodonida a aproximadament 1 km</strong>. També pots rebutjar la localització i triar una ciutat a mà: el nom que escrius s'envia llavors al servei de cerca de ciutats d'Open-Meteo." } ] },
+      { "h": "Serveis utilitzats", "blocks": [
+        { "p": "L'aplicació descarrega dades públiques dels serveis següents. No se'ls transmet cap identificador ni informació personal; com en qualsevol connexió a internet, veuen l'adreça IP de la petició." },
+        { "ul": [
+          "<a href=\"https://open-meteo.com\">Open-Meteo</a>: previsions de núvols i cerca de ciutats (posició arrodonida o nom de la ciutat).",
+          "<a href=\"https://www.7timer.info\">7Timer!</a>: previsions astronòmiques (posició arrodonida).",
+          "<a href=\"https://celestrak.org\">CelesTrak</a>: òrbites dels satèl·lits.",
+          "<a href=\"https://www.swpc.noaa.gov\">NOAA SWPC</a>: activitat solar i previsions d'aurores.",
+          "<a href=\"https://minorplanetcenter.net\">Minor Planet Center</a>: òrbites dels cometes." ] } ] },
+      { "h": "Permisos sol·licitats", "blocks": [
+        { "p": "Cada permís només es demana en el moment en què fas servir la funció corresponent, i pots retirar-lo a la Configuració del teu dispositiu." },
+        { "ul": [
+          "<strong>Ubicació</strong>: mira més amunt. A l'Apple Watch, també orienta la brúixola cap als satèl·lits.",
+          "<strong>Càmera</strong>: mostra el cel darrere les marques de la vista «On mirar». No es desa cap imatge.",
+          "<strong>Moviment</strong>: orienta la vista «On mirar» cap a la part del cel a què apuntes.",
+          "<strong>Calendari (només afegir)</strong>: afegeix els esdeveniments del cel que triïs. L'app no llegeix el teu calendari.",
+          "<strong>Xarxa local</strong>: es connecta a l'adaptador Wi-Fi del teu telescopi per apuntar-lo. Res no surt de la teva xarxa.",
+          "<strong>Notificacions</strong>: alertes de passos, d'aurores i de nits serenes, generades al teu dispositiu." ] } ] },
+      { "h": "El teu diari i iCloud", "blocks": [
+        { "p": "El teu diari d'observació (incloses les fotos que hi afegeixes), els teus llocs preferits, la teva configuració i les teves nits es desen al teu dispositiu. Si actives la sincronització amb iCloud, també es desen al teu propi compte d'iCloud, gestionat per Apple, perquè els retrobis als teus altres dispositius. El desenvolupador no hi té accés." } ] },
+      { "h": "Nits compartides", "blocks": [
+        { "p": "Quan comparteixes una nit d'observació, l'enllaç conté la informació de la invitació: títol, nom i coordenades del lloc, data, el teu nom o àlies i la teva nota. Qualsevol persona que rebi l'enllaç la pot llegir. La pàgina d'invitació d'aquest lloc web la mostra directament al navegador, sense desar-la en cap servidor. Aquest lloc web està allotjat a GitHub Pages, que pot conservar registres tècnics de connexió." } ] },
+      { "h": "Publicitat i seguiment", "blocks": [
+        { "p": "Nuit Claire no conté cap publicitat, cap rastrejador ni cap eina d'anàlisi o d'estadístiques d'ús." } ] },
+      { "h": "Menors", "blocks": [
+        { "p": "L'aplicació no recull cap dada i és apta per a totes les edats." } ] },
+      { "h": "Modificacions", "blocks": [
+        { "p": "Si aquesta política canvia, la nova versió es publicarà en aquesta pàgina amb la seva data d'actualització." } ] },
+      { "h": "Contacte", "blocks": [
+        { "p": "Per a qualsevol pregunta sobre aquesta política: {email}" } ] }
+    ]
+  }
+}

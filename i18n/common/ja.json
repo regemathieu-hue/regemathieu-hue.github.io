@@ -1,0 +1,16 @@
+{
+  "lang": "ja",
+  "dir": "ltr",
+  "name": "日本語",
+  "support_title": "サポート",
+  "privacy_title": "プライバシーポリシー",
+  "contact_h": "お問い合わせ",
+  "faq_h": "よくある質問",
+  "privacy_h": "プライバシーポリシー",
+  "read_full_privacy": "プライバシーポリシーの全文を読む →",
+  "back_to_support": "← サポートに戻る",
+  "updated": "最終更新日：{date}",
+  "all_apps": "私のアプリ一覧",
+  "other_languages": "他の言語",
+  "language_list_h": "このページの他言語版"
+}

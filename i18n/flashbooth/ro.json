@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "Cabina foto a petrecerilor dvs., pe iPad și iPhone",
+    "contact": "Pentru orice întrebare sau raportare a unei erori, scrieți-mi:<br>{email}",
+    "faq": [
+      { "q": "Ce aparate foto pot folosi?",
+        "a": "Camera iPad-ului sau a iPhone-ului, un aparat foto Wi-Fi (Lumix, Canon), o cameră GoPro (Wi-Fi și Bluetooth) sau o placă de captură HDMI." },
+      { "q": "Aparatul meu Wi-Fi nu este detectat, ce pot face?",
+        "a": "Verificați că iPad-ul este conectat la rețeaua Wi-Fi a aparatului foto și că Flashbooth are permisiunea „Rețea locală” în Configurări › Flashbooth." },
+      { "q": "Cum își recuperează invitații pozele?",
+        "a": "Prin AirDrop, Mesaje, Mail sau salvând în Poze. Dacă activați galeria online, un cod QR oferă acces la pagina evenimentului." },
+      { "q": "Cum funcționează galeria online?",
+        "a": "Este o opțiune dezactivată în mod implicit. Trimite pozele evenimentului către un server a cărui adresă și cheie de acces le introduceți dvs. Puteți șterge oricând din aplicație pozele stocate pe acel server." },
+      { "q": "Cum îi împiedic pe invitați să părăsească aplicația?",
+        "a": "Folosiți modul chioșc al Flashbooth și activați Accesul ghidat din iOS (Configurări › Accesibilitate › Acces ghidat) pentru a bloca iPad-ul pe aplicație." }
+    ],
+    "privacy_summary": "Flashbooth nu colectează nicio dată personală. Pozele rămân pe dispozitivul dvs., cu excepția cazului în care alegeți să le partajați."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Pe scurt", "blocks": [
+        { "p": "Flashbooth nu colectează nicio dată personală, iar dezvoltatorul nu are acces la nicio poză. Pozele făcute în timpul evenimentelor dvs. sunt salvate pe dispozitivul dvs. Ele îl părăsesc doar atunci când le partajați sau dacă activați dvs. galeria online ori copierea într-un dosar." } ] },
+      { "h": "Pozele", "blocks": [
+        { "p": "Pozele, planșele și GIF-urile sunt păstrate în albumul evenimentului, pe dispozitivul dvs. Le puteți șterge oricând din aplicație; ștergerea aplicației le elimină de asemenea." } ] },
+      { "h": "Partajare", "blocks": [
+        { "p": "Partajarea se face prin instrumentele iOS (AirDrop, Mesaje, Mail, Poze, imprimare…). Adresele de e-mail sau numerele introduse în aceste ferestre sunt gestionate de iOS: Flashbooth nu le citește și nu le păstrează." } ] },
+      { "h": "Opțiuni facultative", "blocks": [
+        { "ul": [
+          "<strong>Galerie online</strong> (dezactivată în mod implicit): trimite pozele evenimentului către serverul a cărui adresă o introduceți, pentru a le face accesibile prin cod QR. Acest server este ales și gestionat de dvs., nu de dezvoltator. Cheia sa de acces este stocată în keychain-ul securizat al dispozitivului. Pozele pot fi șterse de pe server din aplicație.",
+          "<strong>Copiere într-un dosar</strong> (dezactivată în mod implicit): copiază albumul în dosarul pe care îl alegeți (iCloud Drive sau un alt serviciu din aplicația Fișiere). Fișierele sunt atunci supuse condițiilor acelui serviciu." ] } ] },
+      { "h": "Permisiuni solicitate", "blocks": [
+        { "p": "Fiecare permisiune este solicitată doar în momentul în care folosiți funcția respectivă și o puteți retrage din Configurările dispozitivului dvs." },
+        { "ul": [
+          "<strong>Cameră</strong>: pentru a face pozele sesiunii.",
+          "<strong>Bluetooth</strong>: pentru a controla o cameră GoPro.",
+          "<strong>Rețea locală</strong>: pentru a vă conecta la aparatele foto Wi-Fi (Lumix, Canon, GoPro) și la galeria dvs. din rețeaua locală.",
+          "<strong>Poze (doar adăugare)</strong>: pentru a salva planșele și GIF-urile în aplicația Poze. Aplicația nu citește biblioteca dvs. foto." ] } ] },
+      { "h": "Organizatori și invitați", "blocks": [
+        { "p": "Dacă folosiți Flashbooth la un eveniment, sunteți responsabil(ă) pentru pozele făcute și pentru difuzarea lor. Nu uitați să vă informați invitații, mai ales dacă galeria online este activată." } ] },
+      { "h": "Publicitate și urmărire", "blocks": [
+        { "p": "Flashbooth nu conține nicio reclamă, niciun instrument de urmărire și niciun instrument de analiză sau de statistici de utilizare." } ] },
+      { "h": "Modificări", "blocks": [
+        { "p": "Dacă această politică se schimbă, noua versiune va fi publicată pe această pagină împreună cu data actualizării." } ] },
+      { "h": "Contact", "blocks": [
+        { "p": "Pentru orice întrebare privind această politică: {email}" } ] }
+    ]
+  }
+}

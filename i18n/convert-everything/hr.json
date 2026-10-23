@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Univerzalni pretvarač jedinica za iOS",
+    "contact": "Za sva pitanja ili prijave grešaka kontaktirajte nas e-poštom:<br>{email}",
+    "faq": [
+      { "q": "Ažuriraju li se tečajevi u stvarnom vremenu?",
+        "a": "Tečajevi se osvježavaju pri svakom otvaranju aplikacije ako je dostupna internetska veza. Za dohvaćanje najnovijih tečajeva potrebna je internetska veza." },
+      { "q": "Radi li aplikacija bez interneta?",
+        "a": "Da, sve pretvorbe osim valuta rade izvan mreže. Pretvorbe valuta koriste zadnji tečaj spremljen u predmemoriji." },
+      { "q": "Kako promijeniti jezik aplikacije?",
+        "a": "Jezik se može promijeniti izravno u postavkama aplikacije. Dostupno je više od 16 jezika." }
+    ],
+    "privacy_summary": "Convert Everything ne prikuplja nikakve osobne podatke. Nikakvi se podaci ne prenose na poslužitelje trećih strana."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Prikupljanje podataka", "blocks": [
+        { "p": "Convert Everything ne prikuplja, ne pohranjuje i ne prenosi nikakve osobne podatke. Aplikacija radi u potpunosti lokalno na vašem uređaju." } ] },
+      { "h": "Korišteni podaci", "blocks": [
+        { "p": "Aplikacija pristupa isključivo sljedećim resursima:" },
+        { "ul": [
+          "<strong>Internet</strong> — samo za dohvaćanje tečajeva iz javnog API-ja. Nikakvi se osobni podaci ne šalju." ] } ] },
+      { "h": "Usluge trećih strana", "blocks": [
+        { "p": "Tečajeve pruža <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, besplatni javni API. Tijekom tog zahtjeva ne prenose se nikakvi korisnički podaci." } ] },
+      { "h": "Oglašavanje i praćenje", "blocks": [
+        { "p": "Convert Everything ne sadrži nikakve oglase, alate za praćenje ni SDK za analizu ponašanja." } ] },
+      { "h": "Djeca", "blocks": [
+        { "p": "Ova aplikacija ne prikuplja nikakve podatke i prikladna je za sve uzraste." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "Za sva pitanja u vezi s ovim pravilima: {email}" } ] }
+    ]
+  }
+}

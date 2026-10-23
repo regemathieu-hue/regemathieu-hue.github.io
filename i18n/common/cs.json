@@ -1,0 +1,16 @@
+{
+  "lang": "cs",
+  "dir": "ltr",
+  "name": "Čeština",
+  "support_title": "Podpora",
+  "privacy_title": "Zásady ochrany osobních údajů",
+  "contact_h": "Kontakt",
+  "faq_h": "Časté dotazy",
+  "privacy_h": "Zásady ochrany osobních údajů",
+  "read_full_privacy": "Přečíst celé zásady ochrany osobních údajů →",
+  "back_to_support": "← Zpět na podporu",
+  "updated": "Poslední aktualizace: {date}",
+  "all_apps": "Všechny mé aplikace",
+  "other_languages": "Další jazyky",
+  "language_list_h": "Tato stránka v dalších jazycích"
+}

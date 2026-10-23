@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Ứng dụng chuyển đổi đơn vị đa năng cho iOS",
+    "contact": "Mọi câu hỏi hoặc báo lỗi, hãy liên hệ với chúng tôi qua email:<br>{email}",
+    "faq": [
+      { "q": "Tỷ giá hối đoái có được cập nhật theo thời gian thực không?",
+        "a": "Tỷ giá được làm mới mỗi khi mở ứng dụng nếu có kết nối internet. Cần có kết nối internet để nhận tỷ giá mới nhất." },
+      { "q": "Ứng dụng có hoạt động khi không có internet không?",
+        "a": "Có, mọi phép chuyển đổi trừ tiền tệ đều hoạt động ngoại tuyến. Chuyển đổi tiền tệ sử dụng tỷ giá gần nhất đã được lưu trong bộ nhớ đệm." },
+      { "q": "Làm sao để đổi ngôn ngữ của ứng dụng?",
+        "a": "Bạn có thể đổi ngôn ngữ trực tiếp trong phần cài đặt của ứng dụng. Có hơn 16 ngôn ngữ để lựa chọn." }
+    ],
+    "privacy_summary": "Convert Everything không thu thập bất kỳ dữ liệu cá nhân nào. Không có thông tin nào được gửi đến máy chủ của bên thứ ba."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Thu thập dữ liệu", "blocks": [
+        { "p": "Convert Everything không thu thập, không lưu trữ và không truyền đi bất kỳ dữ liệu cá nhân nào. Ứng dụng hoạt động hoàn toàn cục bộ trên thiết bị của bạn." } ] },
+      { "h": "Dữ liệu được sử dụng", "blocks": [
+        { "p": "Ứng dụng chỉ truy cập các tài nguyên sau:" },
+        { "ul": [
+          "<strong>Internet</strong> — chỉ để lấy tỷ giá hối đoái từ một API công khai. Không có dữ liệu cá nhân nào được gửi đi." ] } ] },
+      { "h": "Dịch vụ bên thứ ba", "blocks": [
+        { "p": "Tỷ giá hối đoái được cung cấp bởi <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, một API công khai miễn phí. Không có dữ liệu người dùng nào được truyền đi trong yêu cầu này." } ] },
+      { "h": "Quảng cáo và theo dõi", "blocks": [
+        { "p": "Convert Everything không chứa quảng cáo, không có trình theo dõi và không có SDK phân tích hành vi nào." } ] },
+      { "h": "Trẻ em", "blocks": [
+        { "p": "Ứng dụng này không thu thập bất kỳ dữ liệu nào và phù hợp với mọi lứa tuổi." } ] },
+      { "h": "Liên hệ", "blocks": [
+        { "p": "Mọi câu hỏi về chính sách này: {email}" } ] }
+    ]
+  }
+}

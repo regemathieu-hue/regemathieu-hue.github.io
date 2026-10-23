@@ -1,0 +1,57 @@
+{
+  "support": {
+    "subtitle": "Ne propusti ništa na noćnom nebu",
+    "contact": "Pitanje, ideja ili greška? Piši mi:<br>{email}",
+    "faq": [
+      { "q": "Zašto aplikacija traži moju lokaciju?",
+        "a": "Vremena prelaska satelita, potpuni mrak i vremenska prognoza ovise o tome gdje promatraš. Tvoja lokacija ostaje na tvom telefonu; meteorološkim servisima šalje se samo položaj zaokružen na otprilike 1 km. Možeš i ručno odabrati grad u postavkama, bez uključivanja lokacije." },
+      { "q": "Ne primam upozorenja, zašto?",
+        "a": "Provjeri jesu li obavijesti aplikacije Nuit Claire dopuštene u Postavkama iOS-a. Upozorenja se šalju samo ako se kod tebe najavljuje vedro nebo: oblačna noć ne pokreće upozorenje, čak ni za lijep prelazak ISS-a." },
+      { "q": "Koji su teleskopi kompatibilni?",
+        "a": "Montaže kojima se može upravljati putem Wi-Fi adaptera SkyFi, Celestron ili OnStep. Tvoj iPhone i adapter moraju biti na istoj Wi-Fi mreži." },
+      { "q": "Kako pronaći svoj dnevnik na drugom uređaju?",
+        "a": "Uključi „Sinkroniziraj s iCloudom“ u postavkama aplikacije. Tvoj dnevnik, mjesta, postavke i večeri prate tvoj iCloud račun." },
+      { "q": "Kako pozvati prijatelje na večer promatranja?",
+        "a": "Stvori večer u aplikaciji i zatim podijeli poveznicu. Prijatelji vide pozivnicu u svom pregledniku i mogu je otvoriti izravno u aplikaciji Nuit Claire." }
+    ],
+    "privacy_summary": "Nuit Claire ne prikuplja nikakve osobne podatke i ne sadrži ni oglase ni alate za praćenje."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Ukratko", "blocks": [
+        { "p": "Nuit Claire ne prikuplja nikakve osobne podatke i nema poslužitelj. Izračuni (prelasci satelita, položaji nebeskih tijela, potpuni mrak) obavljaju se na tvom uređaju. Samo strogo nužne informacije šalju se nekolicini javnih servisa opisanih u nastavku." } ] },
+      { "h": "Tvoja lokacija", "blocks": [
+        { "p": "Tvoja lokacija služi za izračun prelazaka satelita, sati noći i vremenske prognoze za tvoje nebo. Koristi se samo dok je aplikacija otvorena i ostaje spremljena na tvom uređaju." },
+        { "p": "Za vremensku prognozu, položaj <strong>zaokružen na otprilike 1 km</strong> šalje se servisima Open-Meteo i 7Timer!. Možeš i odbiti pristup lokaciji te ručno odabrati grad: naziv koji upišeš tada se šalje servisu za pretraživanje gradova Open-Meteo." } ] },
+      { "h": "Korišteni servisi", "blocks": [
+        { "p": "Aplikacija preuzima javne podatke sa sljedećih servisa. Ne prenosi im se nikakav identifikator ni osobni podatak; kao i kod svake internetske veze, oni vide IP adresu zahtjeva." },
+        { "ul": [
+          "<a href=\"https://open-meteo.com\">Open-Meteo</a>: prognoza naoblake i pretraživanje gradova (zaokruženi položaj ili naziv grada).",
+          "<a href=\"https://www.7timer.info\">7Timer!</a>: astronomske prognoze (zaokruženi položaj).",
+          "<a href=\"https://celestrak.org\">CelesTrak</a>: orbite satelita.",
+          "<a href=\"https://www.swpc.noaa.gov\">NOAA SWPC</a>: sunčeva aktivnost i prognoze polarne svjetlosti.",
+          "<a href=\"https://minorplanetcenter.net\">Minor Planet Center</a>: orbite kometa." ] } ] },
+      { "h": "Zatražene dozvole", "blocks": [
+        { "p": "Svaka se dozvola traži tek u trenutku kada koristiš dotičnu funkciju, a možeš je opozvati u Postavkama svog uređaja." },
+        { "ul": [
+          "<strong>Lokacija</strong>: vidi gore. Na Apple Watchu također usmjerava kompas prema satelitima.",
+          "<strong>Kamera</strong>: prikazuje nebo iza oznaka u prikazu „Kamo gledati“. Nijedna se slika ne sprema.",
+          "<strong>Kretanje</strong>: usmjerava prikaz „Kamo gledati“ prema dijelu neba u koji ciljaš.",
+          "<strong>Kalendar (samo dodavanje)</strong>: dodaje nebeske događaje koje odabereš. Aplikacija ne čita tvoj kalendar.",
+          "<strong>Lokalna mreža</strong>: povezuje se s Wi-Fi adapterom tvog teleskopa kako bi ga usmjerila. Ništa ne izlazi iz tvoje mreže.",
+          "<strong>Obavijesti</strong>: upozorenja o prelascima, polarnoj svjetlosti i vedrim noćima, generirana na tvom uređaju." ] } ] },
+      { "h": "Tvoj dnevnik i iCloud", "blocks": [
+        { "p": "Tvoj dnevnik promatranja (uključujući fotografije koje u njega dodaš), omiljena mjesta, postavke i večeri pohranjeni su na tvom uređaju. Ako uključiš sinkronizaciju s iCloudom, spremaju se i u tvoj vlastiti iCloud račun kojim upravlja Apple, kako bi ih mogao pronaći na svojim drugim uređajima. Razvojni programer nema pristup tim podacima." } ] },
+      { "h": "Podijeljene večeri", "blocks": [
+        { "p": "Kada podijeliš večer promatranja, poveznica sadrži podatke pozivnice: naslov, naziv i koordinate mjesta, datum, tvoje ime ili nadimak i tvoju bilješku. Svatko tko primi poveznicu može ih pročitati. Stranica s pozivnicom na ovom web-mjestu prikazuje ih izravno u pregledniku, bez spremanja na poslužitelj. Ovo web-mjesto hostira GitHub Pages, koji može čuvati tehničke zapisnike povezivanja." } ] },
+      { "h": "Oglašavanje i praćenje", "blocks": [
+        { "p": "Nuit Claire ne sadrži nikakve oglase, alate za praćenje ni alate za analitiku ili statistiku korištenja." } ] },
+      { "h": "Djeca", "blocks": [
+        { "p": "Aplikacija ne prikuplja nikakve podatke i prikladna je za sve uzraste." } ] },
+      { "h": "Izmjene", "blocks": [
+        { "p": "Ako se ova pravila promijene, nova verzija bit će objavljena na ovoj stranici s datumom ažuriranja." } ] },
+      { "h": "Kontakt", "blocks": [
+        { "p": "Za sva pitanja u vezi s ovim pravilima: {email}" } ] }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "lang": "zh-Hant",
+  "dir": "ltr",
+  "name": "繁體中文",
+  "support_title": "支援",
+  "privacy_title": "隱私權政策",
+  "contact_h": "聯絡方式",
+  "faq_h": "常見問題",
+  "privacy_h": "隱私權政策",
+  "read_full_privacy": "閱讀完整隱私權政策 →",
+  "back_to_support": "← 返回支援頁面",
+  "updated": "最後更新：{date}",
+  "all_apps": "我的所有 App",
+  "other_languages": "其他語言",
+  "language_list_h": "本頁面的其他語言版本"
+}

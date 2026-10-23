@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "The photo booth for your parties on iPad and iPhone",
+    "contact": "For any question or bug report, write to me:<br>{email}",
+    "faq": [
+      { "q": "Which cameras can I use?",
+        "a": "The iPad or iPhone camera, a Wi-Fi camera (Lumix, Canon), a GoPro (Wi-Fi and Bluetooth) or an HDMI capture card." },
+      { "q": "My Wi-Fi camera is not detected, what should I do?",
+        "a": "Check that the iPad is connected to the camera's Wi-Fi and that Flashbooth has the \"Local Network\" permission in Settings › Flashbooth." },
+      { "q": "How do guests get their photos?",
+        "a": "Via AirDrop, Messages, Mail or by saving to Photos. If you enable the online gallery, a QR code gives access to the event page." },
+      { "q": "How does the online gallery work?",
+        "a": "It is an option that is off by default. It sends the event's photos to a server whose address and access key you enter yourself. You can delete the photos stored on that server at any time from the app." },
+      { "q": "How do I stop guests from leaving the app?",
+        "a": "Use Flashbooth's kiosk mode, and turn on iOS Guided Access (Settings › Accessibility › Guided Access) to lock the iPad to the app." }
+    ],
+    "privacy_summary": "Flashbooth collects no personal data. Photos stay on your device unless you choose to share them."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "In short", "blocks": [
+        { "p": "Flashbooth collects no personal data and the developer has no access to any photo. Photos taken during your events are saved on your device. They only leave it when you share them, or if you yourself enable the online gallery or the copy to a folder." } ] },
+      { "h": "Photos", "blocks": [
+        { "p": "Photos, photo strips and GIFs are kept in the event's album, on your device. You can delete them at any time from the app; deleting the app also erases them." } ] },
+      { "h": "Sharing", "blocks": [
+        { "p": "Sharing goes through iOS tools (AirDrop, Messages, Mail, Photos, printing…). Email addresses or phone numbers entered in those sheets are handled by iOS: Flashbooth does not read or keep them." } ] },
+      { "h": "Optional features", "blocks": [
+        { "ul": [
+          "<strong>Online gallery</strong> (off by default): sends the event's photos to the server whose address you enter, so they can be reached with a QR code. That server is chosen and managed by you, not by the developer. Its access key is stored in the device's secure keychain. Photos can be deleted from the server from within the app.",
+          "<strong>Copy to a folder</strong> (off by default): copies the album to the folder you choose (iCloud Drive or another service in the Files app). The files are then subject to that service's terms." ] } ] },
+      { "h": "Permissions requested", "blocks": [
+        { "p": "Each permission is only requested when you use the related feature, and you can revoke it in your device's Settings." },
+        { "ul": [
+          "<strong>Camera</strong>: to take the session's photos.",
+          "<strong>Bluetooth</strong>: to control a GoPro.",
+          "<strong>Local Network</strong>: to connect to Wi-Fi cameras (Lumix, Canon, GoPro) and to your gallery on the local network.",
+          "<strong>Photos (add only)</strong>: to save photo strips and GIFs to the Photos app. The app does not read your photo library." ] } ] },
+      { "h": "Hosts and guests", "blocks": [
+        { "p": "If you use Flashbooth at an event, you are responsible for the photos taken and how they are shared. Remember to inform your guests, especially if the online gallery is enabled." } ] },
+      { "h": "Advertising and tracking", "blocks": [
+        { "p": "Flashbooth contains no advertising, no trackers and no analytics or usage statistics tools." } ] },
+      { "h": "Changes", "blocks": [
+        { "p": "If this policy changes, the new version will be published on this page with its update date." } ] },
+      { "h": "Contact", "blocks": [
+        { "p": "For any question about this policy: {email}" } ] }
+    ]
+  }
+}

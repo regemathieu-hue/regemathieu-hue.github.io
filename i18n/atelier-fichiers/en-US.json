@@ -1,0 +1,47 @@
+{
+  "support": {
+    "subtitle": "The toolbox for your files, on iPhone, iPad and Mac",
+    "contact": "For any question, suggestion or bug report, write to me:<br>{email}",
+    "faq": [
+      { "q": "Are my files sent to a server?",
+        "a": "No. All conversions, compressions and edits happen directly on your device. The app never sends any file over the internet." },
+      { "q": "Do I need an internet connection?",
+        "a": "No, the tools work offline. Only translation may ask you to download a language once from Apple's settings, and the Atelier Pro purchase goes through the App Store." },
+      { "q": "What does the free version include?",
+        "a": "Every tool, with no watermark, up to 3 operations per day. Atelier Pro removes this limit." },
+      { "q": "I switched devices, how do I get Atelier Pro back?",
+        "a": "Open the Atelier Pro screen and tap \"Restore Purchases\". Use the same Apple Account you used for the purchase." },
+      { "q": "How do I clear the history?",
+        "a": "In the history, swipe a row to delete it, or use \"Clear all history\"." }
+    ],
+    "privacy_summary": "Atelier Fichiers collects no personal data. Your files stay on your device."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "In short", "blocks": [
+        { "p": "Atelier Fichiers does not collect, store on a server or transmit any personal data. All file processing takes place on your device. The developer has no access to any of your files or to any information about you." } ] },
+      { "h": "Your files", "blocks": [
+        { "p": "The files you open in the app (documents, PDFs, images, audio, videos, archives…) are processed locally and saved wherever you choose. The app never sends them over the internet." },
+        { "p": "The history of operations is kept only on your device. You can clear it at any time from the app." } ] },
+      { "h": "Permissions requested", "blocks": [
+        { "p": "Each permission is only requested when you use the related feature, and you can revoke it in your device's Settings." },
+        { "ul": [
+          "<strong>Camera</strong>: to scan documents and read codes. Images stay on the device.",
+          "<strong>Photos (add only)</strong>: to save converted images to your photo library. The app does not read your library; you pick the photos to import yourself.",
+          "<strong>Speech recognition</strong>: to transcribe your recordings into text and create subtitles. Transcription is done on the device, without sending anything.",
+          "<strong>Notifications</strong>: to let you know when a long operation has finished. These notifications are generated locally." ] } ] },
+      { "h": "Smart features and translation", "blocks": [
+        { "p": "Summaries, recipe extraction and business card reading use the Apple Intelligence model built into the device. Translation uses Apple's on-device translation service: only the language downloads go through Apple. In both cases, your text is never transmitted to the developer." } ] },
+      { "h": "In-app purchases", "blocks": [
+        { "p": "The Atelier Pro purchase is handled entirely by Apple through the App Store. The app only checks whether the purchase was made; it receives no payment data. The free operations counter is stored on your device." } ] },
+      { "h": "Advertising and tracking", "blocks": [
+        { "p": "Atelier Fichiers contains no advertising, no trackers and no analytics or usage statistics tools." } ] },
+      { "h": "Children", "blocks": [
+        { "p": "The app collects no data and is suitable for all ages." } ] },
+      { "h": "Changes", "blocks": [
+        { "p": "If this policy changes, the new version will be published on this page with its update date." } ] },
+      { "h": "Contact", "blocks": [
+        { "p": "For any question about this policy: {email}" } ] }
+    ]
+  }
+}

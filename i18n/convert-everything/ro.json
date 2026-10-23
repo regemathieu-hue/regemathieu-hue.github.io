@@ -1,0 +1,33 @@
+{
+  "support": {
+    "subtitle": "Aplicație universală de conversie a unităților pentru iOS",
+    "contact": "Pentru orice întrebare sau raportare a unei erori, contactați-ne prin e-mail:<br>{email}",
+    "faq": [
+      { "q": "Cursurile de schimb sunt actualizate în timp real?",
+        "a": "Cursurile de schimb sunt actualizate la fiecare deschidere a aplicației dacă există o conexiune la internet. Pentru a obține cele mai recente cursuri este necesară o conexiune la internet." },
+      { "q": "Aplicația funcționează fără internet?",
+        "a": "Da, toate conversiile, cu excepția valutelor, funcționează offline. Conversiile valutare folosesc ultimul curs salvat în memoria cache." },
+      { "q": "Cum schimb limba aplicației?",
+        "a": "Limba poate fi schimbată direct din configurările aplicației. Sunt disponibile peste 16 limbi." }
+    ],
+    "privacy_summary": "Convert Everything nu colectează nicio dată personală. Nicio informație nu este transmisă către servere terțe."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Colectarea datelor", "blocks": [
+        { "p": "Convert Everything nu colectează, nu stochează și nu transmite nicio dată personală. Aplicația funcționează în întregime local, pe dispozitivul dvs." } ] },
+      { "h": "Date utilizate", "blocks": [
+        { "p": "Aplicația accesează doar următoarele resurse:" },
+        { "ul": [
+          "<strong>Internet</strong> — doar pentru a prelua cursurile de schimb dintr-un API public. Nicio dată personală nu este trimisă." ] } ] },
+      { "h": "Servicii terțe", "blocks": [
+        { "p": "Cursurile de schimb sunt furnizate de <a href=\"https://github.com/fawazahmed0/exchange-api\">fawazahmed0/exchange-api</a>, un API public gratuit. Nicio dată de utilizator nu este transmisă în timpul acestei cereri." } ] },
+      { "h": "Publicitate și urmărire", "blocks": [
+        { "p": "Convert Everything nu conține nicio reclamă, niciun instrument de urmărire și niciun SDK de analiză comportamentală." } ] },
+      { "h": "Copii", "blocks": [
+        { "p": "Această aplicație nu colectează nicio dată și este potrivită pentru toate vârstele." } ] },
+      { "h": "Contact", "blocks": [
+        { "p": "Pentru orice întrebare privind această politică: {email}" } ] }
+    ]
+  }
+}

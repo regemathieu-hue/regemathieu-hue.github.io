@@ -1,0 +1,48 @@
+{
+  "support": {
+    "subtitle": "iPad ve iPhone'da partilerinizin fotoğraf kabini",
+    "contact": "Her türlü soru veya hata bildirimi için bana yazın:<br>{email}",
+    "faq": [
+      { "q": "Hangi kameraları kullanabilirim?",
+        "a": "iPad veya iPhone kamerasını, bir Wi-Fi kamerayı (Lumix, Canon), bir GoPro'yu (Wi-Fi ve Bluetooth) ya da bir HDMI yakalama kartını." },
+      { "q": "Wi-Fi kameram algılanmıyor, ne yapmalıyım?",
+        "a": "iPad'in kameranın Wi-Fi ağına bağlı olduğundan ve Flashbooth'un Ayarlar › Flashbooth bölümünde “Yerel Ağ” iznine sahip olduğundan emin olun." },
+      { "q": "Konuklar fotoğraflarını nasıl alır?",
+        "a": "AirDrop, Mesajlar, Mail yoluyla veya Fotoğraflar'a kaydederek. Çevrimiçi galeriyi etkinleştirirseniz bir QR kod, etkinlik sayfasına erişim sağlar." },
+      { "q": "Çevrimiçi galeri nasıl çalışır?",
+        "a": "Varsayılan olarak kapalı bir seçenektir. Etkinliğin fotoğraflarını, adresini ve erişim anahtarını kendiniz girdiğiniz bir sunucuya gönderir. Bu sunucuda saklanan fotoğrafları istediğiniz zaman uygulamadan silebilirsiniz." },
+      { "q": "Konukların uygulamadan çıkmasını nasıl engellerim?",
+        "a": "Flashbooth'un kiosk modunu kullanın ve iPad'i uygulamaya kilitlemek için iOS'un Güdümlü Erişim özelliğini (Ayarlar › Erişilebilirlik › Güdümlü Erişim) etkinleştirin." }
+    ],
+    "privacy_summary": "Flashbooth hiçbir kişisel veri toplamaz. Fotoğraflar, paylaşmayı seçmediğiniz sürece aygıtınızda kalır."
+  },
+  "privacy": {
+    "sections": [
+      { "h": "Özetle", "blocks": [
+        { "p": "Flashbooth hiçbir kişisel veri toplamaz ve geliştiricinin hiçbir fotoğrafa erişimi yoktur. Etkinlikleriniz sırasında çekilen fotoğraflar aygıtınıza kaydedilir. Yalnızca siz paylaştığınızda ya da çevrimiçi galeriyi veya bir klasöre kopyalamayı kendiniz etkinleştirdiğinizde aygıttan çıkar." } ] },
+      { "h": "Fotoğraflar", "blocks": [
+        { "p": "Fotoğraflar, fotoğraf şeritleri ve GIF'ler etkinliğin albümünde, aygıtınızda saklanır. Bunları istediğiniz zaman uygulamadan silebilirsiniz; uygulamayı silmek de bunları siler." } ] },
+      { "h": "Paylaşım", "blocks": [
+        { "p": "Paylaşım, iOS araçları (AirDrop, Mesajlar, Mail, Fotoğraflar, yazdırma…) üzerinden yapılır. Bu pencerelere girilen e-posta adresleri veya telefon numaraları iOS tarafından yönetilir: Flashbooth bunları okumaz ve saklamaz." } ] },
+      { "h": "İsteğe bağlı seçenekler", "blocks": [
+        { "ul": [
+          "<strong>Çevrimiçi galeri</strong> (varsayılan olarak kapalı): etkinliğin fotoğraflarını, QR kod ile erişilebilir olmaları için adresini girdiğiniz sunucuya gönderir. Bu sunucu geliştirici tarafından değil, sizin tarafınızdan seçilir ve yönetilir. Erişim anahtarı aygıtın güvenli anahtar zincirinde saklanır. Fotoğraflar uygulama içinden sunucudan silinebilir.",
+          "<strong>Klasöre kopyalama</strong> (varsayılan olarak kapalı): albümü seçtiğiniz klasöre (iCloud Drive veya Dosyalar uygulamasındaki başka bir hizmet) kopyalar. Dosyalar bu durumda o hizmetin koşullarına tabi olur." ] } ] },
+      { "h": "İstenen izinler", "blocks": [
+        { "p": "Her izin yalnızca ilgili özelliği kullandığınız anda istenir ve aygıtınızın Ayarlar bölümünden geri alabilirsiniz." },
+        { "ul": [
+          "<strong>Kamera</strong>: çekim seansının fotoğraflarını çekmek için.",
+          "<strong>Bluetooth</strong>: bir GoPro'yu kontrol etmek için.",
+          "<strong>Yerel Ağ</strong>: Wi-Fi kameralara (Lumix, Canon, GoPro) ve yerel ağdaki galerinize bağlanmak için.",
+          "<strong>Fotoğraflar (yalnızca ekleme)</strong>: fotoğraf şeritlerini ve GIF'leri Fotoğraflar uygulamasına kaydetmek için. Uygulama fotoğraf arşivinizi okumaz." ] } ] },
+      { "h": "Düzenleyenler ve konuklar", "blocks": [
+        { "p": "Flashbooth'u bir etkinlikte kullanıyorsanız çekilen fotoğraflardan ve bunların yayılmasından siz sorumlusunuz. Özellikle çevrimiçi galeri etkinse konuklarınızı bilgilendirmeyi unutmayın." } ] },
+      { "h": "Reklam ve izleme", "blocks": [
+        { "p": "Flashbooth hiçbir reklam, izleyici, analiz veya kullanım istatistiği aracı içermez." } ] },
+      { "h": "Değişiklikler", "blocks": [
+        { "p": "Bu politika değişirse yeni sürüm, güncelleme tarihiyle birlikte bu sayfada yayımlanır." } ] },
+      { "h": "İletişim", "blocks": [
+        { "p": "Bu politikayla ilgili her türlü soru için: {email}" } ] }
+    ]
+  }
+}
