@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Připrav každé focení na jednom místě",
+    "contact": "Máš otázku, nápad nebo chybu? Napiš mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Jak někomu pošlu focení?",
+        "a": "Otevři focení, klepni na tlačítko sdílení, potom na „Send shoot“ a vyber AirDrop, Zprávy nebo Mail. Druhá osoba ho otevře v aplikaci a dostane vše včetně obrázků. „Call sheet (PDF)“ vytvoří dokument, který si přečte celý tým i bez aplikace."
+      },
+      {
+        "q": "Jak připravím focení s někým dalším?",
+        "a": "Klepni na tlačítko sdílení, potom na „Plan together (iCloud)“ a pozvi danou osobu. Jakmile pozvánku přijme, upravujete stejný zápisník; změny dorazí během pár sekund, když je aplikace otevřená. Oba musíte být přihlášení k iCloudu."
+      },
+      {
+        "q": "Jak přidám obrázek z Pinterestu nebo Safari do moodboardu?",
+        "a": "Klepni na Sdílet a potom na „Shootbook“ (poprvé si aplikaci přidej z konce seznamu aplikací). Vyber focení: obrázek se přidá do jeho moodboardu, až příště otevřeš aplikaci."
+      },
+      {
+        "q": "Jak se počítá zlatá hodinka?",
+        "a": "Umísti místo na mapu: aplikace spočítá polohu slunce pro den focení. Zlatá hodinka je, když je slunce mezi 6° nad a 4° pod obzorem, modrá hodinka mezi 4° a 6° pod obzorem. Vše se počítá v tvém zařízení, bez připojení."
+      },
+      {
+        "q": "Widget nic nezobrazuje",
+        "a": "Widget ukazuje tvé příští focení s datem. Po vytvoření nebo úpravě focení jednou otevři aplikaci: widget se aktualizuje, když aplikace přejde do pozadí."
+      },
+      {
+        "q": "Ukládají se moje focení?",
+        "a": "Ano, v tvém zařízení a na tvém iCloudu, pokud je zapnutá synchronizace (About › Sync with iCloud). Pak se zobrazí na iPhonu i iPadu."
+      }
+    ],
+    "privacy_summary": "Shootbook neshromažďuje žádné osobní údaje a neobsahuje reklamy ani sledovací prvky."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ve zkratce",
+        "blocks": [
+          {
+            "p": "Shootbook neshromažďuje žádné osobní údaje a nemá žádný server. Vše, co zadáš, zůstává v tvém zařízení a ve tvém vlastním účtu iCloud, pokud zapneš synchronizaci."
+          }
+        ]
+      },
+      {
+        "h": "Tvoje focení",
+        "blocks": [
+          {
+            "p": "Texty, obrázky, místa, seznamy a kontakty týmu se ukládají v tvém zařízení. Pokud zapneš synchronizaci s iCloudem, ukládají se také do tvého účtu iCloud, který spravuje Apple, aby byly dostupné i v dalších zařízeních. Vývojář k nim nemá přístup."
+          }
+        ]
+      },
+      {
+        "h": "Společné plánování a odesílání",
+        "blocks": [
+          {
+            "p": "Když focení sdílíš živě, jeho obsah se uloží na tvůj iCloud a prostřednictvím služby sdílení od Applu je dostupný jen lidem, které pozveš. Sdílení můžeš kdykoli ukončit. Když pošleš focení nebo harmonogram, dostanou ho jen lidé, které vybereš, způsobem, který vybereš (AirDrop, Zprávy, Mail…)."
+          }
+        ]
+      },
+      {
+        "h": "Požadovaná oprávnění",
+        "blocks": [
+          {
+            "p": "Každé oprávnění se vyžádá až ve chvíli, kdy použiješ příslušnou funkci, a můžeš ho odvolat v Nastavení zařízení."
+          },
+          {
+            "ul": [
+              "<strong>Fotky</strong>: do aplikace se zmenšené kopírují jen obrázky, které vybereš. Obrázek se do tvé knihovny uloží, jen když o to požádáš.",
+              "<strong>Fotoaparát</strong>: k vyfocení místa při obhlídce, outfitu nebo referenční pózy.",
+              "<strong>Poloha</strong>: jen když klepneš na „I'm here now“ nebo „My location“, pro umístění místa na mapu. Zůstává v tvém zařízení.",
+              "<strong>Oznámení</strong>: připomínka den předem, naplánovaná v tvém zařízení."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Mapy a webové stránky",
+        "blocks": [
+          {
+            "p": "Pro zobrazení adresy bodu nebo hledání místa se souřadnice nebo zadaný text odesílají do mapové služby Applu. Když do aplikace sdílíš webovou stránku (například odkaz z Pinterestu), rozšíření ji stáhne přímo z tvého zařízení, aby z ní získalo hlavní obrázek. Jako u každého připojení k internetu vidí tyto služby IP adresu požadavku."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "Widget zobrazuje název, čas, místo a obálku tvého příštího focení podle dat uložených v tvém zařízení."
+          }
+        ]
+      },
+      {
+        "h": "Reklama a sledování",
+        "blocks": [
+          {
+            "p": "Shootbook neobsahuje žádné reklamy, sledovací prvky ani nástroje pro analýzu či statistiky používání."
+          }
+        ]
+      },
+      {
+        "h": "Děti",
+        "blocks": [
+          {
+            "p": "Aplikace neshromažďuje žádná data a je vhodná pro všechny věkové kategorie."
+          }
+        ]
+      },
+      {
+        "h": "Změny",
+        "blocks": [
+          {
+            "p": "Pokud se tyto zásady změní, nová verze bude zveřejněna na této stránce s datem aktualizace."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "S dotazy k těmto zásadám: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

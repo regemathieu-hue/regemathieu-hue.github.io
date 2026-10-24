@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Chuẩn bị mọi buổi chụp ảnh ở một nơi",
+    "contact": "Có câu hỏi, ý tưởng hay lỗi? Hãy viết cho tôi:<br>{email}",
+    "faq": [
+      {
+        "q": "Làm sao để gửi một buổi chụp cho người khác?",
+        "a": "Mở buổi chụp, chạm vào nút chia sẻ, rồi “Send shoot” và chọn AirDrop, Tin nhắn hoặc Mail. Người kia mở bằng ứng dụng và nhận được mọi thứ, kể cả hình ảnh. “Call sheet (PDF)” tạo một tài liệu mà cả nhóm đều đọc được, kể cả khi không có ứng dụng."
+      },
+      {
+        "q": "Làm sao để chuẩn bị buổi chụp cùng người khác?",
+        "a": "Chạm vào nút chia sẻ, rồi “Plan together (iCloud)” và mời người đó. Khi lời mời được chấp nhận, hai bạn cùng chỉnh sửa một cuốn sổ; thay đổi đến trong vài giây khi ứng dụng đang mở. Cả hai cần đăng nhập iCloud."
+      },
+      {
+        "q": "Làm sao để thêm ảnh từ Pinterest hoặc Safari vào moodboard?",
+        "a": "Chạm Chia sẻ, rồi “Shootbook” (lần đầu, hãy thêm ứng dụng từ cuối danh sách ứng dụng). Chọn buổi chụp: ảnh sẽ vào moodboard của buổi đó khi bạn mở ứng dụng lần sau."
+      },
+      {
+        "q": "Giờ vàng được tính như thế nào?",
+        "a": "Đặt địa điểm lên bản đồ: ứng dụng tính vị trí mặt trời cho ngày chụp. Giờ vàng là khi mặt trời ở giữa 6° trên và 4° dưới đường chân trời, giờ xanh ở giữa 4° và 6° dưới đường chân trời. Mọi thứ được tính trên thiết bị của bạn, không cần kết nối."
+      },
+      {
+        "q": "Widget không hiển thị gì",
+        "a": "Widget hiển thị buổi chụp có ngày tiếp theo của bạn. Mở ứng dụng một lần sau khi tạo hoặc sửa buổi chụp: widget cập nhật khi ứng dụng chuyển xuống nền."
+      },
+      {
+        "q": "Các buổi chụp của tôi có được lưu không?",
+        "a": "Có, trên thiết bị của bạn, và trong iCloud của bạn nếu bật đồng bộ (About › Sync with iCloud). Khi đó chúng xuất hiện trên iPhone và iPad của bạn."
+      }
+    ],
+    "privacy_summary": "Shootbook không thu thập bất kỳ dữ liệu cá nhân nào và không có quảng cáo hay trình theo dõi."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Tóm tắt",
+        "blocks": [
+          {
+            "p": "Shootbook không thu thập bất kỳ dữ liệu cá nhân nào và không có máy chủ. Mọi thứ bạn nhập đều ở trên thiết bị của bạn, và trong tài khoản iCloud của riêng bạn nếu bạn bật đồng bộ."
+          }
+        ]
+      },
+      {
+        "h": "Các buổi chụp của bạn",
+        "blocks": [
+          {
+            "p": "Văn bản, hình ảnh, địa điểm, danh sách và liên hệ của nhóm được lưu trên thiết bị của bạn. Nếu bạn bật đồng bộ iCloud, chúng cũng được lưu trong tài khoản iCloud do Apple quản lý, để bạn tìm thấy trên các thiết bị khác. Nhà phát triển không có quyền truy cập vào chúng."
+          }
+        ]
+      },
+      {
+        "h": "Cùng chuẩn bị và gửi",
+        "blocks": [
+          {
+            "p": "Khi bạn chia sẻ trực tiếp một buổi chụp, nội dung của nó được lưu trong iCloud của bạn và chỉ những người bạn mời mới truy cập được, thông qua dịch vụ chia sẻ của Apple. Bạn có thể ngừng chia sẻ bất cứ lúc nào. Khi bạn gửi một buổi chụp hoặc lịch trình chụp, nó chỉ đến những người bạn chọn, theo cách bạn chọn (AirDrop, Tin nhắn, Mail…)."
+          }
+        ]
+      },
+      {
+        "h": "Các quyền được yêu cầu",
+        "blocks": [
+          {
+            "p": "Mỗi quyền chỉ được yêu cầu khi bạn dùng tính năng liên quan, và bạn có thể thu hồi trong Cài đặt của thiết bị."
+          },
+          {
+            "ul": [
+              "<strong>Ảnh</strong>: chỉ những ảnh bạn chọn mới được sao chép vào ứng dụng, ở kích thước thu nhỏ. Ảnh chỉ được lưu vào thư viện của bạn khi bạn yêu cầu.",
+              "<strong>Camera</strong>: để chụp một địa điểm khi khảo sát, một bộ trang phục hoặc một tư thế tham khảo.",
+              "<strong>Vị trí</strong>: chỉ khi bạn chạm “I'm here now” hoặc “My location” để đặt một địa điểm lên bản đồ. Vị trí ở trên thiết bị của bạn.",
+              "<strong>Thông báo</strong>: lời nhắc trước một ngày, được lên lịch trên thiết bị của bạn."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Bản đồ và trang web",
+        "blocks": [
+          {
+            "p": "Để hiển thị địa chỉ của một điểm hoặc tìm một địa điểm, tọa độ hoặc văn bản bạn nhập được gửi đến dịch vụ bản đồ của Apple. Khi bạn chia sẻ một trang web với ứng dụng (ví dụ liên kết Pinterest), tiện ích mở rộng tải trang đó trực tiếp từ thiết bị của bạn để lấy hình ảnh chính. Như mọi kết nối internet, các dịch vụ này thấy địa chỉ IP của yêu cầu."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "Widget hiển thị tiêu đề, giờ, địa điểm và ảnh bìa của buổi chụp tiếp theo dựa trên dữ liệu lưu trên thiết bị của bạn."
+          }
+        ]
+      },
+      {
+        "h": "Quảng cáo và theo dõi",
+        "blocks": [
+          {
+            "p": "Shootbook không có quảng cáo, trình theo dõi hay công cụ phân tích hoặc thống kê sử dụng."
+          }
+        ]
+      },
+      {
+        "h": "Trẻ em",
+        "blocks": [
+          {
+            "p": "Ứng dụng không thu thập dữ liệu nào và phù hợp với mọi lứa tuổi."
+          }
+        ]
+      },
+      {
+        "h": "Thay đổi",
+        "blocks": [
+          {
+            "p": "Nếu chính sách này thay đổi, phiên bản mới sẽ được đăng trên trang này kèm ngày cập nhật."
+          }
+        ]
+      },
+      {
+        "h": "Liên hệ",
+        "blocks": [
+          {
+            "p": "Mọi câu hỏi về chính sách này: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

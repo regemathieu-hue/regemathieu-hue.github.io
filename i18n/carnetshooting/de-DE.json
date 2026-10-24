@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Plane jedes Fotoshooting an einem Ort",
+    "contact": "Eine Frage, eine Idee oder ein Fehler? Schreib mir:<br>{email}",
+    "faq": [
+      {
+        "q": "Wie schicke ich ein Shooting an jemanden?",
+        "a": "Öffne das Shooting, tippe auf die Teilen-Taste, dann auf „Shooting senden“ und wähle AirDrop, Nachrichten oder Mail. Die andere Person öffnet es mit der App und erhält alles, auch die Bilder. „Ablaufplan (PDF)“ erstellt ein Dokument, das das ganze Team lesen kann – auch ohne App."
+      },
+      {
+        "q": "Wie plane ich ein Shooting zu zweit?",
+        "a": "Tippe auf die Teilen-Taste, dann auf „Gemeinsam planen (iCloud)“ und lade die Person ein. Sobald sie annimmt, bearbeitet ihr dasselbe Notizbuch; Änderungen kommen innerhalb weniger Sekunden an, solange die App geöffnet ist. Ihr müsst beide bei iCloud angemeldet sein."
+      },
+      {
+        "q": "Wie füge ich ein Bild aus Pinterest oder Safari zum Moodboard hinzu?",
+        "a": "Tippe auf Teilen, dann auf „Shootbook“ (beim ersten Mal fügst du die App am Ende der App-Liste hinzu). Wähle das Shooting: Das Bild landet beim nächsten Öffnen der App in seinem Moodboard."
+      },
+      {
+        "q": "Wie wird die goldene Stunde berechnet?",
+        "a": "Setze den Ort auf die Karte: Die App berechnet den Sonnenstand für den Tag des Shootings. Die goldene Stunde ist, wenn die Sonne zwischen 6° über und 4° unter dem Horizont steht, die blaue Stunde zwischen 4° und 6° darunter. Alles wird auf deinem Gerät berechnet, ohne Internet."
+      },
+      {
+        "q": "Das Widget ist leer",
+        "a": "Das Widget zeigt dein nächstes Shooting mit Datum. Öffne die App einmal, nachdem du ein Shooting erstellt oder geändert hast: Das Widget wird aktualisiert, wenn die App in den Hintergrund wechselt."
+      },
+      {
+        "q": "Werden meine Shootings gesichert?",
+        "a": "Ja, auf deinem Gerät und in deiner iCloud, wenn die Synchronisierung aktiv ist (Über › Mit iCloud synchronisieren). Sie erscheinen dann auf deinem iPhone und iPad."
+      }
+    ],
+    "privacy_summary": "Shootbook sammelt keine personenbezogenen Daten und enthält weder Werbung noch Tracker."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kurz gesagt",
+        "blocks": [
+          {
+            "p": "Shootbook sammelt keine personenbezogenen Daten und hat keinen Server. Alles, was du eingibst, bleibt auf deinem Gerät und in deinem eigenen iCloud-Konto, wenn du die Synchronisierung aktivierst."
+          }
+        ]
+      },
+      {
+        "h": "Deine Shootings",
+        "blocks": [
+          {
+            "p": "Texte, Bilder, Orte, Listen und Kontakte des Teams werden auf deinem Gerät gespeichert. Wenn du die iCloud-Synchronisierung aktivierst, werden sie auch in deinem iCloud-Konto gespeichert, das Apple verwaltet, damit du sie auf deinen anderen Geräten findest. Der Entwickler hat keinen Zugriff darauf."
+          }
+        ]
+      },
+      {
+        "h": "Gemeinsam planen und senden",
+        "blocks": [
+          {
+            "p": "Wenn du ein Shooting live teilst, wird sein Inhalt in deiner iCloud gespeichert und über den Freigabedienst von Apple nur den Personen zugänglich gemacht, die du einlädst. Du kannst die Freigabe jederzeit beenden. Wenn du ein Shooting oder einen Ablaufplan sendest, geht er nur an die Personen und auf dem Weg, die du wählst (AirDrop, Nachrichten, Mail …)."
+          }
+        ]
+      },
+      {
+        "h": "Angefragte Berechtigungen",
+        "blocks": [
+          {
+            "p": "Jede Berechtigung wird erst angefragt, wenn du die betreffende Funktion nutzt, und du kannst sie in den Einstellungen deines Geräts widerrufen."
+          },
+          {
+            "ul": [
+              "<strong>Fotos</strong>: Nur die Bilder, die du auswählst, werden verkleinert in die App kopiert. Ein Bild wird nur in deiner Mediathek gesichert, wenn du es verlangst.",
+              "<strong>Kamera</strong>: um beim Scouting einen Ort, ein Outfit oder eine Referenzpose zu fotografieren.",
+              "<strong>Standort</strong>: nur wenn du auf „Ich bin vor Ort“ oder „Mein Standort“ tippst, um einen Ort auf der Karte zu setzen. Er bleibt auf deinem Gerät.",
+              "<strong>Mitteilungen</strong>: die Erinnerung am Vortag, auf deinem Gerät geplant."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Karten und Webseiten",
+        "blocks": [
+          {
+            "p": "Um die Adresse eines Punkts anzuzeigen oder einen Ort zu suchen, werden die Koordinaten oder der eingegebene Text an den Kartendienst von Apple gesendet. Wenn du eine Webseite mit der App teilst (zum Beispiel einen Pinterest-Link), lädt die Erweiterung diese Seite direkt von deinem Gerät, um ihr Hauptbild zu holen. Wie bei jeder Internetverbindung sehen diese Dienste die IP-Adresse der Anfrage."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "Das Widget zeigt Titel, Uhrzeit, Ort und Titelbild deines nächsten Shootings anhand der auf deinem Gerät gespeicherten Daten."
+          }
+        ]
+      },
+      {
+        "h": "Werbung und Tracking",
+        "blocks": [
+          {
+            "p": "Shootbook enthält keine Werbung, keine Tracker und keine Analyse- oder Statistikwerkzeuge."
+          }
+        ]
+      },
+      {
+        "h": "Kinder",
+        "blocks": [
+          {
+            "p": "Die App sammelt keine Daten und ist für alle Altersgruppen geeignet."
+          }
+        ]
+      },
+      {
+        "h": "Änderungen",
+        "blocks": [
+          {
+            "p": "Wenn sich diese Richtlinie ändert, wird die neue Version mit ihrem Aktualisierungsdatum auf dieser Seite veröffentlicht."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Bei Fragen zu dieser Richtlinie: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

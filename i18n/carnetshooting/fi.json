@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Suunnittele jokainen kuvaus yhdessä paikassa",
+    "contact": "Kysyttävää, idea tai bugi? Kirjoita minulle:<br>{email}",
+    "faq": [
+      {
+        "q": "Miten lähetän kuvauksen jollekulle?",
+        "a": "Avaa kuvaus, napauta jakopainiketta, sitten ”Send shoot” ja valitse AirDrop, Viestit tai Mail. Toinen avaa sen apilla ja saa kaiken, myös kuvat. ”Call sheet (PDF)” luo asiakirjan, jonka koko tiimi voi lukea ilman appiakin."
+      },
+      {
+        "q": "Miten suunnittelen kuvauksen yhdessä toisen kanssa?",
+        "a": "Napauta jakopainiketta, sitten ”Plan together (iCloud)” ja kutsu henkilö. Kun kutsu on hyväksytty, muokkaatte samaa muistikirjaa; muutokset saapuvat muutamassa sekunnissa, kun appi on auki. Teidän molempien on oltava kirjautuneina iCloudiin."
+      },
+      {
+        "q": "Miten lisään kuvan Pinterestistä tai Safarista moodboardiin?",
+        "a": "Napauta Jaa ja sitten ”Shootbook” (ensimmäisellä kerralla lisää appi sovellusluettelon lopusta). Valitse kuvaus: kuva siirtyy sen moodboardiin, kun avaat apin seuraavan kerran."
+      },
+      {
+        "q": "Miten kultainen tunti lasketaan?",
+        "a": "Merkitse paikka kartalle: appi laskee auringon sijainnin kuvauspäivälle. Kultaisen tunnin aikana aurinko on 6° horisontin yläpuolella – 4° sen alapuolella, sinisen tunnin aikana 4–6° horisontin alapuolella. Kaikki lasketaan laitteellasi ilman yhteyttä."
+      },
+      {
+        "q": "Widget on tyhjä",
+        "a": "Widget näyttää seuraavan päivätyn kuvauksesi. Avaa appi kerran, kun olet luonut tai muokannut kuvausta: widget päivittyy, kun appi siirtyy taustalle."
+      },
+      {
+        "q": "Tallentuvatko kuvaukseni?",
+        "a": "Kyllä, laitteellesi ja iCloudiisi, jos synkronointi on päällä (About › Sync with iCloud). Silloin ne näkyvät iPhonessa ja iPadissa."
+      }
+    ],
+    "privacy_summary": "Shootbook ei kerää henkilötietoja eikä sisällä mainoksia tai seurantaa."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Lyhyesti",
+        "blocks": [
+          {
+            "p": "Shootbook ei kerää henkilötietoja, eikä sillä ole palvelinta. Kaikki syöttämäsi pysyy laitteellasi ja omalla iCloud-tililläsi, jos otat synkronoinnin käyttöön."
+          }
+        ]
+      },
+      {
+        "h": "Kuvauksesi",
+        "blocks": [
+          {
+            "p": "Tekstit, kuvat, paikat, listat ja tiimin yhteystiedot tallennetaan laitteellesi. Jos otat iCloud-synkronoinnin käyttöön, ne tallennetaan myös Applen hallinnoimalle iCloud-tilillesi, jotta löydät ne muilta laitteiltasi. Kehittäjällä ei ole niihin pääsyä."
+          }
+        ]
+      },
+      {
+        "h": "Yhteinen suunnittelu ja lähettäminen",
+        "blocks": [
+          {
+            "p": "Kun jaat kuvauksen reaaliajassa, sen sisältö tallennetaan iCloudiisi ja tuodaan Applen jakopalvelun kautta vain kutsumiesi henkilöiden saataville. Voit lopettaa jakamisen milloin tahansa. Kun lähetät kuvauksen tai kuvausaikataulun, se menee vain valitsemillesi henkilöille valitsemallasi tavalla (AirDrop, Viestit, Mail…)."
+          }
+        ]
+      },
+      {
+        "h": "Pyydetyt luvat",
+        "blocks": [
+          {
+            "p": "Kutakin lupaa pyydetään vasta, kun käytät kyseistä toimintoa, ja voit perua sen laitteen asetuksista."
+          },
+          {
+            "ul": [
+              "<strong>Kuvat</strong>: vain valitsemasi kuvat kopioidaan appiin pienennettyinä. Kuva tallennetaan kuvakirjastoosi vain, jos pyydät sitä.",
+              "<strong>Kamera</strong>: paikan, asun tai mallipoosin kuvaamiseen kuvauspaikkoja kartoittaessa.",
+              "<strong>Sijainti</strong>: vain kun napautat ”I'm here now” tai ”My location” merkitäksesi paikan kartalle. Se pysyy laitteellasi.",
+              "<strong>Ilmoitukset</strong>: edellisen päivän muistutus, ajastettu laitteellesi."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Kartat ja verkkosivut",
+        "blocks": [
+          {
+            "p": "Pisteen osoitteen näyttämiseksi tai paikan hakemiseksi koordinaatit tai kirjoittamasi teksti lähetetään Applen karttapalveluun. Kun jaat verkkosivun apille (esimerkiksi Pinterest-linkin), laajennus lataa sivun suoraan laitteeltasi hakeakseen sen pääkuvan. Kuten missä tahansa internetyhteydessä, nämä palvelut näkevät pyynnön IP-osoitteen."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "Widget näyttää seuraavan kuvauksesi otsikon, ajan, paikan ja kansikuvan laitteellesi tallennettujen tietojen perusteella."
+          }
+        ]
+      },
+      {
+        "h": "Mainonta ja seuranta",
+        "blocks": [
+          {
+            "p": "Shootbook ei sisällä mainoksia, seurantaa eikä analytiikka- tai käyttötilastotyökaluja."
+          }
+        ]
+      },
+      {
+        "h": "Lapset",
+        "blocks": [
+          {
+            "p": "Appi ei kerää tietoja ja sopii kaikenikäisille."
+          }
+        ]
+      },
+      {
+        "h": "Muutokset",
+        "blocks": [
+          {
+            "p": "Jos tämä käytäntö muuttuu, uusi versio julkaistaan tällä sivulla päivityspäivämäärineen."
+          }
+        ]
+      },
+      {
+        "h": "Yhteystiedot",
+        "blocks": [
+          {
+            "p": "Kysymykset tästä käytännöstä: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Siapkan setiap sesi foto di satu tempat",
+    "contact": "Ada pertanyaan, ide, atau bug? Tulis ke saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Bagaimana cara mengirim sesi foto ke seseorang?",
+        "a": "Buka sesinya, ketuk tombol bagikan, lalu “Send shoot” dan pilih AirDrop, Pesan, atau Mail. Orang lain membukanya dengan app dan mendapatkan semuanya, termasuk gambar. “Call sheet (PDF)” membuat dokumen yang bisa dibaca seluruh tim, bahkan tanpa app."
+      },
+      {
+        "q": "Bagaimana cara menyiapkan sesi foto bersama orang lain?",
+        "a": "Ketuk tombol bagikan, lalu “Plan together (iCloud)” dan undang orangnya. Setelah undangan diterima, kalian mengedit buku catatan yang sama; perubahan tiba dalam beberapa detik selama app terbuka. Kalian berdua harus masuk ke iCloud."
+      },
+      {
+        "q": "Bagaimana cara menambahkan gambar dari Pinterest atau Safari ke moodboard?",
+        "a": "Ketuk Bagikan, lalu “Shootbook” (pertama kali, tambahkan app dari ujung daftar app). Pilih sesinya: gambar masuk ke moodboard-nya saat kamu membuka app berikutnya."
+      },
+      {
+        "q": "Bagaimana golden hour dihitung?",
+        "a": "Tempatkan lokasi di peta: app menghitung posisi matahari untuk hari sesi. Golden hour adalah saat matahari berada di antara 6° di atas dan 4° di bawah cakrawala, blue hour di antara 4° dan 6° di bawah cakrawala. Semuanya dihitung di perangkatmu, tanpa koneksi."
+      },
+      {
+        "q": "Widget tidak menampilkan apa-apa",
+        "a": "Widget menampilkan sesi berikutnya yang sudah bertanggal. Buka app sekali setelah membuat atau mengubah sesi: widget diperbarui saat app masuk ke latar belakang."
+      },
+      {
+        "q": "Apakah sesi saya disimpan?",
+        "a": "Ya, di perangkatmu, dan di iCloud-mu jika sinkronisasi aktif (About › Sync with iCloud). Dengan begitu sesi muncul di iPhone dan iPad-mu."
+      }
+    ],
+    "privacy_summary": "Shootbook tidak mengumpulkan data pribadi apa pun dan tidak berisi iklan atau pelacak."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Singkatnya",
+        "blocks": [
+          {
+            "p": "Shootbook tidak mengumpulkan data pribadi apa pun dan tidak punya server. Semua yang kamu masukkan tetap di perangkatmu, dan di akun iCloud-mu sendiri jika kamu mengaktifkan sinkronisasi."
+          }
+        ]
+      },
+      {
+        "h": "Sesi-sesimu",
+        "blocks": [
+          {
+            "p": "Teks, gambar, lokasi, daftar, dan kontak tim disimpan di perangkatmu. Jika kamu mengaktifkan sinkronisasi iCloud, semuanya juga disimpan di akun iCloud-mu yang dikelola Apple, agar bisa kamu temukan di perangkat lain. Pengembang tidak memiliki akses ke sana."
+          }
+        ]
+      },
+      {
+        "h": "Menyiapkan bersama dan mengirim",
+        "blocks": [
+          {
+            "p": "Saat kamu membagikan sesi secara langsung, isinya disimpan di iCloud-mu dan hanya bisa diakses oleh orang yang kamu undang, melalui layanan berbagi Apple. Kamu bisa berhenti berbagi kapan saja. Saat kamu mengirim sesi atau jadwal pemotretan, itu hanya sampai ke orang yang kamu pilih, dengan cara yang kamu pilih (AirDrop, Pesan, Mail…)."
+          }
+        ]
+      },
+      {
+        "h": "Izin yang diminta",
+        "blocks": [
+          {
+            "p": "Setiap izin hanya diminta saat kamu menggunakan fitur terkait, dan kamu bisa mencabutnya di Pengaturan perangkatmu."
+          },
+          {
+            "ul": [
+              "<strong>Foto</strong>: hanya gambar yang kamu pilih yang disalin ke app, dalam ukuran yang diperkecil. Gambar hanya disimpan ke perpustakaanmu jika kamu memintanya.",
+              "<strong>Kamera</strong>: untuk memotret lokasi saat survei, pakaian, atau pose referensi.",
+              "<strong>Lokasi</strong>: hanya saat kamu mengetuk “I'm here now” atau “My location” untuk menempatkan lokasi di peta. Lokasi tetap di perangkatmu.",
+              "<strong>Notifikasi</strong>: pengingat sehari sebelumnya, dijadwalkan di perangkatmu."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Peta dan halaman web",
+        "blocks": [
+          {
+            "p": "Untuk menampilkan alamat suatu titik atau mencari tempat, koordinat atau teks yang kamu ketik dikirim ke layanan peta Apple. Saat kamu membagikan halaman web ke app (misalnya tautan Pinterest), ekstensi mengunduh halaman itu langsung dari perangkatmu untuk mengambil gambar utamanya. Seperti setiap koneksi internet, layanan ini melihat alamat IP permintaan."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "Widget menampilkan judul, waktu, lokasi, dan sampul sesi berikutnya berdasarkan data yang tersimpan di perangkatmu."
+          }
+        ]
+      },
+      {
+        "h": "Iklan dan pelacakan",
+        "blocks": [
+          {
+            "p": "Shootbook tidak berisi iklan, pelacak, atau alat analitik maupun statistik penggunaan."
+          }
+        ]
+      },
+      {
+        "h": "Anak-anak",
+        "blocks": [
+          {
+            "p": "App ini tidak mengumpulkan data apa pun dan cocok untuk segala usia."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika kebijakan ini berubah, versi baru akan dipublikasikan di halaman ini beserta tanggal pembaruannya."
+          }
+        ]
+      },
+      {
+        "h": "Kontak",
+        "blocks": [
+          {
+            "p": "Untuk pertanyaan apa pun tentang kebijakan ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

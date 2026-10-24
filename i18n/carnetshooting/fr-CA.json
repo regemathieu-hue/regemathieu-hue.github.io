@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Prépare chaque séance photo au même endroit",
+    "contact": "Une question, une idée ou un bug ? Écris-moi :<br>{email}",
+    "faq": [
+      {
+        "q": "Comment envoyer un shooting à quelqu'un ?",
+        "a": "Ouvre le shooting, touche le bouton de partage puis « Envoyer le shooting » et choisis AirDrop, Messages ou Mail. L'autre personne l'ouvre avec l'app et retrouve tout, images comprises. « Feuille de route (PDF) » crée un document lisible par toute l'équipe, même sans l'app."
+      },
+      {
+        "q": "Comment préparer un shooting à deux ?",
+        "a": "Touche le bouton de partage puis « Préparer à plusieurs (iCloud) » et invite la personne. Une fois l'invitation acceptée, vous modifiez le même carnet ; les changements arrivent en quelques secondes quand l'app est ouverte. Il faut être connecté à iCloud des deux côtés."
+      },
+      {
+        "q": "Comment ajouter une image de Pinterest ou de Safari au moodboard ?",
+        "a": "Touche Partager puis « Shooting » (la première fois, ajoute-la depuis le bout de la liste des apps). Choisis le shooting : l'image rejoint son moodboard à la prochaine ouverture de l'app."
+      },
+      {
+        "q": "Comment est calculée l'heure dorée ?",
+        "a": "Place le lieu sur la carte : l'app calcule la position du soleil pour le jour du shooting. L'heure dorée correspond à un soleil entre 6° au-dessus et 4° sous l'horizon, l'heure bleue entre 4° et 6° sous l'horizon. Tout est calculé sur ton appareil, sans connexion."
+      },
+      {
+        "q": "Le widget n'affiche rien",
+        "a": "Le widget montre ton prochain shooting daté. Ouvre l'app une fois après avoir créé ou modifié un shooting : le widget se met à jour quand elle passe en arrière-plan."
+      },
+      {
+        "q": "Mes shootings sont-ils sauvegardés ?",
+        "a": "Oui, sur ton appareil, et dans ton iCloud si la synchronisation est activée (À propos › Synchroniser avec iCloud). Ils apparaissent alors sur ton iPhone et ton iPad."
+      }
+    ],
+    "privacy_summary": "Carnet de shooting ne collecte aucune donnée personnelle et ne contient ni publicité ni traceur."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En résumé",
+        "blocks": [
+          {
+            "p": "Carnet de shooting ne collecte aucune donnée personnelle et ne possède pas de serveur. Tout ce que tu saisis reste sur ton appareil, et dans ton propre compte iCloud si tu actives la synchronisation."
+          }
+        ]
+      },
+      {
+        "h": "Tes shootings",
+        "blocks": [
+          {
+            "p": "Textes, images, lieux, listes et contacts de l'équipe sont enregistrés sur ton appareil. Si tu actives la synchronisation iCloud, ils sont aussi enregistrés dans ton compte iCloud, géré par Apple, pour les retrouver sur tes autres appareils. Le développeur n'y a pas accès."
+          }
+        ]
+      },
+      {
+        "h": "Préparer à plusieurs et envoyer",
+        "blocks": [
+          {
+            "p": "Quand tu partages un shooting en direct, son contenu est enregistré dans ton iCloud et rendu accessible aux seules personnes que tu invites, par le service de partage d'Apple. Tu peux arrêter le partage à tout moment. Quand tu envoies un shooting ou une feuille de route, il ne part qu'aux personnes que tu choisis, par le moyen que tu choisis (AirDrop, Messages, Mail…)."
+          }
+        ]
+      },
+      {
+        "h": "Autorisations demandées",
+        "blocks": [
+          {
+            "p": "Chaque autorisation n'est demandée qu'au moment où tu utilises la fonction concernée, et tu peux la retirer dans les Réglages de ton appareil."
+          },
+          {
+            "ul": [
+              "<strong>Photos</strong> : seules les images que tu choisis sont copiées dans l'app, en taille réduite. Une image n'est enregistrée dans ta photothèque que si tu le demandes.",
+              "<strong>Appareil photo</strong> : photographier un lieu pendant un repérage, une tenue ou une pose de référence.",
+              "<strong>Localisation</strong> : uniquement quand tu touches « Je suis sur place » ou « Ma position », pour placer un lieu sur la carte. Elle reste sur ton appareil.",
+              "<strong>Notifications</strong> : le rappel de la veille, programmé sur ton appareil."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Cartes et pages web",
+        "blocks": [
+          {
+            "p": "Pour afficher l'adresse d'un point ou chercher un lieu, les coordonnées ou le texte tapé sont envoyés au service de cartes d'Apple. Quand tu partages une page web vers l'app (un lien Pinterest, par exemple), l'extension télécharge cette page directement depuis ton appareil pour en récupérer l'image principale. Comme pour toute connexion internet, ces services voient l'adresse IP de la requête."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "Le widget affiche le titre, l'heure, le lieu et la couverture de ton prochain shooting à partir des données enregistrées sur ton appareil."
+          }
+        ]
+      },
+      {
+        "h": "Publicité et suivi",
+        "blocks": [
+          {
+            "p": "Carnet de shooting ne contient aucune publicité, aucun traceur et aucun outil d'analyse ou de statistiques d'utilisation."
+          }
+        ]
+      },
+      {
+        "h": "Enfants",
+        "blocks": [
+          {
+            "p": "L'application ne collecte aucune donnée et convient à tous les âges."
+          }
+        ]
+      },
+      {
+        "h": "Modifications",
+        "blocks": [
+          {
+            "p": "Si cette politique change, la nouvelle version sera publiée sur cette page avec sa date de mise à jour."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pour toute question concernant cette politique : {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

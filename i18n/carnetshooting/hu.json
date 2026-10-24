@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Készítsd elő minden fotózásod egy helyen",
+    "contact": "Kérdésed, ötleted van, vagy hibát találtál? Írj nekem:<br>{email}",
+    "faq": [
+      {
+        "q": "Hogyan küldhetek el egy fotózást valakinek?",
+        "a": "Nyisd meg a fotózást, koppints a megosztás gombra, majd a „Send shoot” lehetőségre, és válaszd az AirDropot, az Üzeneteket vagy a Mailt. A másik fél megnyitja az appban, és mindent megkap, a képeket is. A „Call sheet (PDF)” olyan dokumentumot készít, amelyet az egész csapat elolvashat, app nélkül is."
+      },
+      {
+        "q": "Hogyan készíthetek elő egy fotózást valaki mással közösen?",
+        "a": "Koppints a megosztás gombra, majd a „Plan together (iCloud)” lehetőségre, és hívd meg az illetőt. Ha elfogadja, ugyanazt a jegyzetfüzetet szerkesztitek; a változások néhány másodpercen belül megérkeznek, amíg az app nyitva van. Mindkettőtöknek be kell jelentkeznie az iCloudba."
+      },
+      {
+        "q": "Hogyan adhatok hozzá képet a Pinterestről vagy a Safariból a moodboardhoz?",
+        "a": "Koppints a Megosztás gombra, majd a „Shootbook” lehetőségre (első alkalommal add hozzá az appot az appok listájának végéről). Válaszd ki a fotózást: a kép a következő appindításkor bekerül a moodboardjába."
+      },
+      {
+        "q": "Hogyan számolja az app az aranyórát?",
+        "a": "Jelöld be a helyszínt a térképen: az app kiszámolja a nap helyzetét a fotózás napjára. Aranyóra, amikor a nap a horizont felett 6° és alatta 4° között jár; kék óra, amikor a horizont alatt 4° és 6° között jár. Minden a készülékeden számolódik, internet nélkül."
+      },
+      {
+        "q": "A widget nem mutat semmit",
+        "a": "A widget a következő, dátummal ellátott fotózásodat mutatja. Egy fotózás létrehozása vagy módosítása után nyisd meg egyszer az appot: a widget akkor frissül, amikor az app a háttérbe kerül."
+      },
+      {
+        "q": "Mentésre kerülnek a fotózásaim?",
+        "a": "Igen, a készülékeden, és az iCloudodban, ha be van kapcsolva a szinkronizálás (About › Sync with iCloud). Így megjelennek az iPhone-odon és az iPadeden is."
+      }
+    ],
+    "privacy_summary": "A Shootbook nem gyűjt személyes adatokat, és nem tartalmaz hirdetést vagy nyomkövetőt."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Röviden",
+        "blocks": [
+          {
+            "p": "A Shootbook nem gyűjt személyes adatokat, és nincs szervere. Minden, amit beírsz, a készülékeden marad, és a saját iCloud-fiókodban, ha bekapcsolod a szinkronizálást."
+          }
+        ]
+      },
+      {
+        "h": "A fotózásaid",
+        "blocks": [
+          {
+            "p": "A szövegek, képek, helyszínek, listák és a csapat elérhetőségei a készülékeden tárolódnak. Ha bekapcsolod az iCloud-szinkronizálást, az Apple által kezelt iCloud-fiókodban is tárolódnak, hogy a többi készülékeden is megtaláld őket. A fejlesztő nem fér hozzájuk."
+          }
+        ]
+      },
+      {
+        "h": "Közös tervezés és küldés",
+        "blocks": [
+          {
+            "p": "Ha élőben megosztasz egy fotózást, a tartalma az iCloudodban tárolódik, és az Apple megosztási szolgáltatásán keresztül csak az általad meghívott személyek érhetik el. A megosztást bármikor leállíthatod. Ha elküldesz egy fotózást vagy egy forgatási tervet, az csak az általad választott személyekhez jut el, az általad választott módon (AirDrop, Üzenetek, Mail…)."
+          }
+        ]
+      },
+      {
+        "h": "Kért engedélyek",
+        "blocks": [
+          {
+            "p": "Minden engedélyt csak akkor kér az app, amikor az adott funkciót használod, és a készülék Beállításaiban visszavonhatod."
+          },
+          {
+            "ul": [
+              "<strong>Fotók</strong>: csak az általad kiválasztott képek kerülnek az appba, kicsinyített méretben. Egy kép csak akkor kerül a fotókönyvtáradba, ha kéred.",
+              "<strong>Kamera</strong>: helyszín, öltözék vagy referenciapóz lefényképezéséhez helyszínbejárás közben.",
+              "<strong>Helymeghatározás</strong>: csak amikor a „I'm here now” vagy a „My location” lehetőségre koppintasz, hogy egy helyet a térképre tegyél. A készülékeden marad.",
+              "<strong>Értesítések</strong>: az előző napi emlékeztető, a készülékeden ütemezve."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Térképek és weboldalak",
+        "blocks": [
+          {
+            "p": "Egy pont címének megjelenítéséhez vagy egy hely kereséséhez a koordináták vagy a beírt szöveg az Apple térképszolgáltatásához kerülnek. Ha egy weboldalt megosztasz az appal (például egy Pinterest-linket), a bővítmény közvetlenül a készülékedről tölti le az oldalt, hogy megszerezze a fő képét. Mint minden internetkapcsolatnál, ezek a szolgáltatások látják a kérés IP-címét."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "A widget a következő fotózásod címét, idejét, helyszínét és borítóképét mutatja a készülékeden tárolt adatok alapján."
+          }
+        ]
+      },
+      {
+        "h": "Hirdetések és követés",
+        "blocks": [
+          {
+            "p": "A Shootbook nem tartalmaz hirdetést, nyomkövetőt, sem elemző vagy használati statisztikai eszközt."
+          }
+        ]
+      },
+      {
+        "h": "Gyermekek",
+        "blocks": [
+          {
+            "p": "Az app nem gyűjt adatokat, és minden korosztály számára megfelelő."
+          }
+        ]
+      },
+      {
+        "h": "Változások",
+        "blocks": [
+          {
+            "p": "Ha ez a szabályzat változik, az új változat a frissítés dátumával együtt ezen az oldalon jelenik meg."
+          }
+        ]
+      },
+      {
+        "h": "Kapcsolat",
+        "blocks": [
+          {
+            "p": "A szabályzattal kapcsolatos kérdésekkel: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

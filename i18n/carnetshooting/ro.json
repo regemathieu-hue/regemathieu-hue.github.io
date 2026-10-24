@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Pregătește fiecare ședință foto într-un singur loc",
+    "contact": "O întrebare, o idee sau o eroare? Scrie-mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Cum trimit o ședință cuiva?",
+        "a": "Deschide ședința, atinge butonul de partajare, apoi „Send shoot” și alege AirDrop, Mesaje sau Mail. Cealaltă persoană o deschide cu aplicația și primește tot, inclusiv imaginile. „Call sheet (PDF)” creează un document pe care îl poate citi toată echipa, chiar și fără aplicație."
+      },
+      {
+        "q": "Cum pregătesc o ședință împreună cu altcineva?",
+        "a": "Atinge butonul de partajare, apoi „Plan together (iCloud)” și invită persoana. După ce acceptă, editați același carnet; modificările ajung în câteva secunde cât timp aplicația e deschisă. Trebuie să fiți amândoi conectați la iCloud."
+      },
+      {
+        "q": "Cum adaug o imagine din Pinterest sau Safari în moodboard?",
+        "a": "Atinge Partajează, apoi „Shootbook” (prima dată, adaug-o de la capătul listei de aplicații). Alege ședința: imaginea intră în moodboardul ei data viitoare când deschizi aplicația."
+      },
+      {
+        "q": "Cum se calculează ora de aur?",
+        "a": "Plasează locul pe hartă: aplicația calculează poziția soarelui pentru ziua ședinței. Ora de aur este când soarele se află între 6° deasupra și 4° sub orizont, ora albastră între 4° și 6° sub orizont. Totul se calculează pe dispozitivul tău, fără conexiune."
+      },
+      {
+        "q": "Widgetul nu afișează nimic",
+        "a": "Widgetul arată următoarea ta ședință cu dată. Deschide aplicația o dată după ce ai creat sau modificat o ședință: widgetul se actualizează când aplicația trece în fundal."
+      },
+      {
+        "q": "Ședințele mele sunt salvate?",
+        "a": "Da, pe dispozitivul tău și în iCloud dacă sincronizarea e activată (About › Sync with iCloud). Atunci apar pe iPhone și pe iPad."
+      }
+    ],
+    "privacy_summary": "Shootbook nu colectează nicio dată personală și nu conține reclame sau trackere."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Pe scurt",
+        "blocks": [
+          {
+            "p": "Shootbook nu colectează nicio dată personală și nu are server. Tot ce introduci rămâne pe dispozitivul tău și în propriul cont iCloud dacă activezi sincronizarea."
+          }
+        ]
+      },
+      {
+        "h": "Ședințele tale",
+        "blocks": [
+          {
+            "p": "Textele, imaginile, locurile, listele și contactele echipei sunt salvate pe dispozitivul tău. Dacă activezi sincronizarea cu iCloud, sunt salvate și în contul tău iCloud, gestionat de Apple, pentru a le găsi pe celelalte dispozitive. Dezvoltatorul nu are acces la ele."
+          }
+        ]
+      },
+      {
+        "h": "Pregătire împreună și trimitere",
+        "blocks": [
+          {
+            "p": "Când partajezi o ședință în direct, conținutul ei este salvat în iCloud-ul tău și devine accesibil doar persoanelor pe care le inviți, prin serviciul de partajare Apple. Poți opri partajarea oricând. Când trimiți o ședință sau un program de filmare, ajunge doar la persoanele pe care le alegi, pe calea pe care o alegi (AirDrop, Mesaje, Mail…)."
+          }
+        ]
+      },
+      {
+        "h": "Permisiuni solicitate",
+        "blocks": [
+          {
+            "p": "Fiecare permisiune este cerută doar când folosești funcția respectivă și o poți retrage din Configurările dispozitivului."
+          },
+          {
+            "ul": [
+              "<strong>Poze</strong>: doar imaginile pe care le alegi sunt copiate în aplicație, la dimensiune redusă. O imagine este salvată în biblioteca ta doar dacă ceri asta.",
+              "<strong>Cameră</strong>: pentru a fotografia un loc în timpul unei recunoașteri, o ținută sau o poză de referință.",
+              "<strong>Localizare</strong>: doar când atingi „I'm here now” sau „My location”, pentru a plasa un loc pe hartă. Rămâne pe dispozitivul tău.",
+              "<strong>Notificări</strong>: memento-ul din ajun, programat pe dispozitivul tău."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Hărți și pagini web",
+        "blocks": [
+          {
+            "p": "Pentru a afișa adresa unui punct sau a căuta un loc, coordonatele sau textul tastat sunt trimise serviciului de hărți Apple. Când partajezi o pagină web cu aplicația (un link Pinterest, de exemplu), extensia descarcă pagina direct de pe dispozitivul tău pentru a obține imaginea principală. Ca la orice conexiune la internet, aceste servicii văd adresa IP a cererii."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "Widgetul afișează titlul, ora, locul și coperta următoarei tale ședințe pe baza datelor salvate pe dispozitivul tău."
+          }
+        ]
+      },
+      {
+        "h": "Publicitate și urmărire",
+        "blocks": [
+          {
+            "p": "Shootbook nu conține publicitate, trackere sau instrumente de analiză ori statistici de utilizare."
+          }
+        ]
+      },
+      {
+        "h": "Copii",
+        "blocks": [
+          {
+            "p": "Aplicația nu colectează nicio dată și este potrivită pentru toate vârstele."
+          }
+        ]
+      },
+      {
+        "h": "Modificări",
+        "blocks": [
+          {
+            "p": "Dacă această politică se schimbă, noua versiune va fi publicată pe această pagină, cu data actualizării."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pentru orice întrebare despre această politică: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

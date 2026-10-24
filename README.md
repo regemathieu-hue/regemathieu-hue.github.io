@@ -9,7 +9,7 @@ Chaque page existe en 39 langues. Les textes sont dans `i18n/`, les pages HTML s
 ```
 index.html                       liste des applis
 assets/style.css                 style commun (clair / sombre)
-apps.json                        applis (id, nom, date de mise à jour), auteur, e-mail
+apps.json                        applis (id, nom, noms par langue facultatifs, date de mise à jour), auteur, e-mail
 i18n/common/<langue>.json        textes communs (titres, liens, nom de la langue)
 i18n/<appli>/<langue>.json       textes de l'appli (sous-titre, contact, FAQ, politique)
 templates/                       gabarits HTML
@@ -37,7 +37,7 @@ ar-SA, ca, cs, da, de-DE, el, en-AU, en-CA, en-GB, en-US, es-ES, es-MX, fi, fr-C
 
 ## Ajouter une appli
 
-1. Ajouter l'appli dans `apps.json` (`id` en minuscules avec tirets = dossier et URL).
+1. Ajouter l'appli dans `apps.json` (`id` en minuscules avec tirets = dossier et URL). Si son nom change selon la langue, ajouter `"names": { "<langue>": "<nom>" }` ; les autres langues prennent `name`.
 2. Créer `i18n/<appli>/fr-FR.json` sur le modèle d'une appli existante, puis les autres langues.
 3. Lancer `python3 build.py`, ajouter l'appli dans `index.html`, commiter.
 4. Renseigner dans App Store Connect :
@@ -49,6 +49,7 @@ ar-SA, ca, cs, da, de-DE, el, en-AU, en-CA, en-GB, en-US, es-ES, es-MX, fi, fr-C
 | Appli | Support | Confidentialité |
 |---|---|---|
 | Atelier Fichiers | https://regemathieu-hue.github.io/atelier-fichiers/ | https://regemathieu-hue.github.io/atelier-fichiers/privacy.html |
+| Carnet de shooting (Shootbook) | https://regemathieu-hue.github.io/carnetshooting/ | https://regemathieu-hue.github.io/carnetshooting/privacy.html |
 | Convert Everything | https://regemathieu-hue.github.io/convert-everything/ | https://regemathieu-hue.github.io/convert-everything/privacy.html |
 | Flashbooth | https://regemathieu-hue.github.io/flashbooth/ | https://regemathieu-hue.github.io/flashbooth/privacy.html |
 | Nuit Claire | https://regemathieu-hue.github.io/nuitclaire/ | https://regemathieu-hue.github.io/nuitclaire/privacy.html |

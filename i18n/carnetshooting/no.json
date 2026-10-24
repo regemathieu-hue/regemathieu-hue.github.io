@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Planlegg hver fotoshoot på ett sted",
+    "contact": "Et spørsmål, en idé eller en feil? Skriv til meg:<br>{email}",
+    "faq": [
+      {
+        "q": "Hvordan sender jeg et shoot til noen?",
+        "a": "Åpne shootet, trykk på delingsknappen, deretter på «Send shoot», og velg AirDrop, Meldinger eller Mail. Den andre åpner det med appen og får alt, også bildene. «Call sheet (PDF)» lager et dokument som hele teamet kan lese, også uten appen."
+      },
+      {
+        "q": "Hvordan planlegger jeg et shoot sammen med noen andre?",
+        "a": "Trykk på delingsknappen, deretter på «Plan together (iCloud)», og inviter personen. Når invitasjonen er godtatt, redigerer dere den samme notatboken; endringer kommer frem i løpet av få sekunder mens appen er åpen. Dere må begge være logget på iCloud."
+      },
+      {
+        "q": "Hvordan legger jeg til et bilde fra Pinterest eller Safari i moodboardet?",
+        "a": "Trykk på Del og deretter på «Shootbook» (første gang legger du til appen fra slutten av applisten). Velg shootet: Bildet havner i moodboardet neste gang du åpner appen."
+      },
+      {
+        "q": "Hvordan beregnes den gylne timen?",
+        "a": "Plasser stedet på kartet: Appen beregner solens posisjon for dagen for shootet. Den gylne timen er når solen står mellom 6° over og 4° under horisonten, den blå timen mellom 4° og 6° under. Alt beregnes på enheten din, uten tilkobling."
+      },
+      {
+        "q": "Widgeten viser ingenting",
+        "a": "Widgeten viser ditt neste daterte shoot. Åpne appen én gang etter at du har opprettet eller endret et shoot: Widgeten oppdateres når appen går i bakgrunnen."
+      },
+      {
+        "q": "Blir shootene mine lagret?",
+        "a": "Ja, på enheten din, og i iCloud hvis synkronisering er slått på (About › Sync with iCloud). Da vises de på iPhone og iPad."
+      }
+    ],
+    "privacy_summary": "Shootbook samler ikke inn personopplysninger og inneholder verken reklame eller sporere."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort fortalt",
+        "blocks": [
+          {
+            "p": "Shootbook samler ikke inn personopplysninger og har ingen server. Alt du skriver inn blir på enheten din, og i din egen iCloud-konto hvis du slår på synkronisering."
+          }
+        ]
+      },
+      {
+        "h": "Shootene dine",
+        "blocks": [
+          {
+            "p": "Tekster, bilder, steder, lister og teamets kontakter lagres på enheten din. Hvis du slår på iCloud-synkronisering, lagres de også i iCloud-kontoen din, som Apple administrerer, slik at du finner dem på de andre enhetene dine. Utvikleren har ikke tilgang til dem."
+          }
+        ]
+      },
+      {
+        "h": "Planlegg sammen og send",
+        "blocks": [
+          {
+            "p": "Når du deler et shoot direkte, lagres innholdet i iCloud og gjøres bare tilgjengelig for personene du inviterer, gjennom Apples delingstjeneste. Du kan slutte å dele når som helst. Når du sender et shoot eller en dagsplan, går den bare til personene du velger, på måten du velger (AirDrop, Meldinger, Mail …)."
+          }
+        ]
+      },
+      {
+        "h": "Tillatelser som bes om",
+        "blocks": [
+          {
+            "p": "Hver tillatelse bes om først når du bruker den aktuelle funksjonen, og du kan trekke den tilbake i innstillingene på enheten."
+          },
+          {
+            "ul": [
+              "<strong>Bilder</strong>: Bare bildene du velger, kopieres til appen i redusert størrelse. Et bilde lagres bare i bildebiblioteket ditt hvis du ber om det.",
+              "<strong>Kamera</strong>: for å fotografere et sted under befaring, et antrekk eller en referansepose.",
+              "<strong>Posisjon</strong>: bare når du trykker på «I'm here now» eller «My location», for å plassere et sted på kartet. Den blir på enheten din.",
+              "<strong>Varslinger</strong>: påminnelsen dagen før, planlagt på enheten din."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Kart og nettsider",
+        "blocks": [
+          {
+            "p": "For å vise adressen til et punkt eller søke etter et sted sendes koordinatene eller teksten du skriver, til Apples karttjeneste. Når du deler en nettside med appen (for eksempel en Pinterest-lenke), laster utvidelsen ned siden direkte fra enheten din for å hente hovedbildet. Som ved all internettilkobling ser disse tjenestene IP-adressen til forespørselen."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "Widgeten viser tittel, tidspunkt, sted og forsidebilde for ditt neste shoot ut fra dataene som er lagret på enheten din."
+          }
+        ]
+      },
+      {
+        "h": "Reklame og sporing",
+        "blocks": [
+          {
+            "p": "Shootbook inneholder ingen reklame, ingen sporere og ingen verktøy for analyse eller bruksstatistikk."
+          }
+        ]
+      },
+      {
+        "h": "Barn",
+        "blocks": [
+          {
+            "p": "Appen samler ikke inn data og passer for alle aldre."
+          }
+        ]
+      },
+      {
+        "h": "Endringer",
+        "blocks": [
+          {
+            "p": "Hvis denne personvernerklæringen endres, publiseres den nye versjonen på denne siden med oppdateringsdato."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Spørsmål om denne erklæringen: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

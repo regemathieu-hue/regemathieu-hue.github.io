@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Priprav každé fotenie na jednom mieste",
+    "contact": "Máš otázku, nápad alebo chybu? Napíš mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Ako niekomu pošlem fotenie?",
+        "a": "Otvor fotenie, klepni na tlačidlo zdieľania, potom na „Send shoot“ a vyber AirDrop, Správy alebo Mail. Druhá osoba ho otvorí v aplikácii a dostane všetko vrátane obrázkov. „Call sheet (PDF)“ vytvorí dokument, ktorý si prečíta celý tím aj bez aplikácie."
+      },
+      {
+        "q": "Ako pripravím fotenie s niekým ďalším?",
+        "a": "Klepni na tlačidlo zdieľania, potom na „Plan together (iCloud)“ a pozvi danú osobu. Keď pozvánku prijme, upravujete ten istý zápisník; zmeny prídu v priebehu pár sekúnd, keď je aplikácia otvorená. Obaja musíte byť prihlásení do iCloudu."
+      },
+      {
+        "q": "Ako pridám obrázok z Pinterestu alebo Safari do moodboardu?",
+        "a": "Klepni na Zdieľať a potom na „Shootbook“ (prvýkrát si aplikáciu pridaj z konca zoznamu aplikácií). Vyber fotenie: obrázok sa pridá do jeho moodboardu, keď nabudúce otvoríš aplikáciu."
+      },
+      {
+        "q": "Ako sa počíta zlatá hodinka?",
+        "a": "Umiestni miesto na mapu: aplikácia vypočíta polohu slnka pre deň fotenia. Zlatá hodinka je, keď je slnko medzi 6° nad a 4° pod obzorom, modrá hodinka medzi 4° a 6° pod obzorom. Všetko sa počíta v tvojom zariadení, bez pripojenia."
+      },
+      {
+        "q": "Widget nič nezobrazuje",
+        "a": "Widget ukazuje tvoje najbližšie fotenie s dátumom. Po vytvorení alebo úprave fotenia raz otvor aplikáciu: widget sa aktualizuje, keď aplikácia prejde do pozadia."
+      },
+      {
+        "q": "Ukladajú sa moje fotenia?",
+        "a": "Áno, v tvojom zariadení a na tvojom iCloude, ak je zapnutá synchronizácia (About › Sync with iCloud). Potom sa zobrazia na iPhone aj iPade."
+      }
+    ],
+    "privacy_summary": "Shootbook nezhromažďuje žiadne osobné údaje a neobsahuje reklamy ani sledovacie prvky."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "V skratke",
+        "blocks": [
+          {
+            "p": "Shootbook nezhromažďuje žiadne osobné údaje a nemá žiadny server. Všetko, čo zadáš, zostáva v tvojom zariadení a v tvojom vlastnom účte iCloud, ak zapneš synchronizáciu."
+          }
+        ]
+      },
+      {
+        "h": "Tvoje fotenia",
+        "blocks": [
+          {
+            "p": "Texty, obrázky, miesta, zoznamy a kontakty tímu sa ukladajú v tvojom zariadení. Ak zapneš synchronizáciu s iCloudom, ukladajú sa aj do tvojho účtu iCloud, ktorý spravuje Apple, aby boli dostupné aj v ďalších zariadeniach. Vývojár k nim nemá prístup."
+          }
+        ]
+      },
+      {
+        "h": "Spoločné plánovanie a odosielanie",
+        "blocks": [
+          {
+            "p": "Keď fotenie zdieľaš naživo, jeho obsah sa uloží na tvoj iCloud a prostredníctvom služby zdieľania od Apple je dostupný len ľuďom, ktorých pozveš. Zdieľanie môžeš kedykoľvek ukončiť. Keď pošleš fotenie alebo harmonogram, dostanú ho len ľudia, ktorých vyberieš, spôsobom, ktorý vyberieš (AirDrop, Správy, Mail…)."
+          }
+        ]
+      },
+      {
+        "h": "Požadované povolenia",
+        "blocks": [
+          {
+            "p": "Každé povolenie sa vyžiada až vtedy, keď použiješ príslušnú funkciu, a môžeš ho odvolať v Nastaveniach zariadenia."
+          },
+          {
+            "ul": [
+              "<strong>Fotky</strong>: do aplikácie sa zmenšené kopírujú len obrázky, ktoré vyberieš. Obrázok sa do tvojej knižnice uloží, len ak o to požiadaš.",
+              "<strong>Fotoaparát</strong>: na odfotenie miesta pri obhliadke, outfitu alebo referenčnej pózy.",
+              "<strong>Poloha</strong>: len keď klepneš na „I'm here now“ alebo „My location“, na umiestnenie miesta na mapu. Zostáva v tvojom zariadení.",
+              "<strong>Hlásenia</strong>: pripomienka deň vopred, naplánovaná v tvojom zariadení."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Mapy a webové stránky",
+        "blocks": [
+          {
+            "p": "Na zobrazenie adresy bodu alebo hľadanie miesta sa súradnice alebo zadaný text odosielajú do mapovej služby Apple. Keď do aplikácie zdieľaš webovú stránku (napríklad odkaz z Pinterestu), rozšírenie ju stiahne priamo z tvojho zariadenia, aby z nej získalo hlavný obrázok. Ako pri každom pripojení k internetu vidia tieto služby IP adresu požiadavky."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "Widget zobrazuje názov, čas, miesto a obálku tvojho najbližšieho fotenia podľa údajov uložených v tvojom zariadení."
+          }
+        ]
+      },
+      {
+        "h": "Reklama a sledovanie",
+        "blocks": [
+          {
+            "p": "Shootbook neobsahuje žiadne reklamy, sledovacie prvky ani nástroje na analýzu či štatistiky používania."
+          }
+        ]
+      },
+      {
+        "h": "Deti",
+        "blocks": [
+          {
+            "p": "Aplikácia nezhromažďuje žiadne údaje a je vhodná pre všetky vekové kategórie."
+          }
+        ]
+      },
+      {
+        "h": "Zmeny",
+        "blocks": [
+          {
+            "p": "Ak sa tieto zásady zmenia, nová verzia bude zverejnená na tejto stránke s dátumom aktualizácie."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "S otázkami k týmto zásadám: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Prepara cada sesión de fotos en un solo sitio",
+    "contact": "¿Una pregunta, una idea o un error? Escríbeme:<br>{email}",
+    "faq": [
+      {
+        "q": "¿Cómo envío una sesión a alguien?",
+        "a": "Abre la sesión, toca el botón de compartir, luego «Enviar la sesión» y elige AirDrop, Mensajes o Mail. La otra persona la abre con la app y lo recibe todo, imágenes incluidas. «Hoja de ruta (PDF)» crea un documento que todo el equipo puede leer, incluso sin la app."
+      },
+      {
+        "q": "¿Cómo preparo una sesión con otra persona?",
+        "a": "Toca el botón de compartir, luego «Preparar en grupo (iCloud)» e invita a la persona. Cuando acepte, editarán el mismo cuaderno; los cambios llegan en pocos segundos mientras la app está abierta. Ambos deben haber iniciado sesión en iCloud."
+      },
+      {
+        "q": "¿Cómo añado una imagen de Pinterest o Safari al moodboard?",
+        "a": "Toca Compartir y luego «Shootbook» (la primera vez, añádela desde el final de la lista de apps). Elige la sesión: la imagen se añade a su moodboard la próxima vez que abras la app."
+      },
+      {
+        "q": "¿Cómo se calcula la hora dorada?",
+        "a": "Coloca el lugar en el mapa: la app calcula la posición del sol para el día de la sesión. La hora dorada es cuando el sol está entre 6° por encima y 4° por debajo del horizonte; la hora azul, entre 4° y 6° por debajo. Todo se calcula en tu dispositivo, sin conexión."
+      },
+      {
+        "q": "El widget no muestra nada",
+        "a": "El widget muestra tu próxima sesión con fecha. Abre la app una vez después de crear o modificar una sesión: el widget se actualiza cuando la app pasa a segundo plano."
+      },
+      {
+        "q": "¿Se guardan mis sesiones?",
+        "a": "Sí, en tu dispositivo, y en tu iCloud si la sincronización está activada (Acerca de › Sincronizar con iCloud). Así aparecen en tu iPhone y tu iPad."
+      }
+    ],
+    "privacy_summary": "Shootbook no recopila ningún dato personal y no contiene publicidad ni rastreadores."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resumen",
+        "blocks": [
+          {
+            "p": "Shootbook no recopila ningún dato personal y no tiene servidor. Todo lo que introduces se queda en tu dispositivo, y en tu propia cuenta de iCloud si activas la sincronización."
+          }
+        ]
+      },
+      {
+        "h": "Tus sesiones",
+        "blocks": [
+          {
+            "p": "Los textos, imágenes, lugares, listas y contactos del equipo se guardan en tu dispositivo. Si activas la sincronización con iCloud, también se guardan en tu cuenta de iCloud, gestionada por Apple, para encontrarlos en tus otros dispositivos. El desarrollador no tiene acceso a ellos."
+          }
+        ]
+      },
+      {
+        "h": "Preparar en grupo y enviar",
+        "blocks": [
+          {
+            "p": "Cuando compartes una sesión en directo, su contenido se guarda en tu iCloud y solo es accesible para las personas que invitas, a través del servicio para compartir de Apple. Puedes dejar de compartir en cualquier momento. Cuando envías una sesión o una hoja de ruta, solo llega a las personas que eliges y por el medio que eliges (AirDrop, Mensajes, Mail…)."
+          }
+        ]
+      },
+      {
+        "h": "Permisos solicitados",
+        "blocks": [
+          {
+            "p": "Cada permiso solo se solicita cuando usas la función correspondiente, y puedes retirarlo en la Configuración de tu dispositivo."
+          },
+          {
+            "ul": [
+              "<strong>Fotos</strong>: solo se copian en la app las imágenes que eliges, en tamaño reducido. Una imagen solo se guarda en tu fototeca si lo pides.",
+              "<strong>Cámara</strong>: para fotografiar un lugar durante una localización, un look o una pose de referencia.",
+              "<strong>Ubicación</strong>: solo cuando tocas «Estoy aquí» o «Mi ubicación», para colocar un lugar en el mapa. Se queda en tu dispositivo.",
+              "<strong>Notificaciones</strong>: el recordatorio de la víspera, programado en tu dispositivo."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Mapas y páginas web",
+        "blocks": [
+          {
+            "p": "Para mostrar la dirección de un punto o buscar un lugar, las coordenadas o el texto que escribes se envían al servicio de mapas de Apple. Cuando compartes una página web con la app (un enlace de Pinterest, por ejemplo), la extensión descarga esa página directamente desde tu dispositivo para obtener su imagen principal. Como en cualquier conexión a internet, estos servicios ven la dirección IP de la solicitud."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "El widget muestra el título, la hora, el lugar y la portada de tu próxima sesión a partir de los datos guardados en tu dispositivo."
+          }
+        ]
+      },
+      {
+        "h": "Publicidad y seguimiento",
+        "blocks": [
+          {
+            "p": "Shootbook no contiene publicidad, ni rastreadores, ni herramientas de análisis o estadísticas de uso."
+          }
+        ]
+      },
+      {
+        "h": "Niños",
+        "blocks": [
+          {
+            "p": "La app no recopila ningún dato y es apta para todas las edades."
+          }
+        ]
+      },
+      {
+        "h": "Cambios",
+        "blocks": [
+          {
+            "p": "Si esta política cambia, la nueva versión se publicará en esta página con su fecha de actualización."
+          }
+        ]
+      },
+      {
+        "h": "Contacto",
+        "blocks": [
+          {
+            "p": "Para cualquier pregunta sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

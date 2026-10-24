@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Prepara ogni shooting fotografico in un unico posto",
+    "contact": "Una domanda, un'idea o un bug? Scrivimi:<br>{email}",
+    "faq": [
+      {
+        "q": "Come invio uno shooting a qualcuno?",
+        "a": "Apri lo shooting, tocca il pulsante di condivisione, poi «Invia lo shooting» e scegli AirDrop, Messaggi o Mail. L'altra persona lo apre con l'app e ritrova tutto, immagini comprese. «Scaletta (PDF)» crea un documento leggibile da tutto il team, anche senza l'app."
+      },
+      {
+        "q": "Come preparo uno shooting insieme a un'altra persona?",
+        "a": "Tocca il pulsante di condivisione, poi «Prepara insieme (iCloud)» e invita la persona. Quando accetta, modificate lo stesso taccuino; le modifiche arrivano in pochi secondi mentre l'app è aperta. Dovete aver effettuato entrambi l'accesso a iCloud."
+      },
+      {
+        "q": "Come aggiungo un'immagine da Pinterest o Safari alla moodboard?",
+        "a": "Tocca Condividi, poi «Shootbook» (la prima volta, aggiungila dalla fine dell'elenco delle app). Scegli lo shooting: l'immagine entra nella sua moodboard alla prossima apertura dell'app."
+      },
+      {
+        "q": "Come viene calcolata l'ora d'oro?",
+        "a": "Posiziona il luogo sulla mappa: l'app calcola la posizione del sole per il giorno dello shooting. L'ora d'oro è quando il sole è tra 6° sopra e 4° sotto l'orizzonte, l'ora blu tra 4° e 6° sotto. Tutto viene calcolato sul tuo dispositivo, senza connessione."
+      },
+      {
+        "q": "Il widget non mostra nulla",
+        "a": "Il widget mostra il tuo prossimo shooting con data. Apri l'app una volta dopo aver creato o modificato uno shooting: il widget si aggiorna quando l'app passa in background."
+      },
+      {
+        "q": "I miei shooting sono salvati?",
+        "a": "Sì, sul tuo dispositivo, e nel tuo iCloud se la sincronizzazione è attiva (Info › Sincronizza con iCloud). Compaiono così su iPhone e iPad."
+      }
+    ],
+    "privacy_summary": "Shootbook non raccoglie alcun dato personale e non contiene pubblicità né tracker."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In breve",
+        "blocks": [
+          {
+            "p": "Shootbook non raccoglie alcun dato personale e non ha un server. Tutto ciò che inserisci resta sul tuo dispositivo, e nel tuo account iCloud se attivi la sincronizzazione."
+          }
+        ]
+      },
+      {
+        "h": "I tuoi shooting",
+        "blocks": [
+          {
+            "p": "Testi, immagini, luoghi, liste e contatti del team sono salvati sul tuo dispositivo. Se attivi la sincronizzazione con iCloud, sono salvati anche nel tuo account iCloud, gestito da Apple, per ritrovarli sugli altri dispositivi. Lo sviluppatore non vi ha accesso."
+          }
+        ]
+      },
+      {
+        "h": "Preparare insieme e inviare",
+        "blocks": [
+          {
+            "p": "Quando condividi uno shooting in diretta, il suo contenuto viene salvato nel tuo iCloud e reso accessibile solo alle persone che inviti, tramite il servizio di condivisione di Apple. Puoi interrompere la condivisione in qualsiasi momento. Quando invii uno shooting o una scaletta, arriva solo alle persone che scegli e nel modo che scegli (AirDrop, Messaggi, Mail…)."
+          }
+        ]
+      },
+      {
+        "h": "Autorizzazioni richieste",
+        "blocks": [
+          {
+            "p": "Ogni autorizzazione viene richiesta solo quando usi la funzione corrispondente, e puoi revocarla nelle Impostazioni del dispositivo."
+          },
+          {
+            "ul": [
+              "<strong>Foto</strong>: solo le immagini che scegli vengono copiate nell'app, in dimensioni ridotte. Un'immagine viene salvata nella tua libreria solo se lo chiedi.",
+              "<strong>Fotocamera</strong>: per fotografare un luogo durante un sopralluogo, un outfit o una posa di riferimento.",
+              "<strong>Posizione</strong>: solo quando tocchi «Sono sul posto» o «La mia posizione», per posizionare un luogo sulla mappa. Resta sul tuo dispositivo.",
+              "<strong>Notifiche</strong>: il promemoria del giorno prima, programmato sul tuo dispositivo."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Mappe e pagine web",
+        "blocks": [
+          {
+            "p": "Per mostrare l'indirizzo di un punto o cercare un luogo, le coordinate o il testo digitato vengono inviati al servizio di mappe di Apple. Quando condividi una pagina web con l'app (un link di Pinterest, per esempio), l'estensione scarica quella pagina direttamente dal tuo dispositivo per recuperarne l'immagine principale. Come per qualsiasi connessione a internet, questi servizi vedono l'indirizzo IP della richiesta."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "Il widget mostra titolo, ora, luogo e copertina del tuo prossimo shooting a partire dai dati salvati sul tuo dispositivo."
+          }
+        ]
+      },
+      {
+        "h": "Pubblicità e tracciamento",
+        "blocks": [
+          {
+            "p": "Shootbook non contiene pubblicità, tracker né strumenti di analisi o statistiche d'uso."
+          }
+        ]
+      },
+      {
+        "h": "Bambini",
+        "blocks": [
+          {
+            "p": "L'app non raccoglie alcun dato ed è adatta a tutte le età."
+          }
+        ]
+      },
+      {
+        "h": "Modifiche",
+        "blocks": [
+          {
+            "p": "Se questa informativa cambia, la nuova versione sarà pubblicata su questa pagina con la data di aggiornamento."
+          }
+        ]
+      },
+      {
+        "h": "Contatti",
+        "blocks": [
+          {
+            "p": "Per qualsiasi domanda su questa informativa: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

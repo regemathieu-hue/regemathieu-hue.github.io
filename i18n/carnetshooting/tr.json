@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Her fotoğraf çekimini tek bir yerde hazırla",
+    "contact": "Bir sorun, bir fikrin ya da bir hata mı var? Bana yaz:<br>{email}",
+    "faq": [
+      {
+        "q": "Bir çekimi birine nasıl gönderirim?",
+        "a": "Çekimi aç, paylaş düğmesine, ardından “Send shoot” seçeneğine dokun ve AirDrop, Mesajlar ya da Mail’i seç. Karşı taraf çekimi uygulamayla açar ve görseller dahil her şeye ulaşır. “Call sheet (PDF)”, uygulaması olmayanlar dahil tüm ekibin okuyabileceği bir belge oluşturur."
+      },
+      {
+        "q": "Bir çekimi başka biriyle birlikte nasıl hazırlarım?",
+        "a": "Paylaş düğmesine, ardından “Plan together (iCloud)” seçeneğine dokun ve kişiyi davet et. Davet kabul edilince aynı defteri birlikte düzenlersiniz; uygulama açıkken değişiklikler birkaç saniye içinde gelir. İkinizin de iCloud’a giriş yapmış olması gerekir."
+      },
+      {
+        "q": "Pinterest veya Safari’den moodboard’a nasıl görsel eklerim?",
+        "a": "Paylaş’a, ardından “Shootbook” seçeneğine dokun (ilk seferde uygulamayı uygulama listesinin sonundan ekle). Çekimi seç: görsel, uygulamayı bir sonraki açışında o çekimin moodboard’una eklenir."
+      },
+      {
+        "q": "Altın saat nasıl hesaplanır?",
+        "a": "Konumu haritaya yerleştir: uygulama çekim günü için güneşin konumunu hesaplar. Altın saat, güneşin ufkun 6° üstü ile 4° altı arasında olduğu zamandır; mavi saat ise ufkun 4° ile 6° altı arasındadır. Her şey cihazında, bağlantı olmadan hesaplanır."
+      },
+      {
+        "q": "Widget hiçbir şey göstermiyor",
+        "a": "Widget, tarihli bir sonraki çekimini gösterir. Bir çekim oluşturduktan veya değiştirdikten sonra uygulamayı bir kez aç: uygulama arka plana geçtiğinde widget güncellenir."
+      },
+      {
+        "q": "Çekimlerim kaydediliyor mu?",
+        "a": "Evet, cihazında ve senkronizasyon açıksa iCloud’unda (About › Sync with iCloud). Böylece iPhone’unda ve iPad’inde görünürler."
+      }
+    ],
+    "privacy_summary": "Shootbook hiçbir kişisel veri toplamaz; reklam veya izleyici içermez."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Özetle",
+        "blocks": [
+          {
+            "p": "Shootbook hiçbir kişisel veri toplamaz ve sunucusu yoktur. Girdiğin her şey cihazında, senkronizasyonu açarsan da kendi iCloud hesabında kalır."
+          }
+        ]
+      },
+      {
+        "h": "Çekimlerin",
+        "blocks": [
+          {
+            "p": "Metinler, görseller, mekânlar, listeler ve ekibin iletişim bilgileri cihazında saklanır. iCloud senkronizasyonunu açarsan, diğer cihazlarında da bulabilmen için Apple’ın yönettiği iCloud hesabında da saklanırlar. Geliştiricinin bunlara erişimi yoktur."
+          }
+        ]
+      },
+      {
+        "h": "Birlikte hazırlama ve gönderme",
+        "blocks": [
+          {
+            "p": "Bir çekimi canlı paylaştığında içeriği iCloud’unda saklanır ve Apple’ın paylaşım hizmeti aracılığıyla yalnızca davet ettiğin kişilerin erişimine açılır. Paylaşımı istediğin zaman durdurabilirsin. Bir çekim veya çekim planı gönderdiğinde, yalnızca seçtiğin kişilere, seçtiğin yolla (AirDrop, Mesajlar, Mail…) ulaşır."
+          }
+        ]
+      },
+      {
+        "h": "İstenen izinler",
+        "blocks": [
+          {
+            "p": "Her izin yalnızca ilgili özelliği kullandığında istenir ve cihazının Ayarlar’ından geri alabilirsin."
+          },
+          {
+            "ul": [
+              "<strong>Fotoğraflar</strong>: yalnızca seçtiğin görseller, küçültülmüş boyutta uygulamaya kopyalanır. Bir görsel yalnızca sen istersen fotoğraf arşivine kaydedilir.",
+              "<strong>Kamera</strong>: mekân keşfi sırasında bir yeri, bir kıyafeti veya bir referans pozu fotoğraflamak için.",
+              "<strong>Konum</strong>: yalnızca bir yeri haritaya yerleştirmek için “I'm here now” veya “My location” seçeneğine dokunduğunda. Cihazında kalır.",
+              "<strong>Bildirimler</strong>: cihazında planlanan, bir gün önceki hatırlatma."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Haritalar ve web sayfaları",
+        "blocks": [
+          {
+            "p": "Bir noktanın adresini göstermek veya bir yer aramak için koordinatlar ya da yazdığın metin Apple’ın harita hizmetine gönderilir. Uygulamayla bir web sayfası paylaştığında (örneğin bir Pinterest bağlantısı), uzantı ana görseli almak için bu sayfayı doğrudan cihazından indirir. Her internet bağlantısında olduğu gibi bu hizmetler isteğin IP adresini görür."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "Widget, cihazında saklanan verilere göre bir sonraki çekiminin başlığını, saatini, yerini ve kapağını gösterir."
+          }
+        ]
+      },
+      {
+        "h": "Reklam ve izleme",
+        "blocks": [
+          {
+            "p": "Shootbook reklam, izleyici ya da analiz veya kullanım istatistiği aracı içermez."
+          }
+        ]
+      },
+      {
+        "h": "Çocuklar",
+        "blocks": [
+          {
+            "p": "Uygulama hiçbir veri toplamaz ve her yaşa uygundur."
+          }
+        ]
+      },
+      {
+        "h": "Değişiklikler",
+        "blocks": [
+          {
+            "p": "Bu politika değişirse yeni sürüm, güncelleme tarihiyle birlikte bu sayfada yayımlanır."
+          }
+        ]
+      },
+      {
+        "h": "İletişim",
+        "blocks": [
+          {
+            "p": "Bu politikayla ilgili her türlü soru için: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

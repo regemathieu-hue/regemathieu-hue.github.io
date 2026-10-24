@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Plan every photo shoot in one place",
+    "contact": "A question, an idea or a bug? Write to me:<br>{email}",
+    "faq": [
+      {
+        "q": "How do I send a shoot to someone?",
+        "a": "Open the shoot, tap the share button, then “Send shoot”, and choose AirDrop, Messages or Mail. The other person opens it with the app and gets everything, images included. “Call sheet (PDF)” creates a document the whole team can read, even without the app."
+      },
+      {
+        "q": "How do I plan a shoot with someone else?",
+        "a": "Tap the share button, then “Plan together (iCloud)”, and invite the person. Once they accept, you both edit the same notebook; changes arrive within seconds while the app is open. You both need to be signed in to iCloud."
+      },
+      {
+        "q": "How do I add an image from Pinterest or Safari to the moodboard?",
+        "a": "Tap Share, then “Shootbook” (the first time, add it from the end of the list of apps). Pick the shoot: the image joins its moodboard the next time you open the app."
+      },
+      {
+        "q": "How is golden hour calculated?",
+        "a": "Pin the location on the map: the app calculates the sun's position for the day of the shoot. Golden hour is when the sun is between 6° above and 4° below the horizon, blue hour between 4° and 6° below. Everything is calculated on your device, offline."
+      },
+      {
+        "q": "The widget is empty",
+        "a": "The widget shows your next dated shoot. Open the app once after creating or editing a shoot: the widget updates when the app goes to the background."
+      },
+      {
+        "q": "Are my shoots backed up?",
+        "a": "Yes, on your device, and in your iCloud if sync is on (About › Sync with iCloud). They then appear on your iPhone and iPad."
+      }
+    ],
+    "privacy_summary": "Shootbook collects no personal data and contains no ads or trackers."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In short",
+        "blocks": [
+          {
+            "p": "Shootbook collects no personal data and has no server. Everything you enter stays on your device, and in your own iCloud account if you turn on sync."
+          }
+        ]
+      },
+      {
+        "h": "Your shoots",
+        "blocks": [
+          {
+            "p": "Text, images, locations, lists and team contacts are stored on your device. If you turn on iCloud sync, they are also stored in your iCloud account, managed by Apple, so you can find them on your other devices. The developer has no access to them."
+          }
+        ]
+      },
+      {
+        "h": "Planning together and sending",
+        "blocks": [
+          {
+            "p": "When you share a shoot live, its content is stored in your iCloud and made available only to the people you invite, through Apple's sharing service. You can stop sharing at any time. When you send a shoot or a call sheet, it only goes to the people you choose, by the means you choose (AirDrop, Messages, Mail…)."
+          }
+        ]
+      },
+      {
+        "h": "Permissions requested",
+        "blocks": [
+          {
+            "p": "Each permission is only requested when you use the feature concerned, and you can withdraw it in your device's Settings."
+          },
+          {
+            "ul": [
+              "<strong>Photos</strong>: only the images you pick are copied into the app, at a reduced size. An image is only saved to your library when you ask.",
+              "<strong>Camera</strong>: to photograph a location while scouting, an outfit or a reference pose.",
+              "<strong>Location</strong>: only when you tap “I'm here now” or “My location”, to pin a place on the map. It stays on your device.",
+              "<strong>Notifications</strong>: the reminder the day before, scheduled on your device."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Maps and web pages",
+        "blocks": [
+          {
+            "p": "To show the address of a point or search for a place, the coordinates or the text you type are sent to Apple's map service. When you share a web page to the app (a Pinterest link, for example), the extension downloads that page directly from your device to get its main image. As with any internet connection, these services see the IP address of the request."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "The widget shows the title, time, location and cover of your next shoot, using the data stored on your device."
+          }
+        ]
+      },
+      {
+        "h": "Advertising and tracking",
+        "blocks": [
+          {
+            "p": "Shootbook contains no advertising, no trackers and no analytics or usage statistics tools."
+          }
+        ]
+      },
+      {
+        "h": "Children",
+        "blocks": [
+          {
+            "p": "The app collects no data and is suitable for all ages."
+          }
+        ]
+      },
+      {
+        "h": "Changes",
+        "blocks": [
+          {
+            "p": "If this policy changes, the new version will be published on this page with its update date."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "For any question about this policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

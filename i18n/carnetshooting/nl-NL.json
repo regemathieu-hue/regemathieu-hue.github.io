@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Plan elke fotoshoot op één plek",
+    "contact": "Een vraag, een idee of een bug? Schrijf me:<br>{email}",
+    "faq": [
+      {
+        "q": "Hoe stuur ik een shoot naar iemand?",
+        "a": "Open de shoot, tik op de deelknop, dan op ‘Send shoot’ en kies AirDrop, Berichten of Mail. De ander opent hem met de app en krijgt alles, inclusief de afbeeldingen. ‘Call sheet (PDF)’ maakt een document dat het hele team kan lezen, ook zonder de app."
+      },
+      {
+        "q": "Hoe plan ik een shoot samen met iemand anders?",
+        "a": "Tik op de deelknop, dan op ‘Plan together (iCloud)’ en nodig de persoon uit. Zodra die accepteert, bewerken jullie hetzelfde notitieboek; wijzigingen komen binnen enkele seconden binnen zolang de app open is. Jullie moeten allebei bij iCloud zijn ingelogd."
+      },
+      {
+        "q": "Hoe voeg ik een afbeelding uit Pinterest of Safari toe aan het moodboard?",
+        "a": "Tik op Deel en dan op ‘Shootbook’ (de eerste keer voeg je de app toe via het einde van de lijst met apps). Kies de shoot: de afbeelding komt in het moodboard terecht zodra je de app weer opent."
+      },
+      {
+        "q": "Hoe wordt het gouden uur berekend?",
+        "a": "Zet de locatie op de kaart: de app berekent de stand van de zon op de dag van de shoot. Het gouden uur is wanneer de zon tussen 6° boven en 4° onder de horizon staat, het blauwe uur tussen 4° en 6° eronder. Alles wordt op je apparaat berekend, zonder verbinding."
+      },
+      {
+        "q": "De widget is leeg",
+        "a": "De widget toont je volgende shoot met een datum. Open de app één keer nadat je een shoot hebt gemaakt of gewijzigd: de widget wordt bijgewerkt wanneer de app naar de achtergrond gaat."
+      },
+      {
+        "q": "Worden mijn shoots bewaard?",
+        "a": "Ja, op je apparaat, en in je iCloud als synchronisatie aanstaat (About › Sync with iCloud). Ze verschijnen dan op je iPhone en iPad."
+      }
+    ],
+    "privacy_summary": "Shootbook verzamelt geen persoonsgegevens en bevat geen advertenties of trackers."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In het kort",
+        "blocks": [
+          {
+            "p": "Shootbook verzamelt geen persoonsgegevens en heeft geen server. Alles wat je invoert blijft op je apparaat, en in je eigen iCloud-account als je synchronisatie aanzet."
+          }
+        ]
+      },
+      {
+        "h": "Je shoots",
+        "blocks": [
+          {
+            "p": "Teksten, afbeeldingen, locaties, lijsten en contacten van het team worden op je apparaat bewaard. Als je iCloud-synchronisatie aanzet, worden ze ook bewaard in je iCloud-account, beheerd door Apple, zodat je ze op je andere apparaten terugvindt. De ontwikkelaar heeft er geen toegang toe."
+          }
+        ]
+      },
+      {
+        "h": "Samen plannen en versturen",
+        "blocks": [
+          {
+            "p": "Als je een shoot live deelt, wordt de inhoud in je iCloud bewaard en via de deeldienst van Apple alleen toegankelijk gemaakt voor de mensen die je uitnodigt. Je kunt op elk moment stoppen met delen. Als je een shoot of een draaiboek verstuurt, gaat het alleen naar de mensen die je kiest, op de manier die je kiest (AirDrop, Berichten, Mail…)."
+          }
+        ]
+      },
+      {
+        "h": "Gevraagde toestemmingen",
+        "blocks": [
+          {
+            "p": "Elke toestemming wordt pas gevraagd wanneer je de betreffende functie gebruikt, en je kunt hem intrekken in de instellingen van je apparaat."
+          },
+          {
+            "ul": [
+              "<strong>Foto's</strong>: alleen de afbeeldingen die je kiest worden verkleind naar de app gekopieerd. Een afbeelding wordt alleen in je fotobibliotheek bewaard als je daarom vraagt.",
+              "<strong>Camera</strong>: om tijdens het verkennen een locatie, een outfit of een referentiepose te fotograferen.",
+              "<strong>Locatie</strong>: alleen als je op ‘I'm here now’ of ‘My location’ tikt, om een plek op de kaart te zetten. Ze blijft op je apparaat.",
+              "<strong>Meldingen</strong>: de herinnering de dag ervoor, ingepland op je apparaat."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Kaarten en webpagina's",
+        "blocks": [
+          {
+            "p": "Om het adres van een punt te tonen of een plek te zoeken, worden de coördinaten of de getypte tekst naar de kaartdienst van Apple gestuurd. Als je een webpagina met de app deelt (bijvoorbeeld een Pinterest-link), downloadt de extensie die pagina rechtstreeks vanaf je apparaat om de hoofdafbeelding op te halen. Zoals bij elke internetverbinding zien deze diensten het IP-adres van het verzoek."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "De widget toont de titel, het tijdstip, de locatie en de omslag van je volgende shoot op basis van de gegevens op je apparaat."
+          }
+        ]
+      },
+      {
+        "h": "Advertenties en tracking",
+        "blocks": [
+          {
+            "p": "Shootbook bevat geen advertenties, geen trackers en geen analyse- of statistiektools."
+          }
+        ]
+      },
+      {
+        "h": "Kinderen",
+        "blocks": [
+          {
+            "p": "De app verzamelt geen gegevens en is geschikt voor alle leeftijden."
+          }
+        ]
+      },
+      {
+        "h": "Wijzigingen",
+        "blocks": [
+          {
+            "p": "Als dit beleid verandert, wordt de nieuwe versie met de datum van bijwerking op deze pagina gepubliceerd."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Voor vragen over dit beleid: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

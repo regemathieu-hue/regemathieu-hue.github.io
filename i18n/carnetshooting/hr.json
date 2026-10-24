@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Pripremi svako fotografiranje na jednom mjestu",
+    "contact": "Pitanje, ideja ili greška? Piši mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Kako nekome poslati fotografiranje?",
+        "a": "Otvori fotografiranje, dodirni tipku za dijeljenje, zatim „Send shoot” i odaberi AirDrop, Poruke ili Mail. Druga osoba ga otvara u aplikaciji i dobiva sve, uključujući slike. „Call sheet (PDF)” izrađuje dokument koji cijeli tim može pročitati i bez aplikacije."
+      },
+      {
+        "q": "Kako pripremiti fotografiranje s nekim drugim?",
+        "a": "Dodirni tipku za dijeljenje, zatim „Plan together (iCloud)” i pozovi osobu. Kad prihvati pozivnicu, uređujete istu bilježnicu; promjene stižu za nekoliko sekundi dok je aplikacija otvorena. Oboje morate biti prijavljeni na iCloud."
+      },
+      {
+        "q": "Kako dodati sliku s Pinteresta ili Safarija u moodboard?",
+        "a": "Dodirni Dijeli, a zatim „Shootbook” (prvi put dodaj aplikaciju s kraja popisa aplikacija). Odaberi fotografiranje: slika ulazi u njegov moodboard sljedeći put kad otvoriš aplikaciju."
+      },
+      {
+        "q": "Kako se računa zlatni sat?",
+        "a": "Postavi lokaciju na kartu: aplikacija izračunava položaj sunca za dan fotografiranja. Zlatni sat je kad je sunce između 6° iznad i 4° ispod horizonta, plavi sat između 4° i 6° ispod. Sve se računa na tvom uređaju, bez veze."
+      },
+      {
+        "q": "Widget ništa ne prikazuje",
+        "a": "Widget prikazuje tvoje sljedeće fotografiranje s datumom. Otvori aplikaciju jednom nakon što izradiš ili promijeniš fotografiranje: widget se ažurira kad aplikacija prijeđe u pozadinu."
+      },
+      {
+        "q": "Spremaju li se moja fotografiranja?",
+        "a": "Da, na tvom uređaju i u tvom iCloudu ako je sinkronizacija uključena (About › Sync with iCloud). Tada se pojavljuju na iPhoneu i iPadu."
+      }
+    ],
+    "privacy_summary": "Shootbook ne prikuplja nikakve osobne podatke i ne sadrži oglase ni alate za praćenje."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ukratko",
+        "blocks": [
+          {
+            "p": "Shootbook ne prikuplja nikakve osobne podatke i nema poslužitelj. Sve što uneseš ostaje na tvom uređaju i na tvom vlastitom iCloud računu ako uključiš sinkronizaciju."
+          }
+        ]
+      },
+      {
+        "h": "Tvoja fotografiranja",
+        "blocks": [
+          {
+            "p": "Tekstovi, slike, lokacije, popisi i kontakti tima spremaju se na tvom uređaju. Ako uključiš sinkronizaciju s iCloudom, spremaju se i na tvoj iCloud račun kojim upravlja Apple kako bi bili dostupni na drugim uređajima. Razvojni programer nema pristup njima."
+          }
+        ]
+      },
+      {
+        "h": "Zajedničko planiranje i slanje",
+        "blocks": [
+          {
+            "p": "Kad fotografiranje dijeliš uživo, njegov sadržaj sprema se u tvoj iCloud i putem Appleove usluge dijeljenja dostupan je samo osobama koje pozoveš. Dijeljenje možeš prekinuti u bilo kojem trenutku. Kad pošalješ fotografiranje ili raspored snimanja, dobivaju ga samo osobe koje odabereš, na način koji odabereš (AirDrop, Poruke, Mail…)."
+          }
+        ]
+      },
+      {
+        "h": "Zatražena dopuštenja",
+        "blocks": [
+          {
+            "p": "Svako dopuštenje traži se tek kad koristiš određenu funkciju, a možeš ga povući u Postavkama uređaja."
+          },
+          {
+            "ul": [
+              "<strong>Fotografije</strong>: u aplikaciju se u smanjenoj veličini kopiraju samo slike koje odabereš. Slika se sprema u tvoju fototeku samo ako to zatražiš.",
+              "<strong>Kamera</strong>: za fotografiranje lokacije tijekom izviđanja, odjeće ili referentne poze.",
+              "<strong>Lokacija</strong>: samo kad dodirneš „I'm here now” ili „My location”, za postavljanje mjesta na kartu. Ostaje na tvom uređaju.",
+              "<strong>Obavijesti</strong>: podsjetnik dan ranije, zakazan na tvom uređaju."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Karte i web-stranice",
+        "blocks": [
+          {
+            "p": "Za prikaz adrese neke točke ili traženje mjesta koordinate ili upisani tekst šalju se Appleovoj usluzi karata. Kad web-stranicu podijeliš s aplikacijom (na primjer poveznicu s Pinteresta), proširenje preuzima tu stranicu izravno s tvog uređaja kako bi dobilo njezinu glavnu sliku. Kao i kod svake internetske veze, te usluge vide IP adresu zahtjeva."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "Widget prikazuje naslov, vrijeme, mjesto i naslovnu sliku tvog sljedećeg fotografiranja na temelju podataka spremljenih na tvom uređaju."
+          }
+        ]
+      },
+      {
+        "h": "Oglašavanje i praćenje",
+        "blocks": [
+          {
+            "p": "Shootbook ne sadrži oglase, alate za praćenje ni alate za analitiku ili statistiku korištenja."
+          }
+        ]
+      },
+      {
+        "h": "Djeca",
+        "blocks": [
+          {
+            "p": "Aplikacija ne prikuplja nikakve podatke i prikladna je za sve uzraste."
+          }
+        ]
+      },
+      {
+        "h": "Promjene",
+        "blocks": [
+          {
+            "p": "Ako se ova pravila promijene, nova verzija bit će objavljena na ovoj stranici s datumom ažuriranja."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Za sva pitanja o ovim pravilima: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

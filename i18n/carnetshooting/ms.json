@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Sediakan setiap sesi foto di satu tempat",
+    "contact": "Ada soalan, idea atau pepijat? Tulis kepada saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Bagaimana saya menghantar sesi foto kepada seseorang?",
+        "a": "Buka sesi itu, ketik butang kongsi, kemudian “Send shoot” dan pilih AirDrop, Mesej atau Mail. Orang itu membukanya dengan apl dan mendapat segalanya, termasuk imej. “Call sheet (PDF)” mencipta dokumen yang boleh dibaca oleh seluruh pasukan, walaupun tanpa apl."
+      },
+      {
+        "q": "Bagaimana saya menyediakan sesi foto bersama orang lain?",
+        "a": "Ketik butang kongsi, kemudian “Plan together (iCloud)” dan jemput orang itu. Selepas jemputan diterima, anda berdua mengedit buku nota yang sama; perubahan tiba dalam beberapa saat selagi apl dibuka. Anda berdua mesti log masuk ke iCloud."
+      },
+      {
+        "q": "Bagaimana saya menambah imej dari Pinterest atau Safari ke moodboard?",
+        "a": "Ketik Kongsi, kemudian “Shootbook” (kali pertama, tambah apl dari hujung senarai apl). Pilih sesi: imej masuk ke moodboard sesi itu apabila anda membuka apl seterusnya."
+      },
+      {
+        "q": "Bagaimana golden hour dikira?",
+        "a": "Letakkan lokasi pada peta: apl mengira kedudukan matahari untuk hari sesi. Golden hour ialah apabila matahari berada antara 6° di atas dan 4° di bawah ufuk, blue hour antara 4° dan 6° di bawah ufuk. Semuanya dikira pada peranti anda, tanpa sambungan."
+      },
+      {
+        "q": "Widget tidak memaparkan apa-apa",
+        "a": "Widget memaparkan sesi seterusnya yang bertarikh. Buka apl sekali selepas mencipta atau mengubah sesi: widget dikemas kini apabila apl masuk ke latar belakang."
+      },
+      {
+        "q": "Adakah sesi saya disimpan?",
+        "a": "Ya, pada peranti anda, dan dalam iCloud anda jika penyegerakan dihidupkan (About › Sync with iCloud). Sesi itu kemudian muncul pada iPhone dan iPad anda."
+      }
+    ],
+    "privacy_summary": "Shootbook tidak mengumpul sebarang data peribadi dan tidak mengandungi iklan atau penjejak."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasnya",
+        "blocks": [
+          {
+            "p": "Shootbook tidak mengumpul sebarang data peribadi dan tidak mempunyai pelayan. Semua yang anda masukkan kekal pada peranti anda, dan dalam akaun iCloud anda sendiri jika anda menghidupkan penyegerakan."
+          }
+        ]
+      },
+      {
+        "h": "Sesi anda",
+        "blocks": [
+          {
+            "p": "Teks, imej, lokasi, senarai dan kenalan pasukan disimpan pada peranti anda. Jika anda menghidupkan penyegerakan iCloud, semuanya juga disimpan dalam akaun iCloud anda yang diurus oleh Apple, supaya anda boleh menemuinya pada peranti lain. Pembangun tidak mempunyai akses kepadanya."
+          }
+        ]
+      },
+      {
+        "h": "Menyediakan bersama dan menghantar",
+        "blocks": [
+          {
+            "p": "Apabila anda berkongsi sesi secara langsung, kandungannya disimpan dalam iCloud anda dan hanya boleh diakses oleh orang yang anda jemput, melalui perkhidmatan perkongsian Apple. Anda boleh berhenti berkongsi pada bila-bila masa. Apabila anda menghantar sesi atau jadual penggambaran, ia hanya sampai kepada orang yang anda pilih, dengan cara yang anda pilih (AirDrop, Mesej, Mail…)."
+          }
+        ]
+      },
+      {
+        "h": "Kebenaran yang diminta",
+        "blocks": [
+          {
+            "p": "Setiap kebenaran hanya diminta apabila anda menggunakan ciri berkaitan, dan anda boleh menariknya balik dalam Seting peranti anda."
+          },
+          {
+            "ul": [
+              "<strong>Foto</strong>: hanya imej yang anda pilih disalin ke apl, dalam saiz yang dikecilkan. Imej hanya disimpan ke pustaka anda jika anda memintanya.",
+              "<strong>Kamera</strong>: untuk mengambil gambar lokasi semasa tinjauan, pakaian atau pose rujukan.",
+              "<strong>Lokasi</strong>: hanya apabila anda mengetik “I'm here now” atau “My location” untuk meletakkan tempat pada peta. Ia kekal pada peranti anda.",
+              "<strong>Pemberitahuan</strong>: peringatan sehari sebelum, dijadualkan pada peranti anda."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Peta dan halaman web",
+        "blocks": [
+          {
+            "p": "Untuk memaparkan alamat sesuatu titik atau mencari tempat, koordinat atau teks yang anda taip dihantar ke perkhidmatan peta Apple. Apabila anda berkongsi halaman web dengan apl (contohnya pautan Pinterest), sambungan memuat turun halaman itu terus dari peranti anda untuk mendapatkan imej utamanya. Seperti mana-mana sambungan internet, perkhidmatan ini melihat alamat IP permintaan."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "Widget memaparkan tajuk, masa, lokasi dan kulit sesi seterusnya berdasarkan data yang disimpan pada peranti anda."
+          }
+        ]
+      },
+      {
+        "h": "Iklan dan penjejakan",
+        "blocks": [
+          {
+            "p": "Shootbook tidak mengandungi iklan, penjejak atau alat analitik atau statistik penggunaan."
+          }
+        ]
+      },
+      {
+        "h": "Kanak-kanak",
+        "blocks": [
+          {
+            "p": "Apl ini tidak mengumpul sebarang data dan sesuai untuk semua peringkat umur."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika dasar ini berubah, versi baharu akan diterbitkan di halaman ini bersama tarikh kemas kininya."
+          }
+        ]
+      },
+      {
+        "h": "Hubungi",
+        "blocks": [
+          {
+            "p": "Untuk sebarang soalan tentang dasar ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

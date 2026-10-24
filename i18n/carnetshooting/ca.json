@@ -1,0 +1,125 @@
+{
+  "support": {
+    "subtitle": "Prepara cada sessió de fotos en un sol lloc",
+    "contact": "Una pregunta, una idea o un error? Escriu-me:<br>{email}",
+    "faq": [
+      {
+        "q": "Com envio una sessió a algú?",
+        "a": "Obre la sessió, toca el botó de compartir, després «Send shoot» i tria AirDrop, Missatges o Mail. L'altra persona l'obre amb l'app i ho rep tot, imatges incloses. «Call sheet (PDF)» crea un document que tot l'equip pot llegir, fins i tot sense l'app."
+      },
+      {
+        "q": "Com preparo una sessió amb una altra persona?",
+        "a": "Toca el botó de compartir, després «Plan together (iCloud)» i convida la persona. Quan accepti, editareu el mateix quadern; els canvis arriben en pocs segons mentre l'app és oberta. Tots dos heu d'haver iniciat sessió a l'iCloud."
+      },
+      {
+        "q": "Com afegeixo una imatge de Pinterest o Safari al moodboard?",
+        "a": "Toca Compartir i després «Shootbook» (la primera vegada, afegeix-la des del final de la llista d'apps). Tria la sessió: la imatge s'afegeix al seu moodboard la propera vegada que obris l'app."
+      },
+      {
+        "q": "Com es calcula l'hora daurada?",
+        "a": "Situa el lloc al mapa: l'app calcula la posició del sol per al dia de la sessió. L'hora daurada és quan el sol és entre 6° per sobre i 4° per sota de l'horitzó; l'hora blava, entre 4° i 6° per sota. Tot es calcula al teu dispositiu, sense connexió."
+      },
+      {
+        "q": "El widget no mostra res",
+        "a": "El widget mostra la teva propera sessió amb data. Obre l'app una vegada després de crear o modificar una sessió: el widget s'actualitza quan l'app passa a segon pla."
+      },
+      {
+        "q": "Les meves sessions es desen?",
+        "a": "Sí, al teu dispositiu, i al teu iCloud si la sincronització està activada (About › Sync with iCloud). Així apareixen al teu iPhone i al teu iPad."
+      }
+    ],
+    "privacy_summary": "Shootbook no recull cap dada personal i no conté publicitat ni rastrejadors."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resum",
+        "blocks": [
+          {
+            "p": "Shootbook no recull cap dada personal i no té servidor. Tot el que introdueixes es queda al teu dispositiu, i al teu propi compte d'iCloud si actives la sincronització."
+          }
+        ]
+      },
+      {
+        "h": "Les teves sessions",
+        "blocks": [
+          {
+            "p": "Els textos, imatges, llocs, llistes i contactes de l'equip es desen al teu dispositiu. Si actives la sincronització amb l'iCloud, també es desen al teu compte d'iCloud, gestionat per Apple, per trobar-los als teus altres dispositius. El desenvolupador no hi té accés."
+          }
+        ]
+      },
+      {
+        "h": "Preparar en grup i enviar",
+        "blocks": [
+          {
+            "p": "Quan comparteixes una sessió en directe, el seu contingut es desa al teu iCloud i només és accessible per a les persones que convides, mitjançant el servei de compartir d'Apple. Pots deixar de compartir en qualsevol moment. Quan envies una sessió o un full de ruta, només arriba a les persones que tries, pel mitjà que tries (AirDrop, Missatges, Mail…)."
+          }
+        ]
+      },
+      {
+        "h": "Permisos sol·licitats",
+        "blocks": [
+          {
+            "p": "Cada permís només se sol·licita quan fas servir la funció corresponent, i el pots retirar a la configuració del teu dispositiu."
+          },
+          {
+            "ul": [
+              "<strong>Fotos</strong>: només es copien a l'app les imatges que tries, en mida reduïda. Una imatge només es desa a la teva fototeca si ho demanes.",
+              "<strong>Càmera</strong>: per fotografiar un lloc durant una localització, un look o una postura de referència.",
+              "<strong>Ubicació</strong>: només quan toques «I'm here now» o «My location», per situar un lloc al mapa. Es queda al teu dispositiu.",
+              "<strong>Notificacions</strong>: el recordatori de la vigília, programat al teu dispositiu."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Mapes i pàgines web",
+        "blocks": [
+          {
+            "p": "Per mostrar l'adreça d'un punt o cercar un lloc, les coordenades o el text que escrius s'envien al servei de mapes d'Apple. Quan comparteixes una pàgina web amb l'app (un enllaç de Pinterest, per exemple), l'extensió baixa aquesta pàgina directament des del teu dispositiu per obtenir-ne la imatge principal. Com en qualsevol connexió a internet, aquests serveis veuen l'adreça IP de la petició."
+          }
+        ]
+      },
+      {
+        "h": "Widget",
+        "blocks": [
+          {
+            "p": "El widget mostra el títol, l'hora, el lloc i la portada de la teva propera sessió a partir de les dades desades al teu dispositiu."
+          }
+        ]
+      },
+      {
+        "h": "Publicitat i seguiment",
+        "blocks": [
+          {
+            "p": "Shootbook no conté publicitat, ni rastrejadors, ni eines d'anàlisi o d'estadístiques d'ús."
+          }
+        ]
+      },
+      {
+        "h": "Infants",
+        "blocks": [
+          {
+            "p": "L'app no recull cap dada i és apta per a totes les edats."
+          }
+        ]
+      },
+      {
+        "h": "Canvis",
+        "blocks": [
+          {
+            "p": "Si aquesta política canvia, la nova versió es publicarà en aquesta pàgina amb la data d'actualització."
+          }
+        ]
+      },
+      {
+        "h": "Contacte",
+        "blocks": [
+          {
+            "p": "Per a qualsevol pregunta sobre aquesta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -68,6 +68,11 @@ def load_locales(cfg):
     return data
 
 
+def app_name(app, loc):
+    """Nom de l'appli dans une langue : « names » (facultatif) dans apps.json, sinon « name »."""
+    return app.get("names", {}).get(loc, app["name"])
+
+
 def fill(text, cfg):
     email = cfg["email"]
     return text.replace("{email}", f'<a href="mailto:{email}">{email}</a>')
@@ -132,7 +137,7 @@ def render_support(cfg, app, loc, locales, tpl, root_page):
         for item in s["faq"]
     )
     return tpl.format(
-        lang=c["lang"], dir=c["dir"], app=html.escape(app["name"]),
+        lang=c["lang"], dir=c["dir"], app=html.escape(app_name(app, loc)),
         support_title=c["support_title"], root="../" if root_page else "../../",
         alternates=alternates(cfg, app, "index.html", locales),
         redirect=redirect_script(cfg, locales, "index.html") if root_page else "",
@@ -161,7 +166,7 @@ def render_privacy(cfg, app, loc, locales, tpl, root_page):
                 out.append("  </ul>")
         out.append("")
     return tpl.format(
-        lang=c["lang"], dir=c["dir"], app=html.escape(app["name"]),
+        lang=c["lang"], dir=c["dir"], app=html.escape(app_name(app, loc)),
         privacy_title=c["privacy_title"], root="../" if root_page else "../../",
         alternates=alternates(cfg, app, "privacy.html", locales),
         redirect=redirect_script(cfg, locales, "privacy.html") if root_page else "",
