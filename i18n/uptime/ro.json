@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Construiește-ți imperiul de servere, din garaj până în spațiu",
+    "contact": "O întrebare, o idee sau un bug? Scrie-mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Cum câștig credite mai repede?",
+        "a": "Urmează obiectivul afișat în partea de sus a magazinului: fiecare aduce o recompensă. Finalizează cercetările imediat ce apar și atinge procesorul fără oprire ca să umpli bara de overclock: producția ta se triplează timp de câteva secunde. Prinde și pachetele aurii care traversează ecranul."
+      },
+      {
+        "q": "De ce îmi încetinește producția?",
+        "a": "Serverelor tale le lipsește curentul: bara de sub credite se înroșește și marginile ecranului clipesc. Deschide fila Energie și cumpără o sursă; eticheta „Cel mai bun preț pe watt” o arată pe cea mai rentabilă."
+      },
+      {
+        "q": "Ce fac când apare un incident?",
+        "a": "Un rack se supraîncălzește: atinge-l de mai multe ori. Un atac DDoS: atinge cererile malițioase înainte să ajungă la procesor. Un client grăbit: acceptă-i contractul și câștigă la timp suma cerută. Un incident rezolvat aduce credite; dacă îl ratezi, îți încetinește producția timp de 30 de secunde."
+      },
+      {
+        "q": "La ce folosește listarea la bursă?",
+        "a": "Îți resetează partida în schimbul unor acțiuni. Fiecare acțiune îți crește toată producția pentru totdeauna, iar în consiliul de administrație le poți cheltui pe îmbunătățiri permanente, precum capitalul inițial sau cumpărarea automată. Momentul potrivit: când fila Bursă arată că producția ți s-ar dubla."
+      },
+      {
+        "q": "Serverele mele mai lucrează când aplicația e închisă?",
+        "a": "Da, la început la jumătate de ritm și timp de cel mult două ore. Unele cercetări și consiliul de administrație prelungesc această durată și îmbunătățesc randamentul. În configurările jocului (rotița dințată), poți cere un memento când stocarea e plină."
+      },
+      {
+        "q": "Partida mea e salvată?",
+        "a": "Da, automat, pe dispozitivul tău. Nu se sincronizează între mai multe dispozitive și dispare dacă ștergi aplicația."
+      },
+      {
+        "q": "Cum încep de la zero?",
+        "a": "Atinge rotița dințată din stânga sus, apoi „Începe de la zero”. Atenție: partida, acțiunile și realizările se șterg definitiv."
+      }
+    ],
+    "privacy_summary": "Uptime nu colectează nicio dată personală și nu conține reclame, achiziții sau instrumente de urmărire."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Pe scurt",
+        "blocks": [
+          {
+            "p": "Uptime nu colectează nicio dată personală și nu are server. Partida ta e salvată doar pe dispozitivul tău."
+          }
+        ]
+      },
+      {
+        "h": "Partida ta",
+        "blocks": [
+          {
+            "p": "Progresul tău (credite, servere, cercetări, realizări, statistici) și configurările tale sunt salvate pe dispozitivul tău. Nu sunt trimise nicăieri, iar dezvoltatorul nu are acces la ele."
+          }
+        ]
+      },
+      {
+        "h": "Permisiuni solicitate",
+        "blocks": [
+          {
+            "p": "Fiecare permisiune e cerută doar în momentul în care folosești funcția respectivă și o poți retrage din Configurările dispozitivului tău."
+          },
+          {
+            "ul": [
+              "<strong>Notificări</strong>: doar dacă activezi mementoul „stocare plină”. E programat pe dispozitivul tău, fără server."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Reclame, achiziții și urmărire",
+        "blocks": [
+          {
+            "p": "Uptime e gratuit. Nu conține reclame, achiziții în aplicație, instrumente de urmărire sau instrumente de analiză ori de statistici de utilizare."
+          }
+        ]
+      },
+      {
+        "h": "Copii",
+        "blocks": [
+          {
+            "p": "Aplicația nu colectează nicio dată și e potrivită pentru toate vârstele."
+          }
+        ]
+      },
+      {
+        "h": "Modificări",
+        "blocks": [
+          {
+            "p": "Dacă această politică se schimbă, noua versiune va fi publicată pe această pagină, împreună cu data actualizării."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pentru orice întrebare despre această politică: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

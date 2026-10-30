@@ -10,6 +10,7 @@
     { "id": "carnetshooting", "name": "Shootbook", "names": { "fr-FR": "Carnet de shooting", "fr-CA": "Carnet de shooting" }, "updated": "2026-10-24" },
     { "id": "convert-everything", "name": "Convert Everything", "updated": "2026-05-02" },
     { "id": "flashbooth", "name": "Flashbooth", "updated": "2026-10-22" },
-    { "id": "nuitclaire", "name": "Nuit Claire", "updated": "2026-10-22" }
+    { "id": "nuitclaire", "name": "Nuit Claire", "updated": "2026-10-22" },
+    { "id": "uptime", "name": "Uptime", "updated": "2026-10-30" }
   ]
 }

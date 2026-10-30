@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Construa seu império de servidores, da garagem até o espaço",
+    "contact": "Uma pergunta, uma ideia ou um bug? Escreva para mim:<br>{email}",
+    "faq": [
+      {
+        "q": "Como ganhar créditos mais rápido?",
+        "a": "Siga o objetivo mostrado no topo da loja: cada um paga uma recompensa. Conclua as pesquisas assim que aparecerem e toque no processador sem parar para encher o medidor de overclock: sua produção é multiplicada por três por alguns segundos. Pegue também os pacotes dourados que atravessam a tela."
+      },
+      {
+        "q": "Por que minha produção está ficando mais lenta?",
+        "a": "Seus servidores estão sem energia suficiente: o medidor abaixo dos seus créditos fica vermelho e as bordas da tela piscam. Abra a aba Energia e compre uma fonte; a etiqueta “Melhor preço por watt” indica a mais vantajosa."
+      },
+      {
+        "q": "O que fazer quando aparece um incidente?",
+        "a": "Um rack superaquece: toque nele várias vezes. Um ataque DDoS: toque nas requisições maliciosas antes que cheguem ao processador. Um cliente apressado: aceite o contrato e ganhe a quantia pedida a tempo. Um incidente resolvido paga créditos; se você falhar, sua produção fica mais lenta por 30 segundos."
+      },
+      {
+        "q": "Para que serve entrar na bolsa?",
+        "a": "Entrar na bolsa reinicia a partida em troca de ações. Cada ação aumenta toda a sua produção para sempre, e você pode gastá-las no conselho de administração em melhorias permanentes, como o capital inicial ou a compra automática. A hora certa: quando a aba Bolsa indicar que sua produção dobraria."
+      },
+      {
+        "q": "Meus servidores trabalham quando o app está fechado?",
+        "a": "Sim, na metade do ritmo no começo e por até duas horas. Algumas pesquisas e o conselho de administração aumentam esse tempo e melhoram o rendimento. Nos ajustes do jogo (engrenagem), você pode pedir um lembrete quando o armazenamento encher."
+      },
+      {
+        "q": "Minha partida é salva?",
+        "a": "Sim, automaticamente, no seu aparelho. Ela não é sincronizada entre aparelhos e é perdida se você apagar o app."
+      },
+      {
+        "q": "Como recomeçar do zero?",
+        "a": "Toque na engrenagem no canto superior esquerdo e depois em “Recomeçar do zero”. Atenção: a partida, as ações e as conquistas são apagadas para sempre."
+      }
+    ],
+    "privacy_summary": "O Uptime não coleta nenhum dado pessoal e não contém publicidade, compras nem rastreadores."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Em resumo",
+        "blocks": [
+          {
+            "p": "O Uptime não coleta nenhum dado pessoal e não tem servidor. Sua partida fica salva apenas no seu aparelho."
+          }
+        ]
+      },
+      {
+        "h": "Sua partida",
+        "blocks": [
+          {
+            "p": "Seu progresso (créditos, servidores, pesquisas, conquistas, estatísticas) e seus ajustes ficam salvos no seu aparelho. Eles não são enviados para lugar nenhum e o desenvolvedor não tem acesso a eles."
+          }
+        ]
+      },
+      {
+        "h": "Permissões solicitadas",
+        "blocks": [
+          {
+            "p": "Cada permissão só é pedida quando você usa o recurso correspondente, e você pode revogá-la nos Ajustes do seu aparelho."
+          },
+          {
+            "ul": [
+              "<strong>Notificações</strong>: só se você ativar o lembrete de “armazenamento cheio”. Ele é programado no seu aparelho, sem servidor."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Publicidade, compras e rastreamento",
+        "blocks": [
+          {
+            "p": "O Uptime é grátis. Ele não contém publicidade, compras dentro do app, rastreadores nem ferramentas de análise ou de estatísticas de uso."
+          }
+        ]
+      },
+      {
+        "h": "Crianças",
+        "blocks": [
+          {
+            "p": "O app não coleta nenhum dado e é adequado para todas as idades."
+          }
+        ]
+      },
+      {
+        "h": "Alterações",
+        "blocks": [
+          {
+            "p": "Se esta política mudar, a nova versão será publicada nesta página com a data de atualização."
+          }
+        ]
+      },
+      {
+        "h": "Contato",
+        "blocks": [
+          {
+            "p": "Para qualquer dúvida sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

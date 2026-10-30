@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Build your server empire, from the garage to outer space",
+    "contact": "A question, an idea or a bug? Write to me:<br>{email}",
+    "faq": [
+      {
+        "q": "How do I earn credits faster?",
+        "a": "Follow the goal shown at the top of the shop: each one pays a reward. Complete research projects as soon as they appear, and keep tapping the processor to fill the overclock gauge: your output is tripled for a few seconds. Also catch the golden packets that drift across the screen."
+      },
+      {
+        "q": "Why is my output slowing down?",
+        "a": "Your servers are short on power: the gauge under your credits turns red and the edges of the screen flash. Open the Energy tab and buy a power source; the “Best price per watt” label shows the most cost-effective one."
+      },
+      {
+        "q": "What should I do when an incident appears?",
+        "a": "A rack is overheating: tap it several times. A DDoS attack: tap the malicious requests before they reach the processor. A client in a hurry: accept their contract and earn the requested amount in time. A handled incident pays credits; a missed one slows your output for 30 seconds."
+      },
+      {
+        "q": "What does going public do?",
+        "a": "It resets your game in exchange for shares. Each share boosts all your output forever, and you can spend them on the board of directors for permanent upgrades, such as starting capital or auto-buy. The right time: when the Market tab says your output would double."
+      },
+      {
+        "q": "Do my servers keep working when the app is closed?",
+        "a": "Yes, at half speed at first and for up to two hours. Some research projects and the board of directors extend this time and raise the rate. In the game settings (gear icon), you can ask for a reminder when storage is full."
+      },
+      {
+        "q": "Is my game saved?",
+        "a": "Yes, automatically, on your device. It is not synced between devices and is lost if you delete the app."
+      },
+      {
+        "q": "How do I start over?",
+        "a": "Tap the gear icon at the top left, then “Start over”. Careful: your game, shares and achievements are permanently erased."
+      }
+    ],
+    "privacy_summary": "Uptime collects no personal data and contains no ads, no purchases and no trackers."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In short",
+        "blocks": [
+          {
+            "p": "Uptime collects no personal data and has no server. Your game is stored only on your device."
+          }
+        ]
+      },
+      {
+        "h": "Your game",
+        "blocks": [
+          {
+            "p": "Your progress (credits, servers, research, achievements, statistics) and your settings are stored on your device. They are never sent anywhere and the developer has no access to them."
+          }
+        ]
+      },
+      {
+        "h": "Permissions",
+        "blocks": [
+          {
+            "p": "Each permission is only requested when you use the feature that needs it, and you can revoke it in your device's Settings."
+          },
+          {
+            "ul": [
+              "<strong>Notifications</strong>: only if you turn on the “storage full” reminder. It is scheduled on your device, with no server."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Ads, purchases and tracking",
+        "blocks": [
+          {
+            "p": "Uptime is free. It contains no ads, no in-app purchases, no trackers and no analytics or usage statistics tools."
+          }
+        ]
+      },
+      {
+        "h": "Children",
+        "blocks": [
+          {
+            "p": "The app collects no data and is suitable for all ages."
+          }
+        ]
+      },
+      {
+        "h": "Changes",
+        "blocks": [
+          {
+            "p": "If this policy changes, the new version will be published on this page with its update date."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "For any question about this policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

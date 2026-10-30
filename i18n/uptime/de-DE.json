@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Bau dein Server-Imperium auf, von der Garage bis ins All",
+    "contact": "Eine Frage, eine Idee oder ein Bug? Schreib mir:<br>{email}",
+    "faq": [
+      {
+        "q": "Wie verdiene ich schneller Credits?",
+        "a": "Folge dem Ziel oben im Shop: Jedes bringt eine Belohnung. Schließ Forschungen ab, sobald sie erscheinen, und tippe ohne Pause auf den Prozessor, um die Übertaktungsleiste zu füllen: Deine Produktion verdreifacht sich für ein paar Sekunden. Fang auch die goldenen Pakete, die über den Bildschirm fliegen."
+      },
+      {
+        "q": "Warum wird meine Produktion langsamer?",
+        "a": "Deinen Servern fehlt Strom: Die Anzeige unter deinen Credits wird rot und die Bildschirmränder blinken. Öffne den Tab „Energie“ und kauf eine Energiequelle; der Hinweis „Bester Preis pro Watt“ markiert die rentabelste."
+      },
+      {
+        "q": "Was tun bei einer Störung?",
+        "a": "Ein Rack überhitzt: Tippe mehrmals darauf. Ein DDoS-Angriff: Tippe auf die bösartigen Anfragen, bevor sie den Prozessor erreichen. Ein eiliger Kunde: Nimm seinen Auftrag an und verdiene die geforderte Summe rechtzeitig. Eine behobene Störung bringt Credits; eine verpasste bremst deine Produktion 30 Sekunden lang."
+      },
+      {
+        "q": "Wozu dient der Börsengang?",
+        "a": "Er setzt deinen Spielstand im Tausch gegen Aktien zurück. Jede Aktie steigert deine gesamte Produktion für immer, und du kannst sie im Vorstand für dauerhafte Upgrades ausgeben, etwa Startkapital oder Auto-Kauf. Der richtige Zeitpunkt: wenn der Tab „Börse“ anzeigt, dass sich deine Produktion verdoppeln würde."
+      },
+      {
+        "q": "Arbeiten meine Server, wenn die App geschlossen ist?",
+        "a": "Ja, anfangs mit halber Leistung und höchstens zwei Stunden lang. Einige Forschungen und der Vorstand verlängern diese Dauer und verbessern die Ausbeute. In den Einstellungen des Spiels (Zahnrad) kannst du die „Erinnerung bei vollem Speicher“ einschalten."
+      },
+      {
+        "q": "Wird mein Spielstand gespeichert?",
+        "a": "Ja, automatisch, auf deinem Gerät. Er wird nicht zwischen mehreren Geräten synchronisiert und geht verloren, wenn du die App löschst."
+      },
+      {
+        "q": "Wie fange ich von vorn an?",
+        "a": "Tippe oben links auf das Zahnrad und dann auf „Von vorn beginnen“. Achtung: Spielstand, Aktien und Erfolge werden endgültig gelöscht."
+      }
+    ],
+    "privacy_summary": "Uptime erhebt keine personenbezogenen Daten und enthält weder Werbung noch Käufe noch Tracker."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kurz gesagt",
+        "blocks": [
+          {
+            "p": "Uptime erhebt keine personenbezogenen Daten und hat keinen Server. Dein Spielstand wird ausschließlich auf deinem Gerät gespeichert."
+          }
+        ]
+      },
+      {
+        "h": "Dein Spielstand",
+        "blocks": [
+          {
+            "p": "Dein Fortschritt (Credits, Server, Forschung, Erfolge, Statistiken) und deine Einstellungen werden auf deinem Gerät gespeichert. Sie werden nirgendwohin gesendet, und der Entwickler hat keinen Zugriff darauf."
+          }
+        ]
+      },
+      {
+        "h": "Angeforderte Berechtigungen",
+        "blocks": [
+          {
+            "p": "Jede Berechtigung wird erst angefordert, wenn du die entsprechende Funktion nutzt, und du kannst sie in den Einstellungen deines Geräts wieder entziehen."
+          },
+          {
+            "ul": [
+              "<strong>Mitteilungen</strong>: nur wenn du die Erinnerung „Speicher voll“ einschaltest. Sie wird auf deinem Gerät geplant, ohne Server."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Werbung, Käufe und Tracking",
+        "blocks": [
+          {
+            "p": "Uptime ist kostenlos. Es enthält keine Werbung, keine In-App-Käufe, keine Tracker und keine Analyse- oder Nutzungsstatistik-Werkzeuge."
+          }
+        ]
+      },
+      {
+        "h": "Kinder",
+        "blocks": [
+          {
+            "p": "Die App erhebt keine Daten und ist für alle Altersgruppen geeignet."
+          }
+        ]
+      },
+      {
+        "h": "Änderungen",
+        "blocks": [
+          {
+            "p": "Sollte sich diese Erklärung ändern, wird die neue Fassung mit ihrem Aktualisierungsdatum auf dieser Seite veröffentlicht."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Bei Fragen zu dieser Erklärung: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

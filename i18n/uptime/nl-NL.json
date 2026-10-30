@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Bouw je serverimperium, van de garage tot in de ruimte",
+    "contact": "Een vraag, een idee of een bug? Schrijf me:<br>{email}",
+    "faq": [
+      {
+        "q": "Hoe verdien ik sneller credits?",
+        "a": "Volg het doel bovenaan de winkel: elk doel levert een beloning op. Voltooi onderzoeken zodra ze verschijnen en blijf op de processor tikken om de overclockmeter te vullen: je productie wordt dan een paar seconden verdrievoudigd. Vang ook de gouden pakketten die over het scherm zweven."
+      },
+      {
+        "q": "Waarom gaat mijn productie langzamer?",
+        "a": "Je servers hebben te weinig stroom: de meter onder je credits kleurt rood en de randen van het scherm knipperen. Open het tabblad Energie en koop een energiebron; het label ‘Beste prijs per watt’ geeft aan welke het voordeligst is."
+      },
+      {
+        "q": "Wat moet ik doen als er een incident opduikt?",
+        "a": "Een rack raakt oververhit: tik er een paar keer op. Een DDoS-aanval: tik op de kwaadaardige verzoeken voordat ze de processor bereiken. Een haastige klant: accepteer het contract en verdien het gevraagde bedrag op tijd. Een opgelost incident levert credits op; een gemist incident vertraagt je productie 30 seconden lang."
+      },
+      {
+        "q": "Waar is een beursgang goed voor?",
+        "a": "Je spel begint opnieuw bij nul, in ruil voor aandelen. Elk aandeel verhoogt al je productie voor altijd, en je kunt ze bij de raad van bestuur uitgeven aan permanente upgrades, zoals startkapitaal of automatisch kopen. Het juiste moment: als het tabblad Beurs aangeeft dat je productie zou verdubbelen."
+      },
+      {
+        "q": "Werken mijn servers door als de app gesloten is?",
+        "a": "Ja, eerst op halve kracht en hooguit twee uur lang. Sommige onderzoeken en de raad van bestuur verlengen die tijd en verhogen het rendement. In de instellingen van het spel (tandwiel) kun je een herinnering aanzetten voor als de opslag vol is."
+      },
+      {
+        "q": "Wordt mijn spel bewaard?",
+        "a": "Ja, automatisch, op je apparaat. Het wordt niet gesynchroniseerd tussen apparaten en verdwijnt als je de app verwijdert."
+      },
+      {
+        "q": "Hoe begin ik helemaal opnieuw?",
+        "a": "Tik op het tandwiel linksboven en daarna op ‘Opnieuw beginnen’. Let op: je spel, aandelen en prestaties worden definitief gewist."
+      }
+    ],
+    "privacy_summary": "Uptime verzamelt geen persoonsgegevens en bevat geen reclame, aankopen of trackers."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In het kort",
+        "blocks": [
+          {
+            "p": "Uptime verzamelt geen persoonsgegevens en heeft geen server. Je spel wordt alleen op je apparaat opgeslagen."
+          }
+        ]
+      },
+      {
+        "h": "Je spel",
+        "blocks": [
+          {
+            "p": "Je voortgang (credits, servers, onderzoek, prestaties, statistieken) en je instellingen worden op je apparaat opgeslagen. Ze worden nergens naartoe gestuurd en de ontwikkelaar heeft er geen toegang toe."
+          }
+        ]
+      },
+      {
+        "h": "Gevraagde toestemmingen",
+        "blocks": [
+          {
+            "p": "Elke toestemming wordt pas gevraagd op het moment dat je de betreffende functie gebruikt, en je kunt die intrekken in de Instellingen van je apparaat."
+          },
+          {
+            "ul": [
+              "<strong>Meldingen</strong>: alleen als je de herinnering ‘opslag vol’ aanzet. Die wordt op je apparaat ingepland, zonder server."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Reclame, aankopen en tracking",
+        "blocks": [
+          {
+            "p": "Uptime is gratis. Het bevat geen reclame, geen in-app-aankopen, geen trackers en geen tools voor analyse of gebruiksstatistieken."
+          }
+        ]
+      },
+      {
+        "h": "Kinderen",
+        "blocks": [
+          {
+            "p": "De app verzamelt geen gegevens en is geschikt voor alle leeftijden."
+          }
+        ]
+      },
+      {
+        "h": "Wijzigingen",
+        "blocks": [
+          {
+            "p": "Als dit beleid verandert, wordt de nieuwe versie op deze pagina gepubliceerd met de datum van de wijziging."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Voor vragen over dit beleid: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

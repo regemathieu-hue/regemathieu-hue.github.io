@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Építsd fel a szerverbirodalmadat a garázstól egészen a világűrig",
+    "contact": "Kérdésed, ötleted van, vagy hibát találtál? Írj nekem:<br>{email}",
+    "faq": [
+      {
+        "q": "Hogyan kereshetek gyorsabban krediteket?",
+        "a": "Kövesd a bolt tetején látható célt: mindegyikért jutalom jár. Fejezd be a kutatásokat, amint megjelennek, és koppints megállás nélkül a processzorra, hogy megtöltsd a túlhajtásmérőt: a termelésed néhány másodpercre megháromszorozódik. Kapd el az aranycsomagokat is, amelyek átsuhannak a képernyőn."
+      },
+      {
+        "q": "Miért lassul le a termelésem?",
+        "a": "A szervereidnek nincs elég áramuk: a kreditjeid alatti mérő pirosra vált, és a képernyő szélei villognak. Nyisd meg az Energia lapot, és vegyél egy energiaforrást; a „Legjobb wattonkénti ár” címke mutatja a legkifizetődőbbet."
+      },
+      {
+        "q": "Mit tegyek, ha incidens történik?",
+        "a": "Túlmelegszik egy rackszekrény: koppints rá többször. DDoS-támadás: koppints a kártékony kérésekre, mielőtt elérik a processzort. Sietős ügyfél: fogadd el a szerződését, és keresd meg időben a kért összeget. Az elhárított incidensért kredit jár; ha elbukod, 30 másodpercre lelassul a termelésed."
+      },
+      {
+        "q": "Mire jó a tőzsdére lépés?",
+        "a": "Részvényekért cserébe nulláról újraindítja a játékot. Minden részvény örökre növeli a teljes termelésedet, és az igazgatótanácsban állandó fejlesztésekre költheted őket, például induló tőkére vagy automatikus vásárlásra. A jó pillanat: amikor a Tőzsde lap jelzi, hogy a termelésed megduplázódna."
+      },
+      {
+        "q": "Dolgoznak a szervereim, amikor az app be van zárva?",
+        "a": "Igen, eleinte fél gőzzel és legfeljebb két órán át. Néhány kutatás és az igazgatótanács meghosszabbítja ezt az időt, és javítja a hatékonyságot. A játék beállításaiban (fogaskerék) kérhetsz emlékeztetőt, amikor megtelt a tároló."
+      },
+      {
+        "q": "Mentődik a játékállásom?",
+        "a": "Igen, automatikusan, az eszközödön. Nem szinkronizálódik több eszköz között, és elvész, ha törlöd az appot."
+      },
+      {
+        "q": "Hogyan kezdhetem újra a nulláról?",
+        "a": "Koppints a bal felső sarokban lévő fogaskerékre, majd az „Újrakezdés a nulláról” lehetőségre. Figyelem: a játékállás, a részvények és a teljesítmények véglegesen törlődnek."
+      }
+    ],
+    "privacy_summary": "Az Uptime semmilyen személyes adatot nem gyűjt, és nincs benne reklám, vásárlás vagy nyomkövető."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Röviden",
+        "blocks": [
+          {
+            "p": "Az Uptime semmilyen személyes adatot nem gyűjt, és nincs saját szervere. A játékállásod kizárólag az eszközödön tárolódik."
+          }
+        ]
+      },
+      {
+        "h": "A játékállásod",
+        "blocks": [
+          {
+            "p": "A haladásod (kreditek, szerverek, kutatások, teljesítmények, statisztikák) és a beállításaid az eszközödön tárolódnak. Az app sehová nem küldi el őket, és a fejlesztő sem fér hozzájuk."
+          }
+        ]
+      },
+      {
+        "h": "Kért engedélyek",
+        "blocks": [
+          {
+            "p": "Minden engedélyt csak akkor kér az app, amikor az adott funkciót használod, és az eszközöd Beállításaiban bármikor visszavonhatod."
+          },
+          {
+            "ul": [
+              "<strong>Értesítések</strong>: csak ha bekapcsolod a „Megtelt a tároló” emlékeztetőt. Ezt az eszközöd ütemezi, szerver nélkül."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Reklám, vásárlások és követés",
+        "blocks": [
+          {
+            "p": "Az Uptime ingyenes. Nincs benne reklám, alkalmazáson belüli vásárlás, nyomkövető, sem elemző vagy használati statisztikát gyűjtő eszköz."
+          }
+        ]
+      },
+      {
+        "h": "Gyerekek",
+        "blocks": [
+          {
+            "p": "Az alkalmazás semmilyen adatot nem gyűjt, és minden korosztály számára alkalmas."
+          }
+        ]
+      },
+      {
+        "h": "Változások",
+        "blocks": [
+          {
+            "p": "Ha ez a szabályzat megváltozik, az új változat ezen az oldalon jelenik meg, a frissítés dátumával."
+          }
+        ]
+      },
+      {
+        "h": "Kapcsolat",
+        "blocks": [
+          {
+            "p": "Ha kérdésed van ezzel a szabályzattal kapcsolatban: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

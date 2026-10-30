@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Bygg ditt eget serverimperium, fra garasjen til verdensrommet",
+    "contact": "Et spørsmål, en idé eller en feil? Skriv til meg:<br>{email}",
+    "faq": [
+      {
+        "q": "Hvordan tjener jeg kreditter raskere?",
+        "a": "Følg målet som vises øverst i butikken: hvert mål gir en belønning. Fullfør forskningsprosjektene så snart de dukker opp, og trykk på prosessoren uten stans for å fylle overklokkingsmåleren: produksjonen din tredobles i noen sekunder. Fang også de gylne pakkene som flyr over skjermen."
+      },
+      {
+        "q": "Hvorfor går produksjonen min saktere?",
+        "a": "Serverne dine mangler strøm: måleren under kredittene blir rød og kantene på skjermen blinker. Åpne fanen Energi og kjøp en energikilde; merkelappen «Best pris per watt» viser den mest lønnsomme."
+      },
+      {
+        "q": "Hva gjør jeg når en hendelse dukker opp?",
+        "a": "Et rackskap blir overopphetet: trykk på det flere ganger. Et DDoS-angrep: trykk på de ondsinnede forespørslene før de når prosessoren. En kunde med hastverk: godta kontrakten og tjen beløpet kunden ber om i tide. En løst hendelse gir kreditter; en hendelse du ikke rekker, bremser produksjonen din i 30 sekunder."
+      },
+      {
+        "q": "Hva er vitsen med å gå på børs?",
+        "a": "Spillet nullstilles i bytte mot aksjer. Hver aksje øker hele produksjonen din for alltid, og du kan bruke dem i styret på permanente oppgraderinger, som startkapital eller autokjøp. Riktig tidspunkt: når fanen Børs viser at produksjonen din ville blitt doblet."
+      },
+      {
+        "q": "Jobber serverne mine når appen er lukket?",
+        "a": "Ja, på halv fart i starten og i høyst to timer. Enkelte forskningsprosjekter og styret forlenger denne tiden og øker ytelsen. I spillets innstillinger (tannhjulet) kan du be om en påminnelse når lagringen er full."
+      },
+      {
+        "q": "Blir spillet mitt lagret?",
+        "a": "Ja, automatisk, på enheten din. Det synkroniseres ikke mellom flere enheter og forsvinner hvis du sletter appen."
+      },
+      {
+        "q": "Hvordan starter jeg på nytt?",
+        "a": "Trykk på tannhjulet øverst til venstre, og deretter på «Start på nytt». Obs: spillet, aksjene og prestasjonene slettes for godt."
+      }
+    ],
+    "privacy_summary": "Uptime samler ikke inn noen personopplysninger og inneholder verken reklame, kjøp eller sporere."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort fortalt",
+        "blocks": [
+          {
+            "p": "Uptime samler ikke inn noen personopplysninger og har ingen server. Spillet ditt lagres bare på enheten din."
+          }
+        ]
+      },
+      {
+        "h": "Spillet ditt",
+        "blocks": [
+          {
+            "p": "Fremgangen din (kreditter, servere, forskning, prestasjoner, statistikk) og innstillingene dine lagres på enheten din. De sendes ingen steder, og utvikleren har ikke tilgang til dem."
+          }
+        ]
+      },
+      {
+        "h": "Tillatelser appen ber om",
+        "blocks": [
+          {
+            "p": "Appen ber bare om en tillatelse når du bruker funksjonen som trenger den, og du kan trekke den tilbake i Innstillinger på enheten din."
+          },
+          {
+            "ul": [
+              "<strong>Varslinger</strong>: bare hvis du slår på påminnelsen «Lagringen er full». Den planlegges på enheten din, uten server."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Reklame, kjøp og sporing",
+        "blocks": [
+          {
+            "p": "Uptime er gratis. Spillet inneholder ingen reklame, ingen kjøp i appen, ingen sporere og ingen verktøy for analyse eller bruksstatistikk."
+          }
+        ]
+      },
+      {
+        "h": "Barn",
+        "blocks": [
+          {
+            "p": "Appen samler ikke inn noen opplysninger og passer for alle aldre."
+          }
+        ]
+      },
+      {
+        "h": "Endringer",
+        "blocks": [
+          {
+            "p": "Hvis denne personvernerklæringen endres, blir den nye versjonen publisert på denne siden sammen med datoen for oppdateringen."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Spørsmål om denne personvernerklæringen? Skriv til {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

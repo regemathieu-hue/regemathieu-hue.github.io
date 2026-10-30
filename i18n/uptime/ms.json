@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Bina empayar pelayanmu, dari garaj hingga ke angkasa lepas",
+    "contact": "Ada soalan, idea atau pepijat? Tulis kepada saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Bagaimana cara mengumpul kredit dengan lebih pantas?",
+        "a": "Ikut matlamat yang dipaparkan di bahagian atas kedai: setiap satu memberi ganjaran. Siapkan kajian sebaik sahaja ia muncul, dan ketik pemproses tanpa henti untuk memenuhkan meter overclock: pengeluaranmu didarab tiga selama beberapa saat. Tangkap juga paket emas yang melintasi skrin."
+      },
+      {
+        "q": "Kenapa pengeluaranku menjadi perlahan?",
+        "a": "Pelayanmu kekurangan kuasa: meter di bawah kreditmu bertukar merah dan tepi skrin berkelip. Buka tab Tenaga dan beli satu sumber tenaga; label “Harga sewatt terbaik” menunjukkan pilihan yang paling menguntungkan."
+      },
+      {
+        "q": "Apa yang perlu dibuat apabila insiden berlaku?",
+        "a": "Rak terlampau panas: ketik rak itu beberapa kali. Serangan DDoS: ketik permintaan jahat sebelum ia sampai ke pemproses. Pelanggan tergesa-gesa: terima kontraknya dan kumpul jumlah yang diminta tepat pada masanya. Insiden yang diselesaikan memberi kredit; jika gagal, pengeluaranmu menjadi perlahan selama 30 saat."
+      },
+      {
+        "q": "Apa gunanya masuk bursa?",
+        "a": "Ia memulakan semula permainan dari kosong sebagai pertukaran untuk saham. Setiap saham meningkatkan seluruh pengeluaranmu selama-lamanya, dan kamu boleh membelanjakannya dalam lembaga pengarah untuk naik taraf kekal, seperti modal permulaan atau beli automatik. Masa yang sesuai: apabila tab Bursa menunjukkan bahawa pengeluaranmu akan berganda."
+      },
+      {
+        "q": "Adakah pelayanku terus bekerja semasa apl ditutup?",
+        "a": "Ya, dengan separuh kelajuan pada mulanya dan untuk tempoh paling lama dua jam. Sesetengah kajian dan lembaga pengarah memanjangkan tempoh ini dan meningkatkan kecekapannya. Dalam tetapan permainan (ikon gear), kamu boleh meminta peringatan apabila storan penuh."
+      },
+      {
+        "q": "Adakah permainanku disimpan?",
+        "a": "Ya, secara automatik, pada perantimu. Ia tidak disegerakkan antara beberapa peranti dan akan hilang jika kamu memadam apl."
+      },
+      {
+        "q": "Bagaimana cara bermula semula dari kosong?",
+        "a": "Ketik ikon gear di bahagian atas sebelah kiri, kemudian “Mula semula”. Awas: permainan, saham dan pencapaianmu akan dipadam secara kekal."
+      }
+    ],
+    "privacy_summary": "Uptime tidak mengumpul sebarang data peribadi dan tidak mengandungi iklan, pembelian atau penjejak."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasnya",
+        "blocks": [
+          {
+            "p": "Uptime tidak mengumpul sebarang data peribadi dan tidak mempunyai pelayan. Permainanmu disimpan hanya pada perantimu."
+          }
+        ]
+      },
+      {
+        "h": "Permainanmu",
+        "blocks": [
+          {
+            "p": "Kemajuanmu (kredit, pelayan, kajian, pencapaian, statistik) dan tetapanmu disimpan pada perantimu. Ia tidak dihantar ke mana-mana dan pembangun tidak boleh mengaksesnya."
+          }
+        ]
+      },
+      {
+        "h": "Kebenaran yang diminta",
+        "blocks": [
+          {
+            "p": "Setiap kebenaran hanya diminta apabila kamu menggunakan ciri berkenaan, dan kamu boleh menariknya balik dalam Tetapan perantimu."
+          },
+          {
+            "ul": [
+              "<strong>Pemberitahuan</strong>: hanya jika kamu mengaktifkan peringatan “storan penuh”. Ia dijadualkan pada perantimu, tanpa pelayan."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Iklan, pembelian dan penjejakan",
+        "blocks": [
+          {
+            "p": "Uptime percuma. Ia tidak mengandungi sebarang iklan, pembelian dalam apl, penjejak atau alat analitik atau statistik penggunaan."
+          }
+        ]
+      },
+      {
+        "h": "Kanak-kanak",
+        "blocks": [
+          {
+            "p": "Aplikasi ini tidak mengumpul sebarang data dan sesuai untuk semua peringkat umur."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika dasar ini berubah, versi baharu akan diterbitkan di halaman ini bersama tarikh kemas kininya."
+          }
+        ]
+      },
+      {
+        "h": "Hubungi",
+        "blocks": [
+          {
+            "p": "Untuk sebarang soalan tentang dasar ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

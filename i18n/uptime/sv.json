@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Bygg ditt serverimperium, från garaget ut i rymden",
+    "contact": "En fråga, en idé eller en bugg? Skriv till mig:<br>{email}",
+    "faq": [
+      {
+        "q": "Hur tjänar jag krediter snabbare?",
+        "a": "Följ målet som visas högst upp i butiken: varje mål ger en belöning. Slutför forskning så fort den dyker upp, och fortsätt trycka på processorn för att fylla överklockningsmätaren: din produktion tredubblas i några sekunder. Fånga också guldpaketen som svävar över skärmen."
+      },
+      {
+        "q": "Varför går min produktion långsammare?",
+        "a": "Dina servrar har för lite ström: mätaren under dina krediter blir röd och skärmens kanter blinkar. Öppna fliken Energi och köp en energikälla; etiketten ”Bästa pris per watt” visar den mest lönsamma."
+      },
+      {
+        "q": "Vad gör jag när en incident dyker upp?",
+        "a": "Ett rack överhettas: tryck på det flera gånger. En DDoS-attack: tryck på de skadliga förfrågningarna innan de når processorn. En stressad kund: acceptera kontraktet och tjäna den begärda summan i tid. En löst incident ger krediter; en missad saktar ner din produktion i 30 sekunder."
+      },
+      {
+        "q": "Vad är börsnoteringen till för?",
+        "a": "Den nollställer spelet i utbyte mot aktier. Varje aktie ökar all din produktion för alltid, och du kan spendera dem i styrelsen på permanenta uppgraderingar, till exempel startkapital eller autoköp. Rätt läge: när fliken Börsen visar att din produktion skulle fördubblas."
+      },
+      {
+        "q": "Arbetar mina servrar när appen är stängd?",
+        "a": "Ja, på halvfart i början och i högst två timmar. Viss forskning och styrelsen förlänger tiden och höjer takten. I spelets inställningar (kugghjulet) kan du be om en påminnelse när lagringen är full."
+      },
+      {
+        "q": "Sparas mitt spel?",
+        "a": "Ja, automatiskt, på din enhet. Det synkas inte mellan flera enheter och försvinner om du raderar appen."
+      },
+      {
+        "q": "Hur börjar jag om från noll?",
+        "a": "Tryck på kugghjulet uppe till vänster och sedan på ”Börja om från noll”. Obs! Spelet, aktierna och prestationerna raderas för gott."
+      }
+    ],
+    "privacy_summary": "Uptime samlar inte in några personuppgifter och innehåller varken reklam, köp eller spårare."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "I korthet",
+        "blocks": [
+          {
+            "p": "Uptime samlar inte in några personuppgifter och har ingen server. Ditt spel sparas bara på din enhet."
+          }
+        ]
+      },
+      {
+        "h": "Ditt spel",
+        "blocks": [
+          {
+            "p": "Dina framsteg (krediter, servrar, forskning, prestationer, statistik) och dina inställningar sparas på din enhet. De skickas ingenstans och utvecklaren har inte tillgång till dem."
+          }
+        ]
+      },
+      {
+        "h": "Begärda behörigheter",
+        "blocks": [
+          {
+            "p": "Varje behörighet begärs först när du använder den aktuella funktionen, och du kan återkalla den i Inställningar på din enhet."
+          },
+          {
+            "ul": [
+              "<strong>Notiser</strong>: bara om du slår på påminnelsen ”lagringen är full”. Den schemaläggs på din enhet, utan server."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Reklam, köp och spårning",
+        "blocks": [
+          {
+            "p": "Uptime är gratis. Appen innehåller ingen reklam, inga köp i appen, inga spårare och inga verktyg för analys eller användningsstatistik."
+          }
+        ]
+      },
+      {
+        "h": "Barn",
+        "blocks": [
+          {
+            "p": "Appen samlar inte in några uppgifter och passar alla åldrar."
+          }
+        ]
+      },
+      {
+        "h": "Ändringar",
+        "blocks": [
+          {
+            "p": "Om den här policyn ändras publiceras den nya versionen på den här sidan med datum för uppdateringen."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Frågor om den här policyn: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

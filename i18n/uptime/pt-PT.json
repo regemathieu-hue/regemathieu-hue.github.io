@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Constrói o teu império de servidores, da garagem até ao espaço",
+    "contact": "Uma questão, uma ideia ou um erro? Escreve-me:<br>{email}",
+    "faq": [
+      {
+        "q": "Como ganho créditos mais depressa?",
+        "a": "Segue o objetivo mostrado no topo da loja: cada um dá uma recompensa. Conclui as pesquisas assim que aparecem e toca no processador sem parar para encher a barra de overclock: a tua produção fica multiplicada por três durante alguns segundos. Apanha também os pacotes dourados que atravessam o ecrã."
+      },
+      {
+        "q": "Porque é que a minha produção abranda?",
+        "a": "Os teus servidores estão sem eletricidade suficiente: a barra por baixo dos teus créditos fica vermelha e as margens do ecrã piscam. Abre o separador Energia e compra uma fonte; a etiqueta «Melhor preço por watt» indica a mais rentável."
+      },
+      {
+        "q": "O que faço quando aparece um incidente?",
+        "a": "Um rack em sobreaquecimento: toca nele várias vezes. Um ataque DDoS: toca nos pedidos maliciosos antes que cheguem ao processador. Um cliente com pressa: aceita o contrato e ganha a quantia pedida a tempo. Um incidente resolvido dá créditos; se falhares, abranda a tua produção durante 30 segundos."
+      },
+      {
+        "q": "Para que serve entrar em bolsa?",
+        "a": "Põe a partida a zero em troca de ações. Cada ação aumenta toda a tua produção para sempre, e podes gastá-las no conselho de administração em melhorias permanentes, como o capital inicial ou a compra automática. O momento certo: quando o separador Bolsa indicar que a tua produção duplicaria."
+      },
+      {
+        "q": "Os meus servidores trabalham quando a app está fechada?",
+        "a": "Sim, a meio gás no início e durante duas horas no máximo. Algumas pesquisas e o conselho de administração aumentam esse tempo e melhoram a eficiência. Nas definições do jogo (roda dentada), podes pedir um aviso quando o armazenamento estiver cheio."
+      },
+      {
+        "q": "A minha partida fica guardada?",
+        "a": "Sim, automaticamente, no teu dispositivo. Não é sincronizada entre vários dispositivos e desaparece se apagares a app."
+      },
+      {
+        "q": "Como recomeço do zero?",
+        "a": "Toca na roda dentada no canto superior esquerdo e depois em «Recomeçar do zero». Atenção: a partida, as ações e as conquistas são apagadas definitivamente."
+      }
+    ],
+    "privacy_summary": "O Uptime não recolhe quaisquer dados pessoais e não contém publicidade, compras nem rastreadores."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Em resumo",
+        "blocks": [
+          {
+            "p": "O Uptime não recolhe quaisquer dados pessoais e não tem servidor. A tua partida fica guardada apenas no teu dispositivo."
+          }
+        ]
+      },
+      {
+        "h": "A tua partida",
+        "blocks": [
+          {
+            "p": "O teu progresso (créditos, servidores, pesquisas, conquistas, estatísticas) e as tuas definições ficam guardados no teu dispositivo. Não são enviados para lado nenhum e o programador não tem acesso a eles."
+          }
+        ]
+      },
+      {
+        "h": "Permissões pedidas",
+        "blocks": [
+          {
+            "p": "Cada permissão só é pedida no momento em que utilizas a função correspondente, e podes retirá-la nas Definições do teu dispositivo."
+          },
+          {
+            "ul": [
+              "<strong>Notificações</strong>: apenas se ativares o aviso de «armazenamento cheio». É programado no teu dispositivo, sem servidor."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Publicidade, compras e rastreio",
+        "blocks": [
+          {
+            "p": "O Uptime é gratuito. Não contém publicidade, compras integradas, rastreadores nem ferramentas de análise ou de estatísticas de utilização."
+          }
+        ]
+      },
+      {
+        "h": "Crianças",
+        "blocks": [
+          {
+            "p": "A app não recolhe quaisquer dados e é adequada a todas as idades."
+          }
+        ]
+      },
+      {
+        "h": "Alterações",
+        "blocks": [
+          {
+            "p": "Se esta política for alterada, a nova versão será publicada nesta página com a respetiva data de atualização."
+          }
+        ]
+      },
+      {
+        "h": "Contacto",
+        "blocks": [
+          {
+            "p": "Para qualquer questão sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

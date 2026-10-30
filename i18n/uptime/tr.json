@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Garajdan uzaya kadar kendi sunucu imparatorluğunu kur",
+    "contact": "Bir soru, bir fikir ya da bir hata mı var? Bana yaz:<br>{email}",
+    "faq": [
+      {
+        "q": "Daha hızlı nasıl kredi kazanırım?",
+        "a": "Mağazanın en üstünde gösterilen hedefi takip et: her hedef bir ödül kazandırır. Araştırmaları belirir belirmez tamamla ve hız aşırtma göstergesini doldurmak için işlemciye durmadan dokun: üretimin birkaç saniyeliğine üç katına çıkar. Ekranda süzülen altın paketleri de yakala."
+      },
+      {
+        "q": "Üretimim neden yavaşlıyor?",
+        "a": "Sunucularının elektriği yetmiyor: kredilerinin altındaki gösterge kırmızıya döner ve ekranın kenarları yanıp söner. Enerji sekmesini aç ve bir enerji kaynağı satın al; “Vat başına en iyi fiyat” etiketi en kârlı olanı gösterir."
+      },
+      {
+        "q": "Bir kriz çıkınca ne yapmalıyım?",
+        "a": "Bir kabin aşırı ısınıyorsa: ona birkaç kez dokun. DDoS saldırısında: kötü niyetli istekler işlemciye ulaşmadan onlara dokun. Aceleci bir müşteri gelirse: sözleşmesini kabul et ve istenen miktarı zamanında kazan. Çözülen bir kriz kredi kazandırır; kaçırılan bir kriz ise üretimini 30 saniye boyunca yavaşlatır."
+      },
+      {
+        "q": "Borsaya girmek ne işe yarar?",
+        "a": "Oyunu hisse karşılığında sıfırlar. Her hisse tüm üretimini kalıcı olarak artırır; hisselerini yönetim kurulunda başlangıç sermayesi veya otomatik alım gibi kalıcı geliştirmelere de harcayabilirsin. Doğru zaman: Borsa sekmesi üretiminin iki katına çıkacağını gösterdiğinde."
+      },
+      {
+        "q": "Uygulama kapalıyken sunucularım çalışmaya devam eder mi?",
+        "a": "Evet, başlangıçta yarı hızda ve en fazla iki saat boyunca. Bazı araştırmalar ve yönetim kurulu bu süreyi uzatır ve verimi artırır. Oyunun ayarlarında (dişli simgesi), depolama dolunca hatırlatma isteyebilirsin."
+      },
+      {
+        "q": "Oyunum kaydediliyor mu?",
+        "a": "Evet, otomatik olarak ve aygıtında. Birden fazla aygıt arasında eşzamanlanmaz ve uygulamayı silersen kaybolur."
+      },
+      {
+        "q": "Sıfırdan nasıl başlarım?",
+        "a": "Sol üstteki dişli simgesine, ardından “Sıfırdan başla” seçeneğine dokun. Dikkat: oyunun, hisselerin ve başarımların kalıcı olarak silinir."
+      }
+    ],
+    "privacy_summary": "Uptime hiçbir kişisel veri toplamaz; reklam, satın alma veya izleyici içermez."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Özetle",
+        "blocks": [
+          {
+            "p": "Uptime hiçbir kişisel veri toplamaz ve bir sunucusu yoktur. Oyunun yalnızca aygıtında kaydedilir."
+          }
+        ]
+      },
+      {
+        "h": "Oyunun",
+        "blocks": [
+          {
+            "p": "İlerlemen (krediler, sunucular, araştırmalar, başarımlar, istatistikler) ve ayarların aygıtında kaydedilir. Hiçbir yere gönderilmez ve geliştiricinin bunlara erişimi yoktur."
+          }
+        ]
+      },
+      {
+        "h": "İstenen izinler",
+        "blocks": [
+          {
+            "p": "Her izin yalnızca ilgili özelliği kullandığın anda istenir ve aygıtının Ayarlar bölümünden geri alabilirsin."
+          },
+          {
+            "ul": [
+              "<strong>Bildirimler</strong>: yalnızca “depolama dolu” hatırlatmasını açarsan. Hatırlatma, sunucu kullanılmadan aygıtında planlanır."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Reklam, satın alma ve izleme",
+        "blocks": [
+          {
+            "p": "Uptime ücretsizdir. Hiçbir reklam, uygulama içi satın alma, izleyici veya analiz ya da kullanım istatistiği aracı içermez."
+          }
+        ]
+      },
+      {
+        "h": "Çocuklar",
+        "blocks": [
+          {
+            "p": "Uygulama hiçbir veri toplamaz ve her yaşa uygundur."
+          }
+        ]
+      },
+      {
+        "h": "Değişiklikler",
+        "blocks": [
+          {
+            "p": "Bu politika değişirse yeni sürümü, güncelleme tarihiyle birlikte bu sayfada yayımlanacaktır."
+          }
+        ]
+      },
+      {
+        "h": "İletişim",
+        "blocks": [
+          {
+            "p": "Bu politikayla ilgili her türlü soru için: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

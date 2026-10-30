@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Xây dựng đế chế máy chủ của bạn, từ gara đến tận vũ trụ",
+    "contact": "Có câu hỏi, ý tưởng hay lỗi? Hãy viết cho tôi:<br>{email}",
+    "faq": [
+      {
+        "q": "Làm sao để kiếm tín dụng nhanh hơn?",
+        "a": "Hãy làm theo mục tiêu hiển thị ở đầu cửa hàng: mỗi mục tiêu đều có phần thưởng. Hoàn thành nghiên cứu ngay khi chúng xuất hiện, và chạm liên tục vào CPU để làm đầy thanh ép xung: sản lượng của bạn tăng gấp ba trong vài giây. Hãy bắt cả những gói tin vàng bay ngang qua màn hình."
+      },
+      {
+        "q": "Vì sao sản lượng của tôi bị chậm lại?",
+        "a": "Máy chủ của bạn đang thiếu điện: thanh đo bên dưới số tín dụng chuyển sang màu đỏ và các cạnh màn hình nhấp nháy. Mở tab Năng lượng và mua một nguồn điện; nhãn “Giá mỗi watt tốt nhất” cho biết nguồn nào đáng tiền nhất."
+      },
+      {
+        "q": "Nên làm gì khi có sự cố?",
+        "a": "Một tủ rack quá nhiệt: hãy chạm vào nó nhiều lần. Một cuộc tấn công DDoS: chạm vào các yêu cầu độc hại trước khi chúng tới được CPU. Một khách hàng đang vội: nhận hợp đồng và kiếm đủ số tiền yêu cầu đúng hạn. Sự cố được xử lý sẽ mang lại tín dụng; nếu bỏ lỡ, sản lượng của bạn bị chậm lại trong 30 giây."
+      },
+      {
+        "q": "Lên sàn để làm gì?",
+        "a": "Lên sàn đưa ván chơi về con số 0 để đổi lấy cổ phiếu. Mỗi cổ phiếu tăng toàn bộ sản lượng của bạn mãi mãi, và bạn có thể dùng chúng trong hội đồng quản trị để mua nâng cấp vĩnh viễn, như vốn khởi đầu hay tự động mua. Thời điểm tốt: khi tab Chứng khoán cho biết sản lượng của bạn sẽ tăng gấp đôi."
+      },
+      {
+        "q": "Máy chủ có tiếp tục chạy khi ứng dụng đã đóng không?",
+        "a": "Có, lúc đầu chạy ở một nửa tốc độ và tối đa trong hai giờ. Một số nghiên cứu và hội đồng quản trị giúp kéo dài thời gian này và nâng hiệu suất. Trong phần cài đặt của trò chơi (biểu tượng bánh răng), bạn có thể bật lời nhắc khi bộ lưu trữ đầy."
+      },
+      {
+        "q": "Ván chơi của tôi có được lưu không?",
+        "a": "Có, tự động, trên thiết bị của bạn. Ván chơi không được đồng bộ giữa nhiều thiết bị và sẽ mất nếu bạn xóa ứng dụng."
+      },
+      {
+        "q": "Làm sao để chơi lại từ đầu?",
+        "a": "Chạm vào biểu tượng bánh răng ở góc trên bên trái, rồi chọn “Chơi lại từ đầu”. Lưu ý: ván chơi, cổ phiếu và thành tựu sẽ bị xóa vĩnh viễn."
+      }
+    ],
+    "privacy_summary": "Uptime không thu thập bất kỳ dữ liệu cá nhân nào và không có quảng cáo, mua hàng hay trình theo dõi."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Tóm tắt",
+        "blocks": [
+          {
+            "p": "Uptime không thu thập bất kỳ dữ liệu cá nhân nào và không có máy chủ riêng. Ván chơi của bạn chỉ được lưu trên thiết bị của bạn."
+          }
+        ]
+      },
+      {
+        "h": "Ván chơi của bạn",
+        "blocks": [
+          {
+            "p": "Tiến trình của bạn (tín dụng, máy chủ, nghiên cứu, thành tựu, thống kê) và cài đặt được lưu trên thiết bị của bạn. Chúng không được gửi đi đâu cả và nhà phát triển không thể truy cập."
+          }
+        ]
+      },
+      {
+        "h": "Các quyền được yêu cầu",
+        "blocks": [
+          {
+            "p": "Mỗi quyền chỉ được yêu cầu khi bạn dùng đến tính năng liên quan, và bạn có thể thu hồi quyền đó trong Cài đặt của thiết bị."
+          },
+          {
+            "ul": [
+              "<strong>Thông báo</strong>: chỉ khi bạn bật lời nhắc “bộ lưu trữ đầy”. Lời nhắc được lên lịch ngay trên thiết bị của bạn, không qua máy chủ nào."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Quảng cáo, mua hàng và theo dõi",
+        "blocks": [
+          {
+            "p": "Uptime miễn phí. Ứng dụng không có quảng cáo, không có mua hàng trong ứng dụng, không có trình theo dõi và không có công cụ phân tích hay thống kê sử dụng nào."
+          }
+        ]
+      },
+      {
+        "h": "Trẻ em",
+        "blocks": [
+          {
+            "p": "Ứng dụng không thu thập dữ liệu nào và phù hợp với mọi lứa tuổi."
+          }
+        ]
+      },
+      {
+        "h": "Thay đổi",
+        "blocks": [
+          {
+            "p": "Nếu chính sách này thay đổi, phiên bản mới sẽ được đăng trên trang này kèm ngày cập nhật."
+          }
+        ]
+      },
+      {
+        "h": "Liên hệ",
+        "blocks": [
+          {
+            "p": "Mọi câu hỏi về chính sách này: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

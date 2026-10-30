@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Zbuduj swoje imperium serwerów, od garażu aż po kosmos",
+    "contact": "Pytanie, pomysł albo błąd? Napisz do mnie:<br>{email}",
+    "faq": [
+      {
+        "q": "Jak szybciej zarabiać kredyty?",
+        "a": "Realizuj cel wyświetlany na górze sklepu: każdy daje nagrodę. Kończ badania, gdy tylko się pojawią, i stukaj w procesor bez przerwy, żeby napełnić wskaźnik podkręcania: twoja produkcja rośnie trzykrotnie na kilka sekund. Łap też złote pakiety, które przelatują przez ekran."
+      },
+      {
+        "q": "Dlaczego moja produkcja zwalnia?",
+        "a": "Twoim serwerom brakuje prądu: wskaźnik pod kredytami robi się czerwony, a krawędzie ekranu migają. Otwórz kartę Energia i kup źródło zasilania; etykieta „Najlepsza cena za wat” wskazuje najbardziej opłacalne."
+      },
+      {
+        "q": "Co zrobić, gdy pojawi się incydent?",
+        "a": "Szafa się przegrzewa: stuknij w nią kilka razy. Atak DDoS: stuknij w złośliwe żądania, zanim dotrą do procesora. Niecierpliwy klient: przyjmij jego kontrakt i zarób żądaną kwotę na czas. Opanowany incydent przynosi kredyty; nieopanowany spowalnia twoją produkcję na 30 sekund."
+      },
+      {
+        "q": "Po co wchodzić na giełdę?",
+        "a": "Wejście na giełdę zeruje rozgrywkę w zamian za akcje. Każda akcja na zawsze zwiększa całą twoją produkcję, a w zarządzie możesz wydawać je na stałe ulepszenia, takie jak kapitał startowy czy automatyczny zakup. Dobry moment: gdy karta Giełda pokazuje, że twoja produkcja by się podwoiła."
+      },
+      {
+        "q": "Czy moje serwery pracują, gdy aplikacja jest zamknięta?",
+        "a": "Tak, na początku na pół gwizdka i najwyżej przez dwie godziny. Niektóre badania i zarząd wydłużają ten czas i poprawiają wydajność. W ustawieniach gry (ikona zębatki) możesz włączyć przypomnienie, gdy dyski się zapełnią."
+      },
+      {
+        "q": "Czy moja gra jest zapisywana?",
+        "a": "Tak, automatycznie, na twoim urządzeniu. Nie jest synchronizowana między urządzeniami i zniknie, jeśli usuniesz aplikację."
+      },
+      {
+        "q": "Jak zacząć od zera?",
+        "a": "Stuknij w ikonę zębatki w lewym górnym rogu, a potem „Zacznij od zera”. Uwaga: rozgrywka, akcje i osiągnięcia zostaną usunięte na zawsze."
+      }
+    ],
+    "privacy_summary": "Uptime nie zbiera żadnych danych osobowych i nie zawiera reklam, zakupów ani trackerów."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "W skrócie",
+        "blocks": [
+          {
+            "p": "Uptime nie zbiera żadnych danych osobowych i nie ma serwera. Twoja gra jest zapisywana wyłącznie na twoim urządzeniu."
+          }
+        ]
+      },
+      {
+        "h": "Twoja gra",
+        "blocks": [
+          {
+            "p": "Twoje postępy (kredyty, serwery, badania, osiągnięcia, statystyki) i ustawienia są zapisywane na twoim urządzeniu. Nie są nigdzie wysyłane, a deweloper nie ma do nich dostępu."
+          }
+        ]
+      },
+      {
+        "h": "Uprawnienia",
+        "blocks": [
+          {
+            "p": "Aplikacja prosi o każde uprawnienie dopiero wtedy, gdy korzystasz z funkcji, która go wymaga, a w Ustawieniach urządzenia możesz je w każdej chwili cofnąć."
+          },
+          {
+            "ul": [
+              "<strong>Powiadomienia</strong>: tylko jeśli włączysz przypomnienie o pełnych dyskach. Jest planowane na twoim urządzeniu, bez serwera."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Reklamy, zakupy i śledzenie",
+        "blocks": [
+          {
+            "p": "Uptime jest bezpłatny. Nie zawiera reklam, zakupów w aplikacji, trackerów ani narzędzi analitycznych czy statystyk użytkowania."
+          }
+        ]
+      },
+      {
+        "h": "Dzieci",
+        "blocks": [
+          {
+            "p": "Aplikacja nie zbiera żadnych danych i jest odpowiednia dla osób w każdym wieku."
+          }
+        ]
+      },
+      {
+        "h": "Zmiany",
+        "blocks": [
+          {
+            "p": "Jeśli ta polityka się zmieni, nowa wersja zostanie opublikowana na tej stronie wraz z datą aktualizacji."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Jeśli masz pytania dotyczące tej polityki, napisz: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

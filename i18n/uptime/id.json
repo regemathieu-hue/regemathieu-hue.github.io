@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Bangun kerajaan servermu, dari garasi sampai luar angkasa",
+    "contact": "Ada pertanyaan, ide, atau menemukan bug? Kirimi aku pesan:<br>{email}",
+    "faq": [
+      {
+        "q": "Bagaimana cara mendapat kredit lebih cepat?",
+        "a": "Ikuti misi yang tampil di bagian atas toko: setiap misi memberi hadiah. Selesaikan riset begitu muncul, dan terus ketuk prosesor untuk mengisi indikator overclock: produksimu jadi tiga kali lipat selama beberapa detik. Tangkap juga paket emas yang melintas di layar."
+      },
+      {
+        "q": "Kenapa produksiku melambat?",
+        "a": "Servermu kekurangan listrik: indikator di bawah kreditmu berubah merah dan tepi layar berkedip. Buka tab Energi lalu beli sumber energi; label “Harga terbaik per watt” menunjukkan pilihan yang paling menguntungkan."
+      },
+      {
+        "q": "Apa yang harus kulakukan saat muncul insiden?",
+        "a": "Rak kepanasan: ketuk beberapa kali. Serangan DDoS: ketuk request jahat sebelum mencapai prosesor. Klien buru-buru: terima kontraknya dan hasilkan jumlah yang diminta tepat waktu. Insiden yang teratasi memberi kredit; kalau gagal, produksimu melambat selama 30 detik."
+      },
+      {
+        "q": "Apa gunanya IPO?",
+        "a": "IPO mengulang permainan dari nol dengan imbalan saham. Setiap saham menaikkan seluruh produksimu selamanya, dan kamu bisa membelanjakannya di dewan direksi untuk upgrade permanen, seperti modal awal atau beli otomatis. Waktu yang tepat: saat tab Bursa menunjukkan produksimu akan berlipat dua."
+      },
+      {
+        "q": "Apakah serverku tetap bekerja saat aplikasi ditutup?",
+        "a": "Ya, dengan setengah kecepatan pada awalnya dan paling lama dua jam. Beberapa riset dan dewan direksi memperpanjang durasi ini dan meningkatkan efisiensinya. Di pengaturan permainan (ikon roda gigi), kamu bisa meminta pengingat saat penyimpanan penuh."
+      },
+      {
+        "q": "Apakah permainanku tersimpan?",
+        "a": "Ya, otomatis, di perangkatmu. Permainanmu tidak disinkronkan antarperangkat dan akan hilang jika kamu menghapus aplikasinya."
+      },
+      {
+        "q": "Bagaimana cara mulai dari nol?",
+        "a": "Ketuk ikon roda gigi di kiri atas, lalu “Mulai dari nol”. Hati-hati: permainan, saham, dan pencapaianmu akan terhapus secara permanen."
+      }
+    ],
+    "privacy_summary": "Uptime tidak mengumpulkan data pribadi apa pun dan tidak berisi iklan, pembelian, maupun pelacak."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasnya",
+        "blocks": [
+          {
+            "p": "Uptime tidak mengumpulkan data pribadi apa pun dan tidak memiliki server. Permainanmu hanya disimpan di perangkatmu."
+          }
+        ]
+      },
+      {
+        "h": "Permainanmu",
+        "blocks": [
+          {
+            "p": "Progresmu (kredit, server, riset, pencapaian, statistik) dan pengaturanmu disimpan di perangkatmu. Data itu tidak dikirim ke mana pun dan pengembang tidak dapat mengaksesnya."
+          }
+        ]
+      },
+      {
+        "h": "Izin yang diminta",
+        "blocks": [
+          {
+            "p": "Setiap izin hanya diminta saat kamu menggunakan fitur yang membutuhkannya, dan kamu bisa mencabutnya di Pengaturan perangkatmu."
+          },
+          {
+            "ul": [
+              "<strong>Notifikasi</strong>: hanya jika kamu mengaktifkan pengingat “penyimpanan penuh”. Pengingat ini dijadwalkan di perangkatmu, tanpa server."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Iklan, pembelian, dan pelacakan",
+        "blocks": [
+          {
+            "p": "Uptime gratis. Aplikasi ini tidak berisi iklan, pembelian dalam aplikasi, pelacak, maupun alat analitik atau statistik penggunaan."
+          }
+        ]
+      },
+      {
+        "h": "Anak-anak",
+        "blocks": [
+          {
+            "p": "Aplikasi ini tidak mengumpulkan data apa pun dan cocok untuk segala usia."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika kebijakan ini berubah, versi barunya akan diterbitkan di halaman ini beserta tanggal pembaruannya."
+          }
+        ]
+      },
+      {
+        "h": "Kontak",
+        "blocks": [
+          {
+            "p": "Untuk pertanyaan apa pun tentang kebijakan ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

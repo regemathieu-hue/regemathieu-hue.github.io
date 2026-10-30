@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Vybuduj si serverové impérium, od garáže až do vesmíru",
+    "contact": "Dotaz, nápad nebo chyba? Napiš mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Jak vydělávat kredity rychleji?",
+        "a": "Plň cíl zobrazený nahoře v obchodě: za každý dostaneš odměnu. Dokončuj výzkumy, jakmile se objeví, a klepej na procesor bez přestání, ať naplníš ukazatel přetaktování: tvoje produkce se na pár sekund ztrojnásobí. Chytej taky zlaté pakety, které přelétají přes obrazovku."
+      },
+      {
+        "q": "Proč se moje produkce zpomaluje?",
+        "a": "Tvým serverům chybí elektřina: ukazatel pod tvými kredity zčervená a okraje obrazovky blikají. Otevři kartu Energie a kup si zdroj; štítek „Nejlepší cena za watt“ ukazuje ten nejvýhodnější."
+      },
+      {
+        "q": "Co dělat, když se objeví incident?",
+        "a": "Rack se přehřívá: několikrát na něj klepni. DDoS útok: klepej na škodlivé požadavky, než dorazí k procesoru. Spěchající klient: přijmi jeho zakázku a vydělej požadovanou částku včas. Vyřešený incident přinese kredity; nevyřešený zpomalí tvou produkci na 30 sekund."
+      },
+      {
+        "q": "K čemu je vstup na burzu?",
+        "a": "Vynuluje hru výměnou za akcie. Každá akcie navždy zvýší celou tvou produkci a můžeš je utratit v představenstvu za trvalá vylepšení, třeba startovní kapitál nebo automatický nákup. Správná chvíle: když karta Burza ukazuje, že by se tvoje produkce zdvojnásobila."
+      },
+      {
+        "q": "Pracují moje servery, i když je aplikace zavřená?",
+        "a": "Ano, zpočátku na poloviční výkon a nejvýš dvě hodiny. Některé výzkumy a představenstvo tuto dobu prodlužují a zvyšují výkon. V nastavení hry (ozubené kolečko) si můžeš zapnout připomenutí, když je úložiště plné."
+      },
+      {
+        "q": "Ukládá se moje hra?",
+        "a": "Ano, automaticky, v tvém zařízení. Nesynchronizuje se mezi více zařízeními a po smazání aplikace zmizí."
+      },
+      {
+        "q": "Jak začít od nuly?",
+        "a": "Klepni na ozubené kolečko vlevo nahoře a pak na „Začít od nuly“. Pozor: hra, akcie i úspěchy se nenávratně smažou."
+      }
+    ],
+    "privacy_summary": "Uptime neshromažďuje žádné osobní údaje a neobsahuje reklamu, nákupy ani sledovací prvky."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Stručně",
+        "blocks": [
+          {
+            "p": "Uptime neshromažďuje žádné osobní údaje a nemá žádný server. Tvoje hra se ukládá pouze v tvém zařízení."
+          }
+        ]
+      },
+      {
+        "h": "Tvoje hra",
+        "blocks": [
+          {
+            "p": "Tvůj postup (kredity, servery, výzkumy, úspěchy, statistiky) a tvoje nastavení se ukládají v tvém zařízení. Nikam se neodesílají a vývojář k nim nemá přístup."
+          }
+        ]
+      },
+      {
+        "h": "Požadovaná oprávnění",
+        "blocks": [
+          {
+            "p": "O každé oprávnění tě aplikace požádá až ve chvíli, kdy použiješ funkci, která ho potřebuje, a v Nastavení svého zařízení ho můžeš kdykoli odebrat."
+          },
+          {
+            "ul": [
+              "<strong>Oznámení</strong>: pouze pokud zapneš připomenutí „Úložiště je plné“. Plánuje se v tvém zařízení, bez serveru."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Reklama, nákupy a sledování",
+        "blocks": [
+          {
+            "p": "Uptime je zdarma. Neobsahuje žádnou reklamu, žádné nákupy v aplikaci, žádné sledovací prvky ani nástroje pro analýzu či statistiky používání."
+          }
+        ]
+      },
+      {
+        "h": "Děti",
+        "blocks": [
+          {
+            "p": "Aplikace neshromažďuje žádné údaje a je vhodná pro všechny věkové kategorie."
+          }
+        ]
+      },
+      {
+        "h": "Změny",
+        "blocks": [
+          {
+            "p": "Pokud se tyto zásady změní, nová verze bude zveřejněna na této stránce s datem aktualizace."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Máš-li k těmto zásadám jakýkoli dotaz, napiš mi: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

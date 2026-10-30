@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Rakenna palvelinimperiumisi autotallista avaruuteen",
+    "contact": "Kysymys, idea tai bugi? Kirjoita minulle:<br>{email}",
+    "faq": [
+      {
+        "q": "Miten tienaan krediittejä nopeammin?",
+        "a": "Seuraa kaupan yläreunassa näkyvää tavoitetta: jokaisesta saa palkkion. Suorita tutkimukset heti, kun niitä ilmestyy, ja napauta suoritinta taukoamatta täyttääksesi ylikellotusmittarin: tuotantosi kolminkertaistuu muutamaksi sekunniksi. Nappaa myös ruudun poikki lipuvat kultapaketit."
+      },
+      {
+        "q": "Miksi tuotantoni hidastuu?",
+        "a": "Palvelimiltasi puuttuu sähköä: krediittiesi alla oleva mittari muuttuu punaiseksi ja ruudun reunat vilkkuvat. Avaa Energia-välilehti ja osta energialähde; merkintä ”Paras wattihinta” näyttää kannattavimman."
+      },
+      {
+        "q": "Mitä teen, kun peliin tulee häiriö?",
+        "a": "Räkki ylikuumenee: napauta sitä monta kertaa. DDoS-hyökkäys: napauta haitallisia pyyntöjä ennen kuin ne ehtivät suorittimelle. Kiireinen asiakas: hyväksy asiakkaan sopimus ja tienaa pyydetty summa ajoissa. Hoidettu häiriö tuo krediittejä; jos se jää hoitamatta, tuotantosi hidastuu 30 sekunnin ajaksi."
+      },
+      {
+        "q": "Mitä pörssiin listautuminen tekee?",
+        "a": "Se aloittaa pelin alusta ja antaa sinulle osakkeita. Jokainen osake kasvattaa koko tuotantoasi ikuisesti, ja voit käyttää niitä hallituksessa pysyviin parannuksiin, kuten alkupääomaan tai automaattiostoon. Oikea hetki: kun Pörssi-välilehti kertoo, että tuotantosi tuplaantuisi."
+      },
+      {
+        "q": "Tekevätkö palvelimeni töitä, kun sovellus on suljettu?",
+        "a": "Kyllä, aluksi puolella teholla ja enintään kahden tunnin ajan. Jotkin tutkimukset ja hallitus pidentävät tätä aikaa ja parantavat tehoa. Pelin asetuksissa (ratas) voit pyytää muistutuksen, kun tallennustila on täynnä."
+      },
+      {
+        "q": "Tallentuuko pelini?",
+        "a": "Kyllä, automaattisesti laitteellesi. Peliä ei synkronoida laitteiden välillä, ja se katoaa, jos poistat sovelluksen."
+      },
+      {
+        "q": "Miten aloitan alusta?",
+        "a": "Napauta vasemmassa yläkulmassa olevaa ratasta ja sitten ”Aloita alusta”. Huomio: peli, osakkeet ja saavutukset poistetaan pysyvästi."
+      }
+    ],
+    "privacy_summary": "Uptime ei kerää henkilötietoja eikä sisällä mainoksia, ostoksia tai seurantaa."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Lyhyesti",
+        "blocks": [
+          {
+            "p": "Uptime ei kerää henkilötietoja, eikä sillä ole palvelinta. Pelisi tallennetaan vain laitteellesi."
+          }
+        ]
+      },
+      {
+        "h": "Pelisi",
+        "blocks": [
+          {
+            "p": "Edistymisesi (krediitit, palvelimet, tutkimukset, saavutukset, tilastot) ja asetuksesi tallennetaan laitteellesi. Niitä ei lähetetä minnekään, eikä kehittäjä pääse niihin käsiksi."
+          }
+        ]
+      },
+      {
+        "h": "Pyydetyt luvat",
+        "blocks": [
+          {
+            "p": "Jokaista lupaa pyydetään vasta, kun käytät sitä tarvitsevaa toimintoa, ja voit perua sen laitteesi Asetuksista."
+          },
+          {
+            "ul": [
+              "<strong>Ilmoitukset</strong>: vain jos otat käyttöön ”tallennustila täynnä” -muistutuksen. Se ajastetaan laitteellasi ilman palvelinta."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Mainokset, ostot ja seuranta",
+        "blocks": [
+          {
+            "p": "Uptime on ilmainen. Se ei sisällä mainoksia, sovelluksen sisäisiä ostoja, seurantaa eikä analytiikka- tai käyttötilastotyökaluja."
+          }
+        ]
+      },
+      {
+        "h": "Lapset",
+        "blocks": [
+          {
+            "p": "Sovellus ei kerää mitään tietoja ja sopii kaikenikäisille."
+          }
+        ]
+      },
+      {
+        "h": "Muutokset",
+        "blocks": [
+          {
+            "p": "Jos tämä käytäntö muuttuu, uusi versio julkaistaan tällä sivulla päivityspäivämäärineen."
+          }
+        ]
+      },
+      {
+        "h": "Yhteystiedot",
+        "blocks": [
+          {
+            "p": "Jos sinulla on kysymyksiä tästä käytännöstä: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Izgradi svoje carstvo servera, od garaže do svemira",
+    "contact": "Pitanje, ideja ili greška? Piši mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Kako brže zaraditi kredite?",
+        "a": "Prati cilj prikazan na vrhu trgovine: svaki donosi nagradu. Završi istraživanja čim se pojave i dodiruj procesor bez prestanka da napuniš mjerač overclocka: proizvodnja ti se na nekoliko sekundi utrostručuje. Hvataj i zlatne pakete koji prolaze preko zaslona."
+      },
+      {
+        "q": "Zašto mi proizvodnja usporava?",
+        "a": "Tvojim serverima nedostaje struje: mjerač ispod kredita postaje crven, a rubovi zaslona trepere. Otvori karticu Energija i kupi izvor; oznaka „Najbolja cijena po vatu” pokazuje najisplativiji izvor."
+      },
+      {
+        "q": "Što učiniti kad se pojavi incident?",
+        "a": "Rack se pregrijava: dodirni ga nekoliko puta. DDoS napad: dodiruj zlonamjerne zahtjeve prije nego što stignu do procesora. Klijent u žurbi: prihvati njegov ugovor i na vrijeme zaradi traženi iznos. Riješen incident donosi kredite; propušten ti usporava proizvodnju na 30 sekundi."
+      },
+      {
+        "q": "Čemu služi izlazak na burzu?",
+        "a": "Vraća partiju na početak u zamjenu za dionice. Svaka dionica zauvijek povećava cijelu tvoju proizvodnju, a možeš ih potrošiti u upravnom odboru na trajna poboljšanja, poput početnog kapitala ili automatske kupnje. Pravi trenutak: kad kartica Burza pokaže da bi ti se proizvodnja udvostručila."
+      },
+      {
+        "q": "Rade li moji serveri dok je aplikacija zatvorena?",
+        "a": "Da, u početku upola brzine i najviše dva sata. Neka istraživanja i upravni odbor produljuju to vrijeme i poboljšavaju učinkovitost. U postavkama igre (zupčanik) možeš uključiti podsjetnik kad je pohrana puna."
+      },
+      {
+        "q": "Sprema li se moj napredak?",
+        "a": "Da, automatski, na tvom uređaju. Ne sinkronizira se između uređaja i nestaje ako izbrišeš aplikaciju."
+      },
+      {
+        "q": "Kako krenuti ispočetka?",
+        "a": "Dodirni zupčanik gore lijevo, zatim „Kreni ispočetka”. Oprez: napredak, dionice i postignuća trajno se brišu."
+      }
+    ],
+    "privacy_summary": "Uptime ne prikuplja nikakve osobne podatke i ne sadrži oglase, kupnje ni alate za praćenje."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ukratko",
+        "blocks": [
+          {
+            "p": "Uptime ne prikuplja nikakve osobne podatke i nema poslužitelj. Tvoj napredak sprema se isključivo na tvom uređaju."
+          }
+        ]
+      },
+      {
+        "h": "Tvoja igra",
+        "blocks": [
+          {
+            "p": "Tvoj napredak (krediti, serveri, istraživanja, postignuća, statistika) i tvoje postavke spremaju se na tvom uređaju. Nikamo se ne šalju i programer im nema pristup."
+          }
+        ]
+      },
+      {
+        "h": "Zatražena dopuštenja",
+        "blocks": [
+          {
+            "p": "Svako dopuštenje traži se tek kad upotrijebiš funkciju kojoj je potrebno, a možeš ga opozvati u Postavkama svog uređaja."
+          },
+          {
+            "ul": [
+              "<strong>Obavijesti</strong>: samo ako uključiš podsjetnik „pohrana je puna”. Zakazuje se na tvom uređaju, bez poslužitelja."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Oglasi, kupnje i praćenje",
+        "blocks": [
+          {
+            "p": "Uptime je besplatan. Ne sadrži oglase, kupnje unutar aplikacije, alate za praćenje ni alate za analitiku ili statistiku korištenja."
+          }
+        ]
+      },
+      {
+        "h": "Djeca",
+        "blocks": [
+          {
+            "p": "Aplikacija ne prikuplja nikakve podatke i prikladna je za sve uzraste."
+          }
+        ]
+      },
+      {
+        "h": "Izmjene",
+        "blocks": [
+          {
+            "p": "Ako se ova politika promijeni, nova verzija bit će objavljena na ovoj stranici s datumom ažuriranja."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Za sva pitanja o ovoj politici: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Byg dit serverimperium, fra garagen helt ud i rummet",
+    "contact": "Et spørgsmål, en idé eller en fejl? Skriv til mig:<br>{email}",
+    "faq": [
+      {
+        "q": "Hvordan tjener jeg credits hurtigere?",
+        "a": "Følg målet øverst i butikken: hvert mål giver en belønning. Fuldfør forskningsprojekterne, så snart de dukker op, og bliv ved med at trykke på processoren for at fylde overclock-måleren: så bliver din produktion tredoblet i et par sekunder. Fang også de gyldne pakker, der svæver hen over skærmen."
+      },
+      {
+        "q": "Hvorfor går min produktion langsommere?",
+        "a": "Dine servere mangler strøm: måleren under dine credits bliver rød, og skærmens kanter blinker. Åbn fanen Energi, og køb en energikilde; mærket »Bedste pris pr. watt« viser den mest rentable."
+      },
+      {
+        "q": "Hvad gør jeg, når der opstår en hændelse?",
+        "a": "Et rack bliver overophedet: tryk på det flere gange. Et DDoS-angreb: tryk på de ondsindede forespørgsler, før de når processoren. En kunde med travlt: accepter kontrakten, og tjen det ønskede beløb i tide. Løser du en hændelse, får du credits; misser du den, går din produktion langsommere i 30 sekunder."
+      },
+      {
+        "q": "Hvad er en børsnotering godt for?",
+        "a": "Den nulstiller spillet i bytte for aktier. Hver aktie øger hele din produktion for altid, og du kan bruge dem i bestyrelsen på permanente opgraderinger som startkapital eller autokøb. Det rette tidspunkt: når fanen Børs viser, at din produktion ville blive fordoblet."
+      },
+      {
+        "q": "Arbejder mine servere, når appen er lukket?",
+        "a": "Ja, i halvt tempo i starten og i højst to timer. Visse forskningsprojekter og bestyrelsen forlænger tiden og forbedrer udbyttet. I spillets indstillinger (tandhjulet) kan du slå en påmindelse til, når lagerpladsen er fuld."
+      },
+      {
+        "q": "Bliver mit spil gemt?",
+        "a": "Ja, automatisk og på din enhed. Det synkroniseres ikke mellem flere enheder og forsvinder, hvis du sletter appen."
+      },
+      {
+        "q": "Hvordan starter jeg forfra?",
+        "a": "Tryk på tandhjulet øverst til venstre og derefter på »Start forfra«. Pas på: spillet, aktierne og præstationerne bliver slettet for altid."
+      }
+    ],
+    "privacy_summary": "Uptime indsamler ingen personlige oplysninger og indeholder hverken reklamer, køb eller trackere."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort fortalt",
+        "blocks": [
+          {
+            "p": "Uptime indsamler ingen personlige oplysninger og har ingen server. Dit spil gemmes kun på din enhed."
+          }
+        ]
+      },
+      {
+        "h": "Dit spil",
+        "blocks": [
+          {
+            "p": "Dine fremskridt (credits, servere, forskning, præstationer, statistik) og dine indstillinger gemmes på din enhed. De sendes ingen steder hen, og udvikleren har ikke adgang til dem."
+          }
+        ]
+      },
+      {
+        "h": "Tilladelser",
+        "blocks": [
+          {
+            "p": "Der bliver først bedt om en tilladelse, når du bruger den funktion, der kræver den, og du kan trække den tilbage i Indstillinger på din enhed."
+          },
+          {
+            "ul": [
+              "<strong>Notifikationer</strong>: kun hvis du slår påmindelsen om fuld lagerplads til. Den planlægges på din enhed uden nogen server."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Reklamer, køb og sporing",
+        "blocks": [
+          {
+            "p": "Uptime er gratis. Det indeholder ingen reklamer, ingen køb i appen, ingen trackere og ingen værktøjer til analyse eller brugsstatistik."
+          }
+        ]
+      },
+      {
+        "h": "Børn",
+        "blocks": [
+          {
+            "p": "Appen indsamler ingen data og er egnet til alle aldre."
+          }
+        ]
+      },
+      {
+        "h": "Ændringer",
+        "blocks": [
+          {
+            "p": "Hvis denne politik ændres, bliver den nye version offentliggjort på denne side sammen med datoen for opdateringen."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Har du spørgsmål til denne politik, kan du skrive til: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

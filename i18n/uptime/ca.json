@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Construeix el teu imperi de servidors, del garatge fins a l'espai",
+    "contact": "Una pregunta, una idea o un error? Escriu-me:<br>{email}",
+    "faq": [
+      {
+        "q": "Com puc guanyar crèdits més de pressa?",
+        "a": "Segueix l'objectiu que surt a dalt de la botiga: cadascun dona una recompensa. Acaba les recerques tan bon punt apareguin i toca el processador sense parar per omplir la barra d'overclock: la teva producció es multiplica per tres durant uns segons. Atrapa també els paquets daurats que travessen la pantalla."
+      },
+      {
+        "q": "Per què la meva producció va més lenta?",
+        "a": "Als teus servidors els falta corrent: la barra que hi ha sota els crèdits es posa vermella i les vores de la pantalla parpellegen. Obre la pestanya Energia i compra una font; l'etiqueta «Millor preu per watt» t'indica la més rendible."
+      },
+      {
+        "q": "Què he de fer quan apareix un incident?",
+        "a": "Un rack s'escalfa massa: toca'l diverses vegades. Un atac DDoS: toca les peticions pirates abans que arribin al processador. Un client amb pressa: accepta el seu contracte i guanya la quantitat demanada a temps. Un incident resolt et dona crèdits; si no el resols, la teva producció s'alenteix durant 30 segons."
+      },
+      {
+        "q": "Per a què serveix sortir a borsa?",
+        "a": "Torna a començar la partida a canvi d'accions. Cada acció augmenta tota la teva producció per sempre, i pots gastar-les al consell d'administració en millores permanents, com el capital inicial o la compra automàtica. El bon moment: quan la pestanya Borsa indica que la teva producció es doblaria."
+      },
+      {
+        "q": "Els meus servidors treballen quan l'app està tancada?",
+        "a": "Sí, a mig ritme al principi i durant dues hores com a màxim. Algunes recerques i el consell d'administració allarguen aquest temps i en milloren el rendiment. A la configuració del joc (roda dentada) pots demanar un avís quan l'emmagatzematge estigui ple."
+      },
+      {
+        "q": "La meva partida es desa?",
+        "a": "Sí, automàticament, al teu dispositiu. No se sincronitza entre dispositius i desapareix si elimines l'app."
+      },
+      {
+        "q": "Com puc començar de zero?",
+        "a": "Toca la roda dentada de dalt a l'esquerra i després «Comença de zero». Compte: la partida, les accions i els assoliments s'esborren definitivament."
+      }
+    ],
+    "privacy_summary": "Uptime no recull cap dada personal i no conté ni publicitat, ni compres, ni rastrejadors."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resum",
+        "blocks": [
+          {
+            "p": "Uptime no recull cap dada personal i no té cap servidor. La teva partida només es desa al teu dispositiu."
+          }
+        ]
+      },
+      {
+        "h": "La teva partida",
+        "blocks": [
+          {
+            "p": "El teu progrés (crèdits, servidors, recerques, assoliments, estadístiques) i la teva configuració es desen al teu dispositiu. No s'envien enlloc i el desenvolupador no hi té accés."
+          }
+        ]
+      },
+      {
+        "h": "Permisos sol·licitats",
+        "blocks": [
+          {
+            "p": "Cada permís només es demana en el moment en què fas servir la funció corresponent, i pots retirar-lo a la Configuració del teu dispositiu."
+          },
+          {
+            "ul": [
+              "<strong>Notificacions</strong>: només si actives l'avís d'«emmagatzematge ple». Es programa al teu dispositiu, sense cap servidor."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Publicitat, compres i seguiment",
+        "blocks": [
+          {
+            "p": "Uptime és gratuït. No conté cap publicitat, cap compra integrada, cap rastrejador ni cap eina d'anàlisi o d'estadístiques d'ús."
+          }
+        ]
+      },
+      {
+        "h": "Menors",
+        "blocks": [
+          {
+            "p": "L'aplicació no recull cap dada i és apta per a totes les edats."
+          }
+        ]
+      },
+      {
+        "h": "Modificacions",
+        "blocks": [
+          {
+            "p": "Si aquesta política canvia, la nova versió es publicarà en aquesta pàgina amb la seva data d'actualització."
+          }
+        ]
+      },
+      {
+        "h": "Contacte",
+        "blocks": [
+          {
+            "p": "Per a qualsevol pregunta sobre aquesta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

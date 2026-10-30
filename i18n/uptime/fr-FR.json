@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Bâtis ton empire de serveurs, du garage jusqu'à l'espace",
+    "contact": "Une question, une idée ou un bug ? Écris-moi :<br>{email}",
+    "faq": [
+      {
+        "q": "Comment gagner des crédits plus vite ?",
+        "a": "Suis l'objectif affiché en haut de la boutique : chacun rapporte une récompense. Termine les recherches dès qu'elles apparaissent, et touche le processeur sans t'arrêter pour remplir la jauge de surcadençage : ta production est multipliée par trois pendant quelques secondes. Attrape aussi les paquets dorés qui traversent l'écran."
+      },
+      {
+        "q": "Pourquoi ma production ralentit-elle ?",
+        "a": "Tes serveurs manquent de courant : la jauge sous tes crédits passe au rouge et les bords de l'écran clignotent. Ouvre l'onglet Énergie et achète une source ; l'étiquette « Meilleur prix au watt » indique la plus rentable."
+      },
+      {
+        "q": "Que faire quand un incident apparaît ?",
+        "a": "Une baie surchauffe : touche-la plusieurs fois. Une attaque DDoS : touche les requêtes pirates avant qu'elles n'atteignent le processeur. Un client pressé : accepte son contrat et gagne la somme demandée à temps. Un incident réglé rapporte des crédits ; raté, il ralentit ta production pendant 30 secondes."
+      },
+      {
+        "q": "À quoi sert l'entrée en bourse ?",
+        "a": "Elle remet la partie à zéro contre des actions. Chaque action augmente toute ta production pour toujours, et tu peux les dépenser au conseil d'administration en améliorations permanentes, comme le capital de départ ou l'achat automatique. Le bon moment : quand l'onglet Bourse indique que ta production doublerait."
+      },
+      {
+        "q": "Mes serveurs travaillent-ils quand l'app est fermée ?",
+        "a": "Oui, à mi-régime au début et pendant deux heures au plus. Certaines recherches et le conseil d'administration allongent cette durée et améliorent le rendement. Dans les réglages du jeu (roue dentée), tu peux demander un rappel quand le stockage est plein."
+      },
+      {
+        "q": "Ma partie est-elle sauvegardée ?",
+        "a": "Oui, automatiquement, sur ton appareil. Elle n'est pas synchronisée entre plusieurs appareils et disparaît si tu supprimes l'app."
+      },
+      {
+        "q": "Comment recommencer de zéro ?",
+        "a": "Touche la roue dentée en haut à gauche, puis « Recommencer de zéro ». Attention : la partie, les actions et les succès sont effacés définitivement."
+      }
+    ],
+    "privacy_summary": "Uptime ne collecte aucune donnée personnelle et ne contient ni publicité, ni achat, ni traceur."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En résumé",
+        "blocks": [
+          {
+            "p": "Uptime ne collecte aucune donnée personnelle et ne possède pas de serveur. Ta partie est enregistrée uniquement sur ton appareil."
+          }
+        ]
+      },
+      {
+        "h": "Ta partie",
+        "blocks": [
+          {
+            "p": "Ta progression (crédits, serveurs, recherches, succès, statistiques) et tes réglages sont enregistrés sur ton appareil. Ils ne sont envoyés nulle part et le développeur n'y a pas accès."
+          }
+        ]
+      },
+      {
+        "h": "Autorisations demandées",
+        "blocks": [
+          {
+            "p": "Chaque autorisation n'est demandée qu'au moment où tu utilises la fonction concernée, et tu peux la retirer dans les Réglages de ton appareil."
+          },
+          {
+            "ul": [
+              "<strong>Notifications</strong> : seulement si tu actives le rappel « stockage plein ». Il est programmé sur ton appareil, sans serveur."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Publicité, achats et suivi",
+        "blocks": [
+          {
+            "p": "Uptime est gratuit. Il ne contient aucune publicité, aucun achat intégré, aucun traceur et aucun outil d'analyse ou de statistiques d'utilisation."
+          }
+        ]
+      },
+      {
+        "h": "Enfants",
+        "blocks": [
+          {
+            "p": "L'application ne collecte aucune donnée et convient à tous les âges."
+          }
+        ]
+      },
+      {
+        "h": "Modifications",
+        "blocks": [
+          {
+            "p": "Si cette politique change, la nouvelle version sera publiée sur cette page avec sa date de mise à jour."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pour toute question concernant cette politique : {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

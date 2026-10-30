@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Construye tu imperio de servidores, del garaje hasta el espacio",
+    "contact": "¿Una pregunta, una idea o un error? Escríbeme:<br>{email}",
+    "faq": [
+      {
+        "q": "¿Cómo gano créditos más rápido?",
+        "a": "Sigue el objetivo que aparece arriba en la tienda: cada uno da una recompensa. Completa las investigaciones en cuanto aparezcan y toca el procesador sin parar para llenar la barra de overclock: tu producción se triplica durante unos segundos. Atrapa también los paquetes dorados que cruzan la pantalla."
+      },
+      {
+        "q": "¿Por qué mi producción va más lenta?",
+        "a": "A tus servidores les falta energía: la barra debajo de tus créditos se pone roja y los bordes de la pantalla parpadean. Abre la pestaña Energía y compra una fuente; la etiqueta “Mejor precio por watt” indica la más rentable."
+      },
+      {
+        "q": "¿Qué hago cuando aparece un incidente?",
+        "a": "Un rack se sobrecalienta: tócalo varias veces. Un ataque DDoS: toca las solicitudes maliciosas antes de que lleguen al procesador. Un cliente con prisa: acepta su contrato y gana la cantidad pedida a tiempo. Un incidente resuelto da créditos; si fallas, tu producción baja durante 30 segundos."
+      },
+      {
+        "q": "¿Para qué sirve salir a bolsa?",
+        "a": "Reinicia la partida a cambio de acciones. Cada acción aumenta toda tu producción para siempre, y puedes gastarlas en el consejo de administración en mejoras permanentes, como el capital inicial o la compra automática. El mejor momento: cuando la pestaña Bolsa indica que tu producción se duplicaría."
+      },
+      {
+        "q": "¿Mis servidores siguen trabajando cuando la app está cerrada?",
+        "a": "Sí, a media velocidad al principio y durante dos horas como máximo. Algunas investigaciones y el consejo de administración amplían ese tiempo y mejoran el rendimiento. En la Configuración del juego (el ícono de engrane), puedes pedir un recordatorio cuando el almacenamiento esté lleno."
+      },
+      {
+        "q": "¿Se guarda mi partida?",
+        "a": "Sí, automáticamente, en tu dispositivo. No se sincroniza entre varios dispositivos y se borra si eliminas la app."
+      },
+      {
+        "q": "¿Cómo empiezo de cero?",
+        "a": "Toca el engrane arriba a la izquierda y luego “Empezar de cero”. Cuidado: la partida, las acciones y los logros se borran para siempre."
+      }
+    ],
+    "privacy_summary": "Uptime no recopila ningún dato personal y no contiene publicidad, compras ni rastreadores."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resumen",
+        "blocks": [
+          {
+            "p": "Uptime no recopila ningún dato personal y no tiene servidor. Tu partida se guarda únicamente en tu dispositivo."
+          }
+        ]
+      },
+      {
+        "h": "Tu partida",
+        "blocks": [
+          {
+            "p": "Tu progreso (créditos, servidores, investigaciones, logros, estadísticas) y tu configuración se guardan en tu dispositivo. No se envían a ningún lado y el desarrollador no tiene acceso a ellos."
+          }
+        ]
+      },
+      {
+        "h": "Permisos solicitados",
+        "blocks": [
+          {
+            "p": "Cada permiso solo se solicita en el momento en que usas la función correspondiente, y puedes desactivarlo en la Configuración de tu dispositivo."
+          },
+          {
+            "ul": [
+              "<strong>Notificaciones</strong>: solo si activas el recordatorio de “almacenamiento lleno”. Se programa en tu dispositivo, sin servidor."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Publicidad, compras y rastreo",
+        "blocks": [
+          {
+            "p": "Uptime es gratis. No contiene publicidad, compras dentro de la app, rastreadores ni herramientas de análisis o de estadísticas de uso."
+          }
+        ]
+      },
+      {
+        "h": "Niños",
+        "blocks": [
+          {
+            "p": "La app no recopila ningún dato y es apta para todas las edades."
+          }
+        ]
+      },
+      {
+        "h": "Cambios",
+        "blocks": [
+          {
+            "p": "Si este aviso de privacidad cambia, la nueva versión se publicará en esta página con su fecha de actualización."
+          }
+        ]
+      },
+      {
+        "h": "Contacto",
+        "blocks": [
+          {
+            "p": "Para cualquier pregunta sobre este aviso de privacidad: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

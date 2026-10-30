@@ -1,0 +1,102 @@
+{
+  "support": {
+    "subtitle": "Costruisci il tuo impero di server, dal garage fino allo spazio",
+    "contact": "Una domanda, un'idea o un bug? Scrivimi:<br>{email}",
+    "faq": [
+      {
+        "q": "Come guadagno crediti più in fretta?",
+        "a": "Segui l'obiettivo mostrato in cima al negozio: ognuno dà una ricompensa. Completa le ricerche appena compaiono e tocca il processore senza fermarti per riempire l'indicatore di overclock: la tua produzione viene triplicata per qualche secondo. Prendi anche i pacchetti dorati che attraversano lo schermo."
+      },
+      {
+        "q": "Perché la mia produzione rallenta?",
+        "a": "I tuoi server sono a corto di corrente: l'indicatore sotto i tuoi crediti diventa rosso e i bordi dello schermo lampeggiano. Apri la scheda Energia e compra una fonte; l'etichetta “Miglior prezzo per watt” indica la più conveniente."
+      },
+      {
+        "q": "Cosa faccio quando compare un incidente?",
+        "a": "Un rack si surriscalda: toccalo più volte. Un attacco DDoS: tocca le richieste malevole prima che raggiungano il processore. Un cliente di fretta: accetta il suo contratto e guadagna in tempo la somma richiesta. Un incidente risolto fa guadagnare crediti; se fallisci, la tua produzione rallenta per 30 secondi."
+      },
+      {
+        "q": "A cosa serve entrare in Borsa?",
+        "a": "Azzera la partita in cambio di azioni. Ogni azione aumenta tutta la tua produzione per sempre, e puoi spenderle nel consiglio di amministrazione in potenziamenti permanenti, come il capitale iniziale o l'acquisto automatico. Il momento giusto: quando la scheda Borsa indica che la tua produzione raddoppierebbe."
+      },
+      {
+        "q": "I miei server lavorano quando l'app è chiusa?",
+        "a": "Sì, a metà velocità all'inizio e per due ore al massimo. Alcune ricerche e il consiglio di amministrazione allungano questa durata e migliorano il rendimento. Nelle impostazioni del gioco (icona dell'ingranaggio) puoi chiedere un promemoria quando i dischi sono pieni."
+      },
+      {
+        "q": "La mia partita viene salvata?",
+        "a": "Sì, automaticamente, sul tuo dispositivo. Non viene sincronizzata tra più dispositivi e va persa se elimini l'app."
+      },
+      {
+        "q": "Come ricomincio da zero?",
+        "a": "Tocca l'icona dell'ingranaggio in alto a sinistra, poi “Ricomincia da zero”. Attenzione: la partita, le azioni e i trofei vengono cancellati definitivamente."
+      }
+    ],
+    "privacy_summary": "Uptime non raccoglie alcun dato personale e non contiene né pubblicità, né acquisti, né tracker."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In breve",
+        "blocks": [
+          {
+            "p": "Uptime non raccoglie alcun dato personale e non ha alcun server. La tua partita viene salvata solo sul tuo dispositivo."
+          }
+        ]
+      },
+      {
+        "h": "La tua partita",
+        "blocks": [
+          {
+            "p": "I tuoi progressi (crediti, server, ricerche, trofei, statistiche) e le tue impostazioni vengono salvati sul tuo dispositivo. Non vengono inviati da nessuna parte e lo sviluppatore non vi ha accesso."
+          }
+        ]
+      },
+      {
+        "h": "Autorizzazioni richieste",
+        "blocks": [
+          {
+            "p": "Ogni autorizzazione viene richiesta solo nel momento in cui usi la funzione che ne ha bisogno, e puoi revocarla nelle Impostazioni del tuo dispositivo."
+          },
+          {
+            "ul": [
+              "<strong>Notifiche</strong>: solo se attivi il promemoria “dischi pieni”. Viene programmato sul tuo dispositivo, senza server."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Pubblicità, acquisti e tracciamento",
+        "blocks": [
+          {
+            "p": "Uptime è gratuito. Non contiene pubblicità, acquisti in-app, tracker né strumenti di analisi o di statistiche d'uso."
+          }
+        ]
+      },
+      {
+        "h": "Bambini",
+        "blocks": [
+          {
+            "p": "L'app non raccoglie alcun dato ed è adatta a tutte le età."
+          }
+        ]
+      },
+      {
+        "h": "Modifiche",
+        "blocks": [
+          {
+            "p": "Se questa informativa cambia, la nuova versione sarà pubblicata su questa pagina con la data di aggiornamento."
+          }
+        ]
+      },
+      {
+        "h": "Contatti",
+        "blocks": [
+          {
+            "p": "Per qualsiasi domanda su questa informativa: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}
