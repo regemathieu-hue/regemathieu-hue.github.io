@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Descobre onde o teu Wi-Fi enfraquece, divisão a divisão",
+    "contact": "Uma questão, uma ideia ou um erro? Escreve-me:<br>{email}",
+    "faq": [
+      {
+        "q": "Porque é que a app não mostra a intensidade do sinal?",
+        "a": "O iOS não fornece às apps a intensidade bruta do sinal Wi-Fi. Por isso, o Mapa Wi-Fi mede o que o teu Wi-Fi entrega realmente em cada sítio: a velocidade e a latência. A pontuação de 0 a 100 apresentada no mapa resulta destas duas medições."
+      },
+      {
+        "q": "Para que serve a câmara?",
+        "a": "Permite ao iPhone acompanhar a tua posição enquanto andas. Nenhuma imagem é guardada nem enviada. Se preferires não a utilizar, ou se o teu dispositivo não suportar este seguimento, escolhe «Com o dedo» antes de começar: moves então a tua posição deslizando o dedo pelo mapa."
+      },
+      {
+        "q": "Porque é que a app pede a minha localização?",
+        "a": "O iOS exige esta permissão para que uma app possa ler o nome da rede Wi-Fi. Não serve para mais nada: a app não lê as tuas coordenadas GPS. Se a recusares, a leitura funciona na mesma, mas sem mostrar o nome da rede."
+      },
+      {
+        "q": "Quantos dados consome uma leitura?",
+        "a": "Cerca de 1 MB por segundo com as definições predefinidas, ou seja, aproximadamente 300 MB para uma leitura de 5 minutos. Para consumir menos, abre as Definições (a roda dentada no ecrã inicial) e escolhe «250 KB (económico)» em «Dados por medição»."
+      },
+      {
+        "q": "A leitura utiliza 4G ou 5G?",
+        "a": "Não. As medições passam apenas pelo Wi-Fi. Se o Wi-Fi falhar, a medição desce para 0 em vez de medir a rede móvel, e o mapa mostra-o."
+      },
+      {
+        "q": "O mapa está desfasado ou o seguimento perde-se: o que fazer?",
+        "a": "Anda devagar, com o iPhone à tua frente, e aponta para sítios com detalhes em vez de uma parede lisa. Durante a leitura, a app indica o que corrigir, por exemplo «Move-te um pouco mais devagar». Em grandes distâncias, o seguimento pode desviar-se um pouco: é melhor fazer várias leituras curtas do que uma única muito longa."
+      },
+      {
+        "q": "O mapa está vermelho em todo o lado: será o meu Wi-Fi?",
+        "a": "Não necessariamente. As medições passam por um servidor na internet, pelo que uma ligação à internet lenta ou uma latência elevada afetam toda a casa. São as diferenças entre as divisões que revelam os pontos fracos do Wi-Fi."
+      },
+      {
+        "q": "Como partilhar, mudar o nome ou apagar uma leitura?",
+        "a": "Abre a leitura a partir do ecrã inicial. O botão de partilha no topo do ecrã envia-a como imagem; o menu ao lado permite mudar-lhe o nome ou apagá-la."
+      },
+      {
+        "q": "Posso utilizar outro servidor de teste?",
+        "a": "Sim, em Definições › Servidor de teste. Esse servidor tem de devolver o número de bytes pedido pelo parâmetro «bytes»."
+      }
+    ],
+    "privacy_summary": "O Mapa Wi-Fi não recolhe quaisquer dados pessoais e não tem publicidade, compras nem rastreadores. As tuas leituras ficam no teu dispositivo. Para medir a velocidade, a app descarrega dados de um servidor de teste, que vê o teu endereço IP como qualquer site da internet."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Em resumo",
+        "blocks": [
+          {
+            "p": "O Mapa Wi-Fi não recolhe quaisquer dados pessoais, e o programador não tem servidor. As tuas leituras ficam guardadas no teu dispositivo. A única ligação à internet serve para medir o teu Wi-Fi, descarregando dados de um servidor de teste."
+          }
+        ]
+      },
+      {
+        "h": "As tuas leituras",
+        "blocks": [
+          {
+            "p": "Cada leitura contém o seu nome, a sua data, o nome da rede Wi-Fi se estiver disponível, as medições de velocidade e de latência, e o trajeto percorrido. Este trajeto é expresso em metros relativamente ao teu ponto de partida: não é uma localização geográfica."
+          },
+          {
+            "p": "As leituras e as definições ficam guardadas no teu dispositivo, e o programador não tem acesso a elas. Tal como os dados de outras apps, podem constar das cópias de segurança do teu dispositivo, se as tiveres ativado. Podes apagar uma leitura a qualquer momento; ao eliminar a app, são todas apagadas."
+          }
+        ]
+      },
+      {
+        "h": "Medição do Wi-Fi e servidor de teste",
+        "blocks": [
+          {
+            "p": "Durante uma leitura, a app descarrega pequenos blocos de dados de um servidor de teste: por predefinição, speed.cloudflare.com, operado pela Cloudflare. Como em qualquer ligação à internet, este servidor vê o teu endereço IP e o pedido de transferência, que indica o tamanho do bloco e um número aleatório que evita a colocação em cache."
+          },
+          {
+            "p": "Nem o nome da tua rede, nem as tuas leituras, nem os teus resultados lhe são enviados. A Cloudflare trata estas ligações de acordo com a sua própria política de privacidade. Se escolheres outro servidor nas definições, é esse servidor que recebe estas ligações."
+          }
+        ]
+      },
+      {
+        "h": "Permissões pedidas",
+        "blocks": [
+          {
+            "p": "Podes retirar cada permissão nas Definições do teu dispositivo."
+          },
+          {
+            "ul": [
+              "<strong>Câmara</strong>: para acompanhar a tua posição dentro de casa durante uma leitura. Nenhuma imagem é guardada nem enviada. O modo «Com o dedo» permite dispensá-la.",
+              "<strong>Localização</strong>: o iOS exige-a para ler o nome da rede Wi-Fi. A app não lê as tuas coordenadas GPS. O nome da rede fica no teu dispositivo."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Partilha",
+        "blocks": [
+          {
+            "p": "Podes partilhar uma leitura como imagem com as ferramentas do iOS (AirDrop, Messages, Mail…). A imagem mostra o nome da leitura, a data, o mapa e as estatísticas, mas não o nome da rede. Nada é partilhado sem que o peças."
+          }
+        ]
+      },
+      {
+        "h": "Publicidade, compras e rastreio",
+        "blocks": [
+          {
+            "p": "O Mapa Wi-Fi é gratuito e não exige qualquer conta. Não contém publicidade, compras integradas, rastreadores nem ferramentas de análise ou de estatísticas de utilização."
+          }
+        ]
+      },
+      {
+        "h": "Crianças",
+        "blocks": [
+          {
+            "p": "A app não recolhe quaisquer dados e é adequada a todas as idades."
+          }
+        ]
+      },
+      {
+        "h": "Alterações",
+        "blocks": [
+          {
+            "p": "Se esta política for alterada, a nova versão será publicada nesta página com a respetiva data de atualização."
+          }
+        ]
+      },
+      {
+        "h": "Contacto",
+        "blocks": [
+          {
+            "p": "Para qualquer questão sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

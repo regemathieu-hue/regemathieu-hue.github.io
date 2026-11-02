@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Ontdek waar je wifi zwak wordt, kamer voor kamer",
+    "contact": "Een vraag, een idee of een bug? Schrijf me:<br>{email}",
+    "faq": [
+      {
+        "q": "Waarom toont de app de signaalsterkte niet?",
+        "a": "iOS geeft de ruwe signaalsterkte van het wifi-netwerk niet door aan apps. Wifi-kaart meet daarom wat je wifi op elke plek echt levert: snelheid en latentie. De score van 0 tot 100 die op de kaart staat, komt uit die twee metingen."
+      },
+      {
+        "q": "Waar dient de camera voor?",
+        "a": "Hiermee kan de iPhone je positie volgen terwijl je loopt. Er wordt geen enkel beeld opgeslagen of verstuurd. Als je de camera liever niet gebruikt, of als je apparaat deze tracking niet ondersteunt, kies dan vóór je begint ‘Met vinger’: dan verplaats je je positie door met je vinger over de kaart te vegen."
+      },
+      {
+        "q": "Waarom vraagt de app om mijn locatie?",
+        "a": "iOS eist deze toestemming om een app de naam van het wifi-netwerk te laten lezen. Voor niets anders wordt ze gebruikt: de app leest je GPS-coördinaten niet uit. Als je haar weigert, werkt de scan nog steeds, alleen zonder de netwerknaam te tonen."
+      },
+      {
+        "q": "Hoeveel data verbruikt een scan?",
+        "a": "Ongeveer 1 MB per seconde met de standaardinstellingen, ofwel zo’n 300 MB voor een scan van 5 minuten. Om minder te verbruiken open je Instellingen (tandwiel op het beginscherm) en kies je ‘250 KB (zuinig)’ bij ‘Data per meting’."
+      },
+      {
+        "q": "Gebruikt de scan 4G of 5G?",
+        "a": "Nee. De metingen lopen uitsluitend via wifi. Als de wifi wegvalt, zakt de meting naar 0 in plaats van het mobiele netwerk te meten, en dat is te zien op de kaart."
+      },
+      {
+        "q": "De kaart staat scheef of de tracking raakt kwijt: wat nu?",
+        "a": "Loop langzaam, met de iPhone voor je, en richt op plekken met details in plaats van op een effen muur. Tijdens de scan laat de app zien wat je moet bijsturen, bijvoorbeeld ‘Beweeg wat langzamer’. Over lange afstanden kan de tracking een beetje afdrijven: maak liever meerdere korte scans dan één erg lange."
+      },
+      {
+        "q": "De kaart is overal rood: ligt dat aan mijn wifi?",
+        "a": "Niet per se. De metingen lopen via een server op internet, dus een trage internetverbinding of een hoge latentie drukt op de hele woning. Het zijn de verschillen tussen de kamers die de zwakke plekken van de wifi laten zien."
+      },
+      {
+        "q": "Hoe deel, hernoem of verwijder ik een scan?",
+        "a": "Open de scan vanaf het beginscherm. Met de deelknop bovenaan het scherm stuur je hem als afbeelding door; in het menu ernaast kun je hem hernoemen of verwijderen."
+      },
+      {
+        "q": "Kan ik een andere testserver gebruiken?",
+        "a": "Ja, bij Instellingen › Testserver. Die server moet het aantal bytes teruggeven dat via de parameter ‘bytes’ wordt gevraagd."
+      }
+    ],
+    "privacy_summary": "Wifi-kaart verzamelt geen persoonsgegevens en bevat geen reclame, aankopen of trackers. Je scans blijven op je apparaat. Om de snelheid te meten downloadt de app gegevens van een testserver, die net als elke website je IP-adres ziet."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In het kort",
+        "blocks": [
+          {
+            "p": "Wifi-kaart verzamelt geen persoonsgegevens, en de ontwikkelaar heeft geen eigen server. Je scans worden op je apparaat opgeslagen. De enige verbinding met internet dient om je wifi te meten, door gegevens van een testserver te downloaden."
+          }
+        ]
+      },
+      {
+        "h": "Je scans",
+        "blocks": [
+          {
+            "p": "Elke scan bevat zijn naam, zijn datum, de naam van het wifi-netwerk als die beschikbaar is, de metingen van snelheid en latentie en het afgelegde traject. Dat traject wordt uitgedrukt in meters ten opzichte van je startpunt: het is geen geografische positie."
+          },
+          {
+            "p": "De scans en de instellingen worden op je apparaat opgeslagen, en de ontwikkelaar heeft er geen toegang toe. Net als de gegevens van andere apps kunnen ze in de back-ups van je apparaat zitten als je die hebt ingeschakeld. Je kunt een scan op elk moment verwijderen; als je de app verwijdert, worden ze allemaal gewist."
+          }
+        ]
+      },
+      {
+        "h": "Wifi-meting en testserver",
+        "blocks": [
+          {
+            "p": "Tijdens een scan downloadt de app kleine blokken gegevens van een testserver: standaard speed.cloudflare.com, beheerd door Cloudflare. Zoals bij elke internetverbinding ziet die server je IP-adres en het downloadverzoek, waarin de grootte van het blok staat en een willekeurig nummer dat caching voorkomt."
+          },
+          {
+            "p": "Noch de naam van je netwerk, noch je scans, noch je resultaten worden naar die server gestuurd. Cloudflare verwerkt deze verbindingen volgens zijn eigen privacybeleid. Als je in de instellingen een andere server kiest, ontvangt die server deze verbindingen."
+          }
+        ]
+      },
+      {
+        "h": "Gevraagde toestemmingen",
+        "blocks": [
+          {
+            "p": "Je kunt elke toestemming intrekken in de Instellingen van je apparaat."
+          },
+          {
+            "ul": [
+              "<strong>Camera</strong>: om je positie in de woning te volgen tijdens een scan. Er wordt geen enkel beeld opgeslagen of verstuurd. Met de modus ‘Met vinger’ kun je zonder.",
+              "<strong>Locatie</strong>: iOS eist die om de naam van het wifi-netwerk te lezen. De app leest je GPS-coördinaten niet uit. De netwerknaam blijft op je apparaat."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Delen",
+        "blocks": [
+          {
+            "p": "Je kunt een scan als afbeelding delen met de middelen van iOS (AirDrop, Messages, Mail …). De afbeelding toont de naam van de scan, de datum, de kaart en de statistieken, maar niet de netwerknaam. Er wordt niets gedeeld zonder dat je erom vraagt."
+          }
+        ]
+      },
+      {
+        "h": "Reclame, aankopen en tracking",
+        "blocks": [
+          {
+            "p": "Wifi-kaart is gratis en vraagt geen account. De app bevat geen reclame, geen in-app-aankopen, geen trackers en geen tools voor analyse of gebruiksstatistieken."
+          }
+        ]
+      },
+      {
+        "h": "Kinderen",
+        "blocks": [
+          {
+            "p": "De app verzamelt geen gegevens en is geschikt voor alle leeftijden."
+          }
+        ]
+      },
+      {
+        "h": "Wijzigingen",
+        "blocks": [
+          {
+            "p": "Als dit beleid verandert, wordt de nieuwe versie op deze pagina gepubliceerd met de datum van de wijziging."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Voor vragen over dit beleid: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

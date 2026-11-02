@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Arkusz wyników Państwa gier karcianych i planszowych",
+    "contact": "Pytanie, pomysł albo źle policzona zasada? Proszę do mnie napisać:<br>{email}",
+    "faq": [
+      {
+        "q": "Czy Tablée to gra karciana?",
+        "a": "Nie. Tablée to arkusz wyników: liczy punkty, a karty zostają na stole. Do gry potrzebna jest więc własna gra."
+      },
+      {
+        "q": "Jakie gry są obsługiwane?",
+        "a": "Belote, coinche, tarot, Scrabble i Uno. W przypadku wszystkich pozostałych gier na punkty (Yahtzee, remik, Skyjo…) proszę użyć gry dowolnej: wygrywa najwyższy lub najniższy wynik, według Państwa wyboru."
+      },
+      {
+        "q": "Moje zasady są inne: czy mogę je zmienić?",
+        "a": "Tak. Domyślnie obowiązują zasady oficjalne, a popularne warianty (zaokrąglanie, belote do przejęcia, metoda coinche…) to ustawienia każdej partii. Można je zmieniać w trakcie partii: arkusz zostanie wtedy przeliczony."
+      },
+      {
+        "q": "Jak sprawdzić, skąd wziął się wynik?",
+        "a": "Proszę otworzyć odpowiednie rozdanie, a następnie „Szczegóły obliczeń”: każda linia punktacji jest tam wyjaśniona. Zasady każdej gry są też dostępne w menu arkusza oraz w Ustawieniach › Zasady gier."
+      },
+      {
+        "q": "Pomyłka w rozdaniu: co robić?",
+        "a": "Można poprawić lub usunąć dowolne rozdanie z arkusza albo cofnąć ostatnie. Sumy są od razu przeliczane."
+      },
+      {
+        "q": "Jak zmienić urządzenie, nie tracąc partii?",
+        "a": "Na starym urządzeniu proszę otworzyć Ustawienia › „Eksportuj wszystko (JSON)” i zapisać plik. Na nowym proszę wybrać „Importuj plik”: partie i gracze zostaną dodani do już istniejących, bez nadpisywania czegokolwiek."
+      },
+      {
+        "q": "Czy moje partie są synchronizowane lub zapisywane w kopii zapasowej?",
+        "a": "Każda zmiana jest zapisywana na Państwa urządzeniu, a partię można wznowić w miejscu, w którym została przerwana. Tablée niczego nie synchronizuje między urządzeniami, a jej dane znikają po usunięciu aplikacji: warto od czasu do czasu wyeksportować kopię zapasową."
+      },
+      {
+        "q": "Jak udostępnić wynik?",
+        "a": "W menu arkusza „Udostępnij” oferuje obraz arkusza i wykresu albo podsumowanie w formie tekstu. Do arkusza kalkulacyjnego proszę użyć Ustawienia › „Eksportuj do arkusza kalkulacyjnego (CSV)”."
+      },
+      {
+        "q": "Jak wszystko usunąć?",
+        "a": "Proszę wejść w Ustawienia › „Usuń wszystkie dane”. Tej operacji nie można cofnąć: jeśli chcą Państwo zachować partie, proszę najpierw wyeksportować kopię zapasową."
+      }
+    ],
+    "privacy_summary": "Tablée nie zbiera żadnych danych osobowych, nie łączy się z żadnym serwerem i nie zawiera reklam, zakupów ani trackerów. Państwa partie zostają na Państwa urządzeniu."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "W skrócie",
+        "blocks": [
+          {
+            "p": "Tablée nie zbiera żadnych danych osobowych. Aplikacja działa offline, nie łączy się z żadnym serwerem i nie wymaga konta. Wszystko, co Państwo wpiszą, zostaje na Państwa urządzeniu, chyba że zdecydują się to udostępnić lub wyeksportować."
+          }
+        ]
+      },
+      {
+        "h": "Państwa dane",
+        "blocks": [
+          {
+            "p": "Aplikacja zapisuje Państwa partie, ich punkty i zasady, książkę graczy (imię, emoji, kolor), statystyki obliczone na podstawie tych partii oraz ustawienia. Nazwa gracza może być dowolna: jest przydatna tylko Państwu."
+          },
+          {
+            "p": "Dane te są zapisywane na Państwa urządzeniu, a deweloper nie ma do nich dostępu. Podobnie jak dane innych aplikacji, mogą znajdować się w kopiach zapasowych Państwa urządzenia, jeśli są one włączone. Wszystko można usunąć w ustawieniach; usunięcie aplikacji także je kasuje."
+          }
+        ]
+      },
+      {
+        "h": "Udostępnianie, eksport i import",
+        "blocks": [
+          {
+            "p": "Nic nie opuszcza aplikacji bez Państwa działania."
+          },
+          {
+            "ul": [
+              "<strong>Udostępnianie partii</strong>: obraz lub tekst przechodzi przez narzędzia iOS (AirDrop, Messages, Mail…) i zawiera imiona graczy oraz ich punkty.",
+              "<strong>Eksport</strong>: plik JSON lub CSV zawiera Państwa partie i imiona graczy. To Państwo wybierają, gdzie go zapisać; podlega on wtedy warunkom wybranej usługi.",
+              "<strong>Import</strong>: aplikacja odczytuje wyłącznie plik wybrany przez Państwa."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Uprawnienia",
+        "blocks": [
+          {
+            "p": "Tablée nie prosi o żadne uprawnienia: ani do aparatu, ani do lokalizacji, ani do kontaktów, ani do zdjęć."
+          }
+        ]
+      },
+      {
+        "h": "Reklamy, zakupy i śledzenie",
+        "blocks": [
+          {
+            "p": "Tablée jest bezpłatna. Nie zawiera reklam, zakupów w aplikacji, trackerów ani narzędzi analitycznych czy statystyk użytkowania."
+          }
+        ]
+      },
+      {
+        "h": "Dzieci",
+        "blocks": [
+          {
+            "p": "Aplikacja nie zbiera żadnych danych i jest odpowiednia dla osób w każdym wieku."
+          }
+        ]
+      },
+      {
+        "h": "Zmiany",
+        "blocks": [
+          {
+            "p": "Jeśli ta polityka się zmieni, nowa wersja zostanie opublikowana na tej stronie wraz z datą aktualizacji."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "W razie pytań dotyczących tej polityki: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

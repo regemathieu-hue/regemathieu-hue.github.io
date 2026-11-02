@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Zapisnik bodova za vaše kartaške i društvene igre",
+    "contact": "Pitanje, ideja ili krivo izbrojeno pravilo? Pišite mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Je li Tablée kartaška igra?",
+        "a": "Ne. Tablée je zapisnik bodova: broji bodove, a karte ostaju na stolu. Za igranje stoga trebate vlastitu igru."
+      },
+      {
+        "q": "Koje su igre podržane?",
+        "a": "Belote, coinche, tarot, Scrabble i Uno. Za sve ostale igre s bodovima (jamb, remi, Skyjo…) upotrijebite slobodnu igru: pobjeđuje najviši ili najniži rezultat, prema vašem izboru."
+      },
+      {
+        "q": "Moja su pravila drukčija: mogu li ih promijeniti?",
+        "a": "Da. Prema zadanim postavkama primjenjuju se službena pravila, a uobičajene varijante (zaokruživanje, belote se može izgubiti, metoda za coinche…) postavke su svake partije. Možete ih mijenjati i tijekom partije: zapisnik se tada preračuna."
+      },
+      {
+        "q": "Kako saznati odakle dolazi neki rezultat?",
+        "a": "Otvorite dotično dijeljenje, a zatim „Detalji izračuna”: svaki redak zapisa tamo je objašnjen. Pravila svake igre dostupna su i u izborniku zapisnika te u Postavkama › Pravila igara."
+      },
+      {
+        "q": "Pogreška u dijeljenju: što učiniti?",
+        "a": "Možete ispraviti ili izbrisati bilo koje dijeljenje u zapisniku ili poništiti zadnje. Zbrojevi se odmah preračunavaju."
+      },
+      {
+        "q": "Kako promijeniti uređaj bez gubitka partija?",
+        "a": "Na starom uređaju otvorite Postavke › „Izvezi sve (JSON)” i spremite datoteku. Na novom odaberite „Uvezi datoteku”: partije i igrači dodaju se onima koji već postoje, bez ičeg prepisivanja."
+      },
+      {
+        "q": "Sinkroniziraju li se moje partije ili se spremaju kao sigurnosna kopija?",
+        "a": "Svaka se izmjena sprema na vaš uređaj, a partiju nastavljate ondje gdje ste stali. Tablée ništa ne sinkronizira među vašim uređajima, a njezini podaci nestaju ako izbrišete aplikaciju: povremeno izvezite sigurnosnu kopiju."
+      },
+      {
+        "q": "Kako podijeliti rezultat?",
+        "a": "U izborniku zapisnika „Podijeli” nudi sliku zapisnika i grafikona ili sažetak u obliku teksta. Za proračunsku tablicu upotrijebite Postavke › „Izvezi za proračunsku tablicu (CSV)”."
+      },
+      {
+        "q": "Kako sve izbrisati?",
+        "a": "U Postavkama › „Izbriši sve podatke”. Ta je radnja trajna: ako želite zadržati partije, prvo izvezite sigurnosnu kopiju."
+      }
+    ],
+    "privacy_summary": "Tablée ne prikuplja nikakve osobne podatke, ne povezuje se ni s jednim poslužiteljem i ne sadrži oglase, kupnje ni alate za praćenje. Vaše partije ostaju na vašem uređaju."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ukratko",
+        "blocks": [
+          {
+            "p": "Tablée ne prikuplja nikakve osobne podatke. Aplikacija radi izvan mreže, ne povezuje se ni s jednim poslužiteljem i ne traži račun. Sve što unesete ostaje na vašem uređaju, osim ako ne odlučite to podijeliti ili izvesti."
+          }
+        ]
+      },
+      {
+        "h": "Vaši podaci",
+        "blocks": [
+          {
+            "p": "Aplikacija sprema vaše partije, njihove bodove i pravila, vaš popis igrača (ime, emoji, boja), statistiku izračunatu iz tih partija i vaše postavke. Ime igrača može biti kakvo god želite: korisno je samo vama."
+          },
+          {
+            "p": "Ti se podaci spremaju na vašem uređaju i programer nema pristup njima. Kao i podaci drugih aplikacija, mogu se nalaziti u sigurnosnim kopijama vašeg uređaja ako su uključene. Sve možete izbrisati u postavkama; brisanjem aplikacije također se brišu."
+          }
+        ]
+      },
+      {
+        "h": "Dijeljenje, izvoz i uvoz",
+        "blocks": [
+          {
+            "p": "Ništa ne izlazi iz aplikacije bez vaše radnje."
+          },
+          {
+            "ul": [
+              "<strong>Dijeljenje partije</strong>: slika ili tekst prolazi kroz alate sustava iOS (AirDrop, Messages, Mail…) i sadrži imena igrača i njihove bodove.",
+              "<strong>Izvoz</strong>: datoteka JSON ili CSV sadrži vaše partije i imena igrača. Vi birate gdje ćete je spremiti; tada podliježe uvjetima odabrane usluge.",
+              "<strong>Uvoz</strong>: aplikacija čita samo datoteku koju odaberete."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Zatražena dopuštenja",
+        "blocks": [
+          {
+            "p": "Tablée ne traži nikakva dopuštenja: ni kameru, ni lokaciju, ni kontakte, ni fotografije."
+          }
+        ]
+      },
+      {
+        "h": "Oglasi, kupnje i praćenje",
+        "blocks": [
+          {
+            "p": "Tablée je besplatna. Ne sadrži oglase, kupnje unutar aplikacije, alate za praćenje ni alate za analitiku ili statistiku korištenja."
+          }
+        ]
+      },
+      {
+        "h": "Djeca",
+        "blocks": [
+          {
+            "p": "Aplikacija ne prikuplja nikakve podatke i prikladna je za sve uzraste."
+          }
+        ]
+      },
+      {
+        "h": "Izmjene",
+        "blocks": [
+          {
+            "p": "Ako se ova politika promijeni, nova verzija bit će objavljena na ovoj stranici s datumom ažuriranja."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Za sva pitanja o ovoj politici: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

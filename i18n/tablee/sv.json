@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Poängbladet för dina kortspel och sällskapsspel",
+    "contact": "En fråga, en idé eller en regel som räknats fel? Skriv till mig:<br>{email}",
+    "faq": [
+      {
+        "q": "Är Tablée ett kortspel?",
+        "a": "Nej. Tablée är ett poängblad: appen räknar poängen, och korten ligger kvar på bordet. Du behöver alltså ditt eget spel för att spela."
+      },
+      {
+        "q": "Vilka spel stöds?",
+        "a": "Belote, coinche, tarot, Scrabble och Uno. För alla andra spel med poäng (Yatzy, Rummy, Skyjo …) använder du fritt spel: den högsta eller den lägsta poängen vinner, som du väljer."
+      },
+      {
+        "q": "Mina regler ser annorlunda ut: kan jag ändra dem?",
+        "a": "Ja. De officiella reglerna gäller som standard, och vanliga varianter (avrundning, belote kan tas, coinchens räknemetod …) är inställningar för varje parti. Du kan ändra dem under pågående parti: bladet räknas då om."
+      },
+      {
+        "q": "Hur ser jag var ett resultat kommer ifrån?",
+        "a": "Öppna den aktuella given och sedan ”Beräkningsdetaljer”: där förklaras varje rad i poängen. Reglerna för varje spel finns också i bladets meny och i Inställningar › Spelregler."
+      },
+      {
+        "q": "Jag gjorde fel i en giv: vad gör jag?",
+        "a": "Du kan rätta eller ta bort vilken giv som helst i bladet, eller ångra den senaste. Summorna räknas om direkt."
+      },
+      {
+        "q": "Hur byter jag enhet utan att förlora mina partier?",
+        "a": "Öppna Inställningar › ”Exportera allt (JSON)” på den gamla enheten och spara filen. Välj ”Importera en fil” på den nya: partierna och spelarna läggs till bland dem som redan finns, utan att något skrivs över."
+      },
+      {
+        "q": "Synkas eller säkerhetskopieras mina partier?",
+        "a": "Varje ändring sparas på din enhet, och du fortsätter partiet där du slutade. Tablée synkar ingenting mellan dina enheter, och datan försvinner om du raderar appen: kom ihåg att exportera en säkerhetskopia då och då."
+      },
+      {
+        "q": "Hur delar jag ett resultat?",
+        "a": "I bladets meny erbjuder ”Dela” en bild av bladet och diagrammet, eller en sammanfattning som text. För ett kalkylblad använder du Inställningar › ”Exportera för kalkylblad (CSV)”."
+      },
+      {
+        "q": "Hur raderar jag allt?",
+        "a": "Via Inställningar › ”Radera all data”. Det går inte att ångra: exportera först en säkerhetskopia om du vill behålla dina partier."
+      }
+    ],
+    "privacy_summary": "Tablée samlar inte in några personuppgifter, ansluter inte till någon server och innehåller varken reklam, köp eller spårare. Dina partier stannar på din enhet."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "I korthet",
+        "blocks": [
+          {
+            "p": "Tablée samlar inte in några personuppgifter. Appen fungerar offline, ansluter inte till någon server och kräver inget konto. Allt du skriver in stannar på din enhet, om du inte själv väljer att dela eller exportera det."
+          }
+        ]
+      },
+      {
+        "h": "Din data",
+        "blocks": [
+          {
+            "p": "Appen sparar dina partier, deras poäng och regler, din spelarlista (namn, emoji, färg), statistiken som räknas ut från partierna och dina inställningar. Ett spelarnamn kan vara vad du vill: det är bara till nytta för dig."
+          },
+          {
+            "p": "Datan sparas på din enhet, och utvecklaren har inte tillgång till den. Precis som data från andra appar kan den ingå i säkerhetskopiorna av din enhet om du har slagit på dem. Du kan radera allt i inställningarna; om du raderar appen försvinner datan också."
+          }
+        ]
+      },
+      {
+        "h": "Delning, export och import",
+        "blocks": [
+          {
+            "p": "Ingenting lämnar appen utan att du gör något."
+          },
+          {
+            "ul": [
+              "<strong>Dela ett parti</strong>: bilden eller texten går via iOS egna verktyg (AirDrop, Messages, Mail …) och innehåller spelarnas namn och deras poäng.",
+              "<strong>Export</strong>: JSON- eller CSV-filen innehåller dina partier och spelarnas namn. Du väljer var den sparas; den omfattas då av villkoren för den tjänst du har valt.",
+              "<strong>Import</strong>: appen läser bara den fil du väljer."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Begärda behörigheter",
+        "blocks": [
+          {
+            "p": "Tablée begär inga behörigheter: varken kamera, plats, kontakter eller foton."
+          }
+        ]
+      },
+      {
+        "h": "Reklam, köp och spårning",
+        "blocks": [
+          {
+            "p": "Tablée är gratis. Appen innehåller ingen reklam, inga köp i appen, inga spårare och inga verktyg för analys eller användningsstatistik."
+          }
+        ]
+      },
+      {
+        "h": "Barn",
+        "blocks": [
+          {
+            "p": "Appen samlar inte in några uppgifter och passar alla åldrar."
+          }
+        ]
+      },
+      {
+        "h": "Ändringar",
+        "blocks": [
+          {
+            "p": "Om den här policyn ändras publiceras den nya versionen på den här sidan med datum för uppdateringen."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Frågor om den här policyn: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

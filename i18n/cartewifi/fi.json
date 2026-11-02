@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Näe, missä Wi-Fisi heikkenee, huone huoneelta",
+    "contact": "Kysymys, idea tai bugi? Kirjoita minulle:<br>{email}",
+    "faq": [
+      {
+        "q": "Miksi sovellus ei näytä signaalin voimakkuutta?",
+        "a": "iOS ei anna sovelluksille Wi-Fi-signaalin raakaa voimakkuutta. Siksi Wi-Fi-kartta mittaa sen, mitä Wi-Fisi todella tarjoaa joka paikassa: nopeuden ja viiveen. Kartalla näkyvä pistemäärä 0–100 perustuu näihin kahteen mittaukseen."
+      },
+      {
+        "q": "Mihin kameraa tarvitaan?",
+        "a": "Sen avulla iPhone seuraa sijaintiasi kävellessäsi. Mitään kuvaa ei tallenneta eikä lähetetä. Jos et halua käyttää kameraa tai laitteesi ei tue tätä seurantaa, valitse ennen aloittamista ”Sormella”: silloin siirrät sijaintiasi liu'uttamalla sormea kartalla."
+      },
+      {
+        "q": "Miksi sovellus pyytää sijaintiani?",
+        "a": "iOS vaatii tämän luvan, jotta sovellus voi lukea Wi-Fi-verkon nimen. Lupaa ei käytetä mihinkään muuhun: sovellus ei lue GPS-koordinaattejasi. Jos kieltäydyt, skannaus toimii silti, mutta verkon nimeä ei näytetä."
+      },
+      {
+        "q": "Kuinka paljon dataa skannaus kuluttaa?",
+        "a": "Oletusasetuksilla noin 1 Mt sekunnissa eli noin 300 Mt viiden minuutin skannauksessa. Jos haluat kuluttaa vähemmän, avaa Asetukset (rataskuvake aloitusnäytössä) ja valitse kohdassa ”Dataa per mittaus” ”250 kt (säästävä)”."
+      },
+      {
+        "q": "Käyttääkö skannaus 4G- tai 5G-verkkoa?",
+        "a": "Ei. Mittaukset kulkevat vain Wi-Fin kautta. Jos Wi-Fi katkeaa, mittaus putoaa nollaan sen sijaan, että mitattaisiin mobiiliverkkoa, ja kartta näyttää tämän."
+      },
+      {
+        "q": "Kartta on siirtynyt tai seuranta katoaa: mitä teen?",
+        "a": "Kävele hitaasti iPhone edessäsi ja suuntaa kamera kohtiin, joissa on yksityiskohtia, älä tasaiseen seinään. Skannauksen aikana sovellus näyttää, mitä pitää korjata, esimerkiksi ”Liiku hieman hitaammin”. Pitkillä matkoilla seuranta voi ajautua hieman pois: useampi lyhyt skannaus on parempi kuin yksi hyvin pitkä."
+      },
+      {
+        "q": "Kartta on punainen kaikkialla: johtuuko se Wi-Fistäni?",
+        "a": "Ei välttämättä. Mittaukset kulkevat internetissä olevan palvelimen kautta, joten hidas internetyhteys tai suuri viive vaikuttaa koko asuntoon. Wi-Fin heikkoudet paljastuvat huoneiden välisistä eroista."
+      },
+      {
+        "q": "Miten jaan, nimeän uudelleen tai poistan skannauksen?",
+        "a": "Avaa skannaus aloitusnäytöstä. Näytön yläreunan jakopainike lähettää sen kuvana; viereisestä valikosta voit nimetä sen uudelleen tai poistaa sen."
+      },
+      {
+        "q": "Voinko käyttää toista testipalvelinta?",
+        "a": "Kyllä, kohdassa Asetukset › Testipalvelin. Palvelimen on palautettava ”bytes”-parametrin pyytämä määrä tavuja."
+      }
+    ],
+    "privacy_summary": "Wi-Fi-kartta ei kerää henkilötietoja eikä sisällä mainoksia, ostoksia tai seurantaa. Skannauksesi pysyvät laitteellasi. Nopeuden mittaamiseksi sovellus lataa dataa testipalvelimelta, joka näkee IP-osoitteesi kuten mikä tahansa verkkosivusto."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Lyhyesti",
+        "blocks": [
+          {
+            "p": "Wi-Fi-kartta ei kerää henkilötietoja, eikä kehittäjällä ole palvelinta. Skannauksesi tallennetaan laitteellesi. Ainoa internetyhteys on Wi-Fisi mittaaminen lataamalla dataa testipalvelimelta."
+          }
+        ]
+      },
+      {
+        "h": "Skannauksesi",
+        "blocks": [
+          {
+            "p": "Jokainen skannaus sisältää nimensä, päivämääränsä, Wi-Fi-verkon nimen, jos se on saatavilla, nopeus- ja viivemittaukset sekä kuljetun reitin. Reitti ilmoitetaan metreinä lähtöpisteestäsi: se ei ole maantieteellinen sijainti."
+          },
+          {
+            "p": "Skannaukset ja asetukset tallennetaan laitteellesi, eikä kehittäjä pääse niihin käsiksi. Kuten muidenkin sovellusten tiedot, ne voivat sisältyä laitteesi varmuuskopioihin, jos olet ottanut ne käyttöön. Voit poistaa skannauksen milloin tahansa; sovelluksen poistaminen poistaa ne kaikki."
+          }
+        ]
+      },
+      {
+        "h": "Wi-Fin mittaus ja testipalvelin",
+        "blocks": [
+          {
+            "p": "Skannauksen aikana sovellus lataa pieniä datapaketteja testipalvelimelta: oletuksena speed.cloudflare.com, jota ylläpitää Cloudflare. Kuten missä tahansa internetyhteydessä, tämä palvelin näkee IP-osoitteesi ja latauspyynnön, josta ilmenevät paketin koko ja satunnaisluku, joka estää välimuistiin tallentamisen."
+          },
+          {
+            "p": "Sille ei lähetetä verkkosi nimeä, skannauksiasi eikä tuloksiasi. Cloudflare käsittelee nämä yhteydet oman tietosuojakäytäntönsä mukaisesti. Jos valitset asetuksissa toisen palvelimen, kyseinen palvelin vastaanottaa nämä yhteydet."
+          }
+        ]
+      },
+      {
+        "h": "Pyydetyt luvat",
+        "blocks": [
+          {
+            "p": "Voit perua jokaisen luvan laitteesi Asetuksista."
+          },
+          {
+            "ul": [
+              "<strong>Kamera</strong>: sijaintisi seuraamiseen asunnossa skannauksen aikana. Mitään kuvaa ei tallenneta eikä lähetetä. ”Sormella”-tila mahdollistaa kamerasta luopumisen.",
+              "<strong>Sijainti</strong>: iOS vaatii sen Wi-Fi-verkon nimen lukemiseen. Sovellus ei lue GPS-koordinaattejasi. Verkon nimi pysyy laitteellasi."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Jakaminen",
+        "blocks": [
+          {
+            "p": "Voit jakaa skannauksen kuvana iOS:n työkaluilla (AirDrop, Messages, Mail…). Kuvassa näkyvät skannauksen nimi, päivämäärä, kartta ja tilastot, mutta ei verkon nimeä. Mitään ei jaeta ilman pyyntöäsi."
+          }
+        ]
+      },
+      {
+        "h": "Mainokset, ostot ja seuranta",
+        "blocks": [
+          {
+            "p": "Wi-Fi-kartta on ilmainen, eikä se vaadi tiliä. Se ei sisällä mainoksia, sovelluksen sisäisiä ostoja, seurantaa eikä analytiikka- tai käyttötilastotyökaluja."
+          }
+        ]
+      },
+      {
+        "h": "Lapset",
+        "blocks": [
+          {
+            "p": "Sovellus ei kerää mitään tietoja ja sopii kaikenikäisille."
+          }
+        ]
+      },
+      {
+        "h": "Muutokset",
+        "blocks": [
+          {
+            "p": "Jos tämä käytäntö muuttuu, uusi versio julkaistaan tällä sivulla päivityspäivämäärineen."
+          }
+        ]
+      },
+      {
+        "h": "Yhteystiedot",
+        "blocks": [
+          {
+            "p": "Jos sinulla on kysymyksiä tästä käytännöstä: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

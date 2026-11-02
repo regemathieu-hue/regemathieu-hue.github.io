@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Kenal pasti di mana Wi-Fi kamu lemah, bilik demi bilik",
+    "contact": "Ada soalan, idea atau pepijat? Tulis kepada saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Kenapa apl tidak menunjukkan kekuatan isyarat?",
+        "a": "iOS tidak memberikan kekuatan isyarat Wi-Fi mentah kepada apl. Jadi Peta Wi-Fi mengukur apa yang benar-benar disampaikan oleh Wi-Fi kamu di setiap tempat: kelajuan dan kependaman. Skor 0 hingga 100 yang dipaparkan pada peta datang daripada kedua-dua ukuran ini."
+      },
+      {
+        "q": "Apakah kegunaan kamera?",
+        "a": "Kamera membolehkan iPhone menjejak kedudukan kamu semasa kamu berjalan. Tiada imej yang disimpan atau dihantar. Jika kamu lebih suka tidak menggunakannya, atau jika peranti kamu tidak menyokong penjejakan ini, pilih “Dengan jari” sebelum bermula: kamu kemudian mengalihkan kedudukan kamu dengan menyeret jari pada peta."
+      },
+      {
+        "q": "Kenapa apl meminta lokasi saya?",
+        "a": "iOS mewajibkan kebenaran ini supaya sesebuah apl boleh membaca nama rangkaian Wi-Fi. Ia tidak digunakan untuk apa-apa lagi: apl tidak membaca koordinat GPS kamu. Jika kamu menolaknya, imbasan tetap berfungsi, cuma tanpa memaparkan nama rangkaian."
+      },
+      {
+        "q": "Berapa banyak data yang digunakan oleh satu imbasan?",
+        "a": "Kira-kira 1 MB sesaat dengan tetapan lalai, iaitu lebih kurang 300 MB untuk imbasan 5 minit. Untuk menggunakan kurang, buka Tetapan (ikon gear pada skrin utama) dan pilih “250 KB (jimat)” dalam “Data setiap ukuran”."
+      },
+      {
+        "q": "Adakah imbasan menggunakan 4G atau 5G?",
+        "a": "Tidak. Pengukuran hanya melalui Wi-Fi. Jika Wi-Fi terputus, bacaan jatuh kepada 0 dan bukannya mengukur rangkaian mudah alih, dan peta menunjukkannya."
+      },
+      {
+        "q": "Peta tersasar atau penjejakan hilang: apa yang boleh dibuat?",
+        "a": "Berjalan perlahan-lahan dengan iPhone di hadapan kamu, dan halakan ke tempat yang ada perincian, bukan dinding kosong. Semasa imbasan, apl memaparkan apa yang perlu dibetulkan, contohnya “Bergerak sedikit lebih perlahan”. Pada jarak yang jauh, penjejakan boleh tersasar sedikit: lebih baik membuat beberapa imbasan pendek daripada satu imbasan yang sangat panjang."
+      },
+      {
+        "q": "Peta merah di mana-mana: adakah itu Wi-Fi saya?",
+        "a": "Belum tentu. Pengukuran melalui sebuah pelayan di internet, jadi sambungan internet yang perlahan atau kependaman yang tinggi menjejaskan seluruh rumah. Perbezaan antara bilik-bilik itulah yang mendedahkan kelemahan Wi-Fi."
+      },
+      {
+        "q": "Bagaimana cara berkongsi, menamakan semula atau memadam imbasan?",
+        "a": "Buka imbasan itu dari skrin utama. Butang kongsi di bahagian atas skrin menghantarnya sebagai imej; menu di sebelahnya membolehkan kamu menamakan semula atau memadamkannya."
+      },
+      {
+        "q": "Bolehkah saya menggunakan pelayan ujian yang lain?",
+        "a": "Boleh, dalam Tetapan › Pelayan ujian. Pelayan itu mesti mengembalikan bilangan bait yang diminta oleh parameter “bytes”."
+      }
+    ],
+    "privacy_summary": "Peta Wi-Fi tidak mengumpul sebarang data peribadi dan tidak mengandungi iklan, pembelian atau penjejak. Imbasan kamu kekal pada peranti kamu. Untuk mengukur kelajuan, apl memuat turun data daripada pelayan ujian, yang melihat alamat IP kamu seperti mana-mana laman web."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasnya",
+        "blocks": [
+          {
+            "p": "Peta Wi-Fi tidak mengumpul sebarang data peribadi, dan pembangun tidak mempunyai pelayan. Imbasan kamu disimpan pada peranti kamu. Satu-satunya sambungan ke internet digunakan untuk mengukur Wi-Fi kamu, dengan memuat turun data daripada pelayan ujian."
+          }
+        ]
+      },
+      {
+        "h": "Imbasan kamu",
+        "blocks": [
+          {
+            "p": "Setiap imbasan mengandungi namanya, tarikhnya, nama rangkaian Wi-Fi jika ada, ukuran kelajuan dan kependaman, serta laluan yang kamu lalui. Laluan ini dinyatakan dalam meter berbanding titik permulaan kamu: ia bukan lokasi geografi."
+          },
+          {
+            "p": "Imbasan dan tetapan disimpan pada peranti kamu, dan pembangun tidak boleh mengaksesnya. Seperti data apl lain, ia mungkin disertakan dalam sandaran peranti kamu jika kamu telah mengaktifkannya. Kamu boleh memadam imbasan pada bila-bila masa; memadam apl akan memadam semuanya."
+          }
+        ]
+      },
+      {
+        "h": "Pengukuran Wi-Fi dan pelayan ujian",
+        "blocks": [
+          {
+            "p": "Semasa imbasan, apl memuat turun blok data kecil daripada pelayan ujian: secara lalai speed.cloudflare.com, yang dikendalikan oleh Cloudflare. Seperti pada mana-mana sambungan internet, pelayan ini melihat alamat IP kamu dan permintaan muat turun, yang menyatakan saiz blok dan satu nombor rawak yang menghalang pengesanan dalam cache."
+          },
+          {
+            "p": "Nama rangkaian kamu, imbasan kamu dan keputusan kamu tidak dihantar kepadanya. Cloudflare mengendalikan sambungan ini mengikut dasar privasinya sendiri. Jika kamu memilih pelayan lain dalam tetapan, pelayan itulah yang menerima sambungan ini."
+          }
+        ]
+      },
+      {
+        "h": "Kebenaran yang diminta",
+        "blocks": [
+          {
+            "p": "Kamu boleh menarik balik setiap kebenaran dalam Tetapan peranti kamu."
+          },
+          {
+            "ul": [
+              "<strong>Kamera</strong>: untuk menjejak kedudukan kamu di dalam rumah semasa imbasan. Tiada imej yang disimpan atau dihantar. Mod “Dengan jari” membolehkan kamu tidak menggunakannya.",
+              "<strong>Lokasi</strong>: iOS mewajibkannya untuk membaca nama rangkaian Wi-Fi. Apl tidak membaca koordinat GPS kamu. Nama rangkaian kekal pada peranti kamu."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Perkongsian",
+        "blocks": [
+          {
+            "p": "Kamu boleh berkongsi imbasan sebagai imej dengan alat iOS (AirDrop, Messages, Mail…). Imej itu menunjukkan nama imbasan, tarikhnya, petanya dan statistiknya, tetapi bukan nama rangkaian. Tiada apa-apa yang dikongsi tanpa kamu memintanya."
+          }
+        ]
+      },
+      {
+        "h": "Iklan, pembelian dan penjejakan",
+        "blocks": [
+          {
+            "p": "Peta Wi-Fi percuma dan tidak memerlukan akaun. Ia tidak mengandungi sebarang iklan, pembelian dalam apl, penjejak atau alat analitik atau statistik penggunaan."
+          }
+        ]
+      },
+      {
+        "h": "Kanak-kanak",
+        "blocks": [
+          {
+            "p": "Aplikasi ini tidak mengumpul sebarang data dan sesuai untuk semua peringkat umur."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika dasar ini berubah, versi baharu akan diterbitkan di halaman ini bersama tarikh kemas kininya."
+          }
+        ]
+      },
+      {
+        "h": "Hubungi",
+        "blocks": [
+          {
+            "p": "Untuk sebarang soalan tentang dasar ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

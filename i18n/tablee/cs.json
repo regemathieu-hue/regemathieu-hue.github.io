@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Zápis skóre vašich karetních a společenských her",
+    "contact": "Otázka, nápad nebo špatně spočítané pravidlo? Napište mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Je Tablée karetní hra?",
+        "a": "Ne. Tablée je zápis skóre: počítá body a karty zůstávají na stole. K hraní proto potřebujete vlastní hru."
+      },
+      {
+        "q": "Které hry aplikace podporuje?",
+        "a": "Belote, coinche, tarot, Scrabble a Uno. Pro všechny ostatní hry na body (Yahtzee, rummy, Skyjo…) použijte volnou hru: vyhrává nejvyšší nebo nejnižší skóre, podle toho, co si zvolíte."
+      },
+      {
+        "q": "Hraji podle jiných pravidel: můžu je změnit?",
+        "a": "Ano. Ve výchozím nastavení platí oficiální pravidla a běžné varianty (zaokrouhlování, belote lze ztratit, metoda coinche…) jsou nastavením každé partie. Můžete je měnit i během partie: zápis se pak přepočítá."
+      },
+      {
+        "q": "Jak zjistím, odkud se výsledek vzal?",
+        "a": "Otevřete příslušné rozdání a poté „Podrobnosti výpočtu“: každý řádek zápisu je tam vysvětlen. Pravidla každé hry jsou také v nabídce zápisu a v Nastavení › Pravidla her."
+      },
+      {
+        "q": "V rozdání je chyba: co dělat?",
+        "a": "Můžete opravit nebo smazat libovolné rozdání v zápisu, nebo zrušit poslední. Součty se ihned přepočítají."
+      },
+      {
+        "q": "Jak přejít na jiné zařízení, aniž bych o partie přišel?",
+        "a": "Na původním zařízení otevřete Nastavení › „Exportovat vše (JSON)“ a soubor uložte. Na novém zvolte „Importovat soubor“: partie a hráči se přidají k těm, které tam už jsou, a nic se nepřepíše."
+      },
+      {
+        "q": "Synchronizují se moje partie, nebo se zálohují?",
+        "a": "Každá změna se ukládá ve vašem zařízení a v partii pokračujete tam, kde jste skončili. Tablée nic mezi vašimi zařízeními nesynchronizuje a její data zmizí, když aplikaci smažete: čas od času proto exportujte zálohu."
+      },
+      {
+        "q": "Jak sdílet výsledek?",
+        "a": "V nabídce zápisu „Sdílet“ nabízí obrázek zápisu a grafu, nebo textové shrnutí. Pro tabulkový procesor použijte Nastavení › „Exportovat pro tabulkový procesor (CSV)“."
+      },
+      {
+        "q": "Jak všechno smazat?",
+        "a": "V Nastavení › „Smazat všechna data“. Tato akce je nevratná: pokud chcete partie zachovat, nejprve exportujte zálohu."
+      }
+    ],
+    "privacy_summary": "Tablée neshromažďuje žádné osobní údaje, nepřipojuje se k žádnému serveru a neobsahuje reklamu, nákupy ani sledovací prvky. Vaše partie zůstávají ve vašem zařízení."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Stručně",
+        "blocks": [
+          {
+            "p": "Tablée neshromažďuje žádné osobní údaje. Aplikace funguje offline, nepřipojuje se k žádnému serveru a nevyžaduje žádný účet. Vše, co zadáte, zůstává ve vašem zařízení, pokud se to nerozhodnete sdílet nebo exportovat."
+          }
+        ]
+      },
+      {
+        "h": "Vaše data",
+        "blocks": [
+          {
+            "p": "Aplikace ukládá vaše partie, jejich body a pravidla, váš seznam hráčů (jméno, emoji, barva), statistiky spočítané z těchto partií a vaše nastavení. Jméno hráče může být libovolné: hodí se jen vám."
+          },
+          {
+            "p": "Tato data se ukládají ve vašem zařízení a vývojář k nim nemá přístup. Stejně jako data jiných aplikací se mohou objevit v zálohách vašeho zařízení, pokud je máte zapnuté. Vše můžete smazat v nastavení; odstraněním aplikace se data rovněž smažou."
+          }
+        ]
+      },
+      {
+        "h": "Sdílení, export a import",
+        "blocks": [
+          {
+            "p": "Nic aplikaci neopustí bez vašeho zásahu."
+          },
+          {
+            "ul": [
+              "<strong>Sdílení partie</strong>: obrázek nebo text projde nástroji iOS (AirDrop, Messages, Mail…) a obsahuje jména hráčů a jejich body.",
+              "<strong>Export</strong>: soubor JSON nebo CSV obsahuje vaše partie a jména hráčů. Kam ho uložíte, rozhodujete vy; podléhá pak podmínkám zvolené služby.",
+              "<strong>Import</strong>: aplikace čte pouze soubor, který vyberete."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Požadovaná oprávnění",
+        "blocks": [
+          {
+            "p": "Tablée nežádá o žádná oprávnění: ani k fotoaparátu, ani k poloze, ani ke kontaktům, ani k fotkám."
+          }
+        ]
+      },
+      {
+        "h": "Reklama, nákupy a sledování",
+        "blocks": [
+          {
+            "p": "Tablée je zdarma. Neobsahuje žádnou reklamu, žádné nákupy v aplikaci, žádné sledovací prvky ani nástroje pro analýzu či statistiky používání."
+          }
+        ]
+      },
+      {
+        "h": "Děti",
+        "blocks": [
+          {
+            "p": "Aplikace neshromažďuje žádné údaje a je vhodná pro všechny věkové kategorie."
+          }
+        ]
+      },
+      {
+        "h": "Změny",
+        "blocks": [
+          {
+            "p": "Pokud se tyto zásady změní, nová verze bude zveřejněna na této stránce s datem aktualizace."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Máte-li k těmto zásadám jakýkoli dotaz, napište mi: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

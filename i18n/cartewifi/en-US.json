@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Find where your Wi-Fi gets weak, room by room",
+    "contact": "A question, an idea or a bug? Write to me:<br>{email}",
+    "faq": [
+      {
+        "q": "Why doesn't the app show signal strength?",
+        "a": "iOS doesn't give apps the raw Wi-Fi signal strength. So Wi-Fi Map measures what your Wi-Fi actually delivers in each spot: speed and latency. The 0 to 100 score on the map comes from these two measurements."
+      },
+      {
+        "q": "What is the camera for?",
+        "a": "It lets your iPhone follow your position as you walk. No image is saved or sent. If you'd rather not use it, or if your device doesn't support this tracking, choose “By finger” before you start: you then move your position by dragging your finger on the map."
+      },
+      {
+        "q": "Why does the app ask for my location?",
+        "a": "iOS requires this permission before an app can read the Wi-Fi network name. It isn't used for anything else: the app doesn't read your GPS coordinates. If you decline, scanning still works, without showing the network name."
+      },
+      {
+        "q": "How much data does a scan use?",
+        "a": "About 1 MB per second with the default settings, or roughly 300 MB for a 5-minute scan. To use less, open Settings (the gear on the home screen) and choose “250 KB (light)” under “Data per reading”."
+      },
+      {
+        "q": "Does a scan use 4G or 5G?",
+        "a": "No. Measurements go over Wi-Fi only. If the Wi-Fi drops, the reading falls to 0 instead of measuring the cellular network, and the map shows it."
+      },
+      {
+        "q": "The map is off or tracking gets lost. What can I do?",
+        "a": "Walk slowly with your iPhone in front of you, and aim at places with some detail rather than a blank wall. During a scan, the app shows what to correct, such as “Move a little more slowly”. Over long distances, tracking can drift a little: several short scans work better than a very long one."
+      },
+      {
+        "q": "The map is red everywhere. Is it my Wi-Fi?",
+        "a": "Not necessarily. Measurements go through a server on the internet, so a slow connection or high latency affects the whole home. It's the differences between rooms that reveal Wi-Fi weaknesses."
+      },
+      {
+        "q": "How do I share, rename or delete a scan?",
+        "a": "Open the scan from the home screen. The share button at the top of the screen sends it as an image; the menu next to it lets you rename or delete it."
+      },
+      {
+        "q": "Can I use another test server?",
+        "a": "Yes, in Settings › Test server. The server must return the number of bytes requested by the “bytes” parameter."
+      }
+    ],
+    "privacy_summary": "Wi-Fi Map doesn't collect any personal data and has no ads, purchases or trackers. Your scans stay on your device. To measure speed, the app downloads data from a test server, which sees your IP address like any website."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In short",
+        "blocks": [
+          {
+            "p": "Wi-Fi Map doesn't collect any personal data, and the developer has no server. Your scans are saved on your device. The only internet connection is used to measure your Wi-Fi, by downloading data from a test server."
+          }
+        ]
+      },
+      {
+        "h": "Your scans",
+        "blocks": [
+          {
+            "p": "Each scan contains its name, its date, the Wi-Fi network name when available, the speed and latency measurements, and the path you walked. This path is expressed in meters relative to your starting point: it isn't a geographic location."
+          },
+          {
+            "p": "Scans and settings are saved on your device, and the developer has no access to them. Like other apps' data, they may be included in your device backups if you've turned them on. You can delete a scan at any time; deleting the app erases them all."
+          }
+        ]
+      },
+      {
+        "h": "Wi-Fi measurement and test server",
+        "blocks": [
+          {
+            "p": "During a scan, the app downloads small blocks of data from a test server: by default speed.cloudflare.com, operated by Cloudflare. As with any internet connection, this server sees your IP address and the download request, which states the block size and a random number that prevents caching."
+          },
+          {
+            "p": "Neither your network name, your scans nor your results are sent to it. Cloudflare handles these connections under its own privacy policy. If you choose another server in the settings, that server receives these connections instead."
+          }
+        ]
+      },
+      {
+        "h": "Permissions requested",
+        "blocks": [
+          {
+            "p": "You can withdraw each permission in your device's Settings."
+          },
+          {
+            "ul": [
+              "<strong>Camera</strong>: to follow your position in your home during a scan. No image is saved or sent. “By finger” mode lets you do without it.",
+              "<strong>Location</strong>: iOS requires it to read the Wi-Fi network name. The app doesn't read your GPS coordinates. The network name stays on your device."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Sharing",
+        "blocks": [
+          {
+            "p": "You can share a scan as an image with iOS tools (AirDrop, Messages, Mail…). The image shows the scan's name, date, map and statistics, but not the network name. Nothing is shared unless you ask."
+          }
+        ]
+      },
+      {
+        "h": "Ads, purchases and tracking",
+        "blocks": [
+          {
+            "p": "Wi-Fi Map is free and requires no account. It contains no ads, no in-app purchases, no trackers and no analytics or usage statistics tools."
+          }
+        ]
+      },
+      {
+        "h": "Children",
+        "blocks": [
+          {
+            "p": "The app doesn't collect any data and is suitable for all ages."
+          }
+        ]
+      },
+      {
+        "h": "Changes",
+        "blocks": [
+          {
+            "p": "If this policy changes, the new version will be published on this page with its update date."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "For any question about this policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

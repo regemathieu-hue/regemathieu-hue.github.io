@@ -8,9 +8,11 @@
   "apps": [
     { "id": "atelier-fichiers", "name": "Atelier Fichiers", "updated": "2026-10-22" },
     { "id": "carnetshooting", "name": "Shootbook", "names": { "fr-FR": "Carnet de shooting", "fr-CA": "Carnet de shooting" }, "updated": "2026-10-24" },
+    { "id": "cartewifi", "name": "Wi-Fi Map", "names": {"ar-SA": "خريطة واي فاي", "ca": "Mapa Wi-Fi", "cs": "Mapa Wi-Fi", "da": "Wi-Fi-kort", "de-DE": "WLAN-Karte", "el": "Χάρτης Wi-Fi", "es-ES": "Mapa Wi-Fi", "es-MX": "Mapa Wi-Fi", "fi": "Wi-Fi-kartta", "fr-CA": "Carte Wi-Fi", "fr-FR": "Carte Wi-Fi", "he": "מפת Wi-Fi", "hi": "Wi-Fi नक़्शा", "hr": "Wi-Fi karta", "hu": "Wi-Fi térkép", "id": "Peta Wi-Fi", "it": "Mappa Wi-Fi", "ja": "Wi-Fiマップ", "ko": "Wi-Fi 지도", "ms": "Peta Wi-Fi", "nl-NL": "Wifi-kaart", "no": "Wi-Fi-kart", "pl": "Mapa Wi-Fi", "pt-BR": "Mapa de Wi-Fi", "pt-PT": "Mapa Wi-Fi", "ro": "Hartă Wi-Fi", "ru": "Карта Wi-Fi", "sk": "Mapa Wi-Fi", "sv": "Wi-Fi-karta", "th": "แผนที่ Wi-Fi", "tr": "Wi-Fi Haritası", "uk": "Карта Wi-Fi", "vi": "Bản đồ Wi-Fi", "zh-Hans": "Wi-Fi 地图", "zh-Hant": "Wi-Fi 地圖"}, "updated": "2026-11-02" },
     { "id": "convert-everything", "name": "Convert Everything", "updated": "2026-05-02" },
     { "id": "flashbooth", "name": "Flashbooth", "updated": "2026-10-22" },
     { "id": "nuitclaire", "name": "Nuit Claire", "updated": "2026-10-22" },
+    { "id": "tablee", "name": "Tablée", "updated": "2026-11-02" },
     { "id": "uptime", "name": "Uptime", "updated": "2026-10-30" }
   ]
 }

@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Tìm ra chỗ Wi-Fi của bạn yếu đi, từng phòng một",
+    "contact": "Có câu hỏi, ý tưởng hay lỗi? Hãy viết cho tôi:<br>{email}",
+    "faq": [
+      {
+        "q": "Vì sao ứng dụng không hiển thị cường độ tín hiệu?",
+        "a": "iOS không cung cấp cho ứng dụng cường độ tín hiệu Wi-Fi thô. Vì vậy Bản đồ Wi-Fi đo những gì Wi-Fi của bạn thực sự mang lại ở từng chỗ: tốc độ và độ trễ. Điểm từ 0 đến 100 hiển thị trên bản đồ được tính từ hai phép đo này."
+      },
+      {
+        "q": "Camera dùng để làm gì?",
+        "a": "Camera giúp iPhone theo dõi vị trí của bạn khi bạn đi bộ. Không có hình ảnh nào được lưu hay gửi đi. Nếu bạn không muốn dùng camera, hoặc nếu thiết bị của bạn không hỗ trợ tính năng theo dõi này, hãy chọn “Bằng ngón tay” trước khi bắt đầu: khi đó bạn di chuyển vị trí của mình bằng cách kéo ngón tay trên bản đồ."
+      },
+      {
+        "q": "Vì sao ứng dụng xin quyền truy cập vị trí của tôi?",
+        "a": "iOS yêu cầu quyền này để một ứng dụng có thể đọc tên mạng Wi-Fi. Quyền này không dùng vào việc gì khác: ứng dụng không đọc tọa độ GPS của bạn. Nếu bạn từ chối, việc quét vẫn hoạt động, chỉ là không hiển thị tên mạng."
+      },
+      {
+        "q": "Một lần quét tiêu tốn bao nhiêu dữ liệu?",
+        "a": "Khoảng 1 MB mỗi giây với cài đặt mặc định, tức khoảng 300 MB cho một lần quét 5 phút. Để dùng ít hơn, hãy mở Cài đặt (biểu tượng bánh răng ở màn hình chính) và chọn “250 KB (tiết kiệm)” trong mục “Dữ liệu mỗi lần đo”."
+      },
+      {
+        "q": "Việc quét có dùng 4G hay 5G không?",
+        "a": "Không. Các phép đo chỉ đi qua Wi-Fi. Nếu Wi-Fi bị mất kết nối, kết quả đo rơi về 0 thay vì đo mạng di động, và bản đồ sẽ cho thấy điều đó."
+      },
+      {
+        "q": "Bản đồ bị lệch hoặc mất theo dõi: tôi nên làm gì?",
+        "a": "Hãy đi chậm, cầm iPhone phía trước mặt, và hướng vào những nơi có nhiều chi tiết thay vì một bức tường trơn. Trong lúc quét, ứng dụng cho biết cần chỉnh điều gì, ví dụ “Hãy di chuyển chậm hơn một chút”. Trên quãng đường dài, việc theo dõi có thể bị lệch đôi chút: nên quét nhiều lần ngắn thay vì một lần rất dài."
+      },
+      {
+        "q": "Bản đồ đỏ khắp nơi: có phải do Wi-Fi của tôi không?",
+        "a": "Không nhất thiết. Các phép đo đi qua một máy chủ trên internet, nên kết nối internet chậm hoặc độ trễ cao sẽ ảnh hưởng đến cả ngôi nhà. Chính sự chênh lệch giữa các phòng mới cho thấy điểm yếu của Wi-Fi."
+      },
+      {
+        "q": "Làm sao để chia sẻ, đổi tên hoặc xóa một lần quét?",
+        "a": "Mở lần quét đó từ màn hình chính. Nút chia sẻ ở đầu màn hình gửi nó dưới dạng hình ảnh; menu bên cạnh cho phép bạn đổi tên hoặc xóa nó."
+      },
+      {
+        "q": "Tôi có thể dùng máy chủ kiểm tra khác không?",
+        "a": "Có, trong Cài đặt › Máy chủ kiểm tra. Máy chủ này phải trả về đúng số byte được yêu cầu bởi tham số “bytes”."
+      }
+    ],
+    "privacy_summary": "Bản đồ Wi-Fi không thu thập bất kỳ dữ liệu cá nhân nào và không có quảng cáo, mua hàng hay trình theo dõi. Các lần quét của bạn nằm lại trên thiết bị của bạn. Để đo tốc độ, ứng dụng tải dữ liệu từ một máy chủ kiểm tra, máy chủ này thấy địa chỉ IP của bạn như mọi trang web."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Tóm tắt",
+        "blocks": [
+          {
+            "p": "Bản đồ Wi-Fi không thu thập bất kỳ dữ liệu cá nhân nào, và nhà phát triển không có máy chủ riêng. Các lần quét của bạn được lưu trên thiết bị của bạn. Kết nối internet duy nhất được dùng để đo Wi-Fi của bạn, bằng cách tải dữ liệu từ một máy chủ kiểm tra."
+          }
+        ]
+      },
+      {
+        "h": "Các lần quét của bạn",
+        "blocks": [
+          {
+            "p": "Mỗi lần quét chứa tên, ngày, tên mạng Wi-Fi nếu có, các số đo tốc độ và độ trễ, cùng với lộ trình bạn đã đi. Lộ trình này được biểu thị bằng mét so với điểm xuất phát của bạn: đó không phải là vị trí địa lý."
+          },
+          {
+            "p": "Các lần quét và cài đặt được lưu trên thiết bị của bạn, và nhà phát triển không thể truy cập. Cũng như dữ liệu của các ứng dụng khác, chúng có thể nằm trong bản sao lưu của thiết bị nếu bạn đã bật sao lưu. Bạn có thể xóa một lần quét bất cứ lúc nào; xóa ứng dụng sẽ xóa tất cả."
+          }
+        ]
+      },
+      {
+        "h": "Đo Wi-Fi và máy chủ kiểm tra",
+        "blocks": [
+          {
+            "p": "Trong lúc quét, ứng dụng tải về các khối dữ liệu nhỏ từ một máy chủ kiểm tra: mặc định là speed.cloudflare.com, do Cloudflare vận hành. Như với mọi kết nối internet, máy chủ này thấy địa chỉ IP của bạn và yêu cầu tải xuống, trong đó có kích thước khối dữ liệu và một số ngẫu nhiên giúp tránh lưu vào bộ nhớ đệm."
+          },
+          {
+            "p": "Tên mạng, các lần quét và kết quả của bạn đều không được gửi cho máy chủ này. Cloudflare xử lý các kết nối này theo chính sách quyền riêng tư của riêng họ. Nếu bạn chọn một máy chủ khác trong cài đặt, thì máy chủ đó sẽ nhận các kết nối này."
+          }
+        ]
+      },
+      {
+        "h": "Các quyền được yêu cầu",
+        "blocks": [
+          {
+            "p": "Bạn có thể thu hồi từng quyền trong Cài đặt của thiết bị."
+          },
+          {
+            "ul": [
+              "<strong>Camera</strong>: để theo dõi vị trí của bạn trong nhà khi quét. Không có hình ảnh nào được lưu hay gửi đi. Chế độ “Bằng ngón tay” cho phép bạn không cần dùng đến camera.",
+              "<strong>Vị trí</strong>: iOS yêu cầu quyền này để đọc tên mạng Wi-Fi. Ứng dụng không đọc tọa độ GPS của bạn. Tên mạng nằm lại trên thiết bị của bạn."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Chia sẻ",
+        "blocks": [
+          {
+            "p": "Bạn có thể chia sẻ một lần quét dưới dạng hình ảnh bằng các công cụ của iOS (AirDrop, Messages, Mail…). Hình ảnh hiển thị tên lần quét, ngày, bản đồ và thống kê, nhưng không có tên mạng. Không có gì được chia sẻ nếu bạn không yêu cầu."
+          }
+        ]
+      },
+      {
+        "h": "Quảng cáo, mua hàng và theo dõi",
+        "blocks": [
+          {
+            "p": "Bản đồ Wi-Fi miễn phí và không yêu cầu tài khoản. Ứng dụng không có quảng cáo, không có mua hàng trong ứng dụng, không có trình theo dõi và không có công cụ phân tích hay thống kê sử dụng nào."
+          }
+        ]
+      },
+      {
+        "h": "Trẻ em",
+        "blocks": [
+          {
+            "p": "Ứng dụng không thu thập dữ liệu nào và phù hợp với mọi lứa tuổi."
+          }
+        ]
+      },
+      {
+        "h": "Thay đổi",
+        "blocks": [
+          {
+            "p": "Nếu chính sách này thay đổi, phiên bản mới sẽ được đăng trên trang này kèm ngày cập nhật."
+          }
+        ]
+      },
+      {
+        "h": "Liên hệ",
+        "blocks": [
+          {
+            "p": "Mọi câu hỏi về chính sách này: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

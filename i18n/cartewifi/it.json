@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Scopri dove il tuo Wi-Fi si indebolisce, stanza per stanza",
+    "contact": "Una domanda, un'idea o un bug? Scrivimi:<br>{email}",
+    "faq": [
+      {
+        "q": "Perché l'app non mostra la potenza del segnale?",
+        "a": "iOS non fornisce alle app la potenza grezza del segnale Wi-Fi. Per questo Mappa Wi-Fi misura ciò che il tuo Wi-Fi offre davvero in ogni punto: la velocità e la latenza. Il punteggio da 0 a 100 mostrato sulla mappa deriva da queste due misurazioni."
+      },
+      {
+        "q": "A cosa serve la fotocamera?",
+        "a": "Permette all'iPhone di seguire la tua posizione mentre cammini. Nessuna immagine viene salvata o inviata. Se preferisci non usarla, o se il tuo dispositivo non supporta questo tracciamento, scegli “Con il dito” prima di iniziare: sposti allora la tua posizione facendo scorrere il dito sulla mappa."
+      },
+      {
+        "q": "Perché l'app chiede la mia posizione?",
+        "a": "iOS richiede questa autorizzazione perché un'app possa leggere il nome della rete Wi-Fi. Non serve ad altro: l'app non legge le tue coordinate GPS. Se la rifiuti, la scansione funziona comunque, senza mostrare il nome della rete."
+      },
+      {
+        "q": "Quanti dati consuma una scansione?",
+        "a": "Circa 1 MB al secondo con le impostazioni predefinite, cioè all'incirca 300 MB per una scansione di 5 minuti. Per consumare meno, apri Impostazioni (l'ingranaggio nella schermata iniziale) e scegli “250 KB (leggero)” in “Dati per misurazione”."
+      },
+      {
+        "q": "La scansione usa il 4G o il 5G?",
+        "a": "No. Le misurazioni passano solo dal Wi-Fi. Se il Wi-Fi cade, la misurazione scende a 0 invece di misurare la rete cellulare, e la mappa lo mostra."
+      },
+      {
+        "q": "La mappa è sfalsata o il tracciamento si perde: cosa posso fare?",
+        "a": "Cammina lentamente, con l'iPhone davanti a te, e inquadra punti ricchi di dettagli anziché un muro liscio. Durante la scansione l'app indica cosa correggere, per esempio “Muoviti un po' più lentamente”. Su lunghe distanze il tracciamento può slittare un po': meglio fare più scansioni brevi che una sola molto lunga."
+      },
+      {
+        "q": "La mappa è rossa dappertutto: è colpa del mio Wi-Fi?",
+        "a": "Non necessariamente. Le misurazioni passano da un server su internet, quindi una connessione internet lenta o una latenza elevata incidono su tutta la casa. Sono le differenze tra le stanze a rivelare i punti deboli del Wi-Fi."
+      },
+      {
+        "q": "Come condivido, rinomino o elimino una scansione?",
+        "a": "Apri la scansione dalla schermata iniziale. Il pulsante di condivisione in alto nella schermata la invia come immagine; il menu accanto permette di rinominarla o di eliminarla."
+      },
+      {
+        "q": "Posso usare un altro server di test?",
+        "a": "Sì, in Impostazioni › Server di test. Questo server deve restituire il numero di byte richiesto dal parametro “bytes”."
+      }
+    ],
+    "privacy_summary": "Mappa Wi-Fi non raccoglie alcun dato personale e non contiene pubblicità, acquisti né tracker. Le tue scansioni restano sul tuo dispositivo. Per misurare la velocità, l'app scarica dati da un server di test, che vede il tuo indirizzo IP come qualsiasi sito internet."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In breve",
+        "blocks": [
+          {
+            "p": "Mappa Wi-Fi non raccoglie alcun dato personale, e lo sviluppatore non possiede alcun server. Le tue scansioni vengono salvate sul tuo dispositivo. L'unica connessione a internet serve a misurare il tuo Wi-Fi, scaricando dati da un server di test."
+          }
+        ]
+      },
+      {
+        "h": "Le tue scansioni",
+        "blocks": [
+          {
+            "p": "Ogni scansione contiene il suo nome, la sua data, il nome della rete Wi-Fi se disponibile, le misurazioni di velocità e di latenza e il percorso compiuto. Questo percorso è espresso in metri rispetto al tuo punto di partenza: non è una posizione geografica."
+          },
+          {
+            "p": "Le scansioni e le impostazioni vengono salvate sul tuo dispositivo, e lo sviluppatore non vi ha accesso. Come i dati delle altre app, possono essere inclusi nei backup del tuo dispositivo se li hai attivati. Puoi eliminare una scansione in qualsiasi momento; eliminando l'app vengono cancellate tutte."
+          }
+        ]
+      },
+      {
+        "h": "Misurazione del Wi-Fi e server di test",
+        "blocks": [
+          {
+            "p": "Durante una scansione, l'app scarica piccoli blocchi di dati da un server di test: per impostazione predefinita speed.cloudflare.com, gestito da Cloudflare. Come per qualsiasi connessione a internet, questo server vede il tuo indirizzo IP e la richiesta di download, che indica la dimensione del blocco e un numero casuale che evita la memorizzazione nella cache."
+          },
+          {
+            "p": "Né il nome della tua rete, né le tue scansioni, né i tuoi risultati gli vengono inviati. Cloudflare tratta queste connessioni secondo la propria informativa sulla privacy. Se scegli un altro server nelle impostazioni, è quel server a ricevere queste connessioni."
+          }
+        ]
+      },
+      {
+        "h": "Autorizzazioni richieste",
+        "blocks": [
+          {
+            "p": "Puoi revocare ogni autorizzazione nelle Impostazioni del tuo dispositivo."
+          },
+          {
+            "ul": [
+              "<strong>Fotocamera</strong>: per seguire la tua posizione in casa durante una scansione. Nessuna immagine viene salvata o inviata. La modalità “Con il dito” permette di farne a meno.",
+              "<strong>Posizione</strong>: iOS la richiede per leggere il nome della rete Wi-Fi. L'app non legge le tue coordinate GPS. Il nome della rete resta sul tuo dispositivo."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Condivisione",
+        "blocks": [
+          {
+            "p": "Puoi condividere una scansione come immagine con gli strumenti di iOS (AirDrop, Messages, Mail…). L'immagine mostra il nome della scansione, la data, la mappa e le statistiche, ma non il nome della rete. Nulla viene condiviso senza una tua richiesta."
+          }
+        ]
+      },
+      {
+        "h": "Pubblicità, acquisti e tracciamento",
+        "blocks": [
+          {
+            "p": "Mappa Wi-Fi è gratuita e non richiede alcun account. Non contiene pubblicità, acquisti in-app, tracker né strumenti di analisi o di statistiche d'uso."
+          }
+        ]
+      },
+      {
+        "h": "Bambini",
+        "blocks": [
+          {
+            "p": "L'app non raccoglie alcun dato ed è adatta a tutte le età."
+          }
+        ]
+      },
+      {
+        "h": "Modifiche",
+        "blocks": [
+          {
+            "p": "Se questa informativa cambia, la nuova versione sarà pubblicata su questa pagina con la data di aggiornamento."
+          }
+        ]
+      },
+      {
+        "h": "Contatti",
+        "blocks": [
+          {
+            "p": "Per qualsiasi domanda su questa informativa: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Temukan di mana Wi-Fi-mu melemah, ruangan demi ruangan",
+    "contact": "Ada pertanyaan, ide, atau bug? Kirimi aku pesan:<br>{email}",
+    "faq": [
+      {
+        "q": "Kenapa aplikasi tidak menampilkan kekuatan sinyal?",
+        "a": "iOS tidak memberikan kekuatan sinyal Wi-Fi mentah kepada aplikasi. Karena itu Peta Wi-Fi mengukur apa yang benar-benar dihasilkan Wi-Fi-mu di setiap tempat: kecepatan dan latensi. Skor 0 sampai 100 yang tampil di peta berasal dari kedua pengukuran ini."
+      },
+      {
+        "q": "Untuk apa kamera digunakan?",
+        "a": "Kamera membantu iPhone melacak posisimu saat kamu berjalan. Tidak ada gambar yang disimpan atau dikirim. Jika kamu memilih tidak memakainya, atau jika perangkatmu tidak mendukung pelacakan ini, pilih “Dengan jari” sebelum mulai: kamu lalu menggeser posisimu dengan menyeret jari di peta."
+      },
+      {
+        "q": "Kenapa aplikasi meminta lokasiku?",
+        "a": "iOS mewajibkan izin ini agar sebuah aplikasi dapat membaca nama jaringan Wi-Fi. Izin ini tidak dipakai untuk hal lain: aplikasi tidak membaca koordinat GPS-mu. Jika kamu menolaknya, pemindaian tetap berjalan, hanya tanpa menampilkan nama jaringan."
+      },
+      {
+        "q": "Berapa banyak data yang dipakai satu pemindaian?",
+        "a": "Sekitar 1 MB per detik dengan pengaturan bawaan, atau kira-kira 300 MB untuk pemindaian 5 menit. Untuk memakai lebih sedikit, buka Pengaturan (ikon roda gigi di layar utama) dan pilih “250 KB (hemat)” di “Data per pengukuran”."
+      },
+      {
+        "q": "Apakah pemindaian memakai 4G atau 5G?",
+        "a": "Tidak. Pengukuran hanya melalui Wi-Fi. Jika Wi-Fi terputus, hasil pengukuran turun ke 0 alih-alih mengukur jaringan seluler, dan peta menunjukkannya."
+      },
+      {
+        "q": "Peta bergeser atau pelacakan hilang: apa yang bisa kulakukan?",
+        "a": "Berjalanlah pelan-pelan dengan iPhone di depanmu, dan arahkan ke tempat yang punya detail, bukan dinding polos. Selama pemindaian, aplikasi menampilkan apa yang perlu diperbaiki, misalnya “Bergeraklah sedikit lebih pelan”. Pada jarak jauh, pelacakan bisa sedikit bergeser: lebih baik membuat beberapa pemindaian pendek daripada satu pemindaian yang sangat panjang."
+      },
+      {
+        "q": "Peta merah di mana-mana: apakah itu Wi-Fi-ku?",
+        "a": "Belum tentu. Pengukuran melewati sebuah server di internet, jadi koneksi internet yang lambat atau latensi yang tinggi memengaruhi seluruh rumah. Perbedaan antarruanganlah yang menunjukkan kelemahan Wi-Fi."
+      },
+      {
+        "q": "Bagaimana cara membagikan, mengganti nama, atau menghapus pemindaian?",
+        "a": "Buka pemindaian dari layar utama. Tombol bagikan di bagian atas layar mengirimnya sebagai gambar; menu di sebelahnya memungkinkan kamu mengganti nama atau menghapusnya."
+      },
+      {
+        "q": "Bisakah aku memakai server uji lain?",
+        "a": "Bisa, di Pengaturan › Server uji. Server itu harus mengembalikan jumlah byte yang diminta oleh parameter “bytes”."
+      }
+    ],
+    "privacy_summary": "Peta Wi-Fi tidak mengumpulkan data pribadi apa pun dan tidak berisi iklan, pembelian, maupun pelacak. Pemindaianmu tetap ada di perangkatmu. Untuk mengukur kecepatan, aplikasi mengunduh data dari server uji, yang melihat alamat IP-mu seperti situs internet mana pun."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasnya",
+        "blocks": [
+          {
+            "p": "Peta Wi-Fi tidak mengumpulkan data pribadi apa pun, dan pengembang tidak memiliki server. Pemindaianmu disimpan di perangkatmu. Satu-satunya koneksi internet dipakai untuk mengukur Wi-Fi-mu, dengan mengunduh data dari server uji."
+          }
+        ]
+      },
+      {
+        "h": "Pemindaianmu",
+        "blocks": [
+          {
+            "p": "Setiap pemindaian berisi namanya, tanggalnya, nama jaringan Wi-Fi jika tersedia, hasil pengukuran kecepatan dan latensi, serta rute yang kamu tempuh. Rute ini dinyatakan dalam meter dari titik awalmu: ini bukan posisi geografis."
+          },
+          {
+            "p": "Pemindaian dan pengaturan disimpan di perangkatmu, dan pengembang tidak dapat mengaksesnya. Seperti data aplikasi lain, semuanya dapat ikut tersimpan dalam cadangan perangkatmu jika kamu mengaktifkannya. Kamu bisa menghapus pemindaian kapan saja; menghapus aplikasi akan menghapus semuanya."
+          }
+        ]
+      },
+      {
+        "h": "Pengukuran Wi-Fi dan server uji",
+        "blocks": [
+          {
+            "p": "Selama pemindaian, aplikasi mengunduh blok data kecil dari server uji: secara default speed.cloudflare.com, yang dioperasikan oleh Cloudflare. Seperti pada setiap koneksi internet, server ini melihat alamat IP-mu dan permintaan unduhan, yang menyebutkan ukuran blok dan sebuah angka acak yang mencegah penyimpanan dalam cache."
+          },
+          {
+            "p": "Nama jaringanmu, pemindaianmu, dan hasilmu tidak ada yang dikirim kepadanya. Cloudflare menangani koneksi ini sesuai kebijakan privasinya sendiri. Jika kamu memilih server lain di pengaturan, server itulah yang menerima koneksi ini."
+          }
+        ]
+      },
+      {
+        "h": "Izin yang diminta",
+        "blocks": [
+          {
+            "p": "Kamu bisa mencabut setiap izin di Pengaturan perangkatmu."
+          },
+          {
+            "ul": [
+              "<strong>Kamera</strong>: untuk melacak posisimu di dalam rumah selama pemindaian. Tidak ada gambar yang disimpan atau dikirim. Mode “Dengan jari” memungkinkan kamu tidak memakainya.",
+              "<strong>Lokasi</strong>: iOS mewajibkannya untuk membaca nama jaringan Wi-Fi. Aplikasi tidak membaca koordinat GPS-mu. Nama jaringan tetap ada di perangkatmu."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Berbagi",
+        "blocks": [
+          {
+            "p": "Kamu bisa membagikan pemindaian sebagai gambar dengan fitur iOS (AirDrop, Messages, Mail…). Gambar itu menampilkan nama pemindaian, tanggal, peta, dan statistiknya, tetapi tidak nama jaringan. Tidak ada yang dibagikan tanpa permintaanmu."
+          }
+        ]
+      },
+      {
+        "h": "Iklan, pembelian, dan pelacakan",
+        "blocks": [
+          {
+            "p": "Peta Wi-Fi gratis dan tidak memerlukan akun. Aplikasi ini tidak berisi iklan, pembelian dalam aplikasi, pelacak, maupun alat analitik atau statistik penggunaan."
+          }
+        ]
+      },
+      {
+        "h": "Anak-anak",
+        "blocks": [
+          {
+            "p": "Aplikasi ini tidak mengumpulkan data apa pun dan cocok untuk segala usia."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika kebijakan ini berubah, versi barunya akan diterbitkan di halaman ini beserta tanggal pembaruannya."
+          }
+        ]
+      },
+      {
+        "h": "Kontak",
+        "blocks": [
+          {
+            "p": "Untuk pertanyaan apa pun tentang kebijakan ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

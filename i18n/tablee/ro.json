@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Foaia de scor pentru jocurile dumneavoastră de cărți și de societate",
+    "contact": "O întrebare, o idee sau o regulă numărată greșit? Scrieți-mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Este Tablée un joc de cărți?",
+        "a": "Nu. Tablée este o foaie de scor: numără punctele, iar cărțile rămân pe masă. Aveți deci nevoie de propriul pachet pentru a juca."
+      },
+      {
+        "q": "Ce jocuri sunt acceptate?",
+        "a": "Belote, coinche, tarot, Scrabble și Uno. Pentru toate celelalte jocuri cu puncte (yams, remi, Skyjo…), folosiți jocul liber: câștigă scorul cel mai mare sau cel mai mic, după alegerea dumneavoastră."
+      },
+      {
+        "q": "Regulile mele sunt diferite: le pot schimba?",
+        "a": "Da. Regulile oficiale sunt aplicate implicit, iar variantele obișnuite (rotunjire, belote care poate fi luată, metoda de la coinche…) sunt setări ale fiecărei partide. Le puteți modifica în timpul partidei: foaia este atunci recalculată."
+      },
+      {
+        "q": "Cum aflu de unde vine un rezultat?",
+        "a": "Deschideți mâna respectivă, apoi „Detaliul calculului”: fiecare linie a scorului este explicată acolo. Regulile fiecărui joc sunt disponibile și în meniul foii, precum și în Setări › Regulile jocurilor."
+      },
+      {
+        "q": "Am greșit la o mână: ce pot face?",
+        "a": "Puteți corecta sau șterge orice mână din foaie ori o puteți anula pe ultima. Totalurile sunt recalculate imediat."
+      },
+      {
+        "q": "Cum schimb dispozitivul fără să-mi pierd partidele?",
+        "a": "Pe dispozitivul vechi, deschideți Setări › „Exportă tot (JSON)” și salvați fișierul. Pe cel nou, alegeți „Importă un fișier”: partidele și jucătorii se adaugă la cei existenți, fără a suprascrie nimic."
+      },
+      {
+        "q": "Partidele mele sunt sincronizate sau salvate în copii de rezervă?",
+        "a": "Fiecare modificare este salvată pe dispozitivul dumneavoastră, iar partida se reia exact de unde ați lăsat-o. Tablée nu sincronizează nimic între dispozitivele dumneavoastră, iar datele ei dispar dacă ștergeți aplicația: gândiți-vă să exportați din când în când o copie de rezervă."
+      },
+      {
+        "q": "Cum partajez un rezultat?",
+        "a": "În meniul foii, „Partajează” oferă o imagine a foii și a graficului sau un rezumat text. Pentru un tabel, folosiți Setări › „Exportă pentru un tabel (CSV)”."
+      },
+      {
+        "q": "Cum șterg tot?",
+        "a": "În Setări › „Șterge toate datele”. Această acțiune este definitivă: exportați mai întâi o copie de rezervă dacă doriți să vă păstrați partidele."
+      }
+    ],
+    "privacy_summary": "Tablée nu colectează nicio dată personală, nu se conectează la niciun server și nu conține reclame, achiziții sau instrumente de urmărire. Partidele dumneavoastră rămân pe dispozitivul dumneavoastră."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Pe scurt",
+        "blocks": [
+          {
+            "p": "Tablée nu colectează nicio dată personală. Aplicația funcționează offline, nu se conectează la niciun server și nu cere niciun cont. Tot ce introduceți rămâne pe dispozitivul dumneavoastră, cu excepția cazului în care alegeți să partajați sau să exportați."
+          }
+        ]
+      },
+      {
+        "h": "Datele dumneavoastră",
+        "blocks": [
+          {
+            "p": "Aplicația salvează partidele dumneavoastră, punctele și regulile lor, carnetul de jucători (nume, emoji, culoare), statisticile calculate pe baza acestor partide și setările dumneavoastră. Numele unui jucător poate fi oricare doriți: este util doar dumneavoastră."
+          },
+          {
+            "p": "Aceste date sunt salvate pe dispozitivul dumneavoastră, iar dezvoltatorul nu are acces la ele. Ca datele altor aplicații, pot fi incluse în copiile de rezervă ale dispozitivului dumneavoastră, dacă le-ați activat. Puteți șterge tot din setări; ștergerea aplicației le elimină, de asemenea."
+          }
+        ]
+      },
+      {
+        "h": "Partajare, export și import",
+        "blocks": [
+          {
+            "p": "Nimic nu părăsește aplicația fără o acțiune din partea dumneavoastră."
+          },
+          {
+            "ul": [
+              "<strong>Partajarea unei partide</strong>: imaginea sau textul trece prin instrumentele iOS (AirDrop, Messages, Mail…) și conține numele jucătorilor și punctele lor.",
+              "<strong>Export</strong>: fișierul JSON sau CSV conține partidele dumneavoastră și numele jucătorilor. Alegeți dumneavoastră unde îl salvați; el este atunci supus condițiilor serviciului ales.",
+              "<strong>Import</strong>: aplicația citește doar fișierul pe care îl selectați."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Permisiuni solicitate",
+        "blocks": [
+          {
+            "p": "Tablée nu cere nicio permisiune: nici cameră, nici locație, nici contacte, nici fotografii."
+          }
+        ]
+      },
+      {
+        "h": "Reclame, achiziții și urmărire",
+        "blocks": [
+          {
+            "p": "Tablée este gratuită. Nu conține reclame, achiziții în aplicație, instrumente de urmărire sau instrumente de analiză ori de statistici de utilizare."
+          }
+        ]
+      },
+      {
+        "h": "Copii",
+        "blocks": [
+          {
+            "p": "Aplicația nu colectează nicio dată și e potrivită pentru toate vârstele."
+          }
+        ]
+      },
+      {
+        "h": "Modificări",
+        "blocks": [
+          {
+            "p": "Dacă această politică se schimbă, noua versiune va fi publicată pe această pagină, împreună cu data actualizării."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pentru orice întrebare despre această politică: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

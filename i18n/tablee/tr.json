@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Kart ve masa oyunlarınızın skor tablosu",
+    "contact": "Bir soru, bir fikir ya da yanlış sayılmış bir kural mı var? Bana yazın:<br>{email}",
+    "faq": [
+      {
+        "q": "Tablée bir kart oyunu mu?",
+        "a": "Hayır. Tablée bir skor tablosudur: puanları sayar, kartlar masada kalır. Oynamak için kendi iskambil destenize ihtiyacınız var."
+      },
+      {
+        "q": "Hangi oyunlar destekleniyor?",
+        "a": "belote, coinche, tarot, Scrabble ve Uno. Puanlı diğer tüm oyunlar için (Yahtzee, remi, Skyjo…) serbest oyunu kullanın: tercihinize göre en yüksek ya da en düşük skoru alan kazanır."
+      },
+      {
+        "q": "Benim kurallarım farklı: değiştirebilir miyim?",
+        "a": "Evet. Resmî kurallar varsayılan olarak uygulanır; yaygın varyantlar (yuvarlama, belote alınabilir, coinche yöntemi…) her oyunun ayarlarıdır. Bunları oyun sürerken değiştirebilirsiniz: tablo yeniden hesaplanır."
+      },
+      {
+        "q": "Bir sonucun nereden çıktığını nasıl anlarım?",
+        "a": "İlgili eli açın, ardından “Hesabın ayrıntısı”na dokunun: skorun her satırı orada açıklanır. Her oyunun kuralları ayrıca tablonun menüsünde ve Ayarlar › Oyun kuralları bölümünde bulunur."
+      },
+      {
+        "q": "Bir elde hata yaptım: ne yapmalıyım?",
+        "a": "Tablodaki herhangi bir eli düzeltebilir ya da silebilir, veya sonuncuyu geri alabilirsiniz. Toplamlar hemen yeniden hesaplanır."
+      },
+      {
+        "q": "Oyunlarımı kaybetmeden cihaz değiştirmek için ne yapmalıyım?",
+        "a": "Eski cihazda Ayarlar › “Hepsini dışa aktar (JSON)” seçeneğini açın ve dosyayı kaydedin. Yeni cihazda “Dosya içe aktar” seçeneğini seçin: oyunlar ve oyuncular mevcut olanlara eklenir, hiçbir şeyin üzerine yazılmaz."
+      },
+      {
+        "q": "Oyunlarım eşzamanlanıyor mu ya da yedekleniyor mu?",
+        "a": "Her değişiklik cihazınıza kaydedilir ve oyuna kaldığınız yerden devam edersiniz. Tablée cihazlarınız arasında hiçbir şeyi eşzamanlamaz ve uygulamayı silerseniz verileri de kaybolur: ara sıra bir yedek dışa aktarmayı unutmayın."
+      },
+      {
+        "q": "Bir sonucu nasıl paylaşırım?",
+        "a": "Tablonun menüsündeki “Paylaş”, tablonun ve grafiğin bir görselini ya da metin halinde bir özet sunar. Hesap tablosu için Ayarlar › “Hesap tablosu için dışa aktar (CSV)” seçeneğini kullanın."
+      },
+      {
+        "q": "Her şeyi nasıl silerim?",
+        "a": "Ayarlar › “Tüm verileri sil” bölümünden. Bu işlem kalıcıdır: oyunlarınızı saklamak istiyorsanız önce bir yedek dışa aktarın."
+      }
+    ],
+    "privacy_summary": "Tablée hiçbir kişisel veri toplamaz, hiçbir sunucuya bağlanmaz; reklam, satın alma veya izleyici içermez. Oyunlarınız cihazınızda kalır."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Özetle",
+        "blocks": [
+          {
+            "p": "Tablée hiçbir kişisel veri toplamaz. Uygulama çevrimdışı çalışır, hiçbir sunucuya bağlanmaz ve hesap gerektirmez. Girdiğiniz her şey, paylaşmayı ya da dışa aktarmayı seçmediğiniz sürece cihazınızda kalır."
+          }
+        ]
+      },
+      {
+        "h": "Verileriniz",
+        "blocks": [
+          {
+            "p": "Uygulama oyunlarınızı, puanlarını ve kurallarını, oyuncu defterinizi (ad, emoji, renk), bu oyunlardan hesaplanan istatistikleri ve ayarlarınızı kaydeder. Bir oyuncu adı istediğiniz gibi olabilir: yalnızca sizin için işe yarar."
+          },
+          {
+            "p": "Bu veriler cihazınıza kaydedilir ve geliştiricinin bunlara erişimi yoktur. Diğer uygulamaların verileri gibi, yedeklemeleri açtıysanız cihazınızın yedeklerinde yer alabilirler. Ayarlardan her şeyi silebilirsiniz; uygulamayı silmek de bunları siler."
+          }
+        ]
+      },
+      {
+        "h": "Paylaşım, dışa aktarma ve içe aktarma",
+        "blocks": [
+          {
+            "p": "Siz bir işlem yapmadıkça hiçbir şey uygulamadan çıkmaz."
+          },
+          {
+            "ul": [
+              "<strong>Bir oyunu paylaşma</strong>: görsel ya da metin iOS'un araçlarından (AirDrop, Messages, Mail…) geçer ve oyuncu adlarını ve puanlarını içerir.",
+              "<strong>Dışa aktarma</strong>: JSON veya CSV dosyası oyunlarınızı ve oyuncu adlarını içerir. Nereye kaydedeceğinizi siz seçersiniz; dosya o zaman seçtiğiniz hizmetin koşullarına tabi olur.",
+              "<strong>İçe aktarma</strong>: uygulama yalnızca sizin seçtiğiniz dosyayı okur."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "İstenen izinler",
+        "blocks": [
+          {
+            "p": "Tablée hiçbir izin istemez: ne kamera, ne konum, ne kişiler, ne de fotoğraflar."
+          }
+        ]
+      },
+      {
+        "h": "Reklam, satın alma ve izleme",
+        "blocks": [
+          {
+            "p": "Tablée ücretsizdir. Hiçbir reklam, uygulama içi satın alma, izleyici veya analiz ya da kullanım istatistiği aracı içermez."
+          }
+        ]
+      },
+      {
+        "h": "Çocuklar",
+        "blocks": [
+          {
+            "p": "Uygulama hiçbir veri toplamaz ve her yaşa uygundur."
+          }
+        ]
+      },
+      {
+        "h": "Değişiklikler",
+        "blocks": [
+          {
+            "p": "Bu politika değişirse yeni sürümü, güncelleme tarihiyle birlikte bu sayfada yayımlanacaktır."
+          }
+        ]
+      },
+      {
+        "h": "İletişim",
+        "blocks": [
+          {
+            "p": "Bu politikayla ilgili her türlü soru için: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

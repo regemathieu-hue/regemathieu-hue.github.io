@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Találd meg, hol gyengül a Wi-Fid, szobáról szobára",
+    "contact": "Kérdésed, ötleted van, vagy hibát találtál? Írj nekem:<br>{email}",
+    "faq": [
+      {
+        "q": "Miért nem mutatja az app a jel erősségét?",
+        "a": "Az iOS nem adja át az alkalmazásoknak a Wi-Fi-jel nyers erősségét. Ezért a Wi-Fi térkép azt méri, amit a Wi-Fid valójában nyújt minden egyes helyen: a sebességet és a késleltetést. A térképen látható 0 és 100 közötti pontszám e két mérésből származik."
+      },
+      {
+        "q": "Mire jó a kamera?",
+        "a": "Ennek segítségével az iPhone követni tudja a helyzetedet, miközben sétálsz. Semmilyen kép nem kerül mentésre vagy elküldésre. Ha inkább nem használnád, vagy az eszközöd nem támogatja ezt a követést, indulás előtt válaszd az „Ujjal” lehetőséget: ilyenkor az ujjadat a térképen húzva mozgatod a helyzetedet."
+      },
+      {
+        "q": "Miért kéri az app a tartózkodási helyemet?",
+        "a": "Az iOS ezt az engedélyt követeli meg ahhoz, hogy egy alkalmazás kiolvashassa a Wi-Fi-hálózat nevét. Másra nem használja: az app nem olvassa a GPS-koordinátáidat. Ha elutasítod, a szkennelés ettől még működik, csak a hálózat nevét nem jeleníti meg."
+      },
+      {
+        "q": "Mennyi adatot fogyaszt egy szkennelés?",
+        "a": "Az alapbeállításokkal körülbelül 1 MB-ot másodpercenként, vagyis nagyjából 300 MB-ot egy 5 perces szkennelésnél. Ha kevesebbet szeretnél fogyasztani, nyisd meg a Beállításokat (a fogaskerék a kezdőképernyőn), és az „Adat mérésenként” alatt válaszd a „250 KB (takarékos)” lehetőséget."
+      },
+      {
+        "q": "A szkennelés használja a 4G-t vagy az 5G-t?",
+        "a": "Nem. A mérések kizárólag Wi-Fi-n mennek. Ha a Wi-Fi megszakad, a mérés 0-ra esik a mobilhálózat mérése helyett, és a térkép ezt mutatja."
+      },
+      {
+        "q": "A térkép elcsúszott, vagy elvész a követés: mit tegyek?",
+        "a": "Sétálj lassan, az iPhone-nal magad előtt, és olyan helyek felé fordulj, ahol vannak részletek, ne sima fal felé. Szkennelés közben az app megmutatja, mit kell javítani, például: „Mozogj egy kicsit lassabban”. Hosszú távolságokon a követés kissé elcsúszhat: jobb több rövid szkennelést végezni, mint egyetlen nagyon hosszút."
+      },
+      {
+        "q": "A térkép mindenhol piros: a Wi-Fim miatt van?",
+        "a": "Nem feltétlenül. A mérések egy interneten lévő szerveren keresztül zajlanak, ezért a lassú internetkapcsolat vagy a nagy késleltetés az egész lakásra kihat. A Wi-Fi gyenge pontjait a szobák közötti különbségek mutatják meg."
+      },
+      {
+        "q": "Hogyan oszthatok meg, nevezhetek át vagy törölhetek egy szkennelést?",
+        "a": "Nyisd meg a szkennelést a kezdőképernyőről. A képernyő tetején lévő megosztás gomb képként küldi el; mellette a menüben átnevezheted vagy törölheted."
+      },
+      {
+        "q": "Használhatok másik tesztszervert?",
+        "a": "Igen, a Beállítások › Tesztszerver menüpontban. A szervernek a „bytes” paraméter által kért számú bájtot kell visszaadnia."
+      }
+    ],
+    "privacy_summary": "A Wi-Fi térkép semmilyen személyes adatot nem gyűjt, és nincs benne reklám, vásárlás vagy nyomkövető. A szkenneléseid az eszközödön maradnak. A sebesség méréséhez az app adatokat tölt le egy tesztszerverről, amely – mint minden weboldal – látja az IP-címedet."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Röviden",
+        "blocks": [
+          {
+            "p": "A Wi-Fi térkép semmilyen személyes adatot nem gyűjt, és a fejlesztőnek nincs szervere. A szkenneléseid az eszközödön tárolódnak. Az egyetlen internetkapcsolat a Wi-Fid mérésére szolgál: adatokat tölt le egy tesztszerverről."
+          }
+        ]
+      },
+      {
+        "h": "A szkenneléseid",
+        "blocks": [
+          {
+            "p": "Minden szkennelés tartalmazza a nevét, a dátumát, a Wi-Fi-hálózat nevét (ha elérhető), a sebesség- és késleltetésméréseket, valamint a megtett útvonalat. Ez az útvonal a kiindulópontodhoz képest méterekben van megadva: nem földrajzi helyzet."
+          },
+          {
+            "p": "A szkennelések és a beállítások az eszközödön tárolódnak, és a fejlesztő nem fér hozzájuk. Más alkalmazások adataihoz hasonlóan szerepelhetnek az eszközöd biztonsági mentéseiben, ha bekapcsoltad őket. Bármikor törölhetsz egy szkennelést; az alkalmazás törlése mindet törli."
+          }
+        ]
+      },
+      {
+        "h": "A Wi-Fi mérése és a tesztszerver",
+        "blocks": [
+          {
+            "p": "Szkennelés közben az app kis adatblokkokat tölt le egy tesztszerverről: alapértelmezés szerint a speed.cloudflare.com címről, amelyet a Cloudflare üzemeltet. Mint minden internetkapcsolatnál, ez a szerver látja az IP-címedet és a letöltési kérést, amely megadja a blokk méretét és egy véletlen számot, amely megakadályozza a gyorsítótárazást."
+          },
+          {
+            "p": "A hálózatod nevét, a szkenneléseidet és az eredményeidet nem küldi el neki. A Cloudflare ezeket a kapcsolatokat a saját adatvédelmi szabályzata szerint kezeli. Ha a beállításokban másik szervert választasz, azt a szervert fogják elérni ezek a kapcsolatok."
+          }
+        ]
+      },
+      {
+        "h": "Kért engedélyek",
+        "blocks": [
+          {
+            "p": "Az egyes engedélyeket az eszközöd Beállításaiban vonhatod vissza."
+          },
+          {
+            "ul": [
+              "<strong>Kamera</strong>: a helyzeted követéséhez a lakásban szkennelés közben. Semmilyen kép nem kerül mentésre vagy elküldésre. Az „Ujjal” mód lehetővé teszi, hogy nélküle is boldogulj.",
+              "<strong>Tartózkodási hely</strong>: az iOS megköveteli a Wi-Fi-hálózat nevének kiolvasásához. Az app nem olvassa a GPS-koordinátáidat. A hálózat neve az eszközödön marad."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Megosztás",
+        "blocks": [
+          {
+            "p": "Egy szkennelést képként megoszthatsz az iOS eszközeivel (AirDrop, Messages, Mail…). A kép a szkennelés nevét, dátumát, térképét és statisztikáit mutatja, a hálózat nevét viszont nem. Semmi nem kerül megosztásra, amíg nem kéred."
+          }
+        ]
+      },
+      {
+        "h": "Reklám, vásárlások és követés",
+        "blocks": [
+          {
+            "p": "A Wi-Fi térkép ingyenes, és nem kér fiókot. Nincs benne reklám, alkalmazáson belüli vásárlás, nyomkövető, sem elemző vagy használati statisztikát gyűjtő eszköz."
+          }
+        ]
+      },
+      {
+        "h": "Gyerekek",
+        "blocks": [
+          {
+            "p": "Az alkalmazás semmilyen adatot nem gyűjt, és minden korosztály számára alkalmas."
+          }
+        ]
+      },
+      {
+        "h": "Változások",
+        "blocks": [
+          {
+            "p": "Ha ez a szabályzat megváltozik, az új változat ezen az oldalon jelenik meg, a frissítés dátumával."
+          }
+        ]
+      },
+      {
+        "h": "Kapcsolat",
+        "blocks": [
+          {
+            "p": "Ha kérdésed van ezzel a szabályzattal kapcsolatban: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

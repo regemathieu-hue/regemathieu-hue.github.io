@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Finn ut hvor Wi-Fi-et ditt blir svakt, rom for rom",
+    "contact": "Et spørsmål, en idé eller en feil? Skriv til meg:<br>{email}",
+    "faq": [
+      {
+        "q": "Hvorfor viser ikke appen signalstyrken?",
+        "a": "iOS gir ikke apper den rå signalstyrken til Wi-Fi. Wi-Fi-kart måler derfor hva Wi-Fi-et ditt faktisk leverer på hvert sted: hastighet og ventetid. Poengsummen fra 0 til 100 som vises på kartet, kommer fra disse to målingene."
+      },
+      {
+        "q": "Hva brukes kameraet til?",
+        "a": "Det lar iPhone følge posisjonen din mens du går. Ingen bilder lagres eller sendes. Hvis du helst ikke vil bruke det, eller hvis enheten din ikke støtter denne sporingen, velger du «Med fingeren» før du begynner: da flytter du posisjonen din ved å dra fingeren over kartet."
+      },
+      {
+        "q": "Hvorfor ber appen om posisjonen min?",
+        "a": "iOS krever denne tillatelsen for at en app skal kunne lese navnet på Wi-Fi-nettverket. Den brukes ikke til noe annet: appen leser ikke GPS-koordinatene dine. Hvis du avslår, fungerer skanningen likevel, men uten å vise nettverksnavnet."
+      },
+      {
+        "q": "Hvor mye data bruker en skanning?",
+        "a": "Omtrent 1 MB per sekund med standardinnstillingene, altså rundt 300 MB for en skanning på 5 minutter. Hvis du vil bruke mindre, åpner du Innstillinger (tannhjulet på startskjermen) og velger «250 kB (sparsom)» under «Data per måling»."
+      },
+      {
+        "q": "Bruker skanningen 4G eller 5G?",
+        "a": "Nei. Målingene går bare via Wi-Fi. Hvis Wi-Fi-et faller ut, synker målingen til 0 i stedet for å måle mobilnettet, og kartet viser det."
+      },
+      {
+        "q": "Kartet er forskjøvet eller sporingen blir borte: hva gjør jeg?",
+        "a": "Gå sakte med iPhone foran deg, og sikt mot steder med detaljer i stedet for en ensfarget vegg. Under skanningen viser appen hva du bør rette på, for eksempel «Beveg deg litt saktere». På lange strekninger kan sporingen drive litt: det er bedre å ta flere små skanninger enn én veldig lang."
+      },
+      {
+        "q": "Kartet er rødt overalt: er det Wi-Fi-et mitt?",
+        "a": "Ikke nødvendigvis. Målingene går via en server på internett, så en treg internettforbindelse eller høy ventetid påvirker hele boligen. Det er forskjellene mellom rommene som avslører svakhetene i Wi-Fi-et."
+      },
+      {
+        "q": "Hvordan deler, gir jeg nytt navn til eller sletter jeg en skanning?",
+        "a": "Åpne skanningen fra startskjermen. Delingsknappen øverst på skjermen sender den som et bilde, og menyen ved siden av lar deg gi den nytt navn eller slette den."
+      },
+      {
+        "q": "Kan jeg bruke en annen testserver?",
+        "a": "Ja, under Innstillinger › Testserver. Serveren må returnere antall byte som etterspørres av parameteren «bytes»."
+      }
+    ],
+    "privacy_summary": "Wi-Fi-kart samler ikke inn noen personopplysninger og inneholder verken reklame, kjøp eller sporere. Skanningene dine blir på enheten din. For å måle hastigheten laster appen ned data fra en testserver, som akkurat som alle nettsteder ser IP-adressen din."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort fortalt",
+        "blocks": [
+          {
+            "p": "Wi-Fi-kart samler ikke inn noen personopplysninger, og utvikleren har ingen server. Skanningene dine lagres på enheten din. Den eneste tilkoblingen til internett brukes til å måle Wi-Fi-et ditt ved å laste ned data fra en testserver."
+          }
+        ]
+      },
+      {
+        "h": "Skanningene dine",
+        "blocks": [
+          {
+            "p": "Hver skanning inneholder navnet sitt, datoen sin, navnet på Wi-Fi-nettverket hvis det er tilgjengelig, målingene av hastighet og ventetid og ruten du har gått. Ruten oppgis i meter i forhold til startpunktet ditt: det er ikke en geografisk posisjon."
+          },
+          {
+            "p": "Skanningene og innstillingene lagres på enheten din, og utvikleren har ikke tilgang til dem. Som data fra andre apper kan de inngå i sikkerhetskopiene av enheten din hvis du har slått dem på. Du kan slette en skanning når som helst; hvis du sletter appen, forsvinner alle."
+          }
+        ]
+      },
+      {
+        "h": "Wi-Fi-måling og testserver",
+        "blocks": [
+          {
+            "p": "Under en skanning laster appen ned små datablokker fra en testserver: som standard speed.cloudflare.com, som drives av Cloudflare. Som ved enhver internettforbindelse ser serveren IP-adressen din og nedlastingsforespørselen, som oppgir blokkens størrelse og et tilfeldig nummer som hindrer hurtigbufring."
+          },
+          {
+            "p": "Verken nettverksnavnet ditt, skanningene dine eller resultatene dine sendes til den. Cloudflare behandler disse forbindelsene i samsvar med sin egen personvernerklæring. Hvis du velger en annen server i innstillingene, er det den serveren som mottar forbindelsene."
+          }
+        ]
+      },
+      {
+        "h": "Tillatelser appen ber om",
+        "blocks": [
+          {
+            "p": "Du kan trekke tilbake hver tillatelse i Innstillinger på enheten din."
+          },
+          {
+            "ul": [
+              "<strong>Kamera</strong>: for å følge posisjonen din i boligen under en skanning. Ingen bilder lagres eller sendes. Med modusen «Med fingeren» kan du klare deg uten.",
+              "<strong>Posisjon</strong>: iOS krever den for å lese navnet på Wi-Fi-nettverket. Appen leser ikke GPS-koordinatene dine. Nettverksnavnet blir på enheten din."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Deling",
+        "blocks": [
+          {
+            "p": "Du kan dele en skanning som et bilde med iOS' egne verktøy (AirDrop, Messages, Mail …). Bildet viser skanningens navn, dato, kart og statistikk, men ikke nettverksnavnet. Ingenting deles uten at du ber om det."
+          }
+        ]
+      },
+      {
+        "h": "Reklame, kjøp og sporing",
+        "blocks": [
+          {
+            "p": "Wi-Fi-kart er gratis og krever ingen konto. Appen inneholder ingen reklame, ingen kjøp i appen, ingen sporere og ingen verktøy for analyse eller bruksstatistikk."
+          }
+        ]
+      },
+      {
+        "h": "Barn",
+        "blocks": [
+          {
+            "p": "Appen samler ikke inn noen opplysninger og passer for alle aldre."
+          }
+        ]
+      },
+      {
+        "h": "Endringer",
+        "blocks": [
+          {
+            "p": "Hvis denne personvernerklæringen endres, blir den nye versjonen publisert på denne siden sammen med datoen for oppdateringen."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Spørsmål om denne personvernerklæringen? Skriv til {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

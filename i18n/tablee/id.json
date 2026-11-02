@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Lembar skor untuk permainan kartu dan papan Anda",
+    "contact": "Ada pertanyaan, ide, atau aturan yang salah dihitung? Tulis kepada saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Apakah Tablée sebuah permainan kartu?",
+        "a": "Bukan. Tablée adalah lembar skor: aplikasi ini menghitung poin, sedangkan kartunya tetap di atas meja. Jadi Anda memerlukan kartu atau perlengkapan permainan Anda sendiri."
+      },
+      {
+        "q": "Permainan apa saja yang didukung?",
+        "a": "Belote, coinche, tarot, Scrabble, dan Uno. Untuk semua permainan berpoin lainnya (Yahtzee, rummy, Skyjo…), gunakan permainan bebas: skor tertinggi atau terendah yang menang, sesuai pilihan Anda."
+      },
+      {
+        "q": "Aturan saya berbeda: bisakah saya mengubahnya?",
+        "a": "Bisa. Aturan resmi diterapkan secara default, dan varian yang umum (pembulatan, belote bisa hilang, metode coinche…) adalah pengaturan di setiap permainan. Anda dapat mengubahnya di tengah permainan: lembar skor lalu dihitung ulang."
+      },
+      {
+        "q": "Bagaimana saya tahu asal sebuah hasil?",
+        "a": "Buka tangan yang bersangkutan, lalu “Rincian perhitungan”: setiap baris skor dijelaskan di sana. Aturan setiap permainan juga tersedia di menu lembar skor, dan di Pengaturan › Aturan permainan."
+      },
+      {
+        "q": "Saya salah di satu tangan: apa yang harus saya lakukan?",
+        "a": "Anda dapat mengoreksi atau menghapus tangan mana pun di lembar skor, atau membatalkan yang terakhir. Total dihitung ulang seketika."
+      },
+      {
+        "q": "Bagaimana cara berganti perangkat tanpa kehilangan permainan saya?",
+        "a": "Di perangkat lama, buka Pengaturan › “Ekspor semua (JSON)” dan simpan filenya. Di perangkat baru, pilih “Impor file”: permainan dan pemain ditambahkan ke yang sudah ada, tanpa menimpa apa pun."
+      },
+      {
+        "q": "Apakah permainan saya disinkronkan atau dicadangkan?",
+        "a": "Setiap perubahan disimpan di perangkat Anda, dan Anda melanjutkan permainan dari tempat terakhir Anda berhenti. Tablée tidak menyinkronkan apa pun antarperangkat Anda, dan datanya hilang jika Anda menghapus aplikasi: ingatlah untuk mengekspor cadangan sesekali."
+      },
+      {
+        "q": "Bagaimana cara membagikan hasil?",
+        "a": "Di menu lembar skor, “Bagikan” menawarkan gambar lembar skor dan grafik, atau ringkasan berupa teks. Untuk spreadsheet, gunakan Pengaturan › “Ekspor untuk spreadsheet (CSV)”."
+      },
+      {
+        "q": "Bagaimana cara menghapus semuanya?",
+        "a": "Di Pengaturan › “Hapus semua data”. Tindakan ini permanen: ekspor cadangan terlebih dahulu jika Anda ingin menyimpan permainan Anda."
+      }
+    ],
+    "privacy_summary": "Tablée tidak mengumpulkan data pribadi apa pun, tidak terhubung ke server mana pun, dan tidak berisi iklan, pembelian, maupun pelacak. Permainan Anda tetap ada di perangkat Anda."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasnya",
+        "blocks": [
+          {
+            "p": "Tablée tidak mengumpulkan data pribadi apa pun. Aplikasi ini bekerja secara offline, tidak terhubung ke server mana pun, dan tidak memerlukan akun. Semua yang Anda masukkan tetap ada di perangkat Anda, kecuali jika Anda memilih untuk membagikan atau mengekspornya."
+          }
+        ]
+      },
+      {
+        "h": "Data Anda",
+        "blocks": [
+          {
+            "p": "Aplikasi menyimpan permainan Anda, poin dan aturannya, daftar pemain Anda (nama, emoji, warna), statistik yang dihitung dari permainan tersebut, serta pengaturan Anda. Nama pemain boleh apa saja sesuai keinginan Anda: nama itu hanya berguna bagi Anda."
+          },
+          {
+            "p": "Data ini disimpan di perangkat Anda, dan pengembang tidak dapat mengaksesnya. Seperti data aplikasi lain, data ini dapat ikut tersimpan dalam cadangan perangkat Anda jika Anda mengaktifkannya. Anda dapat menghapus semuanya di pengaturan; menghapus aplikasi juga menghapusnya."
+          }
+        ]
+      },
+      {
+        "h": "Berbagi, ekspor, dan impor",
+        "blocks": [
+          {
+            "p": "Tidak ada yang keluar dari aplikasi tanpa tindakan dari Anda."
+          },
+          {
+            "ul": [
+              "<strong>Membagikan permainan</strong>: gambar atau teks dikirim melalui fitur iOS (AirDrop, Messages, Mail…) dan berisi nama pemain beserta poin mereka.",
+              "<strong>Ekspor</strong>: file JSON atau CSV berisi permainan Anda dan nama para pemain. Anda memilih tempat penyimpanannya; file itu lalu tunduk pada ketentuan layanan yang Anda pilih.",
+              "<strong>Impor</strong>: aplikasi hanya membaca file yang Anda pilih."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Izin yang diminta",
+        "blocks": [
+          {
+            "p": "Tablée tidak meminta izin apa pun: tidak kamera, tidak lokasi, tidak kontak, tidak foto."
+          }
+        ]
+      },
+      {
+        "h": "Iklan, pembelian, dan pelacakan",
+        "blocks": [
+          {
+            "p": "Tablée gratis. Aplikasi ini tidak berisi iklan, pembelian dalam aplikasi, pelacak, maupun alat analitik atau statistik penggunaan."
+          }
+        ]
+      },
+      {
+        "h": "Anak-anak",
+        "blocks": [
+          {
+            "p": "Aplikasi ini tidak mengumpulkan data apa pun dan cocok untuk segala usia."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika kebijakan ini berubah, versi barunya akan diterbitkan di halaman ini beserta tanggal pembaruannya."
+          }
+        ]
+      },
+      {
+        "h": "Kontak",
+        "blocks": [
+          {
+            "p": "Untuk pertanyaan apa pun tentang kebijakan ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

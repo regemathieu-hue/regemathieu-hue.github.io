@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Descobreix on se't debilita el Wi-Fi, habitació per habitació",
+    "contact": "Una pregunta, una idea o un error? Escriu-me:<br>{email}",
+    "faq": [
+      {
+        "q": "Per què l'aplicació no mostra la potència del senyal?",
+        "a": "iOS no dona a les aplicacions la potència bruta del senyal Wi-Fi. Per això Mapa Wi-Fi mesura el que el teu Wi-Fi ofereix realment a cada lloc: la velocitat i la latència. La puntuació de 0 a 100 que es mostra al mapa surt d'aquestes dues mesures."
+      },
+      {
+        "q": "Per a què serveix la càmera?",
+        "a": "Permet a l'iPhone seguir la teva posició mentre camines. No es desa ni s'envia cap imatge. Si prefereixes no fer-la servir, o si el teu dispositiu no admet aquest seguiment, tria «Amb el dit» abans de començar: aleshores mous la teva posició fent lliscar el dit pel mapa."
+      },
+      {
+        "q": "Per què l'aplicació demana la meva ubicació?",
+        "a": "iOS exigeix aquest permís perquè una aplicació pugui llegir el nom de la xarxa Wi-Fi. No serveix per a res més: l'aplicació no llegeix les teves coordenades GPS. Si el denegues, l'escaneig funciona igualment, però sense mostrar el nom de la xarxa."
+      },
+      {
+        "q": "Quantes dades consumeix un escaneig?",
+        "a": "Uns 1 MB per segon amb els ajustos per defecte, és a dir, aproximadament 300 MB per a un escaneig de 5 minuts. Per consumir-ne menys, obre Ajustos (la roda dentada de la pantalla d'inici) i tria «250 KB (econòmic)» a «Dades per mesura»."
+      },
+      {
+        "q": "L'escaneig fa servir el 4G o el 5G?",
+        "a": "No. Les mesures passen només pel Wi-Fi. Si el Wi-Fi es talla, la mesura cau a 0 en lloc de mesurar la xarxa mòbil, i el mapa ho mostra."
+      },
+      {
+        "q": "El mapa està desplaçat o es perd el seguiment: què puc fer?",
+        "a": "Camina a poc a poc, amb l'iPhone al davant, i apunta a llocs amb detalls en lloc d'una paret llisa. Durant l'escaneig, l'aplicació t'indica què has de corregir, per exemple «Mou-te una mica més a poc a poc». En distàncies llargues, el seguiment pot desviar-se una mica: és millor fer diversos escanejos curts que un de sol molt llarg."
+      },
+      {
+        "q": "El mapa és vermell per tot arreu: és el meu Wi-Fi?",
+        "a": "No necessàriament. Les mesures passen per un servidor d'internet, de manera que una connexió a internet lenta o una latència alta afecten tot l'habitatge. Són les diferències entre les habitacions les que revelen els punts febles del Wi-Fi."
+      },
+      {
+        "q": "Com puc compartir, canviar el nom o eliminar un escaneig?",
+        "a": "Obre l'escaneig des de la pantalla d'inici. El botó de compartir de la part superior de la pantalla l'envia com a imatge; el menú del costat permet canviar-li el nom o eliminar-lo."
+      },
+      {
+        "q": "Puc fer servir un altre servidor de prova?",
+        "a": "Sí, a Ajustos › Servidor de prova. Aquest servidor ha de retornar el nombre d'octets que demana el paràmetre «bytes»."
+      }
+    ],
+    "privacy_summary": "Mapa Wi-Fi no recull cap dada personal i no conté ni publicitat, ni compres, ni rastrejadors. Els teus escanejos es queden al teu dispositiu. Per mesurar la velocitat, l'aplicació descarrega dades d'un servidor de prova, que veu la teva adreça IP com qualsevol lloc web."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resum",
+        "blocks": [
+          {
+            "p": "Mapa Wi-Fi no recull cap dada personal, i el desenvolupador no té cap servidor. Els teus escanejos es desen al teu dispositiu. L'única connexió a internet serveix per mesurar el teu Wi-Fi, descarregant dades d'un servidor de prova."
+          }
+        ]
+      },
+      {
+        "h": "Els teus escanejos",
+        "blocks": [
+          {
+            "p": "Cada escaneig conté el seu nom, la data, el nom de la xarxa Wi-Fi si està disponible, les mesures de velocitat i de latència, i el recorregut fet. Aquest recorregut s'expressa en metres respecte al teu punt de partida: no és una posició geogràfica."
+          },
+          {
+            "p": "Els escanejos i els ajustos es desen al teu dispositiu, i el desenvolupador no hi té accés. Com les dades de les altres aplicacions, poden formar part de les còpies de seguretat del teu dispositiu si les has activades. Pots eliminar un escaneig en qualsevol moment; en eliminar l'aplicació, tots s'esborren."
+          }
+        ]
+      },
+      {
+        "h": "Mesura del Wi-Fi i servidor de prova",
+        "blocks": [
+          {
+            "p": "Durant un escaneig, l'aplicació descarrega petits blocs de dades d'un servidor de prova: per defecte speed.cloudflare.com, gestionat per Cloudflare. Com en qualsevol connexió a internet, aquest servidor veu la teva adreça IP i la petició de descàrrega, que indica la mida del bloc i un número aleatori que evita l'emmagatzematge a la memòria cau."
+          },
+          {
+            "p": "No se li envia ni el nom de la teva xarxa, ni els teus escanejos, ni els teus resultats. Cloudflare tracta aquestes connexions segons la seva pròpia política de privadesa. Si tries un altre servidor als ajustos, és aquest servidor el que rep aquestes connexions."
+          }
+        ]
+      },
+      {
+        "h": "Permisos sol·licitats",
+        "blocks": [
+          {
+            "p": "Pots retirar cada permís a la Configuració del teu dispositiu."
+          },
+          {
+            "ul": [
+              "<strong>Càmera</strong>: per seguir la teva posició a l'habitatge durant un escaneig. No es desa ni s'envia cap imatge. El mode «Amb el dit» permet prescindir-ne.",
+              "<strong>Ubicació</strong>: iOS ho exigeix per llegir el nom de la xarxa Wi-Fi. L'aplicació no llegeix les teves coordenades GPS. El nom de la xarxa es queda al teu dispositiu."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Compartir",
+        "blocks": [
+          {
+            "p": "Pots compartir un escaneig com a imatge amb les eines d'iOS (AirDrop, Messages, Mail…). La imatge mostra el nom de l'escaneig, la data, el mapa i les estadístiques, però no el nom de la xarxa. No es comparteix res sense que ho demanis."
+          }
+        ]
+      },
+      {
+        "h": "Publicitat, compres i seguiment",
+        "blocks": [
+          {
+            "p": "Mapa Wi-Fi és gratuïta i no demana cap compte. No conté cap publicitat, cap compra integrada, cap rastrejador ni cap eina d'anàlisi o d'estadístiques d'ús."
+          }
+        ]
+      },
+      {
+        "h": "Menors",
+        "blocks": [
+          {
+            "p": "L'aplicació no recull cap dada i és apta per a totes les edats."
+          }
+        ]
+      },
+      {
+        "h": "Modificacions",
+        "blocks": [
+          {
+            "p": "Si aquesta política canvia, la nova versió es publicarà en aquesta pàgina amb la seva data d'actualització."
+          }
+        ]
+      },
+      {
+        "h": "Contacte",
+        "blocks": [
+          {
+            "p": "Per a qualsevol pregunta sobre aquesta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

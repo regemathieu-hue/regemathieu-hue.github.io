@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Het scoreblad voor uw kaartspellen en gezelschapsspellen",
+    "contact": "Een vraag, een idee of een verkeerd getelde regel? Schrijft u me:<br>{email}",
+    "faq": [
+      {
+        "q": "Is Tablée een kaartspel?",
+        "a": "Nee. Tablée is een scoreblad: het telt de punten, en de kaarten blijven op tafel liggen. U hebt dus uw eigen spel nodig om te spelen."
+      },
+      {
+        "q": "Welke spellen worden ondersteund?",
+        "a": "Belote, coinche, tarot, Scrabble en Uno. Voor alle andere spellen met punten (Yahtzee, rummy, Skyjo …) gebruikt u het vrije spel: de hoogste of de laagste score wint, naar keuze."
+      },
+      {
+        "q": "Mijn regels zijn anders: kan ik ze aanpassen?",
+        "a": "Ja. Standaard gelden de officiële regels, en gangbare varianten (afronding, belote af te pakken, telmethode van de coinche …) zijn instellingen van elk spel. U kunt ze ook tijdens het spel wijzigen: het blad wordt dan opnieuw berekend."
+      },
+      {
+        "q": "Hoe zie ik waar een uitslag vandaan komt?",
+        "a": "Open de betreffende hand en kies dan ‘Details van de berekening’: daar wordt elke regel van de score uitgelegd. De regels van elk spel vindt u ook in het menu van het blad en bij Instellingen › Spelregels."
+      },
+      {
+        "q": "Ik heb me in een hand vergist: wat nu?",
+        "a": "U kunt elke hand van het blad corrigeren of verwijderen, of de laatste ongedaan maken. De totalen worden meteen opnieuw berekend."
+      },
+      {
+        "q": "Hoe stap ik over op een ander apparaat zonder mijn spellen kwijt te raken?",
+        "a": "Open op het oude apparaat Instellingen › ‘Alles exporteren (JSON)’ en bewaar het bestand. Kies op het nieuwe apparaat ‘Bestand importeren’: de spellen en spelers worden toegevoegd aan wat er al is, zonder iets te overschrijven."
+      },
+      {
+        "q": "Worden mijn spellen gesynchroniseerd of geback-upt?",
+        "a": "Elke wijziging wordt op uw apparaat opgeslagen, en u gaat verder waar u gebleven was. Tablée synchroniseert niets tussen uw apparaten, en de gegevens verdwijnen als u de app verwijdert: denk eraan af en toe een back-up te exporteren."
+      },
+      {
+        "q": "Hoe deel ik een uitslag?",
+        "a": "In het menu van het blad biedt ‘Deel’ een afbeelding van het blad en de grafiek, of een samenvatting in tekst. Voor een spreadsheet gebruikt u Instellingen › ‘Exporteren voor een spreadsheet (CSV)’."
+      },
+      {
+        "q": "Hoe wis ik alles?",
+        "a": "Via Instellingen › ‘Alle gegevens wissen’. Dit is definitief: exporteer eerst een back-up als u uw spellen wilt bewaren."
+      }
+    ],
+    "privacy_summary": "Tablée verzamelt geen persoonsgegevens, maakt geen verbinding met een server en bevat geen reclame, aankopen of trackers. Uw spellen blijven op uw apparaat."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In het kort",
+        "blocks": [
+          {
+            "p": "Tablée verzamelt geen persoonsgegevens. De app werkt offline, maakt geen verbinding met een server en vraagt geen account. Alles wat u invoert blijft op uw apparaat, tenzij u ervoor kiest het te delen of te exporteren."
+          }
+        ]
+      },
+      {
+        "h": "Uw gegevens",
+        "blocks": [
+          {
+            "p": "De app slaat uw spellen op, met hun punten en regels, uw spelerslijst (naam, emoji, kleur), de statistieken die uit die spellen worden berekend en uw instellingen. Een spelersnaam mag alles zijn wat u wilt: ze is alleen voor u van nut."
+          },
+          {
+            "p": "Deze gegevens worden op uw apparaat opgeslagen, en de ontwikkelaar heeft er geen toegang toe. Net als de gegevens van andere apps kunnen ze in de back-ups van uw apparaat zitten als u die hebt ingeschakeld. U kunt alles wissen in de instellingen; als u de app verwijdert, worden de gegevens ook gewist."
+          }
+        ]
+      },
+      {
+        "h": "Delen, exporteren en importeren",
+        "blocks": [
+          {
+            "p": "Niets verlaat de app zonder dat u iets doet."
+          },
+          {
+            "ul": [
+              "<strong>Een spel delen</strong>: de afbeelding of de tekst gaat via de middelen van iOS (AirDrop, Messages, Mail …) en bevat de namen van de spelers en hun punten.",
+              "<strong>Exporteren</strong>: het JSON- of CSV-bestand bevat uw spellen en de namen van de spelers. U kiest waar u het opslaat; het valt dan onder de voorwaarden van de gekozen dienst.",
+              "<strong>Importeren</strong>: de app leest alleen het bestand dat u selecteert."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Gevraagde toestemmingen",
+        "blocks": [
+          {
+            "p": "Tablée vraagt geen enkele toestemming: geen camera, geen locatie, geen contacten, geen foto’s."
+          }
+        ]
+      },
+      {
+        "h": "Reclame, aankopen en tracking",
+        "blocks": [
+          {
+            "p": "Tablée is gratis. De app bevat geen reclame, geen in-app-aankopen, geen trackers en geen tools voor analyse of gebruiksstatistieken."
+          }
+        ]
+      },
+      {
+        "h": "Kinderen",
+        "blocks": [
+          {
+            "p": "De app verzamelt geen gegevens en is geschikt voor alle leeftijden."
+          }
+        ]
+      },
+      {
+        "h": "Wijzigingen",
+        "blocks": [
+          {
+            "p": "Als dit beleid verandert, wordt de nieuwe versie op deze pagina gepubliceerd met de datum van de wijziging."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Voor vragen over dit beleid: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

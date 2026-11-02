@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "The score sheet for your card and board games",
+    "contact": "A question, an idea or a miscounted rule? Write to me:<br>{email}",
+    "faq": [
+      {
+        "q": "Is Tablée a card game?",
+        "a": "No. Tablée is a score sheet: it keeps the points, and the cards stay on the table. You need your own deck or set to play."
+      },
+      {
+        "q": "Which games are supported?",
+        "a": "Belote, coinche, French tarot, Scrabble and Uno. For any other points game (Yahtzee, rummy, Skyjo…), use free play: the highest or lowest score wins, as you choose."
+      },
+      {
+        "q": "My rules are different. Can I change them?",
+        "a": "Yes. The official rules apply by default, and common variants (rounding, belote can be lost, coinche scoring method…) are settings of each game. You can change them mid-game: the sheet is then recalculated."
+      },
+      {
+        "q": "How can I see where a score comes from?",
+        "a": "Open the hand in question, then “Calculation details”: each line of the score is explained there. The rules of each game are also available from the sheet's menu, and in Settings › Game rules."
+      },
+      {
+        "q": "I made a mistake in a hand. What can I do?",
+        "a": "You can correct or delete any hand on the sheet, or undo the last one. The totals are recalculated right away."
+      },
+      {
+        "q": "How do I switch devices without losing my games?",
+        "a": "On the old device, open Settings › “Export all (JSON)” and save the file. On the new one, choose “Import a file”: the games and players are added to those already there, without overwriting anything."
+      },
+      {
+        "q": "Are my games synced or backed up?",
+        "a": "Every change is saved on your device, and you pick up the game where you left off. Tablée doesn't sync anything between your devices, and its data disappears if you delete the app: remember to export a backup from time to time."
+      },
+      {
+        "q": "How do I share a result?",
+        "a": "In the sheet's menu, “Share” offers an image of the sheet and chart, or a text summary. For a spreadsheet, use Settings › “Export for a spreadsheet (CSV)”."
+      },
+      {
+        "q": "How do I erase everything?",
+        "a": "In Settings › “Erase all data”. This can't be undone: export a backup first if you want to keep your games."
+      }
+    ],
+    "privacy_summary": "Tablée doesn't collect any personal data, doesn't connect to any server and has no ads, purchases or trackers. Your games stay on your device."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In short",
+        "blocks": [
+          {
+            "p": "Tablée doesn't collect any personal data. The app works offline, doesn't connect to any server and requires no account. Everything you enter stays on your device, unless you choose to share or export it."
+          }
+        ]
+      },
+      {
+        "h": "Your data",
+        "blocks": [
+          {
+            "p": "The app saves your games, their scores and rules, your list of players (name, emoji, color), the statistics calculated from these games and your settings. A player's name can be anything you like: it's only useful to you."
+          },
+          {
+            "p": "This data is saved on your device, and the developer has no access to it. Like other apps' data, it may be included in your device backups if you've turned them on. You can erase everything in the settings; deleting the app erases it too."
+          }
+        ]
+      },
+      {
+        "h": "Sharing, export and import",
+        "blocks": [
+          {
+            "p": "Nothing leaves the app without action on your part."
+          },
+          {
+            "ul": [
+              "<strong>Sharing a game</strong>: the image or text goes through iOS tools (AirDrop, Messages, Mail…) and contains the players' names and scores.",
+              "<strong>Export</strong>: the JSON or CSV file contains your games and the players' names. You choose where to save it; it's then subject to the terms of the service you chose.",
+              "<strong>Import</strong>: the app only reads the file you select."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Permissions requested",
+        "blocks": [
+          {
+            "p": "Tablée doesn't ask for any permission: no camera, location, contacts or photos."
+          }
+        ]
+      },
+      {
+        "h": "Ads, purchases and tracking",
+        "blocks": [
+          {
+            "p": "Tablée is free. It contains no ads, no in-app purchases, no trackers and no analytics or usage statistics tools."
+          }
+        ]
+      },
+      {
+        "h": "Children",
+        "blocks": [
+          {
+            "p": "The app doesn't collect any data and is suitable for all ages."
+          }
+        ]
+      },
+      {
+        "h": "Changes",
+        "blocks": [
+          {
+            "p": "If this policy changes, the new version will be published on this page with its update date."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "For any question about this policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

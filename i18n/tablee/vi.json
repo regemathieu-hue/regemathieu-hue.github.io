@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Bảng ghi điểm cho các trò chơi bài và trò chơi bàn của bạn",
+    "contact": "Có câu hỏi, ý tưởng hay luật bị tính sai? Hãy viết cho tôi:<br>{email}",
+    "faq": [
+      {
+        "q": "Tablée có phải là một trò chơi bài không?",
+        "a": "Không. Tablée là bảng ghi điểm: ứng dụng tính điểm, còn các lá bài vẫn ở trên bàn. Vì vậy bạn cần bộ bài hoặc bộ trò chơi của riêng mình để chơi."
+      },
+      {
+        "q": "Những trò chơi nào được hỗ trợ?",
+        "a": "Belote, coinche, tarot, Scrabble và Uno. Với mọi trò chơi tính điểm khác (Yahtzee, rummy, Skyjo…), hãy dùng chơi tự do: điểm cao nhất hoặc thấp nhất thắng, tùy bạn chọn."
+      },
+      {
+        "q": "Luật của tôi khác: tôi có thể thay đổi không?",
+        "a": "Có. Luật chính thức được áp dụng theo mặc định, và các biến thể phổ biến (làm tròn, belote có thể bị lấy, cách tính của coinche…) là các cài đặt của từng ván chơi. Bạn có thể đổi chúng ngay giữa ván: bảng điểm sẽ được tính lại."
+      },
+      {
+        "q": "Làm sao biết một kết quả đến từ đâu?",
+        "a": "Mở lượt chia liên quan, rồi chọn “Chi tiết phép tính”: mỗi dòng của bảng điểm được giải thích ở đó. Luật của từng trò chơi cũng có trong menu của bảng điểm và trong Cài đặt › Luật các trò chơi."
+      },
+      {
+        "q": "Tôi nhầm trong một lượt chia: tôi nên làm gì?",
+        "a": "Bạn có thể sửa hoặc xóa bất kỳ lượt chia nào trên bảng điểm, hoặc hoàn tác lượt cuối cùng. Tổng điểm được tính lại ngay lập tức."
+      },
+      {
+        "q": "Làm sao để đổi thiết bị mà không mất các ván chơi?",
+        "a": "Trên thiết bị cũ, mở Cài đặt › “Xuất tất cả (JSON)” và lưu tệp. Trên thiết bị mới, chọn “Nhập tệp”: các ván chơi và người chơi được thêm vào những gì đã có, không ghi đè lên bất cứ thứ gì."
+      },
+      {
+        "q": "Các ván chơi của tôi có được đồng bộ hay sao lưu không?",
+        "a": "Mỗi thay đổi đều được lưu trên thiết bị của bạn, và bạn tiếp tục ván chơi từ chỗ đã dừng. Tablée không đồng bộ gì giữa các thiết bị của bạn, và dữ liệu sẽ mất nếu bạn xóa ứng dụng: hãy nhớ xuất một bản sao lưu thỉnh thoảng."
+      },
+      {
+        "q": "Làm sao để chia sẻ một kết quả?",
+        "a": "Trong menu của bảng điểm, “Chia sẻ” đề xuất một hình ảnh của bảng điểm và biểu đồ, hoặc một bản tóm tắt dạng văn bản. Với bảng tính, hãy dùng Cài đặt › “Xuất cho bảng tính (CSV)”."
+      },
+      {
+        "q": "Làm sao để xóa tất cả?",
+        "a": "Trong Cài đặt › “Xóa toàn bộ dữ liệu”. Thao tác này không thể hoàn lại: hãy xuất bản sao lưu trước nếu bạn muốn giữ các ván chơi."
+      }
+    ],
+    "privacy_summary": "Tablée không thu thập bất kỳ dữ liệu cá nhân nào, không kết nối với máy chủ nào và không có quảng cáo, mua hàng hay trình theo dõi. Các ván chơi của bạn nằm lại trên thiết bị của bạn."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Tóm tắt",
+        "blocks": [
+          {
+            "p": "Tablée không thu thập bất kỳ dữ liệu cá nhân nào. Ứng dụng hoạt động ngoại tuyến, không kết nối với máy chủ nào và không yêu cầu tài khoản. Mọi thứ bạn nhập vẫn nằm trên thiết bị của bạn, trừ khi bạn chọn chia sẻ hoặc xuất ra."
+          }
+        ]
+      },
+      {
+        "h": "Dữ liệu của bạn",
+        "blocks": [
+          {
+            "p": "Ứng dụng lưu các ván chơi, điểm số và luật của chúng, danh sách người chơi của bạn (tên, emoji, màu), các thống kê tính từ những ván chơi này và cài đặt của bạn. Tên người chơi có thể là bất cứ gì bạn muốn: nó chỉ có ích cho bạn."
+          },
+          {
+            "p": "Những dữ liệu này được lưu trên thiết bị của bạn, và nhà phát triển không thể truy cập. Cũng như dữ liệu của các ứng dụng khác, chúng có thể nằm trong bản sao lưu của thiết bị nếu bạn đã bật sao lưu. Bạn có thể xóa tất cả trong phần cài đặt; xóa ứng dụng cũng xóa chúng."
+          }
+        ]
+      },
+      {
+        "h": "Chia sẻ, xuất và nhập",
+        "blocks": [
+          {
+            "p": "Không có gì rời khỏi ứng dụng nếu bạn không thực hiện thao tác."
+          },
+          {
+            "ul": [
+              "<strong>Chia sẻ một ván chơi</strong>: hình ảnh hoặc văn bản đi qua các công cụ của iOS (AirDrop, Messages, Mail…) và chứa tên người chơi cùng điểm số của họ.",
+              "<strong>Xuất</strong>: tệp JSON hoặc CSV chứa các ván chơi của bạn và tên người chơi. Bạn chọn nơi lưu; sau đó tệp tuân theo điều khoản của dịch vụ bạn đã chọn.",
+              "<strong>Nhập</strong>: ứng dụng chỉ đọc tệp mà bạn chọn."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Các quyền được yêu cầu",
+        "blocks": [
+          {
+            "p": "Tablée không yêu cầu quyền nào: không camera, không vị trí, không danh bạ, không ảnh."
+          }
+        ]
+      },
+      {
+        "h": "Quảng cáo, mua hàng và theo dõi",
+        "blocks": [
+          {
+            "p": "Tablée miễn phí. Ứng dụng không có quảng cáo, không có mua hàng trong ứng dụng, không có trình theo dõi và không có công cụ phân tích hay thống kê sử dụng nào."
+          }
+        ]
+      },
+      {
+        "h": "Trẻ em",
+        "blocks": [
+          {
+            "p": "Ứng dụng không thu thập dữ liệu nào và phù hợp với mọi lứa tuổi."
+          }
+        ]
+      },
+      {
+        "h": "Thay đổi",
+        "blocks": [
+          {
+            "p": "Nếu chính sách này thay đổi, phiên bản mới sẽ được đăng trên trang này kèm ngày cập nhật."
+          }
+        ]
+      },
+      {
+        "h": "Liên hệ",
+        "blocks": [
+          {
+            "p": "Mọi câu hỏi về chính sách này: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Hitta var ditt Wi-Fi blir svagt, rum för rum",
+    "contact": "En fråga, en idé eller en bugg? Skriv till mig:<br>{email}",
+    "faq": [
+      {
+        "q": "Varför visar appen inte signalstyrkan?",
+        "a": "iOS lämnar inte ut den råa signalstyrkan för Wi-Fi till appar. Wi-Fi-karta mäter därför vad ditt Wi-Fi faktiskt levererar på varje plats: hastighet och latens. Poängen från 0 till 100 som visas på kartan kommer från de två mätningarna."
+      },
+      {
+        "q": "Vad används kameran till?",
+        "a": "Den gör att iPhone kan följa din position medan du går. Inga bilder sparas eller skickas. Om du helst inte vill använda den, eller om din enhet inte klarar den här spårningen, välj ”Med fingret” innan du börjar: då flyttar du din position genom att dra fingret över kartan."
+      },
+      {
+        "q": "Varför ber appen om min plats?",
+        "a": "iOS kräver det här tillståndet för att en app ska kunna läsa Wi-Fi-nätverkets namn. Det används inte till något annat: appen läser inte dina GPS-koordinater. Om du nekar fungerar skanningen ändå, men utan att visa nätverkets namn."
+      },
+      {
+        "q": "Hur mycket data går åt vid en skanning?",
+        "a": "Ungefär 1 MB per sekund med standardinställningarna, alltså cirka 300 MB för en skanning på 5 minuter. Om du vill använda mindre öppnar du Inställningar (kugghjulet på startskärmen) och väljer ”250 kB (sparsam)” under ”Data per mätning”."
+      },
+      {
+        "q": "Använder skanningen 4G eller 5G?",
+        "a": "Nej. Mätningarna går bara via Wi-Fi. Om Wi-Fi tappas faller mätvärdet till 0 i stället för att mäta mobilnätet, och kartan visar det."
+      },
+      {
+        "q": "Kartan är förskjuten eller spårningen försvinner: vad gör jag?",
+        "a": "Gå långsamt med iPhone framför dig och rikta den mot ställen med detaljer snarare än en slät vägg. Under skanningen visar appen vad du behöver rätta till, till exempel ”Rör dig lite långsammare”. På långa sträckor kan spårningen driva iväg lite: det är bättre att göra flera korta skanningar än en enda mycket lång."
+      },
+      {
+        "q": "Kartan är röd överallt: beror det på mitt Wi-Fi?",
+        "a": "Inte nödvändigtvis. Mätningarna går via en server på internet, så en långsam internetanslutning eller hög latens påverkar hela bostaden. Det är skillnaderna mellan rummen som avslöjar Wi-Fi-nätets svagheter."
+      },
+      {
+        "q": "Hur delar, byter jag namn på eller tar bort en skanning?",
+        "a": "Öppna skanningen från startskärmen. Delningsknappen högst upp på skärmen skickar den som en bild, och menyn bredvid låter dig byta namn på den eller ta bort den."
+      },
+      {
+        "q": "Kan jag använda en annan testserver?",
+        "a": "Ja, i Inställningar › Testserver. Servern måste returnera det antal byte som begärs via parametern ”bytes”."
+      }
+    ],
+    "privacy_summary": "Wi-Fi-karta samlar inte in några personuppgifter och innehåller varken reklam, köp eller spårare. Dina skanningar stannar på din enhet. För att mäta hastigheten laddar appen ned data från en testserver, som precis som vilken webbplats som helst ser din IP-adress."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "I korthet",
+        "blocks": [
+          {
+            "p": "Wi-Fi-karta samlar inte in några personuppgifter, och utvecklaren har ingen server. Dina skanningar sparas på din enhet. Den enda anslutningen till internet används för att mäta ditt Wi-Fi genom att ladda ned data från en testserver."
+          }
+        ]
+      },
+      {
+        "h": "Dina skanningar",
+        "blocks": [
+          {
+            "p": "Varje skanning innehåller sitt namn, sitt datum, Wi-Fi-nätverkets namn om det finns tillgängligt, mätvärdena för hastighet och latens samt den tillryggalagda sträckan. Sträckan anges i meter i förhållande till din startpunkt: det är ingen geografisk position."
+          },
+          {
+            "p": "Skanningarna och inställningarna sparas på din enhet, och utvecklaren har inte tillgång till dem. Precis som data från andra appar kan de ingå i säkerhetskopiorna av din enhet om du har slagit på dem. Du kan ta bort en skanning när som helst; om du raderar appen försvinner alla."
+          }
+        ]
+      },
+      {
+        "h": "Wi-Fi-mätning och testserver",
+        "blocks": [
+          {
+            "p": "Under en skanning laddar appen ned små datablock från en testserver: som standard speed.cloudflare.com, som drivs av Cloudflare. Som vid alla internetanslutningar ser servern din IP-adress och nedladdningsbegäran, som anger blockets storlek och ett slumpmässigt nummer som förhindrar cachelagring."
+          },
+          {
+            "p": "Varken ditt nätverksnamn, dina skanningar eller dina resultat skickas till den. Cloudflare behandlar de här anslutningarna enligt sin egen integritetspolicy. Om du väljer en annan server i inställningarna är det den servern som tar emot anslutningarna."
+          }
+        ]
+      },
+      {
+        "h": "Begärda behörigheter",
+        "blocks": [
+          {
+            "p": "Du kan återkalla varje behörighet i Inställningar på din enhet."
+          },
+          {
+            "ul": [
+              "<strong>Kamera</strong>: för att följa din position i bostaden under en skanning. Inga bilder sparas eller skickas. Med läget ”Med fingret” klarar du dig utan.",
+              "<strong>Plats</strong>: iOS kräver den för att läsa Wi-Fi-nätverkets namn. Appen läser inte dina GPS-koordinater. Nätverkets namn stannar på din enhet."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Delning",
+        "blocks": [
+          {
+            "p": "Du kan dela en skanning som en bild med iOS egna verktyg (AirDrop, Messages, Mail …). Bilden visar skanningens namn, datum, karta och statistik, men inte nätverkets namn. Ingenting delas utan att du ber om det."
+          }
+        ]
+      },
+      {
+        "h": "Reklam, köp och spårning",
+        "blocks": [
+          {
+            "p": "Wi-Fi-karta är gratis och kräver inget konto. Appen innehåller ingen reklam, inga köp i appen, inga spårare och inga verktyg för analys eller användningsstatistik."
+          }
+        ]
+      },
+      {
+        "h": "Barn",
+        "blocks": [
+          {
+            "p": "Appen samlar inte in några uppgifter och passar alla åldrar."
+          }
+        ]
+      },
+      {
+        "h": "Ändringar",
+        "blocks": [
+          {
+            "p": "Om den här policyn ändras publiceras den nya versionen på den här sidan med datum för uppdateringen."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Frågor om den här policyn: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

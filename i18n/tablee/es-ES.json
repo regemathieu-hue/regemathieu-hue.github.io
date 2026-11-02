@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "La hoja de puntuación de sus juegos de cartas y de mesa",
+    "contact": "¿Una pregunta, una idea o una regla mal contada? Escríbame:<br>{email}",
+    "faq": [
+      {
+        "q": "¿Tablée es un juego de cartas?",
+        "a": "No. Tablée es una hoja de puntuación: cuenta los puntos, y las cartas se quedan sobre la mesa. Por tanto, necesita su propio juego para jugar."
+      },
+      {
+        "q": "¿Qué juegos admite?",
+        "a": "La belote, la coinche, el tarot, el Scrabble y el Uno. Para todos los demás juegos de puntos (yahtzee, rummy, Skyjo…), utilice el juego libre: gana la puntuación más alta o la más baja, según su elección."
+      },
+      {
+        "q": "Mis reglas son distintas: ¿puedo cambiarlas?",
+        "a": "Sí. Las reglas oficiales se aplican por defecto, y las variantes habituales (redondeo, belote que se puede tomar, método de la coinche…) son ajustes de cada partida. Puede modificarlas durante la partida: la hoja se recalcula entonces."
+      },
+      {
+        "q": "¿Cómo saber de dónde sale un resultado?",
+        "a": "Abra la mano en cuestión y, después, «Detalle del cálculo»: allí se explica cada línea de la puntuación. Las reglas de cada juego también están disponibles en el menú de la hoja y en Ajustes › Reglas de los juegos."
+      },
+      {
+        "q": "Me he equivocado en una mano: ¿qué hago?",
+        "a": "Puede corregir o eliminar cualquier mano de la hoja, o deshacer la última. Los totales se recalculan al instante."
+      },
+      {
+        "q": "¿Cómo cambio de dispositivo sin perder mis partidas?",
+        "a": "En el dispositivo antiguo, abra Ajustes › «Exportar todo (JSON)» y guarde el archivo. En el nuevo, elija «Importar un archivo»: las partidas y los jugadores se añaden a los que ya hay, sin sobrescribir nada."
+      },
+      {
+        "q": "¿Mis partidas se sincronizan o se guardan en copia de seguridad?",
+        "a": "Cada modificación se guarda en su dispositivo, y usted retoma la partida donde la dejó. Tablée no sincroniza nada entre sus dispositivos, y sus datos desaparecen si elimina la aplicación: conviene exportar una copia de seguridad de vez en cuando."
+      },
+      {
+        "q": "¿Cómo comparto un resultado?",
+        "a": "En el menú de la hoja, «Compartir» ofrece una imagen de la hoja y del gráfico, o un resumen en texto. Para una hoja de cálculo, utilice Ajustes › «Exportar para una hoja de cálculo (CSV)»."
+      },
+      {
+        "q": "¿Cómo lo borro todo?",
+        "a": "En Ajustes › «Borrar todos los datos». Esta acción es definitiva: exporte antes una copia de seguridad si quiere conservar sus partidas."
+      }
+    ],
+    "privacy_summary": "Tablée no recopila ningún dato personal, no se conecta a ningún servidor y no contiene publicidad, compras ni rastreadores. Sus partidas se quedan en su dispositivo."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resumen",
+        "blocks": [
+          {
+            "p": "Tablée no recopila ningún dato personal. La aplicación funciona sin conexión, no se conecta a ningún servidor y no pide ninguna cuenta. Todo lo que usted introduce se queda en su dispositivo, salvo que decida compartirlo o exportarlo."
+          }
+        ]
+      },
+      {
+        "h": "Sus datos",
+        "blocks": [
+          {
+            "p": "La aplicación guarda sus partidas, sus puntos y sus reglas, su lista de jugadores (nombre, emoji, color), las estadísticas calculadas a partir de esas partidas y sus ajustes. El nombre de un jugador puede ser el que usted quiera: solo le sirve a usted."
+          },
+          {
+            "p": "Estos datos se guardan en su dispositivo, y el desarrollador no tiene acceso a ellos. Como los datos de otras aplicaciones, pueden figurar en las copias de seguridad de su dispositivo si las ha activado. Puede borrarlo todo en los ajustes; al eliminar la aplicación también se borran."
+          }
+        ]
+      },
+      {
+        "h": "Compartir, exportar e importar",
+        "blocks": [
+          {
+            "p": "Nada sale de la aplicación sin una acción por su parte."
+          },
+          {
+            "ul": [
+              "<strong>Compartir una partida</strong>: la imagen o el texto pasa por las herramientas de iOS (AirDrop, Messages, Mail…) y contiene los nombres de los jugadores y sus puntos.",
+              "<strong>Exportar</strong>: el archivo JSON o CSV contiene sus partidas y los nombres de los jugadores. Usted elige dónde guardarlo; queda entonces sujeto a las condiciones del servicio elegido.",
+              "<strong>Importar</strong>: la aplicación lee únicamente el archivo que usted selecciona."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Permisos solicitados",
+        "blocks": [
+          {
+            "p": "Tablée no solicita ningún permiso: ni cámara, ni ubicación, ni contactos, ni fotos."
+          }
+        ]
+      },
+      {
+        "h": "Publicidad, compras y seguimiento",
+        "blocks": [
+          {
+            "p": "Tablée es gratis. No contiene publicidad, compras integradas, rastreadores ni herramientas de análisis o de estadísticas de uso."
+          }
+        ]
+      },
+      {
+        "h": "Menores",
+        "blocks": [
+          {
+            "p": "La aplicación no recopila ningún dato y es apta para todas las edades."
+          }
+        ]
+      },
+      {
+        "h": "Modificaciones",
+        "blocks": [
+          {
+            "p": "Si esta política cambia, la nueva versión se publicará en esta página con su fecha de actualización."
+          }
+        ]
+      },
+      {
+        "h": "Contacto",
+        "blocks": [
+          {
+            "p": "Para cualquier pregunta sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Korttipelienne ja lautapelienne pistetaulukko",
+    "contact": "Kysymys, idea tai väärin laskettu sääntö? Kirjoittakaa minulle:<br>{email}",
+    "faq": [
+      {
+        "q": "Onko Tablée korttipeli?",
+        "a": "Ei. Tablée on pistetaulukko: se laskee pisteet, ja kortit pysyvät pöydällä. Pelaamiseen tarvitsette siis oman pelinne."
+      },
+      {
+        "q": "Mitä pelejä tuetaan?",
+        "a": "Belote, coinche, tarokki, Scrabble ja Uno. Kaikille muille pistepeleille (yams, rommi, Skyjo…) käyttäkää vapaata peliä: voittaja on joko korkeimman tai matalimman pistemäärän saanut, valintanne mukaan."
+      },
+      {
+        "q": "Säännöt ovat meillä erilaiset: voinko muuttaa niitä?",
+        "a": "Kyllä. Oletuksena käytetään virallisia sääntöjä, ja yleiset muunnelmat (pyöristys, belote voidaan menettää, coinchen menetelmä…) ovat kunkin pelin asetuksia. Voitte muuttaa niitä kesken pelin: taulukko lasketaan silloin uudelleen."
+      },
+      {
+        "q": "Mistä tulos tulee?",
+        "a": "Avatkaa kyseinen jako ja sitten ”Laskennan erittely”: siinä selitetään pistetaulukon jokainen rivi. Kunkin pelin säännöt löytyvät myös taulukon valikosta sekä kohdasta Asetukset › Pelien säännöt."
+      },
+      {
+        "q": "Tein virheen jaossa: mitä teen?",
+        "a": "Voitte korjata tai poistaa minkä tahansa taulukon jaon tai kumota viimeisimmän. Summat lasketaan heti uudelleen."
+      },
+      {
+        "q": "Miten vaihdan laitetta menettämättä pelejäni?",
+        "a": "Avatkaa vanhalla laitteella Asetukset › ”Vie kaikki (JSON)” ja tallentakaa tiedosto. Valitkaa uudella laitteella ”Tuo tiedosto”: pelit ja pelaajat lisätään jo olemassa olevien joukkoon mitään korvaamatta."
+      },
+      {
+        "q": "Synkronoidaanko tai varmuuskopioidaanko pelini?",
+        "a": "Jokainen muutos tallennetaan laitteellenne, ja jatkatte peliä siitä, mihin jäitte. Tablée ei synkronoi mitään laitteidenne välillä, ja sen tiedot katoavat, jos poistatte sovelluksen: muistakaa viedä varmuuskopio silloin tällöin."
+      },
+      {
+        "q": "Miten jaan tuloksen?",
+        "a": "Taulukon valikon ”Jaa”-toiminto tarjoaa kuvan taulukosta ja kaaviosta tai tekstiyhteenvedon. Taulukkolaskentaa varten käyttäkää kohtaa Asetukset › ”Vie taulukkolaskentaan (CSV)”."
+      },
+      {
+        "q": "Miten poistan kaiken?",
+        "a": "Kohdassa Asetukset › ”Poista kaikki tiedot”. Toimintoa ei voi perua: viekää ensin varmuuskopio, jos haluatte säilyttää pelinne."
+      }
+    ],
+    "privacy_summary": "Tablée ei kerää henkilötietoja, ei ota yhteyttä mihinkään palvelimeen eikä sisällä mainoksia, ostoksia tai seurantaa. Pelinne pysyvät laitteellanne."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Lyhyesti",
+        "blocks": [
+          {
+            "p": "Tablée ei kerää henkilötietoja. Sovellus toimii ilman verkkoyhteyttä, ei ota yhteyttä mihinkään palvelimeen eikä vaadi tiliä. Kaikki syöttämänne pysyy laitteellanne, ellette itse valitse jakaa tai viedä sitä."
+          }
+        ]
+      },
+      {
+        "h": "Tietonne",
+        "blocks": [
+          {
+            "p": "Sovellus tallentaa pelinne, niiden pisteet ja säännöt, pelaajaluettelonne (nimi, emoji, väri), näistä peleistä lasketut tilastot sekä asetuksenne. Pelaajan nimi voi olla mikä tahansa haluatte: se on hyödyllinen vain teille."
+          },
+          {
+            "p": "Nämä tiedot tallennetaan laitteellenne, eikä kehittäjä pääse niihin käsiksi. Kuten muidenkin sovellusten tiedot, ne voivat sisältyä laitteenne varmuuskopioihin, jos olette ottaneet ne käyttöön. Voitte poistaa kaiken asetuksista; myös sovelluksen poistaminen poistaa ne."
+          }
+        ]
+      },
+      {
+        "h": "Jakaminen, vienti ja tuonti",
+        "blocks": [
+          {
+            "p": "Mikään ei poistu sovelluksesta ilman omaa toimintaanne."
+          },
+          {
+            "ul": [
+              "<strong>Pelin jakaminen</strong>: kuva tai teksti kulkee iOS:n työkalujen (AirDrop, Messages, Mail…) kautta ja sisältää pelaajien nimet ja pisteet.",
+              "<strong>Vienti</strong>: JSON- tai CSV-tiedosto sisältää pelinne ja pelaajien nimet. Valitsette itse, minne se tallennetaan; sen jälkeen siihen sovelletaan valitun palvelun ehtoja.",
+              "<strong>Tuonti</strong>: sovellus lukee vain valitsemanne tiedoston."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Pyydetyt luvat",
+        "blocks": [
+          {
+            "p": "Tablée ei pyydä mitään lupaa: ei kameraa, ei sijaintia, ei yhteystietoja eikä kuvia."
+          }
+        ]
+      },
+      {
+        "h": "Mainokset, ostot ja seuranta",
+        "blocks": [
+          {
+            "p": "Tablée on ilmainen. Se ei sisällä mainoksia, sovelluksen sisäisiä ostoja, seurantaa eikä analytiikka- tai käyttötilastotyökaluja."
+          }
+        ]
+      },
+      {
+        "h": "Lapset",
+        "blocks": [
+          {
+            "p": "Sovellus ei kerää mitään tietoja ja sopii kaikenikäisille."
+          }
+        ]
+      },
+      {
+        "h": "Muutokset",
+        "blocks": [
+          {
+            "p": "Jos tämä käytäntö muuttuu, uusi versio julkaistaan tällä sivulla päivityspäivämäärineen."
+          }
+        ]
+      },
+      {
+        "h": "Yhteystiedot",
+        "blocks": [
+          {
+            "p": "Jos teillä on kysymyksiä tästä käytännöstä: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

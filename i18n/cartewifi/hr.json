@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Pronađi gdje ti Wi-Fi slabi, sobu po sobu",
+    "contact": "Pitanje, ideja ili greška? Piši mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Zašto aplikacija ne prikazuje jačinu signala?",
+        "a": "iOS aplikacijama ne daje sirovu jačinu Wi-Fi signala. Zato Wi-Fi karta mjeri ono što tvoj Wi-Fi na svakom mjestu stvarno pruža: brzinu prijenosa i latenciju. Ocjena od 0 do 100 prikazana na karti proizlazi iz ta dva mjerenja."
+      },
+      {
+        "q": "Čemu služi kamera?",
+        "a": "Omogućuje iPhoneu da prati tvoj položaj dok hodaš. Nijedna slika se ne sprema niti šalje. Ako je radije ne želiš koristiti ili tvoj uređaj ne podržava to praćenje, prije početka odaberi „Prstom”: tada pomičeš svoj položaj povlačenjem prsta po karti."
+      },
+      {
+        "q": "Zašto aplikacija traži moju lokaciju?",
+        "a": "iOS zahtijeva to dopuštenje kako bi aplikacija mogla pročitati naziv Wi-Fi mreže. Ne služi ni za što drugo: aplikacija ne čita tvoje GPS koordinate. Ako ga odbiješ, skeniranje i dalje radi, samo bez prikaza naziva mreže."
+      },
+      {
+        "q": "Koliko podataka troši skeniranje?",
+        "a": "Otprilike 1 MB u sekundi uz zadane postavke, odnosno oko 300 MB za skeniranje od 5 minuta. Za manju potrošnju otvori Postavke (zupčanik na početnom zaslonu) i u „Podaci po mjerenju” odaberi „250 KB (štedljivo)”."
+      },
+      {
+        "q": "Koristi li skeniranje 4G ili 5G?",
+        "a": "Ne. Mjerenja idu isključivo preko Wi-Fi-ja. Ako se Wi-Fi prekine, mjerenje pada na 0 umjesto da mjeri mobilnu mrežu, a karta to prikazuje."
+      },
+      {
+        "q": "Karta je pomaknuta ili se praćenje gubi: što učiniti?",
+        "a": "Hodaj polako, drži iPhone ispred sebe i ciljaj mjesta s puno detalja, a ne glatki zid. Tijekom skeniranja aplikacija prikazuje što treba ispraviti, na primjer „Kreći se malo sporije”. Na dugim udaljenostima praćenje može malo odlutati: bolje je napraviti nekoliko kratkih skeniranja nego jedno vrlo dugo."
+      },
+      {
+        "q": "Karta je posvuda crvena: je li to moj Wi-Fi?",
+        "a": "Ne nužno. Mjerenja idu preko poslužitelja na internetu, pa spora internetska veza ili velika latencija utječu na cijeli dom. Slabosti Wi-Fi-ja otkrivaju razlike među prostorijama."
+      },
+      {
+        "q": "Kako podijeliti, preimenovati ili izbrisati skeniranje?",
+        "a": "Otvori skeniranje s početnog zaslona. Gumb za dijeljenje pri vrhu zaslona šalje ga kao sliku; izbornik pokraj njega omogućuje preimenovanje ili brisanje."
+      },
+      {
+        "q": "Mogu li koristiti drugi poslužitelj za test?",
+        "a": "Da, u Postavkama › Poslužitelj za test. Taj poslužitelj mora vratiti broj bajtova zatražen parametrom „bytes”."
+      }
+    ],
+    "privacy_summary": "Wi-Fi karta ne prikuplja nikakve osobne podatke i ne sadrži oglase, kupnje ni alate za praćenje. Tvoja skeniranja ostaju na tvom uređaju. Za mjerenje brzine aplikacija preuzima podatke s poslužitelja za test, koji vidi tvoju IP adresu kao i svaka internetska stranica."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ukratko",
+        "blocks": [
+          {
+            "p": "Wi-Fi karta ne prikuplja nikakve osobne podatke, a programer nema poslužitelj. Tvoja skeniranja spremaju se na tvom uređaju. Jedina veza s internetom služi za mjerenje tvog Wi-Fi-ja preuzimanjem podataka s poslužitelja za test."
+          }
+        ]
+      },
+      {
+        "h": "Tvoja skeniranja",
+        "blocks": [
+          {
+            "p": "Svako skeniranje sadrži svoj naziv, datum, naziv Wi-Fi mreže (ako je dostupan), mjerenja brzine i latencije te prijeđeni put. Taj je put izražen u metrima u odnosu na tvoju početnu točku: nije zemljopisni položaj."
+          },
+          {
+            "p": "Skeniranja i postavke spremaju se na tvom uređaju i programer nema pristup njima. Kao i podaci drugih aplikacija, mogu se nalaziti u sigurnosnim kopijama tvog uređaja ako su uključene. Skeniranje možeš izbrisati u bilo kojem trenutku; brisanjem aplikacije brišu se sva."
+          }
+        ]
+      },
+      {
+        "h": "Mjerenje Wi-Fi-ja i poslužitelj za test",
+        "blocks": [
+          {
+            "p": "Tijekom skeniranja aplikacija preuzima male blokove podataka s poslužitelja za test: prema zadanim postavkama speed.cloudflare.com, koji vodi Cloudflare. Kao kod svake internetske veze, taj poslužitelj vidi tvoju IP adresu i zahtjev za preuzimanje, koji navodi veličinu bloka i nasumičan broj koji sprječava predmemoriranje."
+          },
+          {
+            "p": "Ni naziv tvoje mreže, ni tvoja skeniranja, ni rezultati ne šalju mu se. Cloudflare te veze obrađuje prema vlastitoj politici privatnosti. Ako u postavkama odabereš drugi poslužitelj, te veze prima on."
+          }
+        ]
+      },
+      {
+        "h": "Zatražena dopuštenja",
+        "blocks": [
+          {
+            "p": "Svako dopuštenje možeš opozvati u Postavkama svog uređaja."
+          },
+          {
+            "ul": [
+              "<strong>Kamera</strong>: za praćenje tvog položaja u stanu tijekom skeniranja. Nijedna slika se ne sprema niti šalje. Način „Prstom” omogućuje da se bez nje snađeš.",
+              "<strong>Lokacija</strong>: iOS je zahtijeva za čitanje naziva Wi-Fi mreže. Aplikacija ne čita tvoje GPS koordinate. Naziv mreže ostaje na tvom uređaju."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Dijeljenje",
+        "blocks": [
+          {
+            "p": "Skeniranje možeš podijeliti kao sliku alatima sustava iOS (AirDrop, Messages, Mail…). Slika prikazuje naziv skeniranja, njegov datum, kartu i statistiku, ali ne i naziv mreže. Ništa se ne dijeli bez tvog zahtjeva."
+          }
+        ]
+      },
+      {
+        "h": "Oglasi, kupnje i praćenje",
+        "blocks": [
+          {
+            "p": "Wi-Fi karta je besplatna i ne traži račun. Ne sadrži oglase, kupnje unutar aplikacije, alate za praćenje ni alate za analitiku ili statistiku korištenja."
+          }
+        ]
+      },
+      {
+        "h": "Djeca",
+        "blocks": [
+          {
+            "p": "Aplikacija ne prikuplja nikakve podatke i prikladna je za sve uzraste."
+          }
+        ]
+      },
+      {
+        "h": "Izmjene",
+        "blocks": [
+          {
+            "p": "Ako se ova politika promijeni, nova verzija bit će objavljena na ovoj stranici s datumom ažuriranja."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Za sva pitanja o ovoj politici: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

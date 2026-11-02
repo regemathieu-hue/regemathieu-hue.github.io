@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "El full de puntuació dels vostres jocs de cartes i de taula",
+    "contact": "Una pregunta, una idea o una norma mal comptada? Escriviu-me:<br>{email}",
+    "faq": [
+      {
+        "q": "Tablée és un joc de cartes?",
+        "a": "No. Tablée és un full de puntuació: compta els punts, i les cartes es queden a la taula. Per tant, necessiteu la vostra pròpia baralla per jugar."
+      },
+      {
+        "q": "Quins jocs admet?",
+        "a": "La belote, la coinche, el tarot, el Scrabble i el Uno. Per a tots els altres jocs de punts (yams, rummy, Skyjo…), feu servir el joc lliure: guanya la puntuació més alta o la més baixa, segons trieu."
+      },
+      {
+        "q": "Les meves normes són diferents: les puc canviar?",
+        "a": "Sí. Per defecte s'apliquen les normes oficials, i les variants habituals (arrodoniment, belote prenable, mètode de la coinche…) són ajustos de cada partida. Les podeu modificar durant la partida: aleshores el full es recalcula."
+      },
+      {
+        "q": "Com puc saber d'on surt un resultat?",
+        "a": "Obriu la mà corresponent i després «Detall del càlcul»: s'hi explica cada línia de la puntuació. Les normes de cada joc també estan disponibles al menú del full, i a Ajustos › Normes dels jocs."
+      },
+      {
+        "q": "M'he equivocat en una mà: què puc fer?",
+        "a": "Podeu corregir o eliminar qualsevol mà del full, o desfer l'última. Els totals es recalculen a l'instant."
+      },
+      {
+        "q": "Com puc canviar de dispositiu sense perdre les meves partides?",
+        "a": "Al dispositiu antic, obriu Ajustos › «Exporta-ho tot (JSON)» i deseu el fitxer. Al nou, trieu «Importa un fitxer»: les partides i els jugadors s'afegeixen als que ja hi ha, sense sobreescriure res."
+      },
+      {
+        "q": "Les meves partides es sincronitzen o es desen en còpia de seguretat?",
+        "a": "Cada modificació es desa al vostre dispositiu, i reprenéu la partida allà on l'havíeu deixada. Tablée no sincronitza res entre els vostres dispositius, i les seves dades desapareixen si elimineu l'aplicació: recordeu exportar una còpia de seguretat de tant en tant."
+      },
+      {
+        "q": "Com puc compartir un resultat?",
+        "a": "Al menú del full, «Comparteix» ofereix una imatge del full i del gràfic, o un resum en text. Per a un full de càlcul, feu servir Ajustos › «Exporta per a un full de càlcul (CSV)»."
+      },
+      {
+        "q": "Com ho puc esborrar tot?",
+        "a": "A Ajustos › «Esborra totes les dades». Aquesta acció és definitiva: exporteu primer una còpia de seguretat si voleu conservar les vostres partides."
+      }
+    ],
+    "privacy_summary": "Tablée no recull cap dada personal, no es connecta a cap servidor i no conté ni publicitat, ni compres, ni rastrejadors. Les vostres partides es queden al vostre dispositiu."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resum",
+        "blocks": [
+          {
+            "p": "Tablée no recull cap dada personal. L'aplicació funciona sense connexió, no es connecta a cap servidor i no demana cap compte. Tot el que introduïu es queda al vostre dispositiu, tret que trieu compartir-ho o exportar-ho."
+          }
+        ]
+      },
+      {
+        "h": "Les vostres dades",
+        "blocks": [
+          {
+            "p": "L'aplicació desa les vostres partides, els seus punts i les seves normes, la vostra llibreta de jugadors (nom, emoji, color), les estadístiques calculades a partir d'aquestes partides i els vostres ajustos. El nom d'un jugador pot ser el que vulgueu: només us serveix a vosaltres."
+          },
+          {
+            "p": "Aquestes dades es desen al vostre dispositiu, i el desenvolupador no hi té accés. Com les dades de les altres aplicacions, poden formar part de les còpies de seguretat del vostre dispositiu si les heu activades. Ho podeu esborrar tot als ajustos; en eliminar l'aplicació també s'esborren."
+          }
+        ]
+      },
+      {
+        "h": "Compartir, exportar i importar",
+        "blocks": [
+          {
+            "p": "Res no surt de l'aplicació sense una acció vostra."
+          },
+          {
+            "ul": [
+              "<strong>Compartir una partida</strong>: la imatge o el text passa per les eines d'iOS (AirDrop, Messages, Mail…) i conté els noms dels jugadors i els seus punts.",
+              "<strong>Exportació</strong>: el fitxer JSON o CSV conté les vostres partides i els noms dels jugadors. Trieu on desar-lo; aleshores queda subjecte a les condicions del servei escollit.",
+              "<strong>Importació</strong>: l'aplicació només llegeix el fitxer que seleccioneu."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Permisos sol·licitats",
+        "blocks": [
+          {
+            "p": "Tablée no demana cap permís: ni càmera, ni ubicació, ni contactes, ni fotos."
+          }
+        ]
+      },
+      {
+        "h": "Publicitat, compres i seguiment",
+        "blocks": [
+          {
+            "p": "Tablée és gratuïta. No conté cap publicitat, cap compra integrada, cap rastrejador ni cap eina d'anàlisi o d'estadístiques d'ús."
+          }
+        ]
+      },
+      {
+        "h": "Menors",
+        "blocks": [
+          {
+            "p": "L'aplicació no recull cap dada i és apta per a totes les edats."
+          }
+        ]
+      },
+      {
+        "h": "Modificacions",
+        "blocks": [
+          {
+            "p": "Si aquesta política canvia, la nova versió es publicarà en aquesta pàgina amb la seva data d'actualització."
+          }
+        ]
+      },
+      {
+        "h": "Contacte",
+        "blocks": [
+          {
+            "p": "Per a qualsevol pregunta sobre aquesta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "A folha de pontuação dos seus jogos de cartas e de tabuleiro",
+    "contact": "Uma pergunta, uma ideia ou uma regra contada errado? Escreva para mim:<br>{email}",
+    "faq": [
+      {
+        "q": "O Tablée é um jogo de cartas?",
+        "a": "Não. O Tablée é uma folha de pontuação: ele conta os pontos, e as cartas ficam na mesa. Portanto, você precisa do seu próprio baralho ou jogo para jogar."
+      },
+      {
+        "q": "Quais jogos são compatíveis?",
+        "a": "Belote, coinche, tarô, Scrabble e Uno. Para todos os outros jogos de pontos (yahtzee, rummy, Skyjo…), use o jogo livre: ganha a maior ou a menor pontuação, como você preferir."
+      },
+      {
+        "q": "As minhas regras são diferentes: posso mudá-las?",
+        "a": "Sim. As regras oficiais são aplicadas por padrão, e as variantes comuns (arredondamento, belote que pode ser tomada, método da coinche…) são ajustes de cada partida. Você pode alterá-las durante a partida: a folha é então recalculada."
+      },
+      {
+        "q": "Como saber de onde vem um resultado?",
+        "a": "Abra a mão em questão e depois “Detalhe do cálculo”: cada linha da pontuação é explicada ali. As regras de cada jogo também estão disponíveis no menu da folha e em Ajustes › Regras dos jogos."
+      },
+      {
+        "q": "Errei em uma mão: o que fazer?",
+        "a": "Você pode corrigir ou excluir qualquer mão da folha, ou desfazer a última. Os totais são recalculados na hora."
+      },
+      {
+        "q": "Como trocar de aparelho sem perder as minhas partidas?",
+        "a": "No aparelho antigo, abra Ajustes › “Exportar tudo (JSON)” e salve o arquivo. No novo, escolha “Importar um arquivo”: as partidas e os jogadores são adicionados aos que já existem, sem sobrescrever nada."
+      },
+      {
+        "q": "As minhas partidas são sincronizadas ou têm backup?",
+        "a": "Cada alteração é salva no seu aparelho, e você retoma a partida de onde parou. O Tablée não sincroniza nada entre os seus aparelhos, e os dados dele desaparecem se você excluir o app: lembre-se de exportar um backup de vez em quando."
+      },
+      {
+        "q": "Como compartilhar um resultado?",
+        "a": "No menu da folha, “Compartilhar” oferece uma imagem da folha e do gráfico, ou um resumo em texto. Para uma planilha, use Ajustes › “Exportar para planilha (CSV)”."
+      },
+      {
+        "q": "Como apagar tudo?",
+        "a": "Em Ajustes › “Apagar todos os dados”. Essa ação é definitiva: exporte um backup antes, se quiser guardar as suas partidas."
+      }
+    ],
+    "privacy_summary": "O Tablée não coleta nenhum dado pessoal, não se conecta a nenhum servidor e não contém publicidade, compras nem rastreadores. Suas partidas ficam no seu aparelho."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Em resumo",
+        "blocks": [
+          {
+            "p": "O Tablée não coleta nenhum dado pessoal. O app funciona offline, não se conecta a nenhum servidor e não pede nenhuma conta. Tudo o que você digita fica no seu aparelho, a menos que você escolha compartilhar ou exportar."
+          }
+        ]
+      },
+      {
+        "h": "Seus dados",
+        "blocks": [
+          {
+            "p": "O app salva as suas partidas, os pontos e as regras delas, a sua lista de jogadores (nome, emoji, cor), as estatísticas calculadas a partir dessas partidas e os seus ajustes. O nome de um jogador pode ser o que você quiser: ele só serve para você."
+          },
+          {
+            "p": "Esses dados ficam salvos no seu aparelho, e o desenvolvedor não tem acesso a eles. Como os dados de outros apps, eles podem constar nos backups do seu aparelho, se você os tiver ativado. Você pode apagar tudo nos ajustes; ao excluir o app, eles também são apagados."
+          }
+        ]
+      },
+      {
+        "h": "Compartilhamento, exportação e importação",
+        "blocks": [
+          {
+            "p": "Nada sai do app sem uma ação sua."
+          },
+          {
+            "ul": [
+              "<strong>Compartilhar uma partida</strong>: a imagem ou o texto passa pelas ferramentas do iOS (AirDrop, Messages, Mail…) e contém os nomes dos jogadores e os pontos deles.",
+              "<strong>Exportação</strong>: o arquivo JSON ou CSV contém as suas partidas e os nomes dos jogadores. Você escolhe onde salvá-lo; ele fica então sujeito às condições do serviço escolhido.",
+              "<strong>Importação</strong>: o app lê apenas o arquivo que você selecionar."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Permissões solicitadas",
+        "blocks": [
+          {
+            "p": "O Tablée não pede nenhuma permissão: nem câmera, nem localização, nem contatos, nem fotos."
+          }
+        ]
+      },
+      {
+        "h": "Publicidade, compras e rastreamento",
+        "blocks": [
+          {
+            "p": "O Tablée é grátis. Ele não contém publicidade, compras dentro do app, rastreadores nem ferramentas de análise ou de estatísticas de uso."
+          }
+        ]
+      },
+      {
+        "h": "Crianças",
+        "blocks": [
+          {
+            "p": "O app não coleta nenhum dado e é adequado para todas as idades."
+          }
+        ]
+      },
+      {
+        "h": "Alterações",
+        "blocks": [
+          {
+            "p": "Se esta política mudar, a nova versão será publicada nesta página com a data de atualização."
+          }
+        ]
+      },
+      {
+        "h": "Contato",
+        "blocks": [
+          {
+            "p": "Para qualquer dúvida sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

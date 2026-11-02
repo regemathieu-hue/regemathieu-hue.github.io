@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Sprawdź, gdzie twoje Wi-Fi słabnie, pokój po pokoju",
+    "contact": "Pytanie, pomysł albo błąd? Napisz do mnie:<br>{email}",
+    "faq": [
+      {
+        "q": "Dlaczego aplikacja nie pokazuje siły sygnału?",
+        "a": "iOS nie udostępnia aplikacjom surowej siły sygnału Wi-Fi. Dlatego Mapa Wi-Fi mierzy to, co twoje Wi-Fi faktycznie zapewnia w każdym miejscu: przepustowość i opóźnienie. Wynik od 0 do 100 widoczny na mapie wynika z tych dwóch pomiarów."
+      },
+      {
+        "q": "Do czego służy aparat?",
+        "a": "Dzięki niemu iPhone śledzi twoją pozycję, kiedy idziesz. Żaden obraz nie jest zapisywany ani wysyłany. Jeśli wolisz z niego nie korzystać albo twoje urządzenie nie obsługuje tego śledzenia, wybierz „Palcem” przed rozpoczęciem: wtedy przesuwasz swoją pozycję, przeciągając palcem po mapie."
+      },
+      {
+        "q": "Dlaczego aplikacja prosi o moją lokalizację?",
+        "a": "iOS wymaga tego uprawnienia, aby aplikacja mogła odczytać nazwę sieci Wi-Fi. Nie służy ono do niczego innego: aplikacja nie odczytuje twoich współrzędnych GPS. Jeśli odmówisz, skanowanie i tak działa, tylko bez wyświetlania nazwy sieci."
+      },
+      {
+        "q": "Ile danych zużywa skan?",
+        "a": "Około 1 MB na sekundę przy ustawieniach domyślnych, czyli mniej więcej 300 MB na 5-minutowy skan. Aby zużywać mniej, otwórz Ustawienia (zębatka na ekranie głównym) i wybierz „250 KB (oszczędnie)” w „Dane na pomiar”."
+      },
+      {
+        "q": "Czy skan korzysta z 4G lub 5G?",
+        "a": "Nie. Pomiary przechodzą wyłącznie przez Wi-Fi. Jeśli Wi-Fi się rozłączy, wynik pomiaru spada do 0 zamiast mierzyć sieć komórkową, a mapa to pokazuje."
+      },
+      {
+        "q": "Mapa jest przesunięta albo śledzenie się gubi: co robić?",
+        "a": "Idź powoli, trzymając iPhone’a przed sobą, i celuj w miejsca, w których jest dużo szczegółów, a nie w gładką ścianę. Podczas skanowania aplikacja pokazuje, co trzeba poprawić, na przykład „Poruszaj się trochę wolniej”. Na długich dystansach śledzenie może się trochę rozjeżdżać: lepiej zrobić kilka krótkich skanów niż jeden bardzo długi."
+      },
+      {
+        "q": "Mapa jest wszędzie czerwona: czy to wina mojego Wi-Fi?",
+        "a": "Niekoniecznie. Pomiary przechodzą przez serwer w internecie, więc wolne łącze internetowe lub duże opóźnienie wpływają na całe mieszkanie. To różnice między pomieszczeniami ujawniają słabe punkty Wi-Fi."
+      },
+      {
+        "q": "Jak udostępnić, zmienić nazwę lub usunąć skan?",
+        "a": "Otwórz skan z ekranu głównego. Przycisk udostępniania u góry ekranu wysyła go jako obraz; menu obok pozwala zmienić jego nazwę lub go usunąć."
+      },
+      {
+        "q": "Czy mogę użyć innego serwera testowego?",
+        "a": "Tak, w Ustawieniach › Serwer testowy. Serwer ten musi zwracać liczbę bajtów żądaną w parametrze „bytes”."
+      }
+    ],
+    "privacy_summary": "Mapa Wi-Fi nie zbiera żadnych danych osobowych i nie zawiera reklam, zakupów ani trackerów. Twoje skany zostają na twoim urządzeniu. Aby zmierzyć przepustowość, aplikacja pobiera dane z serwera testowego, który widzi twój adres IP, jak każda strona internetowa."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "W skrócie",
+        "blocks": [
+          {
+            "p": "Mapa Wi-Fi nie zbiera żadnych danych osobowych, a deweloper nie ma serwera. Twoje skany są zapisywane na twoim urządzeniu. Jedyne połączenie z internetem służy do pomiaru twojego Wi-Fi przez pobieranie danych z serwera testowego."
+          }
+        ]
+      },
+      {
+        "h": "Twoje skany",
+        "blocks": [
+          {
+            "p": "Każdy skan zawiera swoją nazwę, datę, nazwę sieci Wi-Fi (jeśli jest dostępna), pomiary przepustowości i opóźnienia oraz przebytą trasę. Trasa jest wyrażona w metrach względem twojego punktu startowego: nie jest to pozycja geograficzna."
+          },
+          {
+            "p": "Skany i ustawienia są zapisywane na twoim urządzeniu, a deweloper nie ma do nich dostępu. Podobnie jak dane innych aplikacji, mogą znajdować się w kopiach zapasowych twojego urządzenia, jeśli są one włączone. Możesz usunąć skan w dowolnej chwili; usunięcie aplikacji kasuje wszystkie."
+          }
+        ]
+      },
+      {
+        "h": "Pomiar Wi-Fi i serwer testowy",
+        "blocks": [
+          {
+            "p": "Podczas skanowania aplikacja pobiera małe bloki danych z serwera testowego: domyślnie speed.cloudflare.com, prowadzonego przez Cloudflare. Jak przy każdym połączeniu z internetem, serwer ten widzi twój adres IP oraz żądanie pobrania, które określa rozmiar bloku i losowy numer zapobiegający zapisywaniu w pamięci podręcznej."
+          },
+          {
+            "p": "Ani nazwa twojej sieci, ani twoje skany, ani wyniki nie są do niego wysyłane. Cloudflare przetwarza te połączenia zgodnie z własną polityką prywatności. Jeśli w ustawieniach wybierzesz inny serwer, to właśnie on będzie otrzymywał te połączenia."
+          }
+        ]
+      },
+      {
+        "h": "Uprawnienia",
+        "blocks": [
+          {
+            "p": "Każde uprawnienie możesz cofnąć w Ustawieniach swojego urządzenia."
+          },
+          {
+            "ul": [
+              "<strong>Aparat</strong>: do śledzenia twojej pozycji w mieszkaniu podczas skanowania. Żaden obraz nie jest zapisywany ani wysyłany. Tryb „Palcem” pozwala z niego zrezygnować.",
+              "<strong>Lokalizacja</strong>: iOS wymaga jej do odczytania nazwy sieci Wi-Fi. Aplikacja nie odczytuje twoich współrzędnych GPS. Nazwa sieci zostaje na twoim urządzeniu."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Udostępnianie",
+        "blocks": [
+          {
+            "p": "Możesz udostępnić skan jako obraz za pomocą narzędzi iOS (AirDrop, Messages, Mail…). Obraz pokazuje nazwę skanu, jego datę, mapę i statystyki, ale nie nazwę sieci. Nic nie jest udostępniane bez twojej prośby."
+          }
+        ]
+      },
+      {
+        "h": "Reklamy, zakupy i śledzenie",
+        "blocks": [
+          {
+            "p": "Mapa Wi-Fi jest bezpłatna i nie wymaga konta. Nie zawiera reklam, zakupów w aplikacji, trackerów ani narzędzi analitycznych czy statystyk użytkowania."
+          }
+        ]
+      },
+      {
+        "h": "Dzieci",
+        "blocks": [
+          {
+            "p": "Aplikacja nie zbiera żadnych danych i jest odpowiednia dla osób w każdym wieku."
+          }
+        ]
+      },
+      {
+        "h": "Zmiany",
+        "blocks": [
+          {
+            "p": "Jeśli ta polityka się zmieni, nowa wersja zostanie opublikowana na tej stronie wraz z datą aktualizacji."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Jeśli masz pytania dotyczące tej polityki, napisz: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "La feuille de marque de vos jeux de cartes et de société",
+    "contact": "Une question, une idée ou une règle mal comptée ? Écrivez-moi :<br>{email}",
+    "faq": [
+      {
+        "q": "Tablée est-elle un jeu de cartes ?",
+        "a": "Non. Tablée est une feuille de marque : elle compte les points, et les cartes restent sur la table. Il faut donc votre propre jeu pour jouer."
+      },
+      {
+        "q": "Quels jeux sont pris en charge ?",
+        "a": "La belote, la coinche, le tarot, le Scrabble et le Uno. Pour tous les autres jeux à points (yams, rami, Skyjo…), utilisez le jeu libre : le plus haut ou le plus bas score gagne, selon votre choix."
+      },
+      {
+        "q": "Mes règles sont différentes : puis-je les changer ?",
+        "a": "Oui. Les règles officielles sont appliquées par défaut, et les variantes courantes (arrondi, belote prenable, méthode de la coinche…) sont des réglages de chaque partie. Vous pouvez les modifier en cours de partie : la feuille est alors recalculée."
+      },
+      {
+        "q": "Comment savoir d'où vient un résultat ?",
+        "a": "Ouvrez la donne concernée, puis « Détail du calcul » : chaque ligne de la marque y est expliquée. Les règles de chaque jeu sont aussi disponibles dans le menu de la feuille, et dans Réglages › Règles des jeux."
+      },
+      {
+        "q": "Je me suis trompé dans une donne : que faire ?",
+        "a": "Vous pouvez corriger ou supprimer n'importe quelle donne de la feuille, ou annuler la dernière. Les totaux sont recalculés aussitôt."
+      },
+      {
+        "q": "Comment changer d'appareil sans perdre mes parties ?",
+        "a": "Sur l'ancien appareil, ouvrez Réglages › « Exporter tout (JSON) » et enregistrez le fichier. Sur le nouveau, choisissez « Importer un fichier » : les parties et les joueurs s'ajoutent à ceux déjà présents, sans rien écraser."
+      },
+      {
+        "q": "Mes parties sont-elles synchronisées ou sauvegardées ?",
+        "a": "Chaque modification est enregistrée sur votre appareil, et vous reprenez la partie là où vous l'avez laissée. Tablée ne synchronise rien entre vos appareils, et ses données disparaissent si vous supprimez l'application : pensez à exporter une sauvegarde de temps en temps."
+      },
+      {
+        "q": "Comment partager un résultat ?",
+        "a": "Dans le menu de la feuille, « Partager » propose une image de la feuille et du graphique, ou un résumé en texte. Pour un tableur, utilisez Réglages › « Exporter pour un tableur (CSV) »."
+      },
+      {
+        "q": "Comment tout effacer ?",
+        "a": "Dans Réglages › « Effacer toutes les données ». Cette action est définitive : exportez d'abord une sauvegarde si vous voulez garder vos parties."
+      }
+    ],
+    "privacy_summary": "Tablée ne collecte aucune donnée personnelle, ne se connecte à aucun serveur et ne contient ni publicité, ni achat, ni traceur. Vos parties restent sur votre appareil."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En résumé",
+        "blocks": [
+          {
+            "p": "Tablée ne collecte aucune donnée personnelle. L'application fonctionne hors ligne, ne se connecte à aucun serveur et ne demande aucun compte. Tout ce que vous saisissez reste sur votre appareil, sauf si vous choisissez de le partager ou de l'exporter."
+          }
+        ]
+      },
+      {
+        "h": "Vos données",
+        "blocks": [
+          {
+            "p": "L'application enregistre vos parties, leurs points et leurs règles, votre carnet de joueurs (nom, emoji, couleur), les statistiques calculées à partir de ces parties et vos réglages. Un nom de joueur peut être celui que vous voulez : il n'est utile qu'à vous."
+          },
+          {
+            "p": "Ces données sont enregistrées sur votre appareil, et le développeur n'y a pas accès. Comme les données des autres applis, elles peuvent figurer dans les sauvegardes de votre appareil si vous les avez activées. Vous pouvez tout effacer dans les réglages ; la suppression de l'application les efface également."
+          }
+        ]
+      },
+      {
+        "h": "Partage, export et import",
+        "blocks": [
+          {
+            "p": "Rien ne quitte l'application sans action de votre part."
+          },
+          {
+            "ul": [
+              "<strong>Partage d'une partie</strong> : l'image ou le texte passe par les outils d'iOS (AirDrop, Messages, Mail…) et contient les noms des joueurs et leurs points.",
+              "<strong>Export</strong> : le fichier JSON ou CSV contient vos parties et les noms des joueurs. Vous choisissez où l'enregistrer ; il est alors soumis aux conditions du service choisi.",
+              "<strong>Import</strong> : l'application lit uniquement le fichier que vous sélectionnez."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Autorisations demandées",
+        "blocks": [
+          {
+            "p": "Tablée ne demande aucune autorisation : ni caméra, ni position, ni contacts, ni photos."
+          }
+        ]
+      },
+      {
+        "h": "Publicité, achats et suivi",
+        "blocks": [
+          {
+            "p": "Tablée est gratuite. Elle ne contient aucune publicité, aucun achat intégré, aucun traceur et aucun outil d'analyse ou de statistiques d'utilisation."
+          }
+        ]
+      },
+      {
+        "h": "Enfants",
+        "blocks": [
+          {
+            "p": "L'application ne collecte aucune donnée et convient à tous les âges."
+          }
+        ]
+      },
+      {
+        "h": "Modifications",
+        "blocks": [
+          {
+            "p": "Si cette politique change, la nouvelle version sera publiée sur cette page avec sa date de mise à jour."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pour toute question concernant cette politique : {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

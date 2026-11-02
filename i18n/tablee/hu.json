@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Kártyajátékai és társasjátékai pontozólapja",
+    "contact": "Kérdése, ötlete van, vagy rosszul számolt szabályt talált? Írjon nekem:<br>{email}",
+    "faq": [
+      {
+        "q": "A Tablée kártyajáték?",
+        "a": "Nem. A Tablée pontozólap: összeszámolja a pontokat, a kártyák pedig az asztalon maradnak. A játékhoz tehát saját paklira van szüksége."
+      },
+      {
+        "q": "Milyen játékokat támogat?",
+        "a": "A belote-ot, a coinche-t, a tarokkot, a Scrabble-t és az Uno-t. Az összes többi pontozós játékhoz (yams, römi, Skyjo…) használja a szabad játékot: a legmagasabb vagy a legalacsonyabb pontszám nyer, az Ön választása szerint."
+      },
+      {
+        "q": "Nálunk mások a szabályok: megváltoztathatom őket?",
+        "a": "Igen. Alapértelmezés szerint a hivatalos szabályok érvényesek, a gyakori változatok (kerekítés, elvehető belote, a coinche módszere…) pedig az egyes játszmák beállításai. Játék közben is módosíthatja őket: a lap ilyenkor újraszámolódik."
+      },
+      {
+        "q": "Honnan tudhatom, hogyan jött ki egy eredmény?",
+        "a": "Nyissa meg az adott leosztást, majd a „A számítás részletei” részt: ott a pontozás minden sora meg van magyarázva. Az egyes játékok szabályai a lap menüjében, valamint a Beállítások › A játékok szabályai menüpontban is elérhetők."
+      },
+      {
+        "q": "Hibáztam egy leosztásnál: mit tegyek?",
+        "a": "A lap bármelyik leosztását kijavíthatja vagy törölheti, vagy visszavonhatja az utolsót. Az összesítések azonnal újraszámolódnak."
+      },
+      {
+        "q": "Hogyan válthatok eszközt a játszmáim elvesztése nélkül?",
+        "a": "A régi eszközön nyissa meg a Beállítások › „Összes exportálása (JSON)” menüpontot, és mentse el a fájlt. Az újon válassza a „Fájl importálása” lehetőséget: a játszmák és a játékosok a már meglévők mellé kerülnek, semmit sem írnak felül."
+      },
+      {
+        "q": "A játszmáim szinkronizálva vannak, vagy van róluk biztonsági mentés?",
+        "a": "Minden módosítás az Ön eszközén mentődik, és a játszmát ott folytathatja, ahol abbahagyta. A Tablée semmit sem szinkronizál az eszközei között, és az adatai eltűnnek, ha törli az alkalmazást: ne felejtsen el időnként biztonsági mentést exportálni."
+      },
+      {
+        "q": "Hogyan oszthatok meg egy eredményt?",
+        "a": "A lap menüjében a „Megosztás” a lap és a grafikon képét, vagy szöveges összefoglalót kínál. Táblázatkezelőhöz használja a Beállítások › „Exportálás táblázatkezelőbe (CSV)” menüpontot."
+      },
+      {
+        "q": "Hogyan törölhetek mindent?",
+        "a": "A Beállítások › „Minden adat törlése” menüpontban. Ez a művelet végleges: ha meg szeretné őrizni a játszmáit, előbb exportáljon egy biztonsági mentést."
+      }
+    ],
+    "privacy_summary": "A Tablée semmilyen személyes adatot nem gyűjt, nem csatlakozik semmilyen szerverhez, és nincs benne reklám, vásárlás vagy nyomkövető. A játszmái az Ön eszközén maradnak."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Röviden",
+        "blocks": [
+          {
+            "p": "A Tablée semmilyen személyes adatot nem gyűjt. Az alkalmazás kapcsolat nélkül működik, nem csatlakozik semmilyen szerverhez, és nem kér fiókot. Minden, amit megad, az Ön eszközén marad, hacsak nem dönt a megosztása vagy exportálása mellett."
+          }
+        ]
+      },
+      {
+        "h": "Az Ön adatai",
+        "blocks": [
+          {
+            "p": "Az alkalmazás elmenti a játszmáit, azok pontjait és szabályait, a játékosnévsorát (név, emoji, szín), az ezekből a játszmákból számolt statisztikákat és a beállításait. A játékos neve bármi lehet, amit szeretne: csak Önnek hasznos."
+          },
+          {
+            "p": "Ezek az adatok az Ön eszközén tárolódnak, és a fejlesztő nem fér hozzájuk. Más alkalmazások adataihoz hasonlóan szerepelhetnek az eszköze biztonsági mentéseiben, ha bekapcsolta őket. A beállításokban mindent törölhet; az alkalmazás törlése is törli őket."
+          }
+        ]
+      },
+      {
+        "h": "Megosztás, exportálás és importálás",
+        "blocks": [
+          {
+            "p": "Semmi nem hagyja el az alkalmazást az Ön közreműködése nélkül."
+          },
+          {
+            "ul": [
+              "<strong>Játszma megosztása</strong>: a kép vagy a szöveg az iOS eszközein (AirDrop, Messages, Mail…) keresztül megy, és tartalmazza a játékosok nevét és pontjait.",
+              "<strong>Exportálás</strong>: a JSON- vagy CSV-fájl tartalmazza a játszmáit és a játékosok nevét. Ön választja ki, hová menti; ezután a választott szolgáltatás feltételei vonatkoznak rá.",
+              "<strong>Importálás</strong>: az alkalmazás csak az Ön által kiválasztott fájlt olvassa."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Kért engedélyek",
+        "blocks": [
+          {
+            "p": "A Tablée semmilyen engedélyt nem kér: sem kamerát, sem tartózkodási helyet, sem névjegyeket, sem fotókat."
+          }
+        ]
+      },
+      {
+        "h": "Reklám, vásárlások és követés",
+        "blocks": [
+          {
+            "p": "A Tablée ingyenes. Nincs benne reklám, alkalmazáson belüli vásárlás, nyomkövető, sem elemző vagy használati statisztikát gyűjtő eszköz."
+          }
+        ]
+      },
+      {
+        "h": "Gyerekek",
+        "blocks": [
+          {
+            "p": "Az alkalmazás semmilyen adatot nem gyűjt, és minden korosztály számára alkalmas."
+          }
+        ]
+      },
+      {
+        "h": "Változások",
+        "blocks": [
+          {
+            "p": "Ha ez a szabályzat megváltozik, az új változat ezen az oldalon jelenik meg, a frissítés dátumával."
+          }
+        ]
+      },
+      {
+        "h": "Kapcsolat",
+        "blocks": [
+          {
+            "p": "Ha kérdése van ezzel a szabályzattal kapcsolatban: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

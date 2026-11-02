@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Zjisti, kde tvoje Wi-Fi slábne, místnost po místnosti",
+    "contact": "Otázka, nápad nebo chyba? Napiš mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Proč aplikace neukazuje sílu signálu?",
+        "a": "iOS aplikacím neposkytuje hrubou sílu signálu Wi-Fi. Mapa Wi-Fi proto měří, co tvoje Wi-Fi na každém místě skutečně nabízí: rychlost přenosu a latenci. Skóre od 0 do 100 zobrazené na mapě vychází z těchto dvou měření."
+      },
+      {
+        "q": "K čemu slouží fotoaparát?",
+        "a": "Díky němu iPhone sleduje tvou polohu, když chodíš. Žádný obraz se neukládá ani neodesílá. Pokud ho raději nechceš používat, nebo pokud to tvoje zařízení nepodporuje, zvol před začátkem „Prstem“: polohu pak posouváš tažením prstu po mapě."
+      },
+      {
+        "q": "Proč aplikace žádá o moji polohu?",
+        "a": "iOS toto oprávnění vyžaduje, aby aplikace mohla přečíst název sítě Wi-Fi. K ničemu jinému neslouží: aplikace nečte tvoje souřadnice GPS. Když ho odmítneš, skenování přesto funguje, jen se nezobrazí název sítě."
+      },
+      {
+        "q": "Kolik dat skenování spotřebuje?",
+        "a": "Asi 1 MB za sekundu při výchozím nastavení, tedy zhruba 300 MB za pětiminutové skenování. Pro nižší spotřebu otevři Nastavení (ozubené kolo na úvodní obrazovce) a v části „Data na měření“ zvol „250 kB (úsporné)“."
+      },
+      {
+        "q": "Používá skenování 4G nebo 5G?",
+        "a": "Ne. Měření probíhá výhradně přes Wi-Fi. Když Wi-Fi vypadne, naměřená hodnota spadne na 0 místo měření mobilní sítě a mapa to ukáže."
+      },
+      {
+        "q": "Mapa je posunutá nebo se sledování ztrácí: co dělat?",
+        "a": "Choď pomalu, iPhone drž před sebou a zaměřuj místa, kde jsou detaily, ne jednobarevnou zeď. Během skenování aplikace ukazuje, co upravit, například „Pohybuj se trochu pomaleji“. Na delší vzdálenosti se sledování může trochu rozcházet: lepší je několik krátkých skenů než jeden velmi dlouhý."
+      },
+      {
+        "q": "Mapa je celá červená: je to moje Wi-Fi?",
+        "a": "Ne nutně. Měření probíhá přes server na internetu, takže pomalé připojení k internetu nebo vysoká latence ovlivňují celý byt. Slabá místa Wi-Fi odhalují rozdíly mezi místnostmi."
+      },
+      {
+        "q": "Jak sdílet, přejmenovat nebo smazat sken?",
+        "a": "Otevři sken z úvodní obrazovky. Tlačítko sdílení nahoře na obrazovce ho odešle jako obrázek; nabídka vedle něj umožňuje sken přejmenovat nebo smazat."
+      },
+      {
+        "q": "Můžu použít jiný testovací server?",
+        "a": "Ano, v Nastavení › Testovací server. Tento server musí vrátit počet bajtů požadovaný parametrem „bytes“."
+      }
+    ],
+    "privacy_summary": "Mapa Wi-Fi neshromažďuje žádné osobní údaje a neobsahuje reklamu, nákupy ani sledovací prvky. Tvoje skeny zůstávají v tvém zařízení. Při měření rychlosti aplikace stahuje data z testovacího serveru, který vidí tvoji IP adresu jako každý web."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Stručně",
+        "blocks": [
+          {
+            "p": "Mapa Wi-Fi neshromažďuje žádné osobní údaje a vývojář nemá žádný server. Tvoje skeny se ukládají v tvém zařízení. Jediné připojení k internetu slouží k měření tvého Wi-Fi stahováním dat z testovacího serveru."
+          }
+        ]
+      },
+      {
+        "h": "Tvoje skeny",
+        "blocks": [
+          {
+            "p": "Každý sken obsahuje svůj název, datum, název sítě Wi-Fi (pokud je dostupný), měření rychlosti a latence a ušlou trasu. Trasa je vyjádřena v metrech vzhledem k tvému výchozímu bodu: nejde o zeměpisnou polohu."
+          },
+          {
+            "p": "Skeny a nastavení se ukládají v tvém zařízení a vývojář k nim nemá přístup. Stejně jako data jiných aplikací se mohou objevit v zálohách tvého zařízení, pokud je máš zapnuté. Sken můžeš kdykoli smazat; odstraněním aplikace se smažou všechny."
+          }
+        ]
+      },
+      {
+        "h": "Měření Wi-Fi a testovací server",
+        "blocks": [
+          {
+            "p": "Během skenování aplikace stahuje malé bloky dat z testovacího serveru: ve výchozím nastavení speed.cloudflare.com, který provozuje Cloudflare. Jako při každém připojení k internetu tento server vidí tvoji IP adresu a požadavek na stažení, který udává velikost bloku a náhodné číslo bránící ukládání do mezipaměti."
+          },
+          {
+            "p": "Název tvé sítě, tvoje skeny ani výsledky se mu neodesílají. Cloudflare tato připojení zpracovává podle vlastních zásad ochrany osobních údajů. Pokud v nastavení zvolíš jiný server, tato připojení přijímá on."
+          }
+        ]
+      },
+      {
+        "h": "Požadovaná oprávnění",
+        "blocks": [
+          {
+            "p": "Každé oprávnění můžeš odebrat v Nastavení svého zařízení."
+          },
+          {
+            "ul": [
+              "<strong>Fotoaparát</strong>: ke sledování tvé polohy v bytě během skenování. Žádný obraz se neukládá ani neodesílá. Režim „Prstem“ umožňuje se bez něj obejít.",
+              "<strong>Poloha</strong>: iOS ji vyžaduje ke čtení názvu sítě Wi-Fi. Aplikace nečte tvoje souřadnice GPS. Název sítě zůstává v tvém zařízení."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Sdílení",
+        "blocks": [
+          {
+            "p": "Sken můžeš sdílet jako obrázek pomocí nástrojů iOS (AirDrop, Messages, Mail…). Obrázek ukazuje název skenu, jeho datum, mapu a statistiky, ale ne název sítě. Nic se nesdílí bez tvého pokynu."
+          }
+        ]
+      },
+      {
+        "h": "Reklama, nákupy a sledování",
+        "blocks": [
+          {
+            "p": "Mapa Wi-Fi je zdarma a nevyžaduje žádný účet. Neobsahuje žádnou reklamu, žádné nákupy v aplikaci, žádné sledovací prvky ani nástroje pro analýzu či statistiky používání."
+          }
+        ]
+      },
+      {
+        "h": "Děti",
+        "blocks": [
+          {
+            "p": "Aplikace neshromažďuje žádné údaje a je vhodná pro všechny věkové kategorie."
+          }
+        ]
+      },
+      {
+        "h": "Změny",
+        "blocks": [
+          {
+            "p": "Pokud se tyto zásady změní, nová verze bude zveřejněna na této stránce s datem aktualizace."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Máš-li k těmto zásadám jakýkoli dotaz, napiš mi: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

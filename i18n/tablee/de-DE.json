@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Der Punktezettel für Ihre Karten- und Gesellschaftsspiele",
+    "contact": "Eine Frage, eine Idee oder eine falsch gezählte Regel? Schreiben Sie mir:<br>{email}",
+    "faq": [
+      {
+        "q": "Ist Tablée ein Kartenspiel?",
+        "a": "Nein. Tablée ist ein Punktezettel: Die App zählt die Punkte, und die Karten bleiben auf dem Tisch. Zum Spielen brauchen Sie also Ihr eigenes Spiel."
+      },
+      {
+        "q": "Welche Spiele werden unterstützt?",
+        "a": "Belote, Coinche, Tarot, Scrabble und Uno. Für alle anderen Spiele mit Punkten (Kniffel, Rommé, Skyjo …) nutzen Sie das freie Spiel: Je nach Ihrer Wahl gewinnt die höchste oder die niedrigste Punktzahl."
+      },
+      {
+        "q": "Meine Regeln sind anders: Kann ich sie ändern?",
+        "a": "Ja. Standardmäßig gelten die offiziellen Regeln, und gängige Varianten (Rundung, Belote abnehmbar, Coinche-Methode …) sind Einstellungen der jeweiligen Partie. Sie können sie auch mitten im Spiel ändern: Der Zettel wird dann neu berechnet."
+      },
+      {
+        "q": "Wie erfahre ich, woher ein Ergebnis kommt?",
+        "a": "Öffnen Sie die betreffende Runde und dann „Berechnungsdetails“: Dort wird jede Zeile der Wertung erklärt. Die Regeln jedes Spiels finden Sie außerdem im Menü des Zettels und unter Einstellungen › Spielregeln."
+      },
+      {
+        "q": "Ich habe mich in einer Runde geirrt: Was tun?",
+        "a": "Sie können jede Runde des Zettels korrigieren oder löschen oder die letzte rückgängig machen. Die Summen werden sofort neu berechnet."
+      },
+      {
+        "q": "Wie wechsle ich das Gerät, ohne meine Partien zu verlieren?",
+        "a": "Öffnen Sie auf dem alten Gerät Einstellungen › „Alles exportieren (JSON)“ und sichern Sie die Datei. Wählen Sie auf dem neuen Gerät „Datei importieren“: Die Partien und Spieler werden zu den bereits vorhandenen hinzugefügt, ohne etwas zu überschreiben."
+      },
+      {
+        "q": "Werden meine Partien synchronisiert oder gesichert?",
+        "a": "Jede Änderung wird auf Ihrem Gerät gespeichert, und Sie setzen die Partie dort fort, wo Sie aufgehört haben. Tablée synchronisiert nichts zwischen Ihren Geräten, und die Daten verschwinden, wenn Sie die App löschen: Denken Sie daran, ab und zu eine Sicherung zu exportieren."
+      },
+      {
+        "q": "Wie teile ich ein Ergebnis?",
+        "a": "Im Menü des Zettels bietet „Teilen“ ein Bild des Zettels und der Grafik oder eine Zusammenfassung als Text an. Für eine Tabellenkalkulation verwenden Sie Einstellungen › „Für eine Tabellenkalkulation exportieren (CSV)“."
+      },
+      {
+        "q": "Wie lösche ich alles?",
+        "a": "Unter Einstellungen › „Alle Daten löschen“. Dies ist endgültig: Exportieren Sie zuerst eine Sicherung, wenn Sie Ihre Partien behalten möchten."
+      }
+    ],
+    "privacy_summary": "Tablée erhebt keine personenbezogenen Daten, verbindet sich mit keinem Server und enthält weder Werbung noch Käufe noch Tracker. Ihre Partien bleiben auf Ihrem Gerät."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kurz gesagt",
+        "blocks": [
+          {
+            "p": "Tablée erhebt keine personenbezogenen Daten. Die App funktioniert offline, verbindet sich mit keinem Server und verlangt kein Konto. Alles, was Sie eingeben, bleibt auf Ihrem Gerät, es sei denn, Sie entscheiden sich, es zu teilen oder zu exportieren."
+          }
+        ]
+      },
+      {
+        "h": "Ihre Daten",
+        "blocks": [
+          {
+            "p": "Die App speichert Ihre Partien, deren Punkte und Regeln, Ihr Spielerverzeichnis (Name, Emoji, Farbe), die aus diesen Partien berechneten Statistiken und Ihre Einstellungen. Ein Spielername kann beliebig gewählt werden: Er ist nur für Sie von Nutzen."
+          },
+          {
+            "p": "Diese Daten werden auf Ihrem Gerät gespeichert, und der Entwickler hat keinen Zugriff darauf. Wie die Daten anderer Apps können sie in den Sicherungen Ihres Geräts enthalten sein, wenn Sie diese aktiviert haben. Sie können in den Einstellungen alles löschen; durch das Löschen der App werden die Daten ebenfalls gelöscht."
+          }
+        ]
+      },
+      {
+        "h": "Teilen, Export und Import",
+        "blocks": [
+          {
+            "p": "Nichts verlässt die App ohne Ihr Zutun."
+          },
+          {
+            "ul": [
+              "<strong>Eine Partie teilen</strong>: Das Bild oder der Text läuft über die Funktionen von iOS (AirDrop, Messages, Mail …) und enthält die Namen der Spieler und ihre Punkte.",
+              "<strong>Export</strong>: Die JSON- oder CSV-Datei enthält Ihre Partien und die Namen der Spieler. Sie wählen, wo sie gespeichert wird; sie unterliegt dann den Bedingungen des gewählten Dienstes.",
+              "<strong>Import</strong>: Die App liest ausschließlich die Datei, die Sie auswählen."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Angeforderte Berechtigungen",
+        "blocks": [
+          {
+            "p": "Tablée fordert keine Berechtigungen an: weder Kamera noch Standort noch Kontakte noch Fotos."
+          }
+        ]
+      },
+      {
+        "h": "Werbung, Käufe und Tracking",
+        "blocks": [
+          {
+            "p": "Tablée ist kostenlos. Die App enthält keine Werbung, keine In-App-Käufe, keine Tracker und keine Analyse- oder Nutzungsstatistik-Werkzeuge."
+          }
+        ]
+      },
+      {
+        "h": "Kinder",
+        "blocks": [
+          {
+            "p": "Die App erhebt keine Daten und ist für alle Altersgruppen geeignet."
+          }
+        ]
+      },
+      {
+        "h": "Änderungen",
+        "blocks": [
+          {
+            "p": "Sollte sich diese Erklärung ändern, wird die neue Fassung mit ihrem Aktualisierungsdatum auf dieser Seite veröffentlicht."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Bei Fragen zu dieser Erklärung: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

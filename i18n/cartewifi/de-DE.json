@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Finde heraus, wo dein WLAN schwächelt, Raum für Raum",
+    "contact": "Eine Frage, eine Idee oder ein Bug? Schreib mir:<br>{email}",
+    "faq": [
+      {
+        "q": "Warum zeigt die App nicht die Signalstärke an?",
+        "a": "iOS gibt Apps die rohe Signalstärke des WLANs nicht weiter. WLAN-Karte misst deshalb, was dein WLAN an jeder Stelle tatsächlich leistet: Datenrate und Latenz. Die Bewertung von 0 bis 100, die auf der Karte angezeigt wird, ergibt sich aus diesen beiden Messwerten."
+      },
+      {
+        "q": "Wofür dient die Kamera?",
+        "a": "Sie ermöglicht es dem iPhone, deine Position zu verfolgen, während du gehst. Es werden keine Bilder gespeichert oder gesendet. Wenn du sie lieber nicht verwenden möchtest oder dein Gerät dieses Tracking nicht unterstützt, wähle vor dem Start „Per Finger“: Dann verschiebst du deine Position, indem du mit dem Finger über die Karte wischst."
+      },
+      {
+        "q": "Warum fragt die App nach meinem Standort?",
+        "a": "iOS verlangt diese Berechtigung, damit eine App den Namen des WLAN-Netzwerks lesen kann. Sie dient zu nichts anderem: Die App liest deine GPS-Koordinaten nicht. Wenn du sie ablehnst, funktioniert der Scan trotzdem, nur ohne Anzeige des Netzwerknamens."
+      },
+      {
+        "q": "Wie viele Daten verbraucht ein Scan?",
+        "a": "Mit den Standardeinstellungen etwa 1 MB pro Sekunde, also ungefähr 300 MB für einen Scan von 5 Minuten. Um weniger zu verbrauchen, öffne „Einstellungen“ (Zahnrad auf dem Startbildschirm) und wähle unter „Daten pro Messung“ den Eintrag „250 KB (sparsam)“."
+      },
+      {
+        "q": "Nutzt der Scan 4G oder 5G?",
+        "a": "Nein. Die Messungen laufen ausschließlich über das WLAN. Wenn das WLAN abbricht, fällt die Messung auf 0, statt das Mobilfunknetz zu messen, und die Karte zeigt das an."
+      },
+      {
+        "q": "Die Karte ist verschoben oder das Tracking geht verloren: Was tun?",
+        "a": "Geh langsam, das iPhone vor dir, und richte es auf Stellen mit Details statt auf eine einfarbige Wand. Während des Scans zeigt die App an, was du korrigieren solltest, zum Beispiel „Beweg dich etwas langsamer“. Über lange Strecken kann das Tracking etwas abdriften: Mehrere kurze Scans sind besser als ein einziger sehr langer."
+      },
+      {
+        "q": "Die Karte ist überall rot: Liegt das an meinem WLAN?",
+        "a": "Nicht unbedingt. Die Messungen laufen über einen Server im Internet, daher wirken sich eine langsame Internetverbindung oder eine hohe Latenz auf die gesamte Wohnung aus. Die Unterschiede zwischen den Räumen zeigen, wo das WLAN schwach ist."
+      },
+      {
+        "q": "Wie teile, benenne oder lösche ich einen Scan?",
+        "a": "Öffne den Scan vom Startbildschirm aus. Mit der Teilen-Taste oben auf dem Bildschirm sendest du ihn als Bild; über das Menü daneben kannst du ihn umbenennen oder löschen."
+      },
+      {
+        "q": "Kann ich einen anderen Testserver verwenden?",
+        "a": "Ja, unter Einstellungen › Testserver. Dieser Server muss die Anzahl an Bytes zurückliefern, die über den Parameter „bytes“ angefordert wird."
+      }
+    ],
+    "privacy_summary": "WLAN-Karte erhebt keine personenbezogenen Daten und enthält weder Werbung noch Käufe noch Tracker. Deine Scans bleiben auf deinem Gerät. Zur Messung der Datenrate lädt die App Daten von einem Testserver herunter, der wie jede Website deine IP-Adresse sieht."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kurz gesagt",
+        "blocks": [
+          {
+            "p": "WLAN-Karte erhebt keine personenbezogenen Daten, und der Entwickler betreibt keinen Server. Deine Scans werden auf deinem Gerät gespeichert. Die einzige Internetverbindung dient dazu, dein WLAN zu messen, indem Daten von einem Testserver heruntergeladen werden."
+          }
+        ]
+      },
+      {
+        "h": "Deine Scans",
+        "blocks": [
+          {
+            "p": "Jeder Scan enthält seinen Namen, sein Datum, den Namen des WLAN-Netzwerks (falls verfügbar), die Messwerte für Datenrate und Latenz sowie den zurückgelegten Weg. Dieser Weg wird in Metern relativ zu deinem Startpunkt angegeben: Es ist keine geografische Position."
+          },
+          {
+            "p": "Die Scans und die Einstellungen werden auf deinem Gerät gespeichert, und der Entwickler hat keinen Zugriff darauf. Wie die Daten anderer Apps können sie in den Sicherungen deines Geräts enthalten sein, wenn du diese aktiviert hast. Du kannst einen Scan jederzeit löschen; durch das Löschen der App werden alle gelöscht."
+          }
+        ]
+      },
+      {
+        "h": "WLAN-Messung und Testserver",
+        "blocks": [
+          {
+            "p": "Während eines Scans lädt die App kleine Datenblöcke von einem Testserver herunter: standardmäßig speed.cloudflare.com, betrieben von Cloudflare. Wie bei jeder Internetverbindung sieht dieser Server deine IP-Adresse und die Download-Anfrage, die die Größe des Blocks und eine Zufallszahl zur Vermeidung von Caching enthält."
+          },
+          {
+            "p": "Weder der Name deines Netzwerks noch deine Scans noch deine Ergebnisse werden an ihn gesendet. Cloudflare verarbeitet diese Verbindungen gemäß der eigenen Datenschutzerklärung. Wenn du in den Einstellungen einen anderen Server wählst, erhält dieser Server diese Verbindungen."
+          }
+        ]
+      },
+      {
+        "h": "Angeforderte Berechtigungen",
+        "blocks": [
+          {
+            "p": "Du kannst jede Berechtigung in den Einstellungen deines Geräts wieder entziehen."
+          },
+          {
+            "ul": [
+              "<strong>Kamera</strong>: um deine Position in der Wohnung während eines Scans zu verfolgen. Es werden keine Bilder gespeichert oder gesendet. Mit dem Modus „Per Finger“ kannst du darauf verzichten.",
+              "<strong>Standort</strong>: iOS verlangt ihn, um den Namen des WLAN-Netzwerks zu lesen. Die App liest deine GPS-Koordinaten nicht. Der Netzwerkname bleibt auf deinem Gerät."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Teilen",
+        "blocks": [
+          {
+            "p": "Du kannst einen Scan als Bild über die Funktionen von iOS teilen (AirDrop, Messages, Mail …). Das Bild zeigt den Namen des Scans, sein Datum, seine Karte und seine Statistiken, aber nicht den Netzwerknamen. Nichts wird geteilt, ohne dass du es veranlasst."
+          }
+        ]
+      },
+      {
+        "h": "Werbung, Käufe und Tracking",
+        "blocks": [
+          {
+            "p": "WLAN-Karte ist kostenlos und erfordert kein Konto. Sie enthält keine Werbung, keine In-App-Käufe, keine Tracker und keine Analyse- oder Nutzungsstatistik-Werkzeuge."
+          }
+        ]
+      },
+      {
+        "h": "Kinder",
+        "blocks": [
+          {
+            "p": "Die App erhebt keine Daten und ist für alle Altersgruppen geeignet."
+          }
+        ]
+      },
+      {
+        "h": "Änderungen",
+        "blocks": [
+          {
+            "p": "Sollte sich diese Erklärung ändern, wird die neue Fassung mit ihrem Aktualisierungsdatum auf dieser Seite veröffentlicht."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Bei Fragen zu dieser Erklärung: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

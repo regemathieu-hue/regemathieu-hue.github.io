@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Descubre dónde se debilita tu Wi-Fi, habitación por habitación",
+    "contact": "¿Una pregunta, una idea o un error? Escríbeme:<br>{email}",
+    "faq": [
+      {
+        "q": "¿Por qué la aplicación no muestra la intensidad de la señal?",
+        "a": "iOS no entrega a las aplicaciones la intensidad bruta de la señal Wi-Fi. Por eso Mapa Wi-Fi mide lo que tu Wi-Fi ofrece realmente en cada lugar: la velocidad y la latencia. La puntuación de 0 a 100 que aparece en el mapa sale de estas dos mediciones."
+      },
+      {
+        "q": "¿Para qué sirve la cámara?",
+        "a": "Permite al iPhone seguir tu posición mientras caminas. No se guarda ni se envía ninguna imagen. Si prefieres no usarla, o si tu dispositivo no admite este seguimiento, elige «Con el dedo» antes de empezar: entonces mueves tu posición deslizando el dedo por el mapa."
+      },
+      {
+        "q": "¿Por qué la aplicación pide mi ubicación?",
+        "a": "iOS exige este permiso para que una aplicación pueda leer el nombre de la red Wi-Fi. No sirve para nada más: la aplicación no lee tus coordenadas GPS. Si lo rechazas, el escaneo funciona igualmente, pero sin mostrar el nombre de la red."
+      },
+      {
+        "q": "¿Cuántos datos consume un escaneo?",
+        "a": "Aproximadamente 1 MB por segundo con los ajustes predeterminados, es decir, unos 300 MB para un escaneo de 5 minutos. Para consumir menos, abre Ajustes (la rueda dentada de la pantalla de inicio) y elige «250 KB (económico)» en «Datos por medición»."
+      },
+      {
+        "q": "¿El escaneo usa 4G o 5G?",
+        "a": "No. Las mediciones pasan únicamente por el Wi-Fi. Si el Wi-Fi se cae, la medición baja a 0 en lugar de medir la red móvil, y el mapa lo muestra."
+      },
+      {
+        "q": "El mapa está desplazado o se pierde el seguimiento: ¿qué hago?",
+        "a": "Camina despacio, con el iPhone delante de ti, y apunta a lugares con detalles en lugar de a una pared lisa. Durante el escaneo, la aplicación te indica qué corregir, por ejemplo «Muévete un poco más despacio». En distancias largas, el seguimiento puede desviarse un poco: es mejor hacer varios escaneos cortos que uno solo muy largo."
+      },
+      {
+        "q": "El mapa está rojo por todas partes: ¿es culpa de mi Wi-Fi?",
+        "a": "No necesariamente. Las mediciones pasan por un servidor de internet, así que una conexión a internet lenta o una latencia alta afectan a toda la casa. Las diferencias entre habitaciones son las que revelan los puntos débiles del Wi-Fi."
+      },
+      {
+        "q": "¿Cómo compartir, renombrar o eliminar un escaneo?",
+        "a": "Abre el escaneo desde la pantalla de inicio. El botón de compartir de la parte superior de la pantalla lo envía como imagen; el menú que hay a su lado permite renombrarlo o eliminarlo."
+      },
+      {
+        "q": "¿Puedo usar otro servidor de prueba?",
+        "a": "Sí, en Ajustes › Servidor de prueba. Ese servidor debe devolver el número de bytes solicitado por el parámetro «bytes»."
+      }
+    ],
+    "privacy_summary": "Mapa Wi-Fi no recopila ningún dato personal y no contiene publicidad, compras ni rastreadores. Tus escaneos se quedan en tu dispositivo. Para medir la velocidad, la aplicación descarga datos desde un servidor de prueba, que ve tu dirección IP como cualquier sitio de internet."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resumen",
+        "blocks": [
+          {
+            "p": "Mapa Wi-Fi no recopila ningún dato personal y el desarrollador no tiene servidor. Tus escaneos se guardan en tu dispositivo. La única conexión a internet sirve para medir tu Wi-Fi, descargando datos desde un servidor de prueba."
+          }
+        ]
+      },
+      {
+        "h": "Tus escaneos",
+        "blocks": [
+          {
+            "p": "Cada escaneo contiene su nombre, su fecha, el nombre de la red Wi-Fi si está disponible, las mediciones de velocidad y de latencia, y el recorrido realizado. Este recorrido se expresa en metros respecto a tu punto de partida: no es una posición geográfica."
+          },
+          {
+            "p": "Los escaneos y los ajustes se guardan en tu dispositivo, y el desarrollador no tiene acceso a ellos. Como los datos de otras aplicaciones, pueden figurar en las copias de seguridad de tu dispositivo si las has activado. Puedes eliminar un escaneo en cualquier momento; al desinstalar la aplicación se borran todos."
+          }
+        ]
+      },
+      {
+        "h": "Medición del Wi-Fi y servidor de prueba",
+        "blocks": [
+          {
+            "p": "Durante un escaneo, la aplicación descarga pequeños bloques de datos desde un servidor de prueba: por defecto speed.cloudflare.com, operado por Cloudflare. Como en cualquier conexión a internet, este servidor ve tu dirección IP y la solicitud de descarga, que indica el tamaño del bloque y un número aleatorio que evita el almacenamiento en caché."
+          },
+          {
+            "p": "No se le envía ni el nombre de tu red, ni tus escaneos, ni tus resultados. Cloudflare trata estas conexiones conforme a su propia política de privacidad. Si eliges otro servidor en los ajustes, será ese servidor el que reciba estas conexiones."
+          }
+        ]
+      },
+      {
+        "h": "Permisos solicitados",
+        "blocks": [
+          {
+            "p": "Puedes retirar cada permiso en los Ajustes de tu dispositivo."
+          },
+          {
+            "ul": [
+              "<strong>Cámara</strong>: para seguir tu posición dentro de la casa durante un escaneo. No se guarda ni se envía ninguna imagen. El modo «Con el dedo» permite prescindir de ella.",
+              "<strong>Ubicación</strong>: iOS la exige para leer el nombre de la red Wi-Fi. La aplicación no lee tus coordenadas GPS. El nombre de la red se queda en tu dispositivo."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Compartir",
+        "blocks": [
+          {
+            "p": "Puedes compartir un escaneo como imagen con las herramientas de iOS (AirDrop, Messages, Mail…). La imagen muestra el nombre del escaneo, su fecha, su mapa y sus estadísticas, pero no el nombre de la red. No se comparte nada sin que lo pidas."
+          }
+        ]
+      },
+      {
+        "h": "Publicidad, compras y seguimiento",
+        "blocks": [
+          {
+            "p": "Mapa Wi-Fi es gratis y no requiere ninguna cuenta. No contiene publicidad, compras integradas, rastreadores ni herramientas de análisis o de estadísticas de uso."
+          }
+        ]
+      },
+      {
+        "h": "Menores",
+        "blocks": [
+          {
+            "p": "La aplicación no recopila ningún dato y es apta para todas las edades."
+          }
+        ]
+      },
+      {
+        "h": "Modificaciones",
+        "blocks": [
+          {
+            "p": "Si esta política cambia, la nueva versión se publicará en esta página con su fecha de actualización."
+          }
+        ]
+      },
+      {
+        "h": "Contacto",
+        "blocks": [
+          {
+            "p": "Para cualquier pregunta sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

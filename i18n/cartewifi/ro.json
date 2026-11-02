@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Descoperă unde slăbește Wi-Fi-ul tău, cameră cu cameră",
+    "contact": "O întrebare, o idee sau un bug? Scrie-mi:<br>{email}",
+    "faq": [
+      {
+        "q": "De ce nu afișează aplicația puterea semnalului?",
+        "a": "iOS nu oferă aplicațiilor puterea brută a semnalului Wi-Fi. De aceea, Hartă Wi-Fi măsoară ce oferă cu adevărat Wi-Fi-ul tău în fiecare loc: viteza și latența. Scorul de la 0 la 100 afișat pe hartă provine din aceste două măsurători."
+      },
+      {
+        "q": "La ce folosește camera?",
+        "a": "Permite iPhone-ului să îți urmărească poziția în timp ce mergi. Nicio imagine nu este înregistrată sau trimisă. Dacă preferi să nu o folosești sau dacă dispozitivul tău nu acceptă această urmărire, alege „Cu degetul” înainte de a începe: îți muți atunci poziția trecând degetul pe hartă."
+      },
+      {
+        "q": "De ce îmi cere aplicația locația?",
+        "a": "iOS cere această permisiune pentru ca o aplicație să poată citi numele rețelei Wi-Fi. Nu servește la nimic altceva: aplicația nu citește coordonatele tale GPS. Dacă o refuzi, scanarea funcționează oricum, dar fără să afișeze numele rețelei."
+      },
+      {
+        "q": "Câte date consumă o scanare?",
+        "a": "Aproximativ 1 MB pe secundă cu setările implicite, adică în jur de 300 MB pentru o scanare de 5 minute. Pentru a consuma mai puțin, deschide Setări (rotița dințată de pe ecranul de start) și alege „250 KB (economic)” la „Date pe măsurătoare”."
+      },
+      {
+        "q": "Scanarea folosește 4G sau 5G?",
+        "a": "Nu. Măsurătorile trec doar prin Wi-Fi. Dacă Wi-Fi-ul se întrerupe, măsurătoarea scade la 0 în loc să măsoare rețeaua mobilă, iar harta arată acest lucru."
+      },
+      {
+        "q": "Harta este decalată sau urmărirea se pierde: ce pot face?",
+        "a": "Mergi încet, cu iPhone-ul în fața ta, și îndreaptă-te spre locuri cu detalii, nu spre un perete neted. În timpul scanării, aplicația îți arată ce trebuie corectat, de exemplu „Mișcă-te puțin mai încet”. Pe distanțe lungi, urmărirea se poate abate puțin: e mai bine să faci mai multe scanări scurte decât una singură foarte lungă."
+      },
+      {
+        "q": "Harta este roșie peste tot: e din cauza Wi-Fi-ului meu?",
+        "a": "Nu neapărat. Măsurătorile trec printr-un server de pe internet, așa că o conexiune la internet lentă sau o latență mare afectează toată locuința. Diferențele dintre camere sunt cele care scot la iveală punctele slabe ale Wi-Fi-ului."
+      },
+      {
+        "q": "Cum partajez, redenumesc sau șterg o scanare?",
+        "a": "Deschide scanarea din ecranul de start. Butonul de partajare din partea de sus a ecranului o trimite ca imagine; meniul de lângă el permite redenumirea sau ștergerea ei."
+      },
+      {
+        "q": "Pot folosi un alt server de test?",
+        "a": "Da, în Setări › Server de test. Acest server trebuie să returneze numărul de octeți cerut de parametrul „bytes”."
+      }
+    ],
+    "privacy_summary": "Hartă Wi-Fi nu colectează nicio dată personală și nu conține reclame, achiziții sau instrumente de urmărire. Scanările tale rămân pe dispozitivul tău. Pentru a măsura viteza, aplicația descarcă date de la un server de test, care îți vede adresa IP, ca orice site de internet."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Pe scurt",
+        "blocks": [
+          {
+            "p": "Hartă Wi-Fi nu colectează nicio dată personală, iar dezvoltatorul nu are server. Scanările tale sunt salvate pe dispozitivul tău. Singura conexiune la internet servește la măsurarea Wi-Fi-ului tău, prin descărcarea de date de la un server de test."
+          }
+        ]
+      },
+      {
+        "h": "Scanările tale",
+        "blocks": [
+          {
+            "p": "Fiecare scanare conține numele ei, data, numele rețelei Wi-Fi dacă este disponibil, măsurătorile de viteză și de latență și traseul parcurs. Acest traseu este exprimat în metri față de punctul tău de plecare: nu este o poziție geografică."
+          },
+          {
+            "p": "Scanările și setările sunt salvate pe dispozitivul tău, iar dezvoltatorul nu are acces la ele. Ca datele altor aplicații, pot fi incluse în copiile de rezervă ale dispozitivului tău, dacă le-ai activat. Poți șterge o scanare oricând; ștergerea aplicației le elimină pe toate."
+          }
+        ]
+      },
+      {
+        "h": "Măsurarea Wi-Fi-ului și serverul de test",
+        "blocks": [
+          {
+            "p": "În timpul unei scanări, aplicația descarcă mici blocuri de date de la un server de test: implicit speed.cloudflare.com, operat de Cloudflare. Ca în orice conexiune la internet, acest server îți vede adresa IP și cererea de descărcare, care indică dimensiunea blocului și un număr aleatoriu ce împiedică stocarea în cache."
+          },
+          {
+            "p": "Nici numele rețelei tale, nici scanările tale, nici rezultatele tale nu îi sunt trimise. Cloudflare tratează aceste conexiuni conform propriei politici de confidențialitate. Dacă alegi alt server în setări, acel server primește aceste conexiuni."
+          }
+        ]
+      },
+      {
+        "h": "Permisiuni solicitate",
+        "blocks": [
+          {
+            "p": "Poți retrage fiecare permisiune din Setările dispozitivului tău."
+          },
+          {
+            "ul": [
+              "<strong>Cameră</strong>: pentru a-ți urmări poziția în locuință în timpul unei scanări. Nicio imagine nu este înregistrată sau trimisă. Modul „Cu degetul” îți permite să te lipsești de ea.",
+              "<strong>Locație</strong>: iOS o cere pentru a citi numele rețelei Wi-Fi. Aplicația nu citește coordonatele tale GPS. Numele rețelei rămâne pe dispozitivul tău."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Partajare",
+        "blocks": [
+          {
+            "p": "Poți partaja o scanare ca imagine cu instrumentele iOS (AirDrop, Messages, Mail…). Imaginea arată numele scanării, data, harta și statisticile, dar nu numele rețelei. Nimic nu este partajat fără ca tu să ceri."
+          }
+        ]
+      },
+      {
+        "h": "Reclame, achiziții și urmărire",
+        "blocks": [
+          {
+            "p": "Hartă Wi-Fi este gratuită și nu cere niciun cont. Nu conține reclame, achiziții în aplicație, instrumente de urmărire sau instrumente de analiză ori de statistici de utilizare."
+          }
+        ]
+      },
+      {
+        "h": "Copii",
+        "blocks": [
+          {
+            "p": "Aplicația nu colectează nicio dată și e potrivită pentru toate vârstele."
+          }
+        ]
+      },
+      {
+        "h": "Modificări",
+        "blocks": [
+          {
+            "p": "Dacă această politică se schimbă, noua versiune va fi publicată pe această pagină, împreună cu data actualizării."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pentru orice întrebare despre această politică: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

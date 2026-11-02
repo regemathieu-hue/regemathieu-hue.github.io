@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Pointarket til dine kortspil og brætspil",
+    "contact": "Et spørgsmål, en idé eller en regel, der er talt forkert op? Skriv til mig:<br>{email}",
+    "faq": [
+      {
+        "q": "Er Tablée et kortspil?",
+        "a": "Nej. Tablée er et pointark: appen tæller point, og kortene bliver liggende på bordet. Du skal altså bruge dit eget spil for at spille."
+      },
+      {
+        "q": "Hvilke spil understøttes?",
+        "a": "Belote, coinche, tarot, Scrabble og Uno. Til alle andre spil med point (Yatzy, Rummy, Skyjo …) bruger du det frie spil: den højeste eller den laveste score vinder, som du vælger."
+      },
+      {
+        "q": "Mine regler er anderledes: kan jeg ændre dem?",
+        "a": "Ja. De officielle regler gælder som standard, og almindelige varianter (afrunding, belote kan tabes, coinchens optællingsmetode …) er indstillinger for hvert spil. Du kan ændre dem midt i spillet: arket bliver så beregnet igen."
+      },
+      {
+        "q": "Hvordan kan jeg se, hvor et resultat kommer fra?",
+        "a": "Åbn den pågældende giv, og vælg derefter »Beregningens detaljer«: der forklares hver linje i pointene. Reglerne for hvert spil findes også i arkets menu og under Indstillinger › Spillenes regler."
+      },
+      {
+        "q": "Jeg har lavet en fejl i en giv: hvad gør jeg?",
+        "a": "Du kan rette eller slette en hvilken som helst giv på arket eller fortryde den sidste. Totalerne bliver beregnet igen med det samme."
+      },
+      {
+        "q": "Hvordan skifter jeg enhed uden at miste mine spil?",
+        "a": "Åbn Indstillinger › »Eksportér alt (JSON)« på den gamle enhed, og gem filen. Vælg »Importér en fil« på den nye: spillene og spillerne føjes til dem, der allerede er der, uden at noget bliver overskrevet."
+      },
+      {
+        "q": "Bliver mine spil synkroniseret eller sikkerhedskopieret?",
+        "a": "Hver ændring gemmes på din enhed, og du fortsætter spillet, hvor du slap. Tablée synkroniserer ikke noget mellem dine enheder, og data forsvinder, hvis du sletter appen: husk at eksportere en sikkerhedskopi en gang imellem."
+      },
+      {
+        "q": "Hvordan deler jeg et resultat?",
+        "a": "I arkets menu tilbyder »Del« et billede af arket og diagrammet eller en opsummering som tekst. Til et regneark bruger du Indstillinger › »Eksportér til regneark (CSV)«."
+      },
+      {
+        "q": "Hvordan sletter jeg alt?",
+        "a": "Under Indstillinger › »Slet alle data«. Det kan ikke fortrydes: eksportér først en sikkerhedskopi, hvis du vil beholde dine spil."
+      }
+    ],
+    "privacy_summary": "Tablée indsamler ingen personlige oplysninger, opretter ikke forbindelse til nogen server og indeholder hverken reklamer, køb eller trackere. Dine spil bliver på din enhed."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort fortalt",
+        "blocks": [
+          {
+            "p": "Tablée indsamler ingen personlige oplysninger. Appen fungerer offline, opretter ikke forbindelse til nogen server og kræver ingen konto. Alt, hvad du skriver ind, bliver på din enhed, medmindre du selv vælger at dele eller eksportere det."
+          }
+        ]
+      },
+      {
+        "h": "Dine data",
+        "blocks": [
+          {
+            "p": "Appen gemmer dine spil, deres point og regler, din spillerliste (navn, emoji, farve), statistikkerne beregnet ud fra spillene og dine indstillinger. Et spillernavn kan være, hvad du vil: det er kun til nytte for dig."
+          },
+          {
+            "p": "Disse data gemmes på din enhed, og udvikleren har ikke adgang til dem. Ligesom data fra andre apps kan de indgå i sikkerhedskopierne af din enhed, hvis du har slået dem til. Du kan slette alt i indstillingerne; hvis du sletter appen, forsvinder dataene også."
+          }
+        ]
+      },
+      {
+        "h": "Deling, eksport og import",
+        "blocks": [
+          {
+            "p": "Intet forlader appen uden din handling."
+          },
+          {
+            "ul": [
+              "<strong>Deling af et spil</strong>: billedet eller teksten går via iOS' egne værktøjer (AirDrop, Messages, Mail …) og indeholder spillernes navne og deres point.",
+              "<strong>Eksport</strong>: JSON- eller CSV-filen indeholder dine spil og spillernes navne. Du vælger, hvor den gemmes; den er så underlagt vilkårene for den tjeneste, du har valgt.",
+              "<strong>Import</strong>: appen læser kun den fil, du vælger."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Tilladelser",
+        "blocks": [
+          {
+            "p": "Tablée beder ikke om nogen tilladelser: hverken kamera, placering, kontakter eller fotos."
+          }
+        ]
+      },
+      {
+        "h": "Reklamer, køb og sporing",
+        "blocks": [
+          {
+            "p": "Tablée er gratis. Appen indeholder ingen reklamer, ingen køb i appen, ingen trackere og ingen værktøjer til analyse eller brugsstatistik."
+          }
+        ]
+      },
+      {
+        "h": "Børn",
+        "blocks": [
+          {
+            "p": "Appen indsamler ingen data og er egnet til alle aldre."
+          }
+        ]
+      },
+      {
+        "h": "Ændringer",
+        "blocks": [
+          {
+            "p": "Hvis denne politik ændres, bliver den nye version offentliggjort på denne side sammen med datoen for opdateringen."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Har du spørgsmål til denne politik, kan du skrive til: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Helaian skor untuk permainan kad dan permainan papan anda",
+    "contact": "Ada soalan, idea atau peraturan yang salah dikira? Tulis kepada saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Adakah Tablée sebuah permainan kad?",
+        "a": "Bukan. Tablée ialah helaian skor: ia mengira mata, manakala kad kekal di atas meja. Jadi anda memerlukan set kad atau permainan anda sendiri untuk bermain."
+      },
+      {
+        "q": "Permainan apa yang disokong?",
+        "a": "Belote, coinche, tarot, Scrabble dan Uno. Untuk semua permainan bermata yang lain (Yahtzee, rummy, Skyjo…), gunakan permainan bebas: skor tertinggi atau terendah menang, mengikut pilihan anda."
+      },
+      {
+        "q": "Peraturan saya berbeza: bolehkah saya mengubahnya?",
+        "a": "Boleh. Peraturan rasmi digunakan secara lalai, dan varian yang biasa (pembundaran, belote boleh diambil, kaedah coinche…) ialah tetapan bagi setiap permainan. Anda boleh mengubahnya semasa permainan berjalan: helaian kemudian dikira semula."
+      },
+      {
+        "q": "Bagaimana saya tahu dari mana datangnya sesuatu keputusan?",
+        "a": "Buka agihan berkenaan, kemudian “Butiran pengiraan”: setiap baris skor dijelaskan di situ. Peraturan setiap permainan juga tersedia dalam menu helaian, dan dalam Tetapan › Peraturan permainan."
+      },
+      {
+        "q": "Saya tersilap dalam satu agihan: apa yang perlu saya buat?",
+        "a": "Anda boleh membetulkan atau memadam mana-mana agihan pada helaian, atau membuat asal yang terakhir. Jumlah dikira semula serta-merta."
+      },
+      {
+        "q": "Bagaimana cara bertukar peranti tanpa kehilangan permainan saya?",
+        "a": "Pada peranti lama, buka Tetapan › “Eksport semua (JSON)” dan simpan failnya. Pada peranti baharu, pilih “Import fail”: permainan dan pemain ditambah kepada yang sedia ada, tanpa menimpa apa-apa."
+      },
+      {
+        "q": "Adakah permainan saya disegerakkan atau disandarkan?",
+        "a": "Setiap perubahan disimpan pada peranti anda, dan anda menyambung permainan di tempat anda berhenti. Tablée tidak menyegerakkan apa-apa antara peranti anda, dan datanya hilang jika anda memadam apl: ingat untuk mengeksport sandaran dari semasa ke semasa."
+      },
+      {
+        "q": "Bagaimana cara berkongsi keputusan?",
+        "a": "Dalam menu helaian, “Kongsi” menawarkan imej helaian dan carta, atau ringkasan dalam bentuk teks. Untuk hamparan, gunakan Tetapan › “Eksport untuk hamparan (CSV)”."
+      },
+      {
+        "q": "Bagaimana cara memadam semuanya?",
+        "a": "Dalam Tetapan › “Padam semua data”. Tindakan ini tidak boleh dipulihkan: eksport sandaran dahulu jika anda mahu menyimpan permainan anda."
+      }
+    ],
+    "privacy_summary": "Tablée tidak mengumpul sebarang data peribadi, tidak bersambung ke mana-mana pelayan dan tidak mengandungi iklan, pembelian atau penjejak. Permainan anda kekal pada peranti anda."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasnya",
+        "blocks": [
+          {
+            "p": "Tablée tidak mengumpul sebarang data peribadi. Apl ini berfungsi di luar talian, tidak bersambung ke mana-mana pelayan dan tidak memerlukan akaun. Semua yang anda masukkan kekal pada peranti anda, melainkan anda memilih untuk berkongsi atau mengeksportnya."
+          }
+        ]
+      },
+      {
+        "h": "Data anda",
+        "blocks": [
+          {
+            "p": "Apl menyimpan permainan anda, mata dan peraturannya, buku pemain anda (nama, emoji, warna), statistik yang dikira daripada permainan tersebut dan tetapan anda. Nama pemain boleh jadi apa-apa sahaja yang anda mahu: ia hanya berguna kepada anda."
+          },
+          {
+            "p": "Data ini disimpan pada peranti anda, dan pembangun tidak boleh mengaksesnya. Seperti data apl lain, ia mungkin disertakan dalam sandaran peranti anda jika anda telah mengaktifkannya. Anda boleh memadam semuanya dalam tetapan; memadam apl juga memadamkannya."
+          }
+        ]
+      },
+      {
+        "h": "Perkongsian, eksport dan import",
+        "blocks": [
+          {
+            "p": "Tiada apa-apa yang keluar daripada apl tanpa tindakan daripada anda."
+          },
+          {
+            "ul": [
+              "<strong>Berkongsi permainan</strong>: imej atau teks melalui alat iOS (AirDrop, Messages, Mail…) dan mengandungi nama pemain serta mata mereka.",
+              "<strong>Eksport</strong>: fail JSON atau CSV mengandungi permainan anda dan nama pemain. Anda memilih tempat menyimpannya; ia kemudian tertakluk kepada syarat perkhidmatan yang anda pilih.",
+              "<strong>Import</strong>: apl hanya membaca fail yang anda pilih."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Kebenaran yang diminta",
+        "blocks": [
+          {
+            "p": "Tablée tidak meminta sebarang kebenaran: tiada kamera, lokasi, kenalan atau foto."
+          }
+        ]
+      },
+      {
+        "h": "Iklan, pembelian dan penjejakan",
+        "blocks": [
+          {
+            "p": "Tablée percuma. Ia tidak mengandungi sebarang iklan, pembelian dalam apl, penjejak atau alat analitik atau statistik penggunaan."
+          }
+        ]
+      },
+      {
+        "h": "Kanak-kanak",
+        "blocks": [
+          {
+            "p": "Aplikasi ini tidak mengumpul sebarang data dan sesuai untuk semua peringkat umur."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika dasar ini berubah, versi baharu akan diterbitkan di halaman ini bersama tarikh kemas kininya."
+          }
+        ]
+      },
+      {
+        "h": "Hubungi",
+        "blocks": [
+          {
+            "p": "Untuk sebarang soalan tentang dasar ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}
