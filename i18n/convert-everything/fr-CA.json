@@ -1,7 +1,7 @@
 {
   "support": {
     "subtitle": "Application de conversion universelle pour iOS",
-    "contact": "Pour toute question ou signalement de bogue, contactez-nous par courriel:<br>{email}",
+    "contact": "Pour toute question ou signalement de bogue, contactez-nous par courriel :<br>{email}",
     "faq": [
       { "q": "Les taux de change sont-ils mis à jour en temps réel?",
         "a": "Les taux de change sont actualisés à chaque ouverture de l'application si une connexion Internet est disponible. Une connexion Internet est requise pour obtenir les taux les plus récents." },
@@ -17,7 +17,7 @@
       { "h": "Collecte de données", "blocks": [
         { "p": "Convert Everything ne recueille, ne stocke et ne transmet aucune donnée personnelle. L'application fonctionne entièrement en local sur votre appareil." } ] },
       { "h": "Données utilisées", "blocks": [
-        { "p": "L'application accède uniquement aux ressources suivantes:" },
+        { "p": "L'application accède uniquement aux ressources suivantes :" },
         { "ul": [
           "<strong>Internet</strong> — uniquement pour récupérer les taux de change à partir d'une API publique. Aucune donnée personnelle n'est envoyée." ] } ] },
       { "h": "Services tiers", "blocks": [
@@ -27,7 +27,7 @@
       { "h": "Enfants", "blocks": [
         { "p": "Cette application ne recueille aucune donnée et convient à tous les âges." } ] },
       { "h": "Contact", "blocks": [
-        { "p": "Pour toute question concernant cette politique: {email}" } ] }
+        { "p": "Pour toute question concernant cette politique : {email}" } ] }
     ]
   }
 }

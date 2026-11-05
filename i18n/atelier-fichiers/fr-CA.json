@@ -1,7 +1,7 @@
 {
   "support": {
     "subtitle": "La boîte à outils pour vos fichiers, sur iPhone, iPad et Mac",
-    "contact": "Pour toute question, suggestion ou signalement de bogue, écrivez-moi:<br>{email}",
+    "contact": "Pour toute question, suggestion ou signalement de bogue, écrivez-moi :<br>{email}",
     "faq": [
       { "q": "Mes fichiers sont-ils envoyés sur un serveur?",
         "a": "Non. Toutes les conversions, compressions et retouches se font directement sur votre appareil. L'application n'envoie aucun fichier sur Internet." },
@@ -26,12 +26,12 @@
       { "h": "Autorisations demandées", "blocks": [
         { "p": "Chaque autorisation n'est demandée qu'au moment où vous utilisez la fonction concernée, et vous pouvez la retirer dans les Réglages de votre appareil." },
         { "ul": [
-          "<strong>Caméra</strong>: pour numériser des documents et lire des codes. Les images restent sur l'appareil.",
-          "<strong>Photos (ajout seulement)</strong>: pour enregistrer les images converties dans votre photothèque. L'application ne lit pas votre photothèque; vous choisissez vous-même les photos à importer.",
-          "<strong>Reconnaissance vocale</strong>: pour transcrire vos enregistrements en texte et créer des sous-titres. La transcription se fait sur l'appareil, sans rien envoyer.",
-          "<strong>Notifications</strong>: pour vous aviser quand un traitement long est terminé. Ces notifications sont générées localement." ] } ] },
+          "<strong>Caméra</strong> : pour numériser des documents et lire des codes. Les images restent sur l'appareil.",
+          "<strong>Photos (ajout seulement)</strong> : pour enregistrer les images converties dans votre photothèque. L'application ne lit pas votre photothèque; vous choisissez vous-même les photos à importer.",
+          "<strong>Reconnaissance vocale</strong> : pour transcrire vos enregistrements en texte et créer des sous-titres. La transcription se fait sur l'appareil, sans rien envoyer.",
+          "<strong>Notifications</strong> : pour vous aviser quand un traitement long est terminé. Ces notifications sont générées localement." ] } ] },
       { "h": "Fonctions intelligentes et traduction", "blocks": [
-        { "p": "Les résumés, l'extraction de recettes et la lecture de cartes professionnelles utilisent le modèle Apple Intelligence intégré à l'appareil. La traduction utilise le service de traduction d'Apple sur l'appareil: seul le téléchargement des langues passe par Apple. Dans les deux cas, vos textes ne sont pas transmis au développeur." } ] },
+        { "p": "Les résumés, l'extraction de recettes et la lecture de cartes professionnelles utilisent le modèle Apple Intelligence intégré à l'appareil. La traduction utilise le service de traduction d'Apple sur l'appareil : seul le téléchargement des langues passe par Apple. Dans les deux cas, vos textes ne sont pas transmis au développeur." } ] },
       { "h": "Achats intégrés", "blocks": [
         { "p": "L'achat d'Atelier Pro est entièrement géré par Apple par l'intermédiaire de l'App Store. L'application vérifie seulement si l'achat a été effectué; elle ne reçoit aucune donnée de paiement. Le compteur d'opérations gratuites est stocké sur votre appareil." } ] },
       { "h": "Publicité et suivi", "blocks": [
@@ -41,7 +41,7 @@
       { "h": "Modifications", "blocks": [
         { "p": "Si cette politique change, la nouvelle version sera publiée sur cette page avec sa date de mise à jour." } ] },
       { "h": "Contact", "blocks": [
-        { "p": "Pour toute question concernant cette politique: {email}" } ] }
+        { "p": "Pour toute question concernant cette politique : {email}" } ] }
     ]
   }
 }

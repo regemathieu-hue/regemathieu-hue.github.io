@@ -1,19 +1,19 @@
 {
   "support": {
     "subtitle": "Repère où ton Wi-Fi faiblit, pièce par pièce",
-    "contact": "Une question, une idée ou un bogue ? Écris-moi:<br>{email}",
+    "contact": "Une question, une idée ou un bogue ? Écris-moi :<br>{email}",
     "faq": [
       {
         "q": "Pourquoi l'application ne montre-t-elle pas la puissance du signal ?",
-        "a": "iOS ne donne pas la puissance brute du signal Wi-Fi aux applis. Carte Wi-Fi mesure donc ce que ton Wi-Fi délivre vraiment à chaque endroit: le débit et la latence. Le score de 0 à 100 affiché sur la carte vient de ces deux mesures."
+        "a": "iOS ne donne pas la puissance brute du signal Wi-Fi aux applis. Carte Wi-Fi mesure donc ce que ton Wi-Fi délivre vraiment à chaque endroit : le débit et la latence. Le score de 0 à 100 affiché sur la carte vient de ces deux mesures."
       },
       {
         "q": "À quoi sert la caméra ?",
-        "a": "Elle permet à l'iPhone de suivre ta position pendant que tu marches. Aucune image n'est enregistrée ni envoyée. Si tu préfères ne pas l'utiliser, ou si ton appareil ne gère pas ce suivi, choisis « Au doigt » avant de commencer: tu déplaces alors ta position en glissant le doigt sur la carte."
+        "a": "Elle permet à l'iPhone de suivre ta position pendant que tu marches. Aucune image n'est enregistrée ni envoyée. Si tu préfères ne pas l'utiliser, ou si ton appareil ne gère pas ce suivi, choisis « Au doigt » avant de commencer : tu déplaces alors ta position en glissant le doigt sur la carte."
       },
       {
         "q": "Pourquoi l'application demande-t-elle ma position ?",
-        "a": "iOS exige cette autorisation pour qu'une appli puisse lire le nom du réseau Wi-Fi. Elle ne sert à rien d'autre: l'application ne lit pas tes coordonnées GPS. Si tu la refuses, le scan fonctionne quand même, sans afficher le nom du réseau."
+        "a": "iOS exige cette autorisation pour qu'une appli puisse lire le nom du réseau Wi-Fi. Elle ne sert à rien d'autre : l'application ne lit pas tes coordonnées GPS. Si tu la refuses, le scan fonctionne quand même, sans afficher le nom du réseau."
       },
       {
         "q": "Combien de données un scan consomme-t-il ?",
@@ -24,11 +24,11 @@
         "a": "Non. Les mesures passent uniquement par le Wi-Fi. Si le Wi-Fi décroche, la mesure tombe à 0 au lieu de mesurer le réseau mobile, et la carte le montre."
       },
       {
-        "q": "La carte est décalée ou le suivi se perd: que faire ?",
-        "a": "Marche lentement, l'iPhone devant toi, et vise des endroits où il y a des détails plutôt qu'un mur uni. Pendant le scan, l'application affiche ce qu'il faut corriger, par exemple « Bouge un peu plus lentement ». Sur de longues distances, le suivi peut dériver un peu: mieux vaut faire plusieurs petits scans qu'un seul très long."
+        "q": "La carte est décalée ou le suivi se perd : que faire ?",
+        "a": "Marche lentement, l'iPhone devant toi, et vise des endroits où il y a des détails plutôt qu'un mur uni. Pendant le scan, l'application affiche ce qu'il faut corriger, par exemple « Bouge un peu plus lentement ». Sur de longues distances, le suivi peut dériver un peu : mieux vaut faire plusieurs petits scans qu'un seul très long."
       },
       {
-        "q": "La carte est rouge partout: est-ce mon Wi-Fi ?",
+        "q": "La carte est rouge partout : est-ce mon Wi-Fi ?",
         "a": "Pas forcément. Les mesures passent par un serveur sur internet, donc une connexion internet lente ou une latence élevée pèsent sur tout le logement. Ce sont les écarts entre les pièces qui révèlent les faiblesses du Wi-Fi."
       },
       {
@@ -56,7 +56,7 @@
         "h": "Tes scans",
         "blocks": [
           {
-            "p": "Chaque scan contient son nom, sa date, le nom du réseau Wi-Fi s'il est disponible, les mesures de débit et de latence, et le trajet parcouru. Ce trajet est exprimé en mètres par rapport à ton point de départ: ce n'est pas une position géographique."
+            "p": "Chaque scan contient son nom, sa date, le nom du réseau Wi-Fi s'il est disponible, les mesures de débit et de latence, et le trajet parcouru. Ce trajet est exprimé en mètres par rapport à ton point de départ : ce n'est pas une position géographique."
           },
           {
             "p": "Les scans et les réglages sont enregistrés sur ton appareil, et le développeur n'y a pas accès. Comme les données des autres applis, ils peuvent figurer dans les sauvegardes de ton appareil si tu les as activées. Tu peux supprimer un scan à tout moment ; la suppression de l'application les efface tous."
@@ -67,7 +67,7 @@
         "h": "Mesure du Wi-Fi et serveur de test",
         "blocks": [
           {
-            "p": "Pendant un scan, l'application télécharge de petits blocs de données depuis un serveur de test: par défaut speed.cloudflare.com, exploité par Cloudflare. Comme pour toute connexion internet, ce serveur voit ton adresse IP et la demande de téléchargement, qui indique la taille du bloc et un numéro aléatoire évitant la mise en cache."
+            "p": "Pendant un scan, l'application télécharge de petits blocs de données depuis un serveur de test : par défaut speed.cloudflare.com, exploité par Cloudflare. Comme pour toute connexion internet, ce serveur voit ton adresse IP et la demande de téléchargement, qui indique la taille du bloc et un numéro aléatoire évitant la mise en cache."
           },
           {
             "p": "Ni le nom de ton réseau, ni tes scans, ni tes résultats ne lui sont envoyés. Cloudflare traite ces connexions selon sa propre politique de confidentialité. Si tu choisis un autre serveur dans les réglages, c'est ce serveur qui reçoit ces connexions."
@@ -82,8 +82,8 @@
           },
           {
             "ul": [
-              "<strong>Caméra</strong>: pour suivre ta position dans le logement pendant un scan. Aucune image n'est enregistrée ni envoyée. Le mode « Au doigt » permet de t'en passer.",
-              "<strong>Position</strong>: iOS l'exige pour lire le nom du réseau Wi-Fi. L'application ne lit pas tes coordonnées GPS. Le nom du réseau reste sur ton appareil."
+              "<strong>Caméra</strong> : pour suivre ta position dans le logement pendant un scan. Aucune image n'est enregistrée ni envoyée. Le mode « Au doigt » permet de t'en passer.",
+              "<strong>Position</strong> : iOS l'exige pour lire le nom du réseau Wi-Fi. L'application ne lit pas tes coordonnées GPS. Le nom du réseau reste sur ton appareil."
             ]
           }
         ]
@@ -124,7 +124,7 @@
         "h": "Contact",
         "blocks": [
           {
-            "p": "Pour toute question concernant cette politique: {email}"
+            "p": "Pour toute question concernant cette politique : {email}"
           }
         ]
       }
