@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Sonometer, ki hraní zgodovino šuma",
+    "contact": "Imate vprašanje, idejo ali meritev, ki vas preseneča? Pišite mi:<br>{email}",
+    "faq": [
+      {
+        "q": "So prikazane vrednosti zaupne?",
+        "a": "Smo približne. Mikrofon iPhone ni kalibrirani sonometer: odvisno od naprave se razlika lahko dosegla nekaj decibela, še posebej pri zelo tihih ali zelo hladnih zvokih. Aplikacija je primerna za primerjavo trenutkov, mest ali večerov, ne pa za uradno merjenje."
+      },
+      {
+        "q": "Kako kalibrirati aplikacijo?",
+        "a": "Postavite iPhone poleg sonometra ali Apple Watch (aplikacija Noise) v stabilnem šumu in zaženite merjenje. V Nastavitvah › Kalibracija nastavite korekcijo, dokler ne boste prebrali enake vrednosti. Korekcija se uporabi pri naslednjem merjenju."
+      },
+      {
+        "q": "Kaj pomenita dB(A) in dB(Z)?",
+        "a": "Pondirjenje A zmanjšuje nizke frekvence, kot to počne človekovo uho: uporablja se pri sonometrih in predpisih o šumu, privzeto izbrano. Pondirjenje Z nič ne korektira: prikazuje tudi nizke frekvence, kot je subwoofer ali ventilacija. Izbor opravite v Nastavitvah."
+      },
+      {
+        "q": "Čo znamenajú priemer (Leq), vrchol, L10 a L90?",
+        "a": "Priemer (Leq) je konštantná úroveň, ktorá by priniesla rovnakú hlasitosť ako celá meranie: hlasné zvuky majú väčší vplyv. Vrchol je najväčšia úroveň dosiahnutá za oseminu sekundy. L10 je úroveň prekročená 10 % času (výrazné zvuky), L90 úroveň prekročená 90 % času (zvuk pozadia)."
+      },
+      {
+        "q": "Čo je dávka hluku?",
+        "a": "Porovnáva hlasitosť prijatú počas merania s odporúčanou dennou maximálnou hodnotou: 85 dB(A) počas 8 hodín, pričom doba je znížená na polovicu za každé ďalšie 3 dB. Pri 100 % je denná hranica dosiahnutá: nad touto hodnotou je potrebné používať ochranu sluchu. Ide o odhad, nie o profesionálny dosimeter."
+      },
+      {
+        "q": "Pokračuje meranie aj keď je obrazovka zamknutá?",
+        "a": "Áno. Meranie pokračuje aj po zamknutí obrazovky alebo v inej aplikácii; oranžový bod v iOS ukazuje, že mikrofón sleduje zvuky. Hovor telefónu ho zastaví a uloží. Predvolené nastavenie je, že obrazovka zostane zapnutá počas merania: môžete to vypnúť v nastaveniach."
+      },
+      {
+        "q": "Ako zaznamenať hluk suseda?",
+        "a": "Vyberte prahovú hodnotu v nastaveniach (napr. 40 dB v noci), potom spustite meranie a nechajte iPhone v miestnosti. V histórii sa záznam zobrazí každý prekrok prahu s časom, dĺžkou a vrcholom. Môžete mu priradiť názov, pridať poznámku, zdieľať zhodnotenie alebo exportovať všetky údaje do CSV. Tieto údaje pomáhajú pri rozhovore, ale neznamenajú oficiálny záznam."
+      },
+      {
+        "q": "Sú moje merania uložené?",
+        "a": "Každé meranie sa uloží na vašom zariadení, keď ho zastavíte, a každých 30 sekúnd počas jeho behu. Merania nie sú synchronizované medzi vašimi zariadeniami a zmazané sa vymažú, ak odstránite aplikáciu: exportujte tie, ktoré chcete zachovať, ako CSV."
+      },
+      {
+        "q": "Ako odstránim meranie?",
+        "a": "V histórii prekliknite meranie doľava alebo ho otvoríte a vyberte „Delete recording“."
+      },
+      {
+        "q": "Zaznamenáva aplikácia to, čo počuje?",
+        "a": "Nie. Zvuk mikrofónu sa používa len na výpočet úrovne, na iPhone, a potom je zabudnutý. Uložené sú iba úrovne (jedna za sekundu)."
+      }
+    ],
+    "privacy_summary": "Sound Level nezbiera žiadne osobné údaje, nezaznamenáva žiadny zvuk, nespája sa so žiadnym serverom a neobsahuje reklamy, nákupy ani sledovače. Vaše merania zostanú na vašom zariadení."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Zhrnutie",
+        "blocks": [
+          {
+            "p": "Sound Level ne zbiera žiadne osobné údaje. Aplikácia pracuje offline, nepripája sa k žiadnemu serveru a nepožaduje žiadny účet. Mikrofón sa používa iba na výpočet hladiny zvuku: žiadny zvuk sa nezaznamená ani neodovzdá."
+          }
+        ]
+      },
+      {
+        "h": "Mikrofón",
+        "blocks": [
+          {
+            "p": "Aplikácia požaduje prístup k mikrofónu na meranie hluku. Zvuk je analyzovaný v reálnom čase na iPhone, potom okamžite zabudnutý: nikdy sa nezaznamená, neuchováva ani neodosiela."
+          },
+          {
+            "p": "Túto prístupovú právo môžete kedykoľvek odstrániť v Nastavenia › Súkromie a bezpečnosť › Mikrofón. Aplikácia potom už nemôže meranie vykonávať."
+          }
+        ]
+      },
+      {
+        "h": "Vaše údaje",
+        "blocks": [
+          {
+            "p": "Aplikácia si ukladá vaše merania: dátum, hladinu zvuku každú sekundu, meno a poznámku, ktorú im pridáte, ako aj nastavenia (váženie, prah, kalibrácia)."
+          },
+          {
+            "p": "Tieto údaje sú uložené na vašom zariadení a vývojár k nim nemá prístup. Ako údaje iných aplikácií môžu byť súčasťou zálohovania vášho zariadenia, ak ste ho zapnutý. Môžete zmazať každé meranie v histórii; zmazanie aplikácie ich všetky zmazané."
+          }
+        ]
+      },
+      {
+        "h": "Zdieľanie a export",
+        "blocks": [
+          {
+            "p": "Nič sa z aplikácie nevyplíva bez vašej akcie."
+          },
+          {
+            "ul": [
+              "<strong>Zdieľanie súhrnu</strong>: text prechádza nástrojmi iOS (AirDrop, Správy, Mail…) a obsahuje dátum, úrovne, vrcholy a poznámku merania.",
+              "<strong>Export CSV</strong>: súbor obsahuje čas a úrovne každej sekundy. Vyberiete si, kam ho uložiť alebo komu poslať; potom je podlieha podmienkam vybraného služby."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Reklamy, nákupy a sledovanie",
+        "blocks": [
+          {
+            "p": "Aplikácia Sound Level je bezplatná. Neobsahuje žiadne reklamy, žiadne in-app nákupy, žiadne sledovače ani nástroje na analýzu alebo štatistiky používania."
+          }
+        ]
+      },
+      {
+        "h": "Deti",
+        "blocks": [
+          {
+            "p": "Aplikácia nezbiera žiadne dáta a je vhodná pre všetky vekové kategórie."
+          }
+        ]
+      },
+      {
+        "h": "Zmeny",
+        "blocks": [
+          {
+            "p": "Ak sa táto politika zmení, nová verzia bude zverejnená na tejto stránke spolu s dátumom aktualizácie."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Ak máte akúkoľvek otázku k tejto politike: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

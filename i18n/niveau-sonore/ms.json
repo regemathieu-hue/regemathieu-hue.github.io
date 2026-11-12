@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Sonometer yang menyimpan sejarah tahap bunyi",
+    "contact": "Soalan, idea atau bacaan yang mengejutkan anda? Tulis kepada saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Adakah nilai yang dipaparkan boleh dipercayai?",
+        "a": "Nilainya bersifat perkiraan sahaja. Mikrofon iPhone bukan mikrofon sonometer yang diluluskan: bergantung pada peranti, beza boleh mencapai beberapa desibel, terutama dalam bunyi yang sangat senyap atau sangat kuat. Aplikasi ini sesuai untuk membandingkan masa, tempat atau malam-malam, bukan untuk ukuran rasmi."
+      },
+      {
+        "q": "Bagaimana saya menyelaraskan aplikasi ini?",
+        "a": "Letakkan iPhone bersebelahan dengan sonometer atau Apple Watch (app Noise), dalam bunyi yang stabil, dan mulakan pengukuran. Dalam Settings › Calibration, sesuaikan penyesuaian sehingga kedua-duanya menunjukkan nilai yang sama. Penyesuaian ini akan digunakan pada ukuran seterusnya."
+      },
+      {
+        "q": "Apa maksud dB(A) dan dB(Z)?",
+        "a": "Pemendekan A mengurangkan frekuensi rendah seperti telinga manusia: ia digunakan oleh sonometer dan peraturan bunyi, dan dipilih secara lalai. Pemendekan Z tidak membuat penyesuaian apa-apa: ia menunjukkan juga nada rendah, seperti subwoofer atau pengudaraan. Pilihan ini dibuat dalam Settings."
+      },
+      {
+        "q": "Apakah maksud purata (Leq), puncak, L10 dan L90?",
+        "a": "Purata (Leq) ialah tahap tetap yang membawa tenaga bunyi yang sama seperti keseluruhan ukuran: bunyi kuat memberi kesan lebih besar. Puncak ialah tahap paling kuat yang dicapai dalam lapan per seratus saat. L10 ialah tahap yang dilampaui 10% daripada masa (bunyi ketara), manakala L90 ialah tahap yang dilampaui 90% daripada masa (bunyi latar)."
+      },
+      {
+        "q": "Apakah dos bunyi?",
+        "a": "Ia membandingkan bunyi yang diterima semasa ukuran dengan had maksimum yang disyorkan dalam sehari: 85 dB(A) selama 8 jam, dengan tempoh dibenarkan dipotong separuh bagi setiap tambahan 3 dB. Pada 100%, had harian telah dicapai: melebihi itu, perlindungan pendengaran diperlukan. Ini adalah anggaran, bukan dosimeter profesional."
+      },
+      {
+        "q": "Adakah ukuran terus berjalan apabila skrin dikunci?",
+        "a": "Ya. Ukuran terus berjalan walaupun skrin dikunci atau ketika menggunakan aplikasi lain; titik oranye di iOS menunjukkan mikrofon sedang mendengar. Panggilan telefon akan menghentikan dan menyimpan ukuran tersebut. Secara lalai, skrin kekal hidup semasa ukuran berjalan: anda boleh mematikannya dalam Settings."
+      },
+      {
+        "q": "Bagaimana saya mencatat bunyi dari tetangga yang bising?",
+        "a": "Pilih ambang dalam Settings (contohnya 40 dB pada waktu malam), kemudian mulakan ukuran dan biarkan iPhone di dalam bilik. Dalam History, ukuran tersebut senaraikan setiap kali bunyi melampaui ambang dengan masa, tempoh dan puncaknya. Anda boleh memberi nama, tambah nota, kongsi ringkasan atau eksport semua bacaan sebagai CSV. Bacaan ini membantu memulakan perbincangan, tetapi tidak menggantikan laporan rasmi."
+      },
+      {
+        "q": "Adakah ukuran saya disimpan?",
+        "a": "Setiap ukuran disimpan pada peranti anda apabila anda menghentikannya, dan setiap 30 saat semasa ia berjalan. Ukuran tidak diselaraskan antara peranti anda dan akan dipadam jika anda memadamkan aplikasi: eksportkan sebagai CSV ukuran yang ingin anda simpan."
+      },
+      {
+        "q": "Bagaimana cara memadam ukuran?",
+        "a": "Di dalam sejarah, gelongsor ukuran ke kiri, atau buka ia dan pilih “Delete recording”."
+      },
+      {
+        "q": "Adakah aplikasi ini merekod apa yang didengarinya?",
+        "a": "Tidak. Bunyi mikrofon hanya digunakan untuk mengira tahap, di iPhone, kemudian dibuang. Hanya tahap (satu setiap saat) yang disimpan."
+      }
+    ],
+    "privacy_summary": "Sound Level tidak mengumpul sebarang data peribadi, tidak merekod bunyi, tidak bersambung ke mana-mana pelayan dan tidak mengandungi iklan, pembelian atau penjejak. Ukuran anda kekal di peranti anda."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasan",
+        "blocks": [
+          {
+            "p": "Sound Level tidak mengumpul sebarang data peribadi. Aplikasi ini berfungsi secara luar talian, tidak bersambung ke mana-mana pelayan dan tidak memerlukan akaun. Mikrofon hanya digunakan untuk mengira tahap bunyi: tiada bunyi direkod atau dipindahkan."
+          }
+        ]
+      },
+      {
+        "h": "Mikrofon",
+        "blocks": [
+          {
+            "p": "Aplikasi ini meminta akses mikrofon untuk mengukur bunyi. Bunyi dianalisis secara langsung di iPhone, kemudian segera dilupakan: ia tidak pernah direkod, disimpan atau dihantar ke mana-mana."
+          },
+          {
+            "p": "Anda boleh mencabut kebenaran ini kapan saja dalam Settings › Privacy & Security › Microphone. Aplikasi tidak dapat mengukur selepas itu."
+          }
+        ]
+      },
+      {
+        "h": "Data anda",
+        "blocks": [
+          {
+            "p": "Aplikasi menyimpan ukuran anda: tarikh, tahap bunyi setiap saat, nama dan nota yang anda berikan, serta tetapan anda (pembezaan, ambang, kalibrasi)."
+          },
+          {
+            "p": "Data ini disimpan di peranti anda, dan pembangun tidak mempunyai akses kepadanya. Seperti data aplikasi lain, ia mungkin terdapat dalam sandaran peranti anda jika anda telah mengaktifkannya. Anda boleh memadam setiap ukuran dalam History; memadam aplikasi akan memadam semua rekod tersebut."
+          }
+        ]
+      },
+      {
+        "h": "Kongsi dan eksport",
+        "blocks": [
+          {
+            "p": "Tiada apa-apa yang keluar daripada aplikasi tanpa tindakan daripada anda."
+          },
+          {
+            "ul": [
+              "<strong>Mengongsikan ringkasan</strong>: teks ini melalui alat berkongsi iOS (AirDrop, Messages, Mail…) dan mengandungi tarikh, tahap, puncak dan nota ukuran.",
+              "<strong>Ekspor CSV</strong>: fail ini mengandungi masa dan tahap setiap saat. Anda memilih tempat untuk menyimpannya atau siapa yang ingin dihantar; ia kemudian tunduk kepada terma perkhidmatan yang dipilih."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Iklan, pembelian dan penjejakan",
+        "blocks": [
+          {
+            "p": "Sound Level adalah percuma. Ia tidak mengandungi iklan, pembelian dalam aplikasi, penjejak atau alat analitik atau statistik penggunaan."
+          }
+        ]
+      },
+      {
+        "h": "Kanak-kanak",
+        "blocks": [
+          {
+            "p": "Aplikasi ini tidak mengumpul sebarang data dan sesuai untuk semua peringkat umur."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika dasar ini berubah, versi baharu akan diterbitkan di halaman ini bersama tarikh kemaskini."
+          }
+        ]
+      },
+      {
+        "h": "Hubungi",
+        "blocks": [
+          {
+            "p": "Bagi sebarang pertanyaan mengenai dasar ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

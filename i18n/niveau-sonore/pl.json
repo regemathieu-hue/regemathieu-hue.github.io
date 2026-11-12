@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Sonometr, który przechowuje historię poziomu dźwięku",
+    "contact": "Masz pytanie, pomysł lub pomiar, który Cię zdumiał? Napisz do mnie:<br>{email}",
+    "faq": [
+      {
+        "q": "Czy wyświetlane wartości są dokładne?",
+        "a": "Są orientacyjne. Mikrofon iPhone’a nie jest mikrofonem certyfikowanego sonometru: w zależności od urządzenia różnica może wynosić kilka decybeli, szczególnie przy bardzo cichych lub bardzo głośnych dźwiękach. Aplikacja nadaje się do porównywania momentów, miejsc lub wieczorów, ale nie do pomiarów oficjalnych."
+      },
+      {
+        "q": "Jak kalibrować aplikację?",
+        "a": "Ustaw iPhone obok sonometru lub Apple Watch (aplikacja Noise) w stałym hałasie i uruchom pomiar. W ustawieniach › Kalibracja dostosuj korektę, aż wartości będą takie same. Korekta zostanie zastosowana do następnego pomiaru."
+      },
+      {
+        "q": "Co oznaczają dB(A) i dB(Z)?",
+        "a": "Wagowanie A tłumaczy dźwięki niskie, jak ludzkie ucho: to standard używany przez sonometry i przepisy dotyczące hałasu – domyślne. Wagowanie Z nie wprowadza żadnej korekty: pokazuje również dźwięki niskie, takie jak subwoofer lub wentylacja. Wybór dokonujesz w ustawieniach."
+      },
+      {
+        "q": "Co oznaczają średnia (Leq), szczyt, L10 i L90?",
+        "a": "Średnia (Leq) to poziom stały, który przekazywałby taką samą energię dźwiękową jak cała pomiarowa trwająca chwila: głośne dźwięki mają większe znaczenie. Szczyt to najwyższy poziom osiągnięty w ciągu ósmej części sekundy. L10 to poziom przekraczany 10% czasu (dzwonki, wyraźne dźwięki), a L90 poziom przekraczany 90% czasu (szum tła)."
+      },
+      {
+        "q": "Co oznacza dawka hałasu?",
+        "a": "Porównuje poziom hałasu odbierany podczas pomiaru z zalecanym maksimum na dzień: 85 dB(A) przez 8 godzin, przy czym dozwolony czas dzieli się na pół za każdym razem, gdy poziom wzrasta o 3 dB. Na poziomie 100% osiągnięto limit dnia: powyżej tego poziomu konieczne jest stosowanie ochrony słuchu. Jest to szacunek, a nie profesjonalny dosymetr."
+      },
+      {
+        "q": "Czy pomiar kontynuuje się, gdy ekran jest zablokowany?",
+        "a": "Tak. Pomiar kontynuuje się przy zablokowanym ekranie lub w innej aplikacji; pomarańczowy punkt w systemie iOS wskazuje, że mikrofon nasłuchuje. Połączenie telefoniczne go zatrzymuje i zapisuje. Domyślnie ekran pozostaje włączony podczas pomiaru: możesz to wyłączyć w ustawieniach."
+      },
+      {
+        "q": "Jak zanotować hałas sąsiada?",
+        "a": "Wybierz próg w ustawieniach (na przykład 40 dB w nocy), a następnie rozpocznij pomiar i pozostaw iPhone w pokoju. W historii pomiaru lista się każde przekroczenie progu z godziną, czasem trwania i szczytem. Możesz mu nadać nazwę, dodać notatkę, udostępnić podsumowanie lub wyeksportować wszystkie wyniki w formacie CSV. Te dane pomagają w rozmowie, ale nie zastępują oficjalnego aktu."
+      },
+      {
+        "q": "Czy moje pomiary są zapisywane?",
+        "a": "Każdy pomiar jest zapisywany na urządzeniu, gdy go zatrzymasz, oraz co 30 sekund podczas działania. Pomiary nie są synchronizowane między urządzeniami i zostaną usunięte, jeśli usuniesz aplikację: eksportuj te, które chcesz zachować, jako plik CSV."
+      },
+      {
+        "q": "Jak usunąć pomiar?",
+        "a": "W historii przesuń pomiar w lewo, lub otwórz go i wybierz opcję „Delete recording”."
+      },
+      {
+        "q": "Czy aplikacja zapisuje to, co słyszy?",
+        "a": "Nie. Dźwięk z mikrofonu służy wyłącznie do obliczania poziomu, na iPhone, a następnie jest usuwany. Zapisywane są tylko poziomy (jeden na sekundę)."
+      }
+    ],
+    "privacy_summary": "Sound Level nie zbiera żadnych danych osobowych, nie zapisuje dźwięku, nie łączy się z żadnym serwerem i nie zawiera reklam, zakupów ani śledzenia. Twoje pomiary pozostają na Twoim urządzeniu."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Podsumowanie",
+        "blocks": [
+          {
+            "p": "Sound Level nie zbiera żadnych danych osobowych. Aplikacja działa offline, nie łączy się z żadnym serwerem i nie wymaga konta. Mikrofon służy wyłącznie do obliczania poziomu dźwięku: żaden dźwięk nie jest nagrywany ani przesyłany."
+          }
+        ]
+      },
+      {
+        "h": "Mikrofon",
+        "blocks": [
+          {
+            "p": "Aplikacja prosi o dostęp do mikrofonu w celu pomiaru hałasu. Dźwięk jest analizowany na bieżąco na iPhone, a następnie natychmiast zapomniany: nie jest nigdy nagrywany, przechowywany ani wysyłany gdziekolwiek."
+          },
+          {
+            "p": "Możesz cofnąć tę uprawnienie w dowolnym momencie w ustawieniach › Prywatność i bezpieczeństwo › Mikrofon. Aplikacja wtedy nie będzie mogła mierzyć."
+          }
+        ]
+      },
+      {
+        "h": "Twoje dane",
+        "blocks": [
+          {
+            "p": "Aplikacja zapisuje Twoje pomiary: datę, poziom dźwięku na sekundę, nazwę i notatkę przypisaną do nich, a także ustawienia (wagowanie, próg, kalibracja)."
+          },
+          {
+            "p": "Te dane są przechowywane na Twoim urządzeniu, a deweloper nie ma do nich dostępu. Podobnie jak dane innych aplikacji, mogą one znaleźć się w kopii zapasowej urządzenia, jeśli została ona włączona. Możesz usunąć każdy pomiar z historii; usunięcie aplikacji skasuje wszystkie zapisane dane."
+          }
+        ]
+      },
+      {
+        "h": "Udostępnianie i eksport",
+        "blocks": [
+          {
+            "p": "Nic nie opuszcza aplikacji bez Twojej akcji."
+          },
+          {
+            "ul": [
+              "<strong>Udostępnianie podsumowania</strong>: tekst przechodzi przez narzędzia systemu iOS (AirDrop, Wiadomości, Mail…) i zawiera datę, poziomy, szczyty oraz notatkę z pomiaru.",
+              "<strong>Wyeksportuj do CSV</strong>: plik zawiera godzinę i poziom dla każdej sekundy. Wybierasz, gdzie go zapisać lub komu wysłać; następnie podlega warunkom wybranego usługi."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Reklamy, zakupy i śledzenie",
+        "blocks": [
+          {
+            "p": "Aplikacja Sound Level jest bezpłatna. Nie zawiera reklam, zakupów wewnętrznych, śledzenia ani narzędzi analitycznych lub statystyk użytkowania."
+          }
+        ]
+      },
+      {
+        "h": "Dzieci",
+        "blocks": [
+          {
+            "p": "Aplikacja nie zbiera żadnych danych i nadaje się dla wszystkich wieków."
+          }
+        ]
+      },
+      {
+        "h": "Zmiany",
+        "blocks": [
+          {
+            "p": "Jeśli ta polityka ulegnie zmianie, nowa wersja zostanie opublikowana na tej stronie razem z datą aktualizacji."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Wszelkie pytania dotyczące tej polityki: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

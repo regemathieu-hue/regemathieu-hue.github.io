@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "A zajszintmérő, amely naplózza a zajtörténetet",
+    "contact": "Kérdésed, ötleted vagy meglepő mérésed van? Írj nekem: <br>{email}",
+    "faq": [
+      {
+        "q": "A megjelenített értékek megbízhatóak-e?",
+        "a": "Az értékek jelző jellegűek. Az iPhone mikrofonja nem azonos egy hitelesített zajszintmérővel: a készülék függvényében a eltérés néhány decibel is lehet, különösen nagyon halk vagy nagyon erős zajok esetén. Az alkalmazás alkalmas az időpontok, helyek vagy esték összehasonlítására, nem hivatalos mérésre."
+      },
+      {
+        "q": "Hogyan kalibráljam az alkalmazást?",
+        "a": "Tegyél egy iPhone-t egy zajszintmérő mellé vagy egy Apple Watch mellé (app: Noise), egy stabil zajban, és indíts mérést. A Beállítások › Kalibrálás menüpontban állítsd be a korrekciót úgy, hogy azonos értéket olvasson. A korrekciónak a következő mérésre kell hatnia."
+      },
+      {
+        "q": "Mit jelentenek a dB(A) és a dB(Z)?",
+        "a": "A dB(A) súlyozás csökkenti az alacsony frekvenciákat, ahogy az emberi fül is: ez a zajszintmérők és a zajszabályozások által használt súlyozás, alapértelmezett beállítás. A dB(Z) súlyozás semmilyen korrekciót nem végez: így láthatóak a mélyhangok is, például egy aláskalibra vagy légkezelő. A választás a Beállítások menüben történik."
+      },
+      {
+        "q": "Mit jelent az átlag (Leq), csúcs, L10 és L90?",
+        "a": "Az átlag (Leq) az a konstans szint, amely ugyanazt a hangenergiát hordozná, mint az egész mérés: a hangosabb zajok nagyobb súllyal bírnak. A csúcs az a legnagyobb szint, amit egy nyolcad másodperc alatt elértek. Az L10 az a szint, amelyet 10%-ban a mérési idő alatt meghaladnak (megjegyzendő zajok), az L90 pedig az a szint, amelyet 90%-ban meghaladják (háttérzaj)."
+      },
+      {
+        "q": "Mi az a zajdózis?",
+        "a": "Összehasonlítja a mérés során kapott zajszintet a napi maximálisan ajánlott értékkel: 85 dB(A) nyolc óra alatt, a megengedett idő minden 3 dB-es emelkedéssel feleződik. 100%-nál elérve a napi határérték elérve van: ennél magasabb szint esetén hallásvédő használata szükséges. Ez egy becslés, nem egy professzionális dosiméter."
+      },
+      {
+        "q": "Folytatódik-e a mérés, ha az képernyő zárolva van?",
+        "a": "Igen. A mérés folytatódik, akár zárolva van a képernyő, akár más alkalmazásban vagyunk; az iOS piros pontja jelzi, hogy a mikrofon figyel. Egy hívás megállítja és elmenti a mérést. Alapértelmezés szerint a képernyő bekapcsolva marad a mérés során: ezt a Beállításokban kikapcsolhatod."
+      },
+      {
+        "q": "Hogyan jegyezhetem fel egy szomszéd zaját?",
+        "a": "Válaszd ki egy küszöbértéket a Beállításokban (pl. 40 dB éjszaka), majd indíts mérést, és hagyd az iPhone-ot a szobában. Az előzményekben a felvétel minden olyan időpontot felsorol, amikor a zaj a küszöbérték felett volt, ideértve az időpontot, a tartamot és a csúcsértéket. Megnevezheted, jegyzetet adhatsz hozzá, összegzést oszthatsz meg vagy minden mérési adatot CSV formátumban exportálhatsz. Ezek az adatok segítenek a párbeszéd megkezdésében, de nem helyettesítik az hivatalos jegyzőkönyvet."
+      },
+      {
+        "q": "A mérések elmentve vannak?",
+        "a": "Minden mérés elmentődik az eszközön, amikor leállítod, és minden 30 másodpercben, amíg fut. A felvételek nem szinkronizálódnak az eszközeid között, és eltűnnek, ha törölöd az alkalmazást: exportáld a megőrzendőket CSV formátumban."
+      },
+      {
+        "q": "Hogyan törölhetek egy mérést?",
+        "a": "Az előzményekben húzd balra a felvételt, vagy nyisd meg, majd válaszd a „Delete recording” lehetőséget."
+      },
+      {
+        "q": "Az alkalmazás rögzíti, amit hall?",
+        "a": "Nem. A mikrofon hangja csak a szint kiszámításához használható az iPhone-on, majd el van felejtve. Csak a szintek (egy másodpercenként) kerülnek mentésre."
+      }
+    ],
+    "privacy_summary": "A Sound Level semmilyen személyes adatot nem gyűjt, nem rögzít hangot, nem kapcsolódik semmilyen kiszolgálóhoz, és nincs benne reklám, vásárlás vagy nyomkövető. A méréseid az eszközön maradnak."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Összefoglalás",
+        "blocks": [
+          {
+            "p": "A Sound Level nem gyűjt semmilyen személyes adatot. Az alkalmazás offline működik, nem csatlakozik semmilyen kiszolgálóhoz, és nem igényel fiókot. A mikrofon csak a hangszint kiszámításához használható: egyetlen hang sem rögzítődik vagy továbbítódik."
+          }
+        ]
+      },
+      {
+        "h": "A mikrofon",
+        "blocks": [
+          {
+            "p": "Az alkalmazás hozzáféréshez igényli a mikrofont a zaj méréséhez. A hang az iPhone-on élőben elemzésre kerül, majd azonnal el is felejtődik: soha nem rögzítődik, nem tárolódik, és semmilyen helyre nem küldődik el."
+          },
+          {
+            "p": "Bármikor visszavonhatod ezt a hozzáférést a Beállítások › Adatvédelem és biztonság › Mikrofon menüben. Ekkor az alkalmazás már nem tud mérni."
+          }
+        ]
+      },
+      {
+        "h": "Adatok",
+        "blocks": [
+          {
+            "p": "Az alkalmazás rögzíti a mért értékeidet: dátum, másodpercenkénti hangszint, név és megjegyzés, valamint beállításaid (súlyozás, küszöbérték, kalibrálás)."
+          },
+          {
+            "p": "Ezek az adatok a saját eszközödön tárolódnak, és a fejlesztőnek nincs hozzáférése hozzájuk. Ahogy más alkalmazások adatát is, ezek lehetnek a készüléked biztonsági mentésében, ha ezt bekapcsoltad. Minden mérés törlődhet az előzmények közül; az alkalmazás törlése minden rögzített adatot töröl."
+          }
+        ]
+      },
+      {
+        "h": "Megosztás és exportálás",
+        "blocks": [
+          {
+            "p": "Semmi sem távozik az alkalmazásból, kivéve, ha Ön szándékosan megosztja."
+          },
+          {
+            "ul": [
+              "<strong>Összegzés megosztása</strong>: a szöveg az iOS-os eszközökön (AirDrop, Üzenetek, E-mail…) keresztül halad, és tartalmazza a mérés dátumát, szintjeit, csúcsértékeit és megjegyzését.",
+              "<strong>CSV exportálás</strong>: a fájl minden másodpercre tartalmazza az időpontot és a szintet. Ön választhatja ki, hova menti vagy kinek küldi; ekkor a kiválasztott szolgáltatás feltételei érvényesek rá."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Hirdetések, vásárlások és követés",
+        "blocks": [
+          {
+            "p": "A Sound Level ingyenes. Nem tartalmaz hirdetéseket, beépített vásárlásokat, nyomkövetőket vagy használati statisztikákhoz kapcsolódó eszközöket."
+          }
+        ]
+      },
+      {
+        "h": "Gyermekek",
+        "blocks": [
+          {
+            "p": "Az alkalmazás nem gyűjt semmilyen adatot, és minden korosztálynak megfelelő."
+          }
+        ]
+      },
+      {
+        "h": "Módosítások",
+        "blocks": [
+          {
+            "p": "Ha ez a szabályozás megváltozik, a frissített verzió ezen az oldalon jelenik meg a frissítés dátumával."
+          }
+        ]
+      },
+      {
+        "h": "Kapcsolat",
+        "blocks": [
+          {
+            "p": "Bármilyen kérdés esetén a szabályozással kapcsolatban: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

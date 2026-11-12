@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Il sonometro che conserva la cronologia del rumore",
+    "contact": "Una domanda, un'idea o un valore che ti sorprende? Scrivimi:<br>{email}",
+    "faq": [
+      {
+        "q": "I valori visualizzati sono affidabili?",
+        "a": "Sono indicativi. Il microfono di un iPhone non è quello di un sonometro certificato: a seconda dell'apparecchio, la differenza può raggiungere alcuni decibel, specialmente nei rumori molto bassi o molto forti. L'applicazione è adatta per confrontare momenti, luoghi o serate tra loro, non per una misurazione ufficiale."
+      },
+      {
+        "q": "Come si calibra l'applicazione?",
+        "a": "Posiziona l'iPhone accanto a un sonometro o a un Apple Watch (app Noise), in un rumore stabile, e avvia una misurazione. In Impostazioni › Calibrazione, regola la correzione fino a leggere lo stesso valore. La correzione si applicherà alla successiva registrazione."
+      },
+      {
+        "q": "Cosa significano dB(A) e dB(Z)?",
+        "a": "Il peso A attenua i bassi come fa l'orecchio umano: è quello utilizzato dai sonometri e dalle normative sul rumore, scelto per impostazione predefinita. Il peso Z non applica alcuna correzione: mostra anche i bassi, come un subwoofer o un ventilatore. La scelta si fa nelle Impostazioni."
+      },
+      {
+        "q": "Cosa significano media (Leq), picco, L10 e L90?",
+        "a": "La media (Leq) è il livello costante che trasmetterebbe la stessa energia sonora della misurazione completa: i rumori forti hanno un peso maggiore. Il picco è il livello più alto raggiunto in un ottavo di secondo. L10 è il livello superato l'10% del tempo (rumori rilevanti), L90 quello superato il 90% del tempo (rumore di fondo)."
+      },
+      {
+        "q": "Cos'è la dose di rumore?",
+        "a": "Confronta il rumore ricevuto durante la misurazione con il massimo consigliato in un giorno: 85 dB(A) per 8 ore, con il tempo consentito dimezzato ogni 3 dB in più. Al 100%, si raggiunge il limite giornaliero: oltre tale soglia, è necessario usare protezioni acustiche. Si tratta di una stima, non di un dosimetro professionale."
+      },
+      {
+        "q": "La misurazione continua quando lo schermo è bloccato?",
+        "a": "Sì. La misurazione continua anche con lo schermo bloccato o in un'altra app; il punto arancione su iOS indica che il microfono è in ascolto. Una chiamata telefonica la interrompe e la salva. Per impostazione predefinita, lo schermo rimane acceso durante la misurazione: puoi disattivarlo nelle Impostazioni."
+      },
+      {
+        "q": "Come registrare il rumore di un vicino?",
+        "a": "Scegli una soglia nelle Impostazioni (ad esempio 40 dB di notte), quindi avvia una misurazione e lascia l'iPhone nella stanza. Nell'History, la registrazione elenca ogni volta che il rumore supera la soglia, con orario, durata e picco. Puoi assegnarle un nome, aggiungere una nota, condividere un riassunto o esportare tutti i rilevamenti in formato CSV. Questi dati aiutano a intraprendere una discussione, ma non sostituiscono un verbale ufficiale."
+      },
+      {
+        "q": "Le mie misurazioni vengono salvate?",
+        "a": "Ogni registrazione viene salvata sul tuo dispositivo quando la interrompi, e ogni 30 secondi durante il suo funzionamento. Le registrazioni non vengono sincronizzate tra i tuoi dispositivi e vengono eliminate se elimini l'app: esporta in formato CSV quelle che vuoi conservare."
+      },
+      {
+        "q": "Come faccio a eliminare una misurazione?",
+        "a": "Nell'History, scorri la misurazione verso sinistra oppure aprila e seleziona « Delete recording »."
+      },
+      {
+        "q": "L'app registra ciò che sente?",
+        "a": "No. Il suono del microfono viene utilizzato solo per calcolare il livello, sull'iPhone, e poi viene dimenticato. Vengono salvati solo i livelli (uno al secondo)."
+      }
+    ],
+    "privacy_summary": "Sound Level non raccoglie alcuna informazione personale, non registra alcun suono, non si collega a nessun server e non contiene pubblicità, acquisti in-app né tracciamento. Le tue misurazioni rimangono sul tuo dispositivo."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Riepilogo",
+        "blocks": [
+          {
+            "p": "Sound Level non raccoglie alcuna informazione personale. L'app funziona in modalità offline, non si collega a nessun server e non richiede alcun account. Il microfono viene utilizzato esclusivamente per calcolare il livello sonoro: nessun suono viene registrato né trasmesso."
+          }
+        ]
+      },
+      {
+        "h": "Il microfono",
+        "blocks": [
+          {
+            "p": "L'app richiede l'accesso al microfono per misurare il rumore. Il suono viene analizzato in tempo reale sull'iPhone, poi immediatamente dimenticato: non viene mai registrato, memorizzato né inviato da nessuna parte."
+          },
+          {
+            "p": "Puoi revocare questo permesso in qualsiasi momento in Impostazioni › Privacy e sicurezza › Microfono. L'app non potrà più misurare."
+          }
+        ]
+      },
+      {
+        "h": "I tuoi dati",
+        "blocks": [
+          {
+            "p": "L'app salva le tue misurazioni: la data, un livello sonoro al secondo, il nome e la nota che gli attribuisci, nonché le tue impostazioni (ponderazione, soglia, calibrazione)."
+          },
+          {
+            "p": "Questi dati vengono salvati sul tuo dispositivo e lo sviluppatore non ne ha accesso. Come i dati di altre app, possono essere inclusi nei backup del tuo dispositivo se li hai attivati. Puoi eliminare ogni misurazione dall'History; l'eliminazione dell'app le cancella tutte."
+          }
+        ]
+      },
+      {
+        "h": "Condivisione ed esportazione",
+        "blocks": [
+          {
+            "p": "Niente lascia l'applicazione senza la tua azione."
+          },
+          {
+            "ul": [
+              "<strong>Condivisione di un riassunto</strong>: il testo passa attraverso gli strumenti di iOS (AirDrop, Messaggi, Mail…) e contiene la data, i livelli, i picchi e la nota della misurazione.",
+              "<strong>Esportazione CSV</strong>: il file contiene l'ora e i livelli di ogni secondo. Scegli dove salvarlo o a chi inviarlo; successivamente è soggetto ai termini del servizio scelto."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Pubblicità, acquisti e tracciamento",
+        "blocks": [
+          {
+            "p": "Sound Level è gratuita. Non contiene pubblicità, acquisti in-app, tracker né strumenti di analisi o statistiche sull'utilizzo."
+          }
+        ]
+      },
+      {
+        "h": "Bambini",
+        "blocks": [
+          {
+            "p": "L'applicazione non raccoglie alcuna dato ed è adatta a tutte le età."
+          }
+        ]
+      },
+      {
+        "h": "Modifiche",
+        "blocks": [
+          {
+            "p": "Se questa politica viene modificata, la nuova versione sarà pubblicata su questa pagina con la relativa data di aggiornamento."
+          }
+        ]
+      },
+      {
+        "h": "Contatto",
+        "blocks": [
+          {
+            "p": "Per qualsiasi domanda riguardo a questa politica: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "The sound level meter that keeps a history of noise",
+    "contact": "A question, an idea or a reading that surprises you? Write to me:<br>{email}",
+    "faq": [
+      {
+        "q": "Are the readings accurate?",
+        "a": "They are indicative. An iPhone microphone is not a certified sound level meter: depending on the device, the difference can reach a few decibels, especially in very quiet or very loud noise. The app is good for comparing moments, places or evenings, not for an official measurement."
+      },
+      {
+        "q": "How do I calibrate the app?",
+        "a": "Place the iPhone next to a sound level meter or an Apple Watch (Noise app) in a steady noise and start measuring. In Settings › Calibration, adjust the correction until both read the same. The correction applies to the next recording."
+      },
+      {
+        "q": "What do dB(A) and dB(Z) mean?",
+        "a": "A-weighting reduces low frequencies like the human ear: it is the one used by sound level meters and noise regulations, and the default. Z-weighting corrects nothing: it also shows bass, such as a subwoofer or ventilation. You choose in Settings."
+      },
+      {
+        "q": "What do average (Leq), peak, L10 and L90 mean?",
+        "a": "The average (Leq) is the steady level that would carry the same sound energy as the whole recording: loud noises weigh more. The peak is the loudest level reached over an eighth of a second. L10 is the level exceeded 10% of the time (noticeable noise), L90 the level exceeded 90% of the time (background noise)."
+      },
+      {
+        "q": "What is the noise dose?",
+        "a": "It compares the noise received during the recording with the recommended daily maximum: 85 dB(A) for 8 hours, with the allowed time halved for every 3 dB more. At 100%, the day's limit is reached: beyond it, wear hearing protection. It is an estimate, not a professional dosimeter."
+      },
+      {
+        "q": "Does measuring continue when the screen is locked?",
+        "a": "Yes. Measuring continues with the screen locked or in another app; the orange dot in iOS shows that the microphone is listening. A phone call stops and saves it. By default the screen stays on while measuring: you can turn this off in Settings."
+      },
+      {
+        "q": "How do I log a noisy neighbor?",
+        "a": "Choose a threshold in Settings (for example 40 dB at night), then start measuring and leave the iPhone in the room. In the history, the recording lists every time the noise went above the threshold, with its time, duration and peak. You can name it, add a note, share a summary or export every reading as CSV. These readings help start a conversation but do not replace an official report."
+      },
+      {
+        "q": "Are my recordings saved?",
+        "a": "Each recording is saved on your device when you stop it, and every 30 seconds while it runs. Recordings are not synced between your devices and are deleted if you delete the app: export the ones you want to keep as CSV."
+      },
+      {
+        "q": "How do I delete a recording?",
+        "a": "In the history, swipe the recording to the left, or open it and choose “Delete recording”."
+      },
+      {
+        "q": "Does the app record what it hears?",
+        "a": "No. The microphone sound is only used to calculate the level, on the iPhone, and is then discarded. Only the levels (one per second) are saved."
+      }
+    ],
+    "privacy_summary": "Sound Level collects no personal data, records no sound, connects to no server and contains no ads, purchases or trackers. Your recordings stay on your device."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Summary",
+        "blocks": [
+          {
+            "p": "Sound Level collects no personal data. The app works offline, connects to no server and requires no account. The microphone is only used to calculate a sound level: no sound is recorded or transmitted."
+          }
+        ]
+      },
+      {
+        "h": "The microphone",
+        "blocks": [
+          {
+            "p": "The app asks for microphone access to measure noise. Sound is analyzed live on the iPhone, then immediately discarded: it is never recorded, stored or sent anywhere."
+          },
+          {
+            "p": "You can remove this permission at any time in Settings › Privacy & Security › Microphone. The app can then no longer measure."
+          }
+        ]
+      },
+      {
+        "h": "Your data",
+        "blocks": [
+          {
+            "p": "The app saves your recordings: the date, one sound level per second, the name and note you give them, and your settings (weighting, threshold, calibration)."
+          },
+          {
+            "p": "This data is stored on your device, and the developer has no access to it. Like other apps' data, it may be included in your device backups if you have turned them on. You can delete each recording in the history; deleting the app erases them all."
+          }
+        ]
+      },
+      {
+        "h": "Sharing and export",
+        "blocks": [
+          {
+            "p": "Nothing leaves the app unless you choose to share it."
+          },
+          {
+            "ul": [
+              "<strong>Sharing a summary</strong>: the text goes through iOS sharing tools (AirDrop, Messages, Mail…) and contains the date, levels, peaks and note of the recording.",
+              "<strong>CSV export</strong>: the file contains the time and levels of every second. You choose where to save it or whom to send it to; it is then subject to the terms of the service you choose."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Ads, purchases and tracking",
+        "blocks": [
+          {
+            "p": "Sound Level is free. It contains no ads, no in-app purchases, no trackers and no analytics or usage statistics tools."
+          }
+        ]
+      },
+      {
+        "h": "Children",
+        "blocks": [
+          {
+            "p": "The app collects no data and is suitable for all ages."
+          }
+        ]
+      },
+      {
+        "h": "Changes",
+        "blocks": [
+          {
+            "p": "If this policy changes, the new version will be published on this page with its update date."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "For any question about this policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

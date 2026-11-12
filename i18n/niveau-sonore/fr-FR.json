@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Le sonomètre qui garde l'historique du bruit",
+    "contact": "Une question, une idée ou une mesure qui vous étonne ? Écrivez-moi :<br>{email}",
+    "faq": [
+      {
+        "q": "Les valeurs affichées sont-elles fiables ?",
+        "a": "Elles sont indicatives. Le micro d'un iPhone n'est pas celui d'un sonomètre homologué : selon l'appareil, l'écart peut atteindre quelques décibels, surtout dans les bruits très faibles ou très forts. L'application convient pour comparer des moments, des lieux ou des soirées entre eux, pas pour une mesure officielle."
+      },
+      {
+        "q": "Comment étalonner l'application ?",
+        "a": "Posez l'iPhone à côté d'un sonomètre ou d'une Apple Watch (app Bruit), dans un bruit stable, et lancez une mesure. Dans Réglages › Étalonnage, ajustez la correction jusqu'à lire la même valeur. La correction s'applique à la mesure suivante."
+      },
+      {
+        "q": "Que veulent dire dB(A) et dB(Z) ?",
+        "a": "La pondération A atténue les graves comme l'oreille humaine : c'est celle des sonomètres et des réglementations sur le bruit, choisie par défaut. La pondération Z ne corrige rien : elle montre aussi les basses, comme un caisson de basses ou une ventilation. Le choix se fait dans les Réglages."
+      },
+      {
+        "q": "Que signifient moyenne (Leq), pic, L10 et L90 ?",
+        "a": "La moyenne (Leq) est le niveau constant qui apporterait la même énergie sonore que toute la mesure : les bruits forts y pèsent davantage. Le pic est le niveau le plus fort atteint sur un huitième de seconde. Le L10 est le niveau dépassé 10 % du temps (les bruits marquants), le L90 celui dépassé 90 % du temps (le bruit de fond)."
+      },
+      {
+        "q": "Qu'est-ce que la dose de bruit ?",
+        "a": "Elle compare le bruit reçu pendant la mesure au maximum conseillé sur une journée : 85 dB(A) pendant 8 heures, la durée admise étant divisée par deux tous les 3 dB de plus. À 100 %, la limite de la journée est atteinte : au-delà, une protection auditive s'impose. C'est une estimation, pas un dosimètre professionnel."
+      },
+      {
+        "q": "La mesure continue-t-elle quand l'écran est verrouillé ?",
+        "a": "Oui. La mesure continue écran verrouillé ou dans une autre application ; le point orange d'iOS indique que le micro écoute. Un appel téléphonique l'arrête et l'enregistre. Par défaut, l'écran reste allumé pendant une mesure : vous pouvez le désactiver dans les Réglages."
+      },
+      {
+        "q": "Comment noter le bruit d'un voisin ?",
+        "a": "Choisissez un seuil dans les Réglages (par exemple 40 dB la nuit), puis lancez une mesure et laissez l'iPhone dans la pièce. Dans l'historique, la mesure liste chaque passage au-dessus du seuil avec son heure, sa durée et son pic. Vous pouvez la nommer, ajouter une note, partager un résumé ou exporter tous les relevés en CSV. Ces relevés aident à dialoguer, mais ne remplacent pas un constat officiel."
+      },
+      {
+        "q": "Mes mesures sont-elles sauvegardées ?",
+        "a": "Chaque mesure est enregistrée sur votre appareil quand vous l'arrêtez, et toutes les 30 secondes pendant qu'elle tourne. Elles ne sont pas synchronisées entre vos appareils et disparaissent si vous supprimez l'application : exportez en CSV celles que vous voulez garder."
+      },
+      {
+        "q": "Comment supprimer une mesure ?",
+        "a": "Dans l'historique, balayez la mesure vers la gauche, ou ouvrez-la et choisissez « Supprimer la mesure »."
+      },
+      {
+        "q": "L'application enregistre-t-elle ce qu'elle entend ?",
+        "a": "Non. Le son du micro sert uniquement à calculer le niveau, sur l'iPhone, puis il est oublié. Seuls les niveaux (un par seconde) sont enregistrés."
+      }
+    ],
+    "privacy_summary": "Niveau sonore ne collecte aucune donnée personnelle, n'enregistre aucun son, ne se connecte à aucun serveur et ne contient ni publicité, ni achat, ni traceur. Vos mesures restent sur votre appareil."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En résumé",
+        "blocks": [
+          {
+            "p": "Niveau sonore ne collecte aucune donnée personnelle. L'application fonctionne hors ligne, ne se connecte à aucun serveur et ne demande aucun compte. Le micro sert uniquement à calculer un niveau sonore : aucun son n'est enregistré ni transmis."
+          }
+        ]
+      },
+      {
+        "h": "Le micro",
+        "blocks": [
+          {
+            "p": "L'application demande l'accès au micro pour mesurer le bruit. Le son est analysé en direct sur l'iPhone, puis aussitôt oublié : il n'est ni enregistré, ni conservé, ni envoyé où que ce soit."
+          },
+          {
+            "p": "Vous pouvez retirer cette autorisation à tout moment dans Réglages › Confidentialité et sécurité › Micro. L'application ne peut alors plus mesurer."
+          }
+        ]
+      },
+      {
+        "h": "Vos données",
+        "blocks": [
+          {
+            "p": "L'application enregistre vos mesures : la date, un niveau sonore par seconde, le nom et la note que vous leur donnez, ainsi que vos réglages (pondération, seuil, étalonnage)."
+          },
+          {
+            "p": "Ces données sont enregistrées sur votre appareil, et le développeur n'y a pas accès. Comme les données des autres applis, elles peuvent figurer dans les sauvegardes de votre appareil si vous les avez activées. Vous pouvez supprimer chaque mesure dans l'historique ; la suppression de l'application les efface toutes."
+          }
+        ]
+      },
+      {
+        "h": "Partage et export",
+        "blocks": [
+          {
+            "p": "Rien ne quitte l'application sans action de votre part."
+          },
+          {
+            "ul": [
+              "<strong>Partage d'un résumé</strong> : le texte passe par les outils d'iOS (AirDrop, Messages, Mail…) et contient la date, les niveaux, les pics et la note de la mesure.",
+              "<strong>Export CSV</strong> : le fichier contient l'heure et les niveaux de chaque seconde. Vous choisissez où l'enregistrer ou à qui l'envoyer ; il est alors soumis aux conditions du service choisi."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Publicité, achats et suivi",
+        "blocks": [
+          {
+            "p": "Niveau sonore est gratuite. Elle ne contient aucune publicité, aucun achat intégré, aucun traceur et aucun outil d'analyse ou de statistiques d'utilisation."
+          }
+        ]
+      },
+      {
+        "h": "Enfants",
+        "blocks": [
+          {
+            "p": "L'application ne collecte aucune donnée et convient à tous les âges."
+          }
+        ]
+      },
+      {
+        "h": "Modifications",
+        "blocks": [
+          {
+            "p": "Si cette politique change, la nouvelle version sera publiée sur cette page avec sa date de mise à jour."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pour toute question concernant cette politique : {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

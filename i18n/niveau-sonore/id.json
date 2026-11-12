@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Sonometer yang menyimpan riwayat tingkat kebisingan",
+    "contact": "Pertanyaan, ide, atau pengukuran yang mengejutkan? Tulis kepada saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Apakah nilai yang ditampilkan akurat?",
+        "a": "Nilainya bersifat petunjuk. Mikrofon iPhone bukan mikrofon sonometer resmi: tergantung perangkat, selisihnya bisa mencapai beberapa desibel, terutama pada suara sangat pelan atau sangat keras. Aplikasi ini cocok untuk membandingkan waktu, tempat, atau malam-malam, bukan untuk pengukuran resmi."
+      },
+      {
+        "q": "Bagaimana cara mengkalibrasi aplikasi?",
+        "a": "Letakkan iPhone di samping sonometer atau Apple Watch (aplikasi Noise), dalam lingkungan kebisingan stabil, lalu mulai pengukuran. Di Pengaturan › Kalibrasi, sesuaikan koreksi hingga nilai yang terbaca sama. Koreksi ini berlaku untuk pengukuran berikutnya."
+      },
+      {
+        "q": "Apa arti dB(A) dan dB(Z)?",
+        "a": "Bobot A mengurangi frekuensi rendah seperti halnya telinga manusia: digunakan oleh sonometer dan regulasi kebisingan, serta menjadi pilihan default. Bobot Z tidak melakukan koreksi apa pun: menampilkan juga nada rendah, seperti subwoofer atau ventilasi. Pilihan ini dapat diatur di Pengaturan."
+      },
+      {
+        "q": "Apa arti rata-rata (Leq), puncak, L10, dan L90?",
+        "a": "Rata-rata (Leq) adalah tingkat konstan yang memberikan energi suara yang sama dengan seluruh pengukuran: suara keras memiliki bobot lebih besar. Puncak adalah tingkat tertinggi yang dicapai dalam seperdelapan detik. L10 adalah tingkat yang dilampaui 10% waktu (suara yang mencolok), sedangkan L90 adalah tingkat yang dilampaui 90% waktu (suara latar)."
+      },
+      {
+        "q": "Apa itu dosis kebisingan?",
+        "a": "Ini membandingkan tingkat kebisingan selama pengukuran dengan batas maksimum yang disarankan dalam sehari: 85 dB(A) selama 8 jam, dengan durasi yang diizinkan dibagi dua untuk setiap penambahan 3 dB. Pada 100%, batas harian tercapai: di atasnya, perlindungan pendengaran diperlukan. Ini hanyalah perkiraan, bukan dosimeter profesional."
+      },
+      {
+        "q": "Apakah pengukuran tetap berlanjut saat layar terkunci?",
+        "a": "Ya. Pengukuran tetap berjalan meskipun layar terkunci atau saat menggunakan aplikasi lain; titik oranye di iOS menunjukkan bahwa mikrofon sedang mendengarkan. Panggilan telepon akan menghentikan dan menyimpan pengukuran tersebut. Secara default, layar tetap menyala selama pengukuran: Anda dapat mematikannya di Settings."
+      },
+      {
+        "q": "Bagaimana cara mencatat kebisingan dari tetangga?",
+        "a": "Pilih ambang batas di Settings (misalnya 40 dB saat malam hari), lalu mulai pengukuran dan biarkan iPhone tetap di ruangan. Di History, pengukuran akan mencatat setiap kali suara melampaui ambang batas, termasuk waktu, durasi, dan puncaknya. Anda dapat memberi nama, menambahkan catatan, berbagi ringkasan, atau mengekspor semua pencatatan sebagai CSV. Catatan ini membantu memulai percakapan, tetapi tidak menggantikan laporan resmi."
+      },
+      {
+        "q": "Apakah pengukuran saya disimpan?",
+        "a": "Setiap pengukuran disimpan di perangkat Anda saat Anda menghentikannya, dan setiap 30 detik selama berjalan. Pengukuran tidak disinkronkan antar perangkat Anda dan akan hilang jika Anda menghapus aplikasi: ekspor yang ingin Anda simpan dalam format CSV."
+      },
+      {
+        "q": "Bagaimana cara menghapus pengukuran?",
+        "a": "Di dalam History, geser pengukuran ke kiri, atau buka lalu pilih « Delete recording »."
+      },
+      {
+        "q": "Apakah aplikasi ini merekam apa yang didengar?",
+        "a": "Tidak. Suara dari mikrofon hanya digunakan untuk menghitung tingkat, di iPhone, lalu dibuang. Hanya tingkat (satu per detik) yang disimpan."
+      }
+    ],
+    "privacy_summary": "Sound Level tidak mengumpulkan data pribadi, tidak merekam suara, tidak terhubung ke server mana pun, dan tidak memiliki iklan, pembelian dalam aplikasi, atau pelacak. Pengukuran Anda tetap berada di perangkat Anda."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasan",
+        "blocks": [
+          {
+            "p": "Sound Level tidak mengumpulkan data pribadi apa pun. Aplikasi ini berfungsi secara offline, tidak terhubung ke server mana pun, dan tidak memerlukan akun. Mikrofon hanya digunakan untuk menghitung tingkat kebisingan: tidak ada suara yang direkam atau dikirim."
+          }
+        ]
+      },
+      {
+        "h": "Mikrofon",
+        "blocks": [
+          {
+            "p": "Aplikasi ini meminta izin akses mikrofon untuk mengukur kebisingan. Suara dianalisis secara langsung di iPhone, lalu segera dilupakan: suara tersebut tidak pernah direkam, disimpan, atau dikirim ke mana pun."
+          },
+          {
+            "p": "Anda dapat mencabut izin ini kapan saja di Pengaturan › Privasi dan Keamanan › Mikrofon. Aplikasi tidak akan bisa mengukur setelah itu."
+          }
+        ]
+      },
+      {
+        "h": "Data Anda",
+        "blocks": [
+          {
+            "p": "Aplikasi menyimpan pengukuran Anda: tanggal, tingkat kebisingan per detik, nama dan catatan yang Anda berikan, serta pengaturan Anda (pembebanan, ambang, kalibrasi)."
+          },
+          {
+            "p": "Data ini disimpan di perangkat Anda, dan pengembang tidak memiliki akses ke dalamnya. Seperti data aplikasi lain, data ini dapat termasuk dalam cadangan perangkat Anda jika Anda telah mengaktifkannya. Anda dapat menghapus setiap pengukuran di riwayat; menghapus aplikasi akan menghapus semua data tersebut."
+          }
+        ]
+      },
+      {
+        "h": "Bagikan dan Ekspor",
+        "blocks": [
+          {
+            "p": "Tidak ada yang keluar dari aplikasi tanpa tindakan Anda."
+          },
+          {
+            "ul": [
+              "<strong>Bagikan ringkasan</strong>: teks dilewatkan melalui alat iOS (AirDrop, Pesan, Mail…) dan berisi tanggal, tingkat kebisingan, puncak, serta catatan pengukuran.",
+              "<strong>Ekspor CSV</strong>: file berisi waktu dan tingkat kebisingan setiap detik. Anda memilih tempat menyimpannya atau siapa yang dikirimkan; file tersebut kemudian tunduk pada ketentuan layanan yang dipilih."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Iklan, pembelian, dan pelacakan",
+        "blocks": [
+          {
+            "p": "Sound Level gratis. Aplikasi ini tidak mengandung iklan, pembelian dalam aplikasi, pelacak, atau alat analitik atau statistik penggunaan."
+          }
+        ]
+      },
+      {
+        "h": "Anak-anak",
+        "blocks": [
+          {
+            "p": "Aplikasi ini tidak mengumpulkan data dan cocok untuk semua usia."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika kebijakan ini berubah, versi terbaru akan diterbitkan di halaman ini beserta tanggal pembaruan."
+          }
+        ]
+      },
+      {
+        "h": "Kontak",
+        "blocks": [
+          {
+            "p": "Untuk pertanyaan apa pun mengenai kebijakan ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

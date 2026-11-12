@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Sonomjer koji čuva povijest buke",
+    "contact": "Imate pitanje, ideju ili mjerenje koje vas iznenađuje? Pošaljite mi: <br>{email}",
+    "faq": [
+      {
+        "q": "Zašto su prikazane vrijednosti pouzdane?",
+        "a": "One su samo indicativne. Mikrofon iPhone-a nije isti kao kod certificiranog sonomjera: ovisno o uređaju, razlika može iznositi nekoliko decibela, posebno kod vrlo tihih ili jako bučnih zvukova. Aplikacija je dobra za usporedbu trenutaka, mjesta ili večeri, ali ne za službene mjerenja."
+      },
+      {
+        "q": "Kako kalibrirati aplikaciju?",
+        "a": "Postavite iPhone pored sonomjera ili Apple Watcha (aplikacija Noise) u stabilnom zvuku i pokrenite mjerenje. U Postavkama › Kalibracija, prilagodite korekciju dok ne prikaže istu vrijednost. Korekcija se primjenjuje na sljedeće mjerenje."
+      },
+      {
+        "q": "Što znače dB(A) i dB(Z)?",
+        "a": "Pondiranjem A smanjuju se duboki tonovi kao što to čini ljudsko uho: upotrebljava se kod sonomjera i propisa o buci, te je zadano. Pondiranjem Z ništa se ne korigira: prikazuje se i niska frekvencija, poput subwoofera ili ventilacije. Odabir vršite u Postavkama."
+      },
+      {
+        "q": "Što znače prosjek (Leq), vrh, L10 i L90?",
+        "a": "Prosječno (Leq) je konstantni nivo koji bi pružio istu akustičnu energiju kao cijela mjerenja: glasniji zvukovi imaju veći utjecaj. Vrh je najjači nivo postignut tijekom osmine sekunde. L10 je nivo koji se premašuje 10 % vremena (izražen zvuk), a L90 nivo koji se premašuje 90 % vremena (osnovni šum)."
+      },
+      {
+        "q": "Što je doza buke?",
+        "a": "Uspoređuje buku koju ste primili tijekom mjerenja s preporučenim maksimalnim dnevnom granicom: 85 dB(A) tijekom osam sati, a dopušteno trajanje se smanjuje za pola svaki put kad se nivo poveća za 3 dB. Na 100 % dostignuta je dnevna granica: iznad toga potrebno je nositi zaštitu za uho. To je procjena, a ne profesionalni dosimetar."
+      },
+      {
+        "q": "Mjerenje se nastavlja kad je zaslon zaključan?",
+        "a": "Da. Mjerenje se nastavlja i kad je zaslon zaključan ili kada ste u drugoj aplikaciji; narančasti točka u iOS-u pokazuje da mikrofon sluša. Poziv zaustavlja i sprema mjerenje. Po zadanim postavkama zaslon ostaje upaljen tijekom mjerenja: možete ga isključiti u Settings."
+      },
+      {
+        "q": "Kako zabilježiti buku susjeda?",
+        "a": "Odaberite prag u Settings (npr. 40 dB noću), zatim pokrenite mjerenje i ostavite iPhone u sobi. U historiji, mjerenje prikazuje svaki put kada je buka premašila prag, uz vrijeme, trajanje i vrh. Možete mu dodati naziv, napomenu, podijeliti sažetak ili izvesti sve mjerenja kao CSV. Ova mjerenja pomažu u razgovoru, ali ne zamjenjuju službeni izvještaj."
+      },
+      {
+        "q": "Zadržavaju se moje mjere?",
+        "a": "Svaka mjera se sprema na vašem uređaju kad je zaustavite, te svakih 30 sekundi dok traje. Ne sinkroniziraju se između vaših uređaja i brišu se ako izbrišete aplikaciju: izvozite one koje želite sačuvati kao CSV."
+      },
+      {
+        "q": "Kako izbrisati mjeru?",
+        "a": "U povijesti, prebacite mjerenje prema lijevoj strani ili ga otvorite i odaberite „Delete recording“."
+      },
+      {
+        "q": "Prikaže li aplikacija ono što čuje?",
+        "a": "Ne. Zvuk mikrofona služi samo za izračun razina, na iPhoneu, a zatim se zaboravi. Spremaju se samo razine (jedna po sekundi)."
+      }
+    ],
+    "privacy_summary": "Sound Level ne prikuplja nikakve osobne podatke, ne snima zvuk, ne povezuje se s nikakvim poslužiteljem i nema reklame, kupovina ni praćenja. Vaše mjere ostaju na vašem uređaju."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Sažetak",
+        "blocks": [
+          {
+            "p": "Sound Level ne prikupljuje nikakve osobne podatke. Aplikacija radi van mreže, ne povezuje se s nikakvim poslužiteljem i ne zahtijeva račun. Mikrofon se koristi samo za izračun razina zvuka: nijedan zvuk se ne snima ni prenosi."
+          }
+        ]
+      },
+      {
+        "h": "Mikrofon",
+        "blocks": [
+          {
+            "p": "Aplikacija traži pristup mikrofonu kako bi mjerila buku. Zvuk se analizira u stvarnom vremenu na iPhone-u, a zatim odmah zaboravlja: nikad se ne snima, ne pohranjuje i ne šalje nigdje."
+          },
+          {
+            "p": "Ovu dozvolu možete u svakom trenutku ukloniti u Postavke › Privatnost i sigurnost › Mikrofon. Aplikacija tada više ne može mjeriti."
+          }
+        ]
+      },
+      {
+        "h": "Vaši podaci",
+        "blocks": [
+          {
+            "p": "Aplikacija pohranjuje vaše mjerenja: datum, razinu zvuka svake sekunde, naziv i bilješku koju im dodajete te vaše postavke (ponderacija, prag, kalibracija)."
+          },
+          {
+            "p": "Ovi podaci se pohranjuju na vašem uređaju, a razvojnik nema pristup njima. Kao i podaci drugih aplikacija, mogu biti uključeni u sigurnosne kopije vašeg uređaja ako ste ih omogućili. Možete izbrisati svako mjerenje iz povijesti; brisanje aplikacije briše sve."
+          }
+        ]
+      },
+      {
+        "h": "Dijeljenje i izvoz",
+        "blocks": [
+          {
+            "p": "Ništa ne napušta aplikaciju bez vaše akcije."
+          },
+          {
+            "ul": [
+              "<strong>Dioba sažetka</strong>: tekst prolazi kroz alate iOS-a (AirDrop, Poruke, Pošta...) i sadrži datum, razinu, vrhove i bilješku mjerenja.",
+              "<strong>Izvoz u CSV</strong>: datoteka sadrži vrijeme i razine svake sekunde. Odabirate gdje spremiti ili kom poslati; onda je podložna uvjetima odabranog servisa."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Reklame, kupovine i praćenje",
+        "blocks": [
+          {
+            "p": "Sound Level je besplatan. Ne sadrži reklame, ugrađene kupovine, tragače ni alate za analizu ili statistike korištenja."
+          }
+        ]
+      },
+      {
+        "h": "Djeca",
+        "blocks": [
+          {
+            "p": "Aplikacija ne prikuplja nikakve podatke i pogodna je za sve dobi."
+          }
+        ]
+      },
+      {
+        "h": "Promjene",
+        "blocks": [
+          {
+            "p": "Ako se ova politika promijeni, nova verzija će biti objavljena na ovoj stranici s datumom ažuriranja."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Za bilo koje pitanje vezano uz ovu politiku: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}
