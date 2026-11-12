@@ -1,0 +1,128 @@
+{
+  "support": {
+    "subtitle": "Aboneliklerinizin gerçekten ne kadar maliyeti olduğunu ve her ödeme öncesinde bir hatırlatma almanızı sağlar",
+    "contact": "Bir sorunuz, bir fikriniz mi var? Bana yazın: <br>{email}",
+    "faq": [
+      {
+        "q": "Abonelik nasıl eklenir?",
+        "a": "‹+› düğmesine dokunun ve aboneliğin adını, fiyatını, sıklığını ve “Sonraki Ödeme” tarihini girin. Tacite daha sonra gelecek tüm ödeme tarihlerini, aylık ve yıllık maliyeti hesaplar. Ayın sonunda bir tarih belirtilirse, bu tarih korunur: 31. gün aboneliği alınan bir abonelik Şubat ayının 28 veya 29'unda, ardından Mart ayının 31'inde yeniden tahsil edilir."
+      },
+      {
+        "q": "Hatırlatmalar nasıl çalışır?",
+        "a": "Her abonelik için “Bildir” şunları sunar: hiçbir hatırlatma, aynı gün, bir gün önce veya 2, 3 ya da 7 gün öncesinde. Bildirim saatlerini Ayarlar › “Hatırlatma Saati” içinde ayarlayabilirsiniz. Bildirim izni vermediyseniz, Ayarlar içindeki bir düğme doğrudan iPhone ayarlarına yönlendirir."
+      },
+      {
+        "q": "Ücretsiz denemeler ne kadar sürer?",
+        "a": "“Ücretsiz deneme devam ediyor” özelliğini etkinleştirin: ücretsiz deneme, sonraki tahsilat tarihinde sona erer. Tacite, hizmet sizin için uygun değilse iptal etme şansınız olacak şekilde en geç bir gün önce sizi uyarır."
+      },
+      {
+        "q": "Bu aboneliği uzun süredir ödüyorum: nasıl saydırmalıyım?",
+        "a": "“Şu tarihten beri ödüyorum…” özelliğini etkinleştirin ve ilk ödeme tarihinizi girin. Geçmiş tahsilatlar artık istatistiklerde ve zaten ödenen toplamda yer alır, ancak gelecekteki ödeme tarihleri değişmez."
+      },
+      {
+        "q": "Aboneliği paylaşıyorum: nasıl sadece kendi payımı saydırmalıyım?",
+        "a": "“Diğerleriyle Paylaşıldı” özelliğini etkinleştirin ve “Benim payım” değerini girin. Toplamlar ve hatırlatmalar artık sadece sizin payınıza göre hesaplanır ve abonelik bilgileri sayfası hâlâ toplam fiyatı gösterir."
+      },
+      {
+        "q": "Aboneliğimi iptal ettim: silmem gerekiyor mu?",
+        "a": "İptal edildi olarak belirtmek daha iyidir: dosyasında “Bu aboneliği iptal ettim” dokunun ve son ödeme tarihini seçin. Toplamlardan ve hatırlatmalardan kaybolur ancak geçmişi ve istatistiklerde kalır. Her zaman yeniden etkinleştirebilirsiniz."
+      },
+      {
+        "q": "Tacite, aboneliğimi sizin yerinize iptal edebilir mi?",
+        "a": "Hayır: Tacite hiçbir hizmete veya bankanıza bağlı değildir. App Store aboneliği için “App Store aboneliklerimi Yönet”, doğrudan Apple hesabınızın abonelik sayfasını açar. Diğerleri için iptal, hizmetin kendi sitesinde yapılır."
+      },
+      {
+        "q": "Farklı para birimlerinde aboneliklerim var.",
+        "a": "Her abonelik kendi para birimini korur ve toplamlar her biri için ayrı ayrı verilir; çevrim yapmaz. Öne çıkan para birimini Ayarlar › “Ana para birimi” seçerek belirleyin."
+      },
+      {
+        "q": "Widget nasıl eklenir?",
+        "a": "Ana ekran veya Kilitleme ekranına uzun süre dokunun, ardından « Düzenle » ve « Widget Ekle» seçeneğine tıklayın ve Tacite’yi seçin. “Yaklaşan Ödemeler” widgeti ana ekranda küçük ve orta boyutlarda, kilitleme ekranında ise iki farklı boyutta bulunur."
+      },
+      {
+        "q": "Verilerim yedekleniyor veya senkronize ediliyor mu?",
+        "a": "Abonelikleriniz iPhone’ınızda kaydedilir ve yedekleme özelliğini etkinleştirdiyseniz, cihazınızın yedeklemelerinde de yer alabilir. Tacite, cihazlarınız arasında hiçbir şey senkronize etmez ve uygulamayı silerseniz verileriniz kaybolur. Bir kopyasını korumak için Ayarlar › “CSV'ye Aktar” kullanın."
+      }
+    ],
+    "privacy_summary": "Tacite herhangi bir kişisel veri toplamaz, hiçbir sunucuya bağlanmaz ve reklam, satın alma veya izleyici içermez. Abonelikleriniz iPhone’ınızda kalır."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Özetle",
+        "blocks": [
+          {
+            "p": "Tacite herhangi bir kişisel veri toplamaz. Uygulama çevrimdışı çalışır, hiçbir sunucuya bağlanmaz, hiçbir hesap istemez ve bankanıza erişim hakkı kazanmaz. Girdiğiniz her şey sadece cihazınızda kalır, dışa aktarım yapmanız durumunda hariç."
+          }
+        ]
+      },
+      {
+        "h": "Verileriniz",
+        "blocks": [
+          {
+            "p": "Uygulama, girdiğiniz abonelikleri (isim, fiyat, para birimi, sıklık, tarihler, kategori, renk, ödeme yöntemi ve notlar) ve ayarlarınızı kaydeder. 'Ödeme yöntemi' alanı serbest metindir: asla kart numarası girmemelisiniz."
+          },
+          {
+            "p": "Bu veriler, iPhone'nuzda Tacite widget'ıyla yalnızca paylaşılan bir alanda saklanır ve geliştirici bu verilere erişemez. Diğer uygulamaların verileri gibi, iPhone'nuzun yedeklemelerine dahil olabilirsiniz, bunu etkinleştirdiyseniz. Uygulamayı silmek bu verileri siler."
+          }
+        ]
+      },
+      {
+        "h": "Bildirimler",
+        "blocks": [
+          {
+            "p": "Hatırlatmalar yerel bildirimlerdir: iPhone'nuz kendi kendine programlanır ve görüntülenir, hiçbir sunucuya geçmeden. Bildirimler aboneliğin adını, tutarı ve ödeme tarihini içerir. iOS ayarlarından her zaman bunları devre dışı bırakabilirsiniz."
+          }
+        ]
+      },
+      {
+        "h": "Dışa Aktarma",
+        "blocks": [
+          {
+            "p": "Uygulamadan hiçbir şey sizin eyleminiz olmadan çıkartılmaz. CSV dışa aktarımı aboneliklerinizi içerir: nereye göndereceğinizi veya kaydedeceğinizi kendiniz seçersiniz ve ardından seçilen hizmetin koşullarına tabi olur."
+          }
+        ]
+      },
+      {
+        "h": "İzin Talepleri",
+        "blocks": [
+          {
+            "p": "Tacite, hatırlatmalar için bildirim görüntüleme izni istemektedir. Kamera, konum, kişiler veya fotoğraflar gibi hiçbir şey istemez."
+          }
+        ]
+      },
+      {
+        "h": "Reklam, Alışveriş ve İzleme",
+        "blocks": [
+          {
+            "p": "Tacite ücretsizdir. İçinde hiçbir reklam, iç içe alışveriş, izleyici veya kullanım analizi veya istatistik araçları bulunmaz."
+          }
+        ]
+      },
+      {
+        "h": "Çocuklar",
+        "blocks": [
+          {
+            "p": "Uygulama hiçbir veri toplamaz ve tüm yaş gruplarına uygundur."
+          }
+        ]
+      },
+      {
+        "h": "Değişiklikler",
+        "blocks": [
+          {
+            "p": "Bu politika değişirse, yeni versiyon bu sayfada güncelleme tarihiyle birlikte yayınlanacaktır."
+          }
+        ]
+      },
+      {
+        "h": "İletişim",
+        "blocks": [
+          {
+            "p": "Bu politika ile ilgili herhangi bir sorunuz varsa: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

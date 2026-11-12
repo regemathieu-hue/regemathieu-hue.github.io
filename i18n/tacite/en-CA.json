@@ -1,0 +1,128 @@
+{
+  "support": {
+    "subtitle": "What your subscriptions really cost, and a reminder before each payment",
+    "contact": "Have a question, an idea, or a problem? Write to me:<br>{email}",
+    "faq": [
+      {
+        "q": "How to add a subscription?",
+        "a": "Tap the + button, then enter the name, price, frequency, and date of the next payment (“Next Payment”). Tacite then calculates all future due dates, as well as the monthly and yearly cost. A month-end date is respected: an subscription started on the 31st will be charged on the 28th or 29th of February, then again on the 31st of March."
+      },
+      {
+        "q": "How do reminders work?",
+        "a": "For each subscription, “Remind me” lets you choose: no reminder, same day, one day before, or two, three, or seven days before. Set the notification time in Settings › “Reminder time”. If notifications are not enabled, a button in Settings will take you directly to your iPhone’s Settings."
+      },
+      {
+        "q": "What about free trials?",
+        "a": "Enable “Free trial in progress”: the trial ends on the date of the next payment. Tacite will notify you at the latest the day before, giving you time to cancel if the service isn’t right for you."
+      },
+      {
+        "q": "I’ve been paying for this subscription for a long time: how do I count it properly?",
+        "a": "Enable “I've been paying since…” and enter the date of your first payment. Past payments will then be included in statistics and in the total paid, without changing future due dates."
+      },
+      {
+        "q": "I share this subscription: how do I count only my portion?",
+        "a": "Enable “Shared with others” and enter “My share”. Totals and reminders will then use your share, while the subscription details still show the full price."
+      },
+      {
+        "q": "I canceled a subscription: should I delete it?",
+        "a": "It's better to mark it as canceled: in its card, tap “I Canceled This Subscription” and select the date of your last charge. It will no longer appear in totals or reminders, but it remains in your history and statistics. You can reactivate it at any time."
+      },
+      {
+        "q": "Can Tacite cancel a subscription on my behalf?",
+        "a": "No: Tacite is not connected to any service or your bank. For an App Store subscription, “Manage my App Store subscriptions” opens the subscriptions page for your Apple account directly. For others, cancellation must be done on the service's website."
+      },
+      {
+        "q": "I have subscriptions in multiple currencies.",
+        "a": "Each subscription keeps its original currency, and totals are shown separately for each without conversion. Choose your preferred currency in Settings › “Primary currency”."
+      },
+      {
+        "q": "How do I add the widget?",
+        "a": "Press and hold the Home Screen or Lock Screen, then tap « Edit » and « Add Widget», and select Tacite. The “Upcoming Payments” widget is available in small and medium sizes on the Home Screen, and in two formats on the Lock Screen."
+      },
+      {
+        "q": "Are my data backed up or synced?",
+        "a": "Your subscriptions are stored on your iPhone and may be included in backups if you have them enabled. Tacite does not sync data across devices, and your data is deleted if you uninstall the app. To keep a copy, use Settings › “Export to CSV”."
+      }
+    ],
+    "privacy_summary": "Tacite does not collect any personal data, connects to no servers, and contains no ads, in-app purchases, or trackers. Your subscriptions remain on your iPhone."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In summary",
+        "blocks": [
+          {
+            "p": "Tacite does not collect any personal data. The app works offline, connects to no servers, requires no account, and has no access to your bank. Everything you enter stays on your iPhone, unless you choose to export it."
+          }
+        ]
+      },
+      {
+        "h": "Your data",
+        "blocks": [
+          {
+            "p": "The app stores the subscriptions you enter (name, price, currency, frequency, dates, category, color, payment method, and notes) and your settings. The 'payment method' field is free text: never enter a card number here."
+          },
+          {
+            "p": "These data are stored on your iPhone, in an area shared only with the Tacite widget, and the developer does not have access to them. Like data from other apps, they may appear in your iPhone backups if you have enabled them. Deleting the app erases them."
+          }
+        ]
+      },
+      {
+        "h": "Notifications",
+        "blocks": [
+          {
+            "p": "Reminders are local notifications: they are scheduled and displayed by your iPhone itself, without going through any server. They contain the subscription name, amount, and payment date. You can disable them at any time in iOS Settings."
+          }
+        ]
+      },
+      {
+        "h": "Export",
+        "blocks": [
+          {
+            "p": "Nothing leaves the app without your action. The CSV export contains your subscriptions: you choose where to send or save it, and it is then subject to the terms of the chosen service."
+          }
+        ]
+      },
+      {
+        "h": "Permissions requested",
+        "blocks": [
+          {
+            "p": "Tacite only requests permission to display notifications, for reminders. No camera, no location, no contacts, no photos."
+          }
+        ]
+      },
+      {
+        "h": "Advertising, purchases, and tracking",
+        "blocks": [
+          {
+            "p": "Tacite is free. It contains no ads, no in-app purchases, no trackers, and no tools for analytics or usage statistics."
+          }
+        ]
+      },
+      {
+        "h": "Children",
+        "blocks": [
+          {
+            "p": "The app does not collect any data and is suitable for all ages."
+          }
+        ]
+      },
+      {
+        "h": "Changes",
+        "blocks": [
+          {
+            "p": "If this policy changes, the new version will be published on this page with its update date."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "For any questions about this policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

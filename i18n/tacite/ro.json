@@ -1,0 +1,128 @@
+{
+  "support": {
+    "subtitle": "Cât costă în realitate abonamentele dumneavoastră, și o amintire înainte de fiecare încasare",
+    "contact": "O întrebare, o idee sau o problemă? Scrieți-mi: <br>{email}",
+    "faq": [
+      {
+        "q": "Cum adăugați un abonament?",
+        "a": "Apăsați butonul +, apoi introduceți numele, prețul, frecvența și data „Următoarea facturare”. Tacite calculează apoi toate scadențele următoare, precum și costul lunar și anual. O dată de sfârșit de lună este respectată: un abonament activat pe data de 31 va fi încasat pe data de 28 sau 29 februarie, apoi din nou pe data de 31 martie."
+      },
+      {
+        "q": "Cum funcționează amintirile?",
+        "a": "Pentru fiecare abonament, „Avertizează-mă” oferă: fără amintire, în ziua aceea, cu o zi înainte sau la 2, 3 sau 7 zile înainte. Alegeți ora notificărilor în Setări › „Ora alertelor”. Dacă nu ați permis notificările, un buton din Setări vă duce direct la setările iPhone-ului."
+      },
+      {
+        "q": "Și perioadele de probă?",
+        "a": "Activați „Perioadă de probă în curs”: perioada de probă se încheie la data următoarei încasări. Tacite vă va aminti cel târziu cu o zi înainte, pentru a vă oferi timpul necesar de a anula abonamentul dacă serviciul nu vă convine."
+      },
+      {
+        "q": "Plătesc acest abonament de mult timp: cum îl iau în calcul?",
+        "a": "Activați „Plătesc deja de la…” și introduceți data primului plătit. Încasările anterioare vor fi incluse în statisticile și în totalul deja plătit, fără a modifica scadențele viitoare."
+      },
+      {
+        "q": "Împart un abonament: cum să iau în calcul doar partea mea?",
+        "a": "Activați „Partajat cu alții” și introduceți „Partea mea”. Totalurile și amintirile vor folosi atunci doar partea dumneavoastră, iar fișa abonamentului va păstra și prețul total."
+      },
+      {
+        "q": "Am anulat un abonament: trebuie să-l șterg?",
+        "a": "Este mai bine să îl marcați ca anulat: în fișa sa, apăsați pe „Am anulat acest abonament” și selectați ziua ultimei facturi. Acesta va dispărea din totaluri și alerte, dar va rămâne în istoric și statisticile. Îl puteți reactiva oricând."
+      },
+      {
+        "q": "Poate Tacite să anuleze un abonament în numele meu?",
+        "a": "Nu: Tacite nu este conectat la niciun serviciu sau cont bancar. Pentru un abonament cumpărat din App Store, „Gestionează abonamentele mele App Store” deschide direct pagina de abonamente a contului dvs. Apple. Pentru celelalte, anularea se face pe site-ul furnizorului."
+      },
+      {
+        "q": "Am abonamente în mai multe monede.",
+        "a": "Fiecare abonament păstrează moneda sa, iar totalurile sunt afișate separat pentru fiecare, fără conversie. Alegeți moneda principală din Setări › „Monedă principală”."
+      },
+      {
+        "q": "Cum adaug widgetul?",
+        "a": "Apăsați lung pe ecranul de pornire sau ecranul de blocare, apoi „Modifică” și „Adaugă un widget”, iar apoi alegeți Tacite. Widget-ul „Facturi următoare” este disponibil în două dimensiuni pe ecranul de pornire și în două variante pe ecranul de blocare."
+      },
+      {
+        "q": "Datele mele sunt salvate sau sincronizate?",
+        "a": "Abonamentele dvs. sunt salvate pe iPhone-ul dvs. și pot fi incluse în backup-uri dacă le-ați activat. Tacite nu sincronizează nimic între dispozitive, iar datele dispar dacă ștergeți aplicația. Pentru a păstra o copie, utilizați Setări › „Exportă în CSV”."
+      }
+    ],
+    "privacy_summary": "Tacite nu colectează nicio dată personală, nu se conectează la niciun server și nu conține reclame, cumpărături in-app sau urmăritori. Abonamentele dvs. rămân pe iPhone-ul dvs."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "În concluzie",
+        "blocks": [
+          {
+            "p": "Tacite nu colectează nicio dată personală. Aplicația funcționează offline, nu se conectează la niciun server, nu cere conturi și nu are acces la banca dumneavoastră. Tot ce introduceți rămâne pe iPhone-ul dumneavoastră, cu excepția cazului în care alegeți să-l exportați."
+          }
+        ]
+      },
+      {
+        "h": "Datele dvs.",
+        "blocks": [
+          {
+            "p": "Aplicația salvează abonamentele pe care le introduceți (nume, preț, monedă, frecvență, date, categorie, culoare, mijloc de plată și note) și setările dumneavoastră. Câmpul „mijloc de plată” este un text liber: nu introduceți niciodată un număr de card aici."
+          },
+          {
+            "p": "Aceste date sunt salvate pe iPhone-ul dumneavoastră, într-un spațiu accesibil doar widgetului Tacite, iar dezvoltatorul nu are acces la ele. La fel ca datele altor aplicații, acestea pot fi incluse în copiile de rezervă ale iPhone-ului dacă le-ați activat. Ștergerea aplicației le șterge definitiv."
+          }
+        ]
+      },
+      {
+        "h": "Notificări",
+        "blocks": [
+          {
+            "p": "Amintirile sunt notificări locale: sunt programate și afișate direct de iPhone-ul dumneavoastră, fără a trece prin niciun server. Ele conțin numele abonamentului, suma și data plății. Le puteți dezactiva oricând în Setări din iOS."
+          }
+        ]
+      },
+      {
+        "h": "Export",
+        "blocks": [
+          {
+            "p": "Nimic nu părăsește aplicația fără acțiunea dumneavoastră. Exportul CSV conține abonamentele dumneavoastră: alegeți unde să-l trimiteți sau să-l salvați, iar acesta va fi supus condițiilor serviciului selectat."
+          }
+        ]
+      },
+      {
+        "h": "Permisiuni cerute",
+        "blocks": [
+          {
+            "p": "Tacite solicită doar permisiunea de a afișa notificări, pentru amintiri. Nu solicită cameră, poziție, contacte sau imagini."
+          }
+        ]
+      },
+      {
+        "h": "Publicitate, cumpărături și urmărire",
+        "blocks": [
+          {
+            "p": "Tacite este gratuit. Nu conține publicitate, nici cumpărături în aplicație, nici urmăritori, nici instrumente de analiză sau statisticile utilizării."
+          }
+        ]
+      },
+      {
+        "h": "Copii",
+        "blocks": [
+          {
+            "p": "Aplicația nu colectează nicio dată și este potrivită pentru toate vârstele."
+          }
+        ]
+      },
+      {
+        "h": "Modificări",
+        "blocks": [
+          {
+            "p": "Dacă această politică se modifică, versiunea actualizată va fi afișată pe această pagină cu data actualizării."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pentru orice întrebare legată de această politică: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

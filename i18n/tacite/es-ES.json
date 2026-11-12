@@ -1,0 +1,128 @@
+{
+  "support": {
+    "subtitle": "Lo que realmente cuestan sus suscripciones, y un recordatorio antes de cada cargo",
+    "contact": "¿Una pregunta, una idea o un problema? Escríbame:<br>{email}",
+    "faq": [
+      {
+        "q": "¿Cómo añadir una suscripción?",
+        "a": "Toque el botón +, luego indique el nombre, el precio, la frecuencia y la fecha del «Próximo cargo». Tacite calcula después todas las fechas siguientes, así como el coste mensual y anual. Se respeta una fecha final de mes: si se suscribe el día 31, el cargo se realizará el 28 o el 29 de febrero, y luego el 31 de marzo."
+      },
+      {
+        "q": "¿Cómo funcionan los recordatorios?",
+        "a": "Para cada suscripción, «Recordarme» ofrece: sin recordatorio, el mismo día, el día anterior, o con 2, 3 o 7 días de antelación. Elija la hora de las notificaciones en Configuración › «Hora de los recordatorios». Si no ha permitido las notificaciones, un botón en Configuración le llevará directamente a la configuración del iPhone."
+      },
+      {
+        "q": "¿Y las pruebas gratuitas?",
+        "a": "Active «Prueba gratuita en curso»: la prueba finaliza en la fecha del próximo cargo. Tacite le avisará como máximo el día anterior, para que tenga tiempo de cancelar si el servicio no le conviene."
+      },
+      {
+        "q": "Llevo mucho tiempo pagando esta suscripción: ¿cómo incluirla?",
+        "a": "Active «Ya estoy pagando desde…» e indique la fecha de su primer pago. Los cargos anteriores se incluirán entonces en las estadísticas y en el total ya pagado, sin modificar las fechas futuras."
+      },
+      {
+        "q": "Comparto una suscripción: ¿cómo tener solo mi parte?",
+        "a": "Active «Compartido con otros» e indique «Mi parte». Los totales y los recordatorios usarán entonces su parte, y la ficha de la suscripción conservará también el precio total."
+      },
+      {
+        "q": "He cancelado una suscripción: ¿debo eliminarla?",
+        "a": "Es mejor indicarla como cancelada: en su ficha, toque «He cancelado esta suscripción» y seleccione la fecha del último cargo. Desaparecerá de los totales y recordatorios, pero permanecerá en el historial y estadísticas. Puede reactivarla en cualquier momento."
+      },
+      {
+        "q": "¿Puede Tacite cancelar una suscripción por mí?",
+        "a": "No: Tacite no está conectado a ningún servicio ni a su banco. Para una suscripción adquirida en la App Store, «Gestionar mis suscripciones de App Store» abre directamente la página de suscripciones de su cuenta de Apple. Para las demás, la cancelación se realiza en el sitio web del servicio."
+      },
+      {
+        "q": "Tengo suscripciones en varias monedas.",
+        "a": "Cada suscripción conserva su moneda, y los totales se muestran por separado para cada una, sin conversión. Elija la moneda destacada en Configuración › «Moneda principal»."
+      },
+      {
+        "q": "¿Cómo añadir el widget?",
+        "a": "Pulse y mantenga presionado la pantalla de inicio o la pantalla bloqueada, luego seleccione « Modificar » y « Añadir un widget », y elija Tacite. El widget «Próximos cargos» está disponible en formato pequeño y mediano en la pantalla de inicio, y en dos formatos en la pantalla bloqueada."
+      },
+      {
+        "q": "¿Mis datos se guardan o se sincronizan?",
+        "a": "Sus suscripciones se almacenan en su iPhone y pueden incluirse en sus copias de seguridad si las ha activado. Tacite no sincroniza nada entre sus dispositivos, y sus datos desaparecen si elimina la aplicación. Para conservar una copia, utilice Configuración › «Exportar a CSV»."
+      }
+    ],
+    "privacy_summary": "Tacite no recopila ningún dato personal, no se conecta a ningún servidor y no contiene publicidad, compras ni rastreadores. Sus suscripciones permanecen en su iPhone."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resumen",
+        "blocks": [
+          {
+            "p": "Tacite no recopila ningún dato personal. La aplicación funciona sin conexión, no se conecta a ningún servidor, no requiere ninguna cuenta y no tiene acceso a su banco. Todo lo que introduce permanece en su iPhone, salvo si elige exportarlo."
+          }
+        ]
+      },
+      {
+        "h": "Sus datos",
+        "blocks": [
+          {
+            "p": "La aplicación almacena las suscripciones que introduce (nombre, precio, moneda, frecuencia, fechas, categoría, color, método de pago y notas) y sus ajustes. El campo « método de pago » es un texto libre: nunca incluya aquí un número de tarjeta."
+          },
+          {
+            "p": "Estos datos se guardan en su iPhone, en un espacio compartido únicamente con el widget de Tacite, y el desarrollador no tiene acceso a ellos. Al igual que los datos de otras aplicaciones, pueden aparecer en las copias de seguridad de su iPhone si las ha activado. La eliminación de la aplicación los borra."
+          }
+        ]
+      },
+      {
+        "h": "Notificaciones",
+        "blocks": [
+          {
+            "p": "Los recordatorios son notificaciones locales: se programan y muestran directamente por su iPhone, sin pasar por ningún servidor. Contienen el nombre de la suscripción, el importe y la fecha del cargo. Puede desactivarlos en cualquier momento desde la configuración de iOS."
+          }
+        ]
+      },
+      {
+        "h": "Exportar",
+        "blocks": [
+          {
+            "p": "Nada abandona la aplicación sin su acción. La exportación CSV contiene sus suscripciones: usted elige dónde enviarlas o guardarlas, y luego quedan sujetas a las condiciones del servicio elegido."
+          }
+        ]
+      },
+      {
+        "h": "Permisos solicitados",
+        "blocks": [
+          {
+            "p": "Tacite solo solicita permiso para mostrar notificaciones, para los recordatorios. Ninguna cámara, ninguna ubicación, ningún contacto ni ninguna foto."
+          }
+        ]
+      },
+      {
+        "h": "Publicidad, compras e información de seguimiento",
+        "blocks": [
+          {
+            "p": "Tacite es gratuita. No contiene publicidad, ninguna compra integrada, ningún rastreador ni ninguna herramienta de análisis o estadísticas de uso."
+          }
+        ]
+      },
+      {
+        "h": "Niños",
+        "blocks": [
+          {
+            "p": "La aplicación no recopila ningún dato y es adecuada para todas las edades."
+          }
+        ]
+      },
+      {
+        "h": "Cambios",
+        "blocks": [
+          {
+            "p": "Si esta política cambia, la nueva versión se publicará en esta página con su fecha de actualización."
+          }
+        ]
+      },
+      {
+        "h": "Contacto",
+        "blocks": [
+          {
+            "p": "Para cualquier pregunta sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

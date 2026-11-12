@@ -14,6 +14,7 @@
     { "id": "niveau-sonore", "name": "Sound Level", "names": { "fr-FR": "Niveau sonore", "fr-CA": "Niveau sonore" }, "updated": "2026-11-12" },
     { "id": "nuitclaire", "name": "Nuit Claire", "updated": "2026-10-22" },
     { "id": "tablee", "name": "Tablée", "updated": "2026-11-02" },
+    { "id": "tacite", "name": "Tacite", "updated": "2026-11-12" },
     { "id": "uptime", "name": "Uptime", "updated": "2026-10-30" }
   ]
 }

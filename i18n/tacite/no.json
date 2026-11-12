@@ -1,0 +1,128 @@
+{
+  "support": {
+    "subtitle": "Hvor mye abonnements egentlig koster, og en påminnelse før hver utbetalning",
+    "contact": "Har du en spørsmål, en idé eller et problem? Skriv meg: <br>{email}",
+    "faq": [
+      {
+        "q": "Slik legger du til et abonnement",
+        "a": "Trykk på knappen +, og oppgi navn, pris, frekvens og dato for «Neste utbetalning». Tacite beregner deretter alle fremtidige utbetalinger, samt kostnaden per måned og per år. En dato i slutten av måneden respekteres: et abonnement som ble tatt opp den 31. blir trukket den 28. eller 29. februar, og deretter igjen den 31. mars."
+      },
+      {
+        "q": "Hvordan fungerer påminnelser?",
+        "a": "For hvert abonnement gir «Varsle meg» følgende valg: ingen påminnelse, samme dag, dagen før, eller 2, 3 eller 7 dager før. Velg tidspunktet for varslinger i Innstillinger › «Påminnelsestidspunkt». Hvis du ikke har tillatt varslinger, finner du en knapp i Innstillinger som leder deg direkte til iPhone-instillingene."
+      },
+      {
+        "q": "Hva med gratis prøveperioder?",
+        "a": "Aktiver «Gratis prøveperiode pågår»: prøveperioden avsluttes på dato for neste utbetalning. Tacite varsler deg senest dagen før, slik at du har tid til å avslutte hvis tjenesten ikke passer."
+      },
+      {
+        "q": "Jeg har betalt dette abonnementet lenge – hvordan regner jeg det med?",
+        "a": "Aktiver «Jeg betaler allerede siden…» og oppgi dato for ditt første betaling. De tidligere utbetalinger blir da inkludert i statistikken og i den allerede betalte summen, uten å påvirke fremtidige utbetalinger."
+      },
+      {
+        "q": "Jeg deler et abonnement – hvordan regner jeg bare med min andel?",
+        "a": "Aktiver «Delte med andre» og oppgi «Min andel». Totalene og påminnelser bruker da din andel, mens abonnementsfakta fortsatt viser det totale priset."
+      },
+      {
+        "q": "Jeg har avsluttet et abonnement: Skal jeg slette det?",
+        "a": "Det er best å angi det som avsluttet: I abonnementsfilen berører du «Jeg har avsluttet dette abonnementet» og velger dato for den siste utbetalingen. Det forsvinner fra totalsummer og påminnelser, men beholdes i historikken og statistikkene. Du kan aktivere det igjen når som helst."
+      },
+      {
+        "q": "Kan Tacite avslutte et abonnement for meg?",
+        "a": "Nei: Tacite er ikke koblet til noen tjeneste eller bankkonto. For abonnementer kjøpt via App Store åpner «Administrer mine App Store-abonnementer» direkte siden med abonnementsstyring på ditt Apple-konto. For andre abonnementer må du avslutte dem på tjenestens nettside."
+      },
+      {
+        "q": "Jeg har abonnementer i flere valutaer.",
+        "a": "Hvert abonnement beholder sin valuta, og totalene vises separat for hver uten konvertering. Velg den valuta som er fremhevet i Innstillinger › «Primær valuta»."
+      },
+      {
+        "q": "Hvordan legger jeg til widgeten?",
+        "a": "Trykk og hold på hovedskjermen eller låseskjermen, velg « Rediger» og «Legg til widget», og velg Tacite. Widgeten «Komende utbetalinger» finnes i liten og medium-størrelse på hovedskjermen, og i to størrelser på låseskjermen."
+      },
+      {
+        "q": "Er mine data lagret eller synkronisert?",
+        "a": "Dine abonnementer lagres på din iPhone og kan være med i sikkerhetskopier hvis du har aktivert dette. Tacite synkroniserer ikke data mellom enheter, og dataene forsvinner hvis du sletter appen. For å beholde en kopi, bruk Innstillinger › «Eksporter til CSV»."
+      }
+    ],
+    "privacy_summary": "Tacite samler ingen personlige data, kobler seg ikke til noen server, og inneholder ingen reklame, kjøp eller sporing. Dine abonnementer forblir på din iPhone."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort oppsummert",
+        "blocks": [
+          {
+            "p": "Tacite samler ingen personlige data. Applikasjonen fungerer uten tilkobling, kobler seg ikke til noen server, ber ikke om konto og har ingen tilgang til bankkontoen din. Alt du skriver inn forblir på din iPhone, med unntak av hvis du velger å eksportere det."
+          }
+        ]
+      },
+      {
+        "h": "Dine data",
+        "blocks": [
+          {
+            "p": "Applikasjonen lagrer abonnementene du skriver inn (navn, pris, valuta, frekvens, datoer, kategori, farge, betalingsmåte og notater) og dine innstillinger. Feltet « betalingsmåte » er fri tekst: oppgi aldri et kortnummer her."
+          },
+          {
+            "p": "Disse dataene lagres på din iPhone, i et område som kun deler informasjon med Tacites widget, og utvikleren har ingen tilgang til dem. Som data fra andre applikasjoner kan de være med i sikkerhetskopier av din iPhone hvis du har aktivert dette. Sletting av applikasjonen sletter også disse dataene."
+          }
+        ]
+      },
+      {
+        "h": "Varslinger",
+        "blocks": [
+          {
+            "p": "Påminnelser er lokale varslinger: de planlegges og vises av din iPhone selv, uten å gå gjennom noen server. De inneholder abonnementsnavn, beløp og dato for utbetalingsdato. Du kan deaktivere dem når som helst i iOS-instillingene."
+          }
+        ]
+      },
+      {
+        "h": "Eksport",
+        "blocks": [
+          {
+            "p": "Ingen data forlater applikasjonen uten din handling. CSV-eksporten inneholder dine abonnementer: du velger hvor du vil sende eller lagre den, og den blir da underlagt betingelsene til den valgte tjenesten."
+          }
+        ]
+      },
+      {
+        "h": "Bevillingene som ber om",
+        "blocks": [
+          {
+            "p": "Tacite ber bare om tillatelse til å vise varslinger for påminnelser. Ingen kamera, posisjon, kontakter eller bilder."
+          }
+        ]
+      },
+      {
+        "h": "Reklame, kjøp og sporing",
+        "blocks": [
+          {
+            "p": "Tacite er gratis. Den inneholder ingen reklame, ingenting innkjøpt i appen, ingen sporingsteknologi og ingen verktøy for analyse eller brukerstatistikk."
+          }
+        ]
+      },
+      {
+        "h": "Barn",
+        "blocks": [
+          {
+            "p": "Appen samler ingen data og er egnet for alle aldre."
+          }
+        ]
+      },
+      {
+        "h": "Endringer",
+        "blocks": [
+          {
+            "p": "Hvis denne politikken endres, vil den nye versjonen bli publisert på denne siden med dato for oppdatering."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "For spørsmål om denne politikken: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

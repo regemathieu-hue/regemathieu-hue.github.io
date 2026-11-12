@@ -1,0 +1,128 @@
+{
+  "support": {
+    "subtitle": "Quanto costano veramente i tuoi abbonamenti, e un promemoria prima di ogni addebito",
+    "contact": "Hai una domanda, un'idea o un problema? Scrivimi:<br>{email}",
+    "faq": [
+      {
+        "q": "Come aggiungere un abbonamento?",
+        "a": "Tocca il pulsante +, quindi inserisci nome, prezzo, frequenza e data del «Prossimo prelievo». Tacite calcola poi tutte le scadenze successive, così come il costo mensile e annuale. Una data alla fine del mese viene rispettata: un abbonamento attivato il 31 sarà addebitato il 28 o il 29 febbraio, quindi nuovamente il 31 marzo."
+      },
+      {
+        "q": "Come funzionano i promemoria?",
+        "a": "Per ogni abbonamento, «Avvisami» consente di scegliere: nessun promemoria, lo stesso giorno, il giorno prima, o 2, 3 o 7 giorni prima. Imposta l'ora delle notifiche in Impostazioni › «Ora dei promemoria». Se non hai abilitato le notifiche, un pulsante in Impostazioni ti reindirizza direttamente alle impostazioni dell'iPhone."
+      },
+      {
+        "q": "E i periodi di prova gratuiti?",
+        "a": "Attiva «Prova gratuita in corso»: il periodo di prova termina alla data del prossimo addebito. Tacite ti avvisa al più tardi il giorno prima, per darti il tempo necessario per annullare l'abbonamento se il servizio non ti soddisfa."
+      },
+      {
+        "q": "Pago questo abbonamento da molto tempo: come tenerne conto?",
+        "a": "Attiva «Pago già da…» e inserisci la data del tuo primo pagamento. Gli addebiti precedenti saranno quindi inclusi nelle statistiche e nel totale già pagato, senza modificare le scadenze future."
+      },
+      {
+        "q": "Condivido un abbonamento: come tenere conto solo della mia quota?",
+        "a": "Attiva «Condiviso con altri» e inserisci «La mia quota». Totale e promemoria utilizzeranno ora la tua quota, mentre la scheda dell'abbonamento manterrà comunque il prezzo totale."
+      },
+      {
+        "q": "Ho annullato un abbonamento: devo eliminarlo?",
+        "a": "È meglio indicarlo come annullato: nella scheda dell'abbonamento, tocca «Ho annullato questo abbonamento» e seleziona la data dell'ultimo prelievo. Scomparirà dai totali e dai promemoria, ma rimarrà nell'archivio e nelle statistiche. Puoi riattivarlo in qualsiasi momento."
+      },
+      {
+        "q": "Tacite può annullare un abbonamento al mio posto?",
+        "a": "No: Tacite non è collegato a nessun servizio né alla tua banca. Per un abbonamento acquistato sull'App Store, «Gestisci i miei abbonamenti App Store» apre direttamente la pagina degli abbonamenti del tuo account Apple. Per gli altri, l'annullamento va effettuato sul sito del servizio."
+      },
+      {
+        "q": "Ho abbonamenti in più valute.",
+        "a": "Ogni abbonamento mantiene la propria valuta, e i totali vengono mostrati separatamente per ciascuna, senza conversione. Scegli la valuta principale in Impostazioni › «Valuta principale»."
+      },
+      {
+        "q": "Come aggiungere il widget?",
+        "a": "Tocca a lungo lo schermo Home o lo schermo bloccato, quindi « Modifica » e « Aggiungi un widget », e seleziona Tacite. Il widget «Prossimi prelievi» è disponibile in formato piccolo e medio sullo schermo Home, e in due formati sullo schermo bloccato."
+      },
+      {
+        "q": "I miei dati sono salvati o sincronizzati?",
+        "a": "I tuoi abbonamenti sono registrati sul tuo iPhone e possono essere inclusi nei backup, se li hai attivati. Tacite non sincronizza nulla tra i tuoi dispositivi, e i dati vengono eliminati se elimini l'applicazione. Per conservarne una copia, usa Impostazioni › «Esporta in CSV»."
+      }
+    ],
+    "privacy_summary": "Tacite non raccoglie alcuna informazione personale, non si collega a nessun server e non contiene pubblicità, acquisti in-app né tracciamento. I tuoi abbonamenti rimangono sul tuo iPhone."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In sintesi",
+        "blocks": [
+          {
+            "p": "Tacite non raccoglie alcuna informazione personale. L'applicazione funziona in modalità offline, non si collega a nessun server, non richiede alcun account e non ha accesso al vostro conto bancario. Tutto ciò che inserite rimane sul vostro iPhone, tranne se scegliete di esportarlo."
+          }
+        ]
+      },
+      {
+        "h": "I vostri dati",
+        "blocks": [
+          {
+            "p": "L'applicazione registra gli abbonamenti che inserite (nome, prezzo, valuta, frequenza, date, categoria, colore, metodo di pagamento e note) e le impostazioni. Il campo « metodo di pagamento » è un testo libero: non includete mai un numero di carta in questo campo."
+          },
+          {
+            "p": "Questi dati vengono salvati sul vostro iPhone, in uno spazio condiviso esclusivamente con il widget di Tacite, e lo sviluppatore non vi ha accesso. Come i dati di altre applicazioni, possono essere inclusi nei backup del vostro iPhone se li avete attivati. La disinstallazione dell'applicazione li elimina."
+          }
+        ]
+      },
+      {
+        "h": "Notifiche",
+        "blocks": [
+          {
+            "p": "I promemoria sono notifiche locali: vengono programmate e visualizzate direttamente dal vostro iPhone, senza passare attraverso alcun server. Contengono il nome dell'abbonamento, l'importo e la data del prelievo. Potete disattivarli in qualsiasi momento nelle impostazioni di iOS."
+          }
+        ]
+      },
+      {
+        "h": "Esportazione",
+        "blocks": [
+          {
+            "p": "Niente lascia l'applicazione senza un'azione da parte vostra. L'esportazione CSV contiene i vostri abbonamenti: scegliete dove inviarlo o salvarlo, e viene poi soggetto ai termini del servizio scelto."
+          }
+        ]
+      },
+      {
+        "h": "Autorizzazioni richieste",
+        "blocks": [
+          {
+            "p": "Tacite richiede solo l'autorizzazione a visualizzare le notifiche, per i promemoria. Nessuna autorizzazione alla fotocamera, posizione, contatti o foto."
+          }
+        ]
+      },
+      {
+        "h": "Pubblicità, acquisti e tracciamento",
+        "blocks": [
+          {
+            "p": "Tacite è gratuita. Non contiene pubblicità, acquisti in-app, tracciatori né strumenti di analisi o statistiche sull'utilizzo."
+          }
+        ]
+      },
+      {
+        "h": "Bambini",
+        "blocks": [
+          {
+            "p": "L'applicazione non raccoglie alcuna dato e si adatta a tutte le età."
+          }
+        ]
+      },
+      {
+        "h": "Modifiche",
+        "blocks": [
+          {
+            "p": "Se questa politica dovesse cambiare, la nuova versione sarà pubblicata su questa pagina con la relativa data di aggiornamento."
+          }
+        ]
+      },
+      {
+        "h": "Contatto",
+        "blocks": [
+          {
+            "p": "Per qualsiasi domanda riguardo a questa politica: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

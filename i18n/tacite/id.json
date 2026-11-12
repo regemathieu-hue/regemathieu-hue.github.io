@@ -1,0 +1,128 @@
+{
+  "support": {
+    "subtitle": "Biaya sebenarnya dari langganan Anda, serta pengingat sebelum setiap pembayaran berkala",
+    "contact": "Pertanyaan, ide, atau masalah? Kirim pesan kepada saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Cara menambahkan langganan?",
+        "a": "Sentuh tombol +, lalu masukkan nama, harga, frekuensi, dan tanggal “Pembayaran Berikutnya”. Tacite kemudian menghitung semua jatuh tempo berikutnya, serta biaya per bulan dan per tahun. Tanggal akhir bulan akan dipertahankan: langganan yang dimulai pada tanggal 31 akan dipotong pada tanggal 28 atau 29 Februari, lalu kembali pada tanggal 31 Maret."
+      },
+      {
+        "q": "Bagaimana cara kerja pengingat?",
+        "a": "Untuk setiap langganan, “Beritahu saya” menawarkan: tanpa pengingat, hari yang sama, sehari sebelumnya, atau 2, 3, atau 7 hari sebelumnya. Pilih waktu notifikasi di Pengaturan › “Waktu pengingat”. Jika Anda belum mengizinkan notifikasi, tombol di Pengaturan akan langsung membawa Anda ke pengaturan iPhone."
+      },
+      {
+        "q": "Bagaimana dengan uji coba gratis?",
+        "a": "Aktifkan “Uji coba gratis sedang berlangsung”: uji coba berakhir pada tanggal pembayaran berikutnya. Tacite akan memberi tahu Anda paling lambat sehari sebelumnya, agar Anda memiliki waktu untuk membatalkan jika layanan tidak sesuai kebutuhan Anda."
+      },
+      {
+        "q": "Saya telah membayar langganan ini sejak lama: bagaimana menghitungnya?",
+        "a": "Aktifkan “Saya sudah membayar sejak…” dan masukkan tanggal pembayaran pertama Anda. Pembayaran sebelumnya akan dimasukkan dalam statistik dan total yang sudah dibayar, tanpa mengubah jatuh tempo di masa depan."
+      },
+      {
+        "q": "Saya berbagi langganan ini: bagaimana hanya menghitung bagi saya?",
+        "a": "Aktifkan “Dibagikan dengan orang lain” dan masukkan “Bagian saya”. Total dan pengingat akan menggunakan bagian Anda, serta halaman detail langganan tetap menampilkan harga total."
+      },
+      {
+        "q": "Saya telah membatalkan langganan: apakah saya harus menghapusnya?",
+        "a": "Lebih baik menandainya sebagai dibatalkan: di halaman langganan, sentuh “Saya telah membatalkan langganan ini” dan pilih tanggal pembayaran terakhir. Ia akan hilang dari total dan pengingat, tetapi tetap ada dalam riwayat dan statistik. Anda dapat mengaktifkannya kembali kapan saja."
+      },
+      {
+        "q": "Apakah Tacite bisa membatalkan langganan atas nama saya?",
+        "a": "Tidak: Tacite tidak terhubung ke layanan apa pun maupun ke bank Anda. Untuk langganan yang dibayar melalui App Store, “Kelola langganan App Store saya” langsung membuka halaman langganan akun Apple Anda. Untuk yang lainnya, pembatalan dilakukan di situs layanan tersebut."
+      },
+      {
+        "q": "Saya memiliki langganan dalam beberapa mata uang.",
+        "a": "Setiap langganan mempertahankan mata uangnya sendiri, dan total ditampilkan terpisah untuk masing-masing tanpa konversi. Pilih mata uang utama yang ditampilkan di Pengaturan › “Mata uang utama”."
+      },
+      {
+        "q": "Bagaimana cara menambahkan widget?",
+        "a": "Sentuh lama layar beranda atau layar kunci, lalu pilih « Ubah » dan « Tambahkan widget », lalu pilih Tacite. Widget “Pembayaran Mendatang” tersedia dalam ukuran kecil dan sedang di layar beranda, serta dua ukuran di layar kunci."
+      },
+      {
+        "q": "Apakah data saya disimpan atau disinkronkan?",
+        "a": "Langganan Anda disimpan di iPhone Anda dan dapat termasuk dalam cadangan jika Anda telah mengaktifkannya. Tacite tidak menyinkronkan apa pun antar perangkat, dan data akan hilang jika Anda menghapus aplikasi. Untuk membuat salinan, gunakan Pengaturan › “Ekspor ke CSV”."
+      }
+    ],
+    "privacy_summary": "Tacite tidak mengumpulkan data pribadi, tidak terhubung ke server mana pun, dan tidak memiliki iklan, pembelian dalam aplikasi, atau pelacak. Langganan Anda tetap berada di iPhone Anda."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasan",
+        "blocks": [
+          {
+            "p": "Tacite tidak mengumpulkan data pribadi apa pun. Aplikasi ini berjalan secara offline, tidak terhubung ke server mana pun, tidak meminta akun, dan tidak memiliki akses ke rekening bank Anda. Semua informasi yang Anda masukkan tetap ada di iPhone Anda, kecuali jika Anda memilih untuk mengekspornya."
+          }
+        ]
+      },
+      {
+        "h": "Data Anda",
+        "blocks": [
+          {
+            "p": "Aplikasi ini menyimpan langganan yang Anda masukkan (nama, harga, mata uang, frekuensi, tanggal, kategori, warna, metode pembayaran, dan catatan) serta pengaturan Anda. Bidang « metode pembayaran » adalah teks bebas: jangan pernah memasukkan nomor kartu di sini."
+          },
+          {
+            "p": "Data ini disimpan di iPhone Anda, dalam ruang yang hanya dapat diakses oleh widget Tacite, dan pengembang tidak memiliki akses ke data tersebut. Seperti data aplikasi lainnya, data ini bisa termasuk dalam cadangan iPhone Anda jika fitur cadangan telah diaktifkan. Menghapus aplikasi akan menghapus semua data tersebut."
+          }
+        ]
+      },
+      {
+        "h": "Notifikasi",
+        "blocks": [
+          {
+            "p": "Pengingat berupa notifikasi lokal: mereka dijadwalkan dan ditampilkan langsung oleh iPhone Anda tanpa melalui server mana pun. Notifikasi ini berisi nama langganan, jumlah pembayaran, dan tanggal pemotongan. Anda dapat menonaktifkannya kapan saja melalui pengaturan iOS."
+          }
+        ]
+      },
+      {
+        "h": "Ekspor",
+        "blocks": [
+          {
+            "p": "Tidak ada data yang keluar dari aplikasi tanpa tindakan Anda. Ekspor CSV berisi langganan Anda: Anda memilih tempat untuk mengirim atau menyimpannya, dan file tersebut akan tunduk pada ketentuan layanan yang dipilih."
+          }
+        ]
+      },
+      {
+        "h": "Izin yang Diminta",
+        "blocks": [
+          {
+            "p": "Tacite hanya meminta izin untuk menampilkan notifikasi, guna pengingat. Tidak ada izin kamera, lokasi, kontak, atau foto."
+          }
+        ]
+      },
+      {
+        "h": "Iklan, Pembelian, dan Pelacakan",
+        "blocks": [
+          {
+            "p": "Tacite gratis. Aplikasi ini tidak memiliki iklan, pembelian dalam aplikasi, pelacak, atau alat analitik atau statistik penggunaan."
+          }
+        ]
+      },
+      {
+        "h": "Anak-anak",
+        "blocks": [
+          {
+            "p": "Aplikasi ini tidak mengumpulkan data apa pun dan cocok untuk semua usia."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika kebijakan ini berubah, versi terbaru akan diterbitkan di halaman ini dengan tanggal pembaruan."
+          }
+        ]
+      },
+      {
+        "h": "Kontak",
+        "blocks": [
+          {
+            "p": "Untuk pertanyaan apa pun mengenai kebijakan ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

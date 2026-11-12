@@ -1,0 +1,128 @@
+{
+  "support": {
+    "subtitle": "O que seus assinaturas realmente custam, e um lembrete antes de cada pagamento recorrente",
+    "contact": "Alguma dúvida, ideia ou problema? Me escreva:<br>{email}",
+    "faq": [
+      {
+        "q": "Como adicionar uma assinatura?",
+        "a": "Toque no botão +, depois informe o nome, o valor, a frequência e a data do “Próximo pagamento”. O Tacite calcula então todos os vencimentos futuros, bem como o custo mensal e anual. Uma data no final do mês é respeitada: uma assinatura iniciada em 31 será cobrada em 28 ou 29 de fevereiro, e depois novamente em 31 de março."
+      },
+      {
+        "q": "Como funcionam os lembretes?",
+        "a": "Para cada assinatura, “Me avisar” oferece: nenhum lembrete, no mesmo dia, no dia anterior, ou com 2, 3 ou 7 dias de antecedência. Escolha a hora das notificações em Configurações › “Hora das lembranças”. Se você não tiver permitido notificações, um botão em Configurações o levará diretamente às configurações do iPhone."
+      },
+      {
+        "q": "E os testes gratuitos?",
+        "a": "Ative “Teste gratuito em andamento”: o teste termina na data do próximo pagamento. O Tacite o avisará no máximo no dia anterior, para lhe dar tempo de cancelar caso o serviço não lhe agrade."
+      },
+      {
+        "q": "Já pago por esta assinatura há muito tempo: como contabilizá-la?",
+        "a": "Ative “Estou pagando desde…” e informe a data do seu primeiro pagamento. Os pagamentos anteriores então serão incluídos nas estatísticas e no total já pago, sem alterar as datas futuras de vencimento."
+      },
+      {
+        "q": "Compartilho uma assinatura: como considerar apenas minha parte?",
+        "a": "Ative “Compartilhado com outros” e informe “Minha parte”. Os totais e os lembretes passarão a usar sua parte, e o detalhe da assinatura continuará mostrando o valor total."
+      },
+      {
+        "q": "Já cancelei uma assinatura: devo excluí-la?",
+        "a": "É melhor indicá-la como cancelada: na sua ficha, toque em “Já cancelei esta assinatura” e selecione o dia do último pagamento. Ela desaparecerá dos totais e dos lembretes, mas permanecerá no histórico e nas estatísticas. Você pode reativá-la a qualquer momento."
+      },
+      {
+        "q": "O Tacite pode cancelar uma assinatura por mim?",
+        "a": "Não: o Tacite não está conectado a nenhum serviço nem ao seu banco. Para uma assinatura feita na App Store, “Gerenciar meus assinaturas da App Store” abre diretamente a página de assinaturas da sua conta Apple. Para as demais, o cancelamento é feito no site do serviço."
+      },
+      {
+        "q": "Tenho assinaturas em várias moedas.",
+        "a": "Cada assinatura mantém sua moeda, e os totais são exibidos separadamente para cada uma, sem conversão. Escolha a moeda principal em Configurações › “Moeda principal”."
+      },
+      {
+        "q": "Como adicionar o widget?",
+        "a": "Toque e segure na tela Início ou na tela de bloqueio, depois selecione « Editar » e « Adicionar widget », e escolha Tacite. O widget “Próximos pagamentos” está disponível nos tamanhos pequeno e médio na tela Início, e em dois formatos na tela de bloqueio."
+      },
+      {
+        "q": "Meus dados são salvos ou sincronizados?",
+        "a": "Suas assinaturas são armazenadas no seu iPhone e podem estar incluídas nas suas cópias de segurança, se ativadas. O Tacite não sincroniza nada entre seus dispositivos, e seus dados desaparecem se você excluir o aplicativo. Para manter uma cópia, use Configurações › “Exportar para CSV”."
+      }
+    ],
+    "privacy_summary": "O Tacite não coleta nenhum dado pessoal, não se conecta a nenhum servidor e não contém publicidade, compras in-app nem rastreadores. Suas assinaturas permanecem no seu iPhone."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Em resumo",
+        "blocks": [
+          {
+            "p": "O Tacite não coleta nenhum dado pessoal. O aplicativo funciona offline, não se conecta a nenhum servidor, não pede conta alguma e não tem acesso ao seu banco. Tudo o que você digita permanece no seu iPhone, exceto se você optar por exportá-lo."
+          }
+        ]
+      },
+      {
+        "h": "Seus dados",
+        "blocks": [
+          {
+            "p": "O aplicativo armazena os assinaturas que você digita (nome, valor, moeda, frequência, datas, categoria, cor, meio de pagamento e observações) e suas configurações. O campo « meio de pagamento » é um texto livre: nunca insira um número de cartão nele."
+          },
+          {
+            "p": "Esses dados são armazenados no seu iPhone, em um espaço compartilhado exclusivamente com o widget do Tacite, e o desenvolvedor não tem acesso a eles. Assim como os dados de outros aplicativos, podem estar presentes nas cópias de segurança do seu iPhone caso você as tenha ativado. A exclusão do aplicativo os apaga."
+          }
+        ]
+      },
+      {
+        "h": "Notificações",
+        "blocks": [
+          {
+            "p": "As lembranças são notificações locais: elas são programadas e exibidas diretamente pelo seu iPhone, sem passar por nenhum servidor. Elas contêm o nome da assinatura, o valor e a data do prélèvement. Você pode desativá-las a qualquer momento nas configurações do iOS."
+          }
+        ]
+      },
+      {
+        "h": "Exportação",
+        "blocks": [
+          {
+            "p": "Nada sai do aplicativo sem sua ação. A exportação CSV contém suas assinaturas: você escolhe para onde enviá-las ou salvá-las, e então elas ficam sujeitas às condições do serviço escolhido."
+          }
+        ]
+      },
+      {
+        "h": "Permissões solicitadas",
+        "blocks": [
+          {
+            "p": "O Tacite solicita apenas permissão para exibir notificações, para as lembranças. Nenhuma câmera, posição, contatos ou fotos."
+          }
+        ]
+      },
+      {
+        "h": "Publicidade, compras e rastreamento",
+        "blocks": [
+          {
+            "p": "O Tacite é gratuito. Não contém publicidade alguma, compras integradas, rastreadores nem ferramentas de análise ou estatísticas de uso."
+          }
+        ]
+      },
+      {
+        "h": "Crianças",
+        "blocks": [
+          {
+            "p": "O aplicativo não coleta nenhum dado e é adequado para todas as idades."
+          }
+        ]
+      },
+      {
+        "h": "Alterações",
+        "blocks": [
+          {
+            "p": "Se esta política for alterada, a nova versão será publicada nesta página com sua data de atualização."
+          }
+        ]
+      },
+      {
+        "h": "Contato",
+        "blocks": [
+          {
+            "p": "Para qualquer dúvida sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

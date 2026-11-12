@@ -1,0 +1,128 @@
+{
+  "support": {
+    "subtitle": "A valódi előfizetési költségek és emlékeztetés minden egyes letöltés előtt",
+    "contact": "Van kérdése, ötlete vagy problémája? Írjon nekem: <br>{email}",
+    "faq": [
+      {
+        "q": "Hogyan adhatok hozzá előfizetést?",
+        "a": "Érintse meg a + gombot, majd adja meg a név, az ár, a gyakoriság és a következő elszámolás dátuma („Következő elszámolás”). A Tacite kiszámolja a következő esedékességeket, valamint a havi és éves költséget. A hónap végén megadott dátumot tiszteletben tartja: egy 31-én kezdett előfizetés február 28-án vagy 29-én, majd március 31-én kerül letöltésre."
+      },
+      {
+        "q": "Hogyan működnek az emlékeztetések?",
+        "a": "Minden előfizetéshez a „Emlékeztess” lehetőséget kínál: semmilyen emlékeztetés, ugyanazon a napon, egy nappal előtte vagy 2, 3 vagy 7 nappal előtte. Az értesítések időpontját a Beállítások › „Emelkedési időpont” menüben állíthatja be. Ha nem engedélyezte az értesítéseket, akkor a Beállítások gomb egy közvetlen linket biztosít az iPhone beállításaihoz."
+      },
+      {
+        "q": "És az ingyenes próbaverziók?",
+        "a": "Aktiválja a „Ingyenes próbaverzió folyamatban” lehetőséget: az ingyenes próbaverzió a következő letöltés napján ér véget. A Tacite legkésőbb az előző napon figyelmeztet, hogy időben le tudja mondani, ha a szolgáltatás nem felel meg a várakozásainak."
+      },
+      {
+        "q": "Már régóta fizetem ezt az előfizetést – hogyan számoljam be?",
+        "a": "Aktiválja a „Már fizetek…” lehetőséget, és adja meg első fizetési napját. Ekkor a múltbeli letöltések is szerepelnek a statisztikákban és az eddig kifizetett összegben, anélkül hogy a jövőbeli esedékességek megváltoznának."
+      },
+      {
+        "q": "Egy előfizetést osztok meg másokkal – hogyan számoljam csak a részem?",
+        "a": "Aktiválja a „Másik felhasználókkal megosztva” lehetőséget, és adja meg a „Részem” értékét. Ekkor a teljes összeg és az emlékeztetések is a saját rész alapján jelennek meg, és az előfizetés részletei továbbra is tartalmazzák az eredeti teljes árat."
+      },
+      {
+        "q": "Előfizetésem lejárt: töröljem az adatokat?",
+        "a": "Jobb, ha ezt a lejárt állapotba helyezed: a részletek oldalán érintsd meg a „Lezártam ezt az előfizetést” gombot, és válaszd ki a végleges kifizetés napját. A teljesítményekből és az emlékeztetőkből eltűnik, de továbbra is megmarad az elmentett előfizetési történetben és a statisztikákban. Bármi időpontban újra aktiválhatod."
+      },
+      {
+        "q": "El tudja-e a Tacite lemondani egy előfizetést helyettem?",
+        "a": "Nem: a Tacite semmilyen szolgáltatáshoz, semmilyen bankhoz nem kapcsolódik. Ha az App Store-on vásárolt előfizetésed van, akkor a „App Store előfizetéseim kezelése” közvetlenül a saját Apple-fiókod előfizetéseinek oldalára visz. A többi esetben a lemondás a szolgáltatás hivatalos honlapján történik."
+      },
+      {
+        "q": "Több különböző pénznemben is rendelkezem előfizetéssel.",
+        "a": "Minden előfizetés a saját pénzneme marad, és az összegek külön-külön jelennek meg minden pénznemhez, anélkül hogy átváltás történne. Válaszd ki a fő pénznemet a Beállítások > „Fő pénznem” menüpontban."
+      },
+      {
+        "q": "Hogyan adhatok hozzá widgetet?",
+        "a": "Nyomd meg hosszan az otthoni képernyőt vagy a zárolt képernyőt, majd válaszd a „Szerkesztés” lehetőséget, és a „Widget hozzáadása” menüt. Válaszd ki a Tacite alkalmazást. A „Következő elszámolások” widget kis és közepes méretben érhető el az otthoni képernyőn, két méretben pedig a zárolt képernyőn."
+      },
+      {
+        "q": "Adataim biztonságosan vannak-e mentve vagy szinkronizálva?",
+        "a": "Az előfizetéseid az iPhoneodon vannak tárolva, és ha engedélyezted a biztonsági másolatot, akkor az is belekerülhet a biztonsági másolatba. A Tacite nem szinkronizálja az adatokat több eszközön, és ha eltávolítod az alkalmazást, az adatok elvésznek. Ha meg szeretnéd őrizni a másolatot, használd a Beállítások > „Exportálás CSV-be” lehetőséget."
+      }
+    ],
+    "privacy_summary": "A Tacite semmilyen személyes adatot nem gyűjt, nem kapcsolódik semmilyen kiszolgálóhoz, és nincs benne reklám, vásárlás vagy nyomkövető. Az előfizetéseid az iPhoneodon maradnak."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Összefoglalva",
+        "blocks": [
+          {
+            "p": "A Tacite semmilyen személyes adatot nem gyűjt. Az alkalmazás offline működik, nem csatlakozik semmilyen kiszolgálóhoz, nem igényel fiókot, és nincs hozzáférése az ön bankszámlájához. Minden beírt adat az Ön iPhone-ján marad, kivéve, ha Ön kifejezetten exportálni választja."
+          }
+        ]
+      },
+      {
+        "h": "Adatok",
+        "blocks": [
+          {
+            "p": "Az alkalmazás rögzíti az Ön által megadott előfizetéseket (név, ár, deviza, gyakoriság, dátumok, kategória, szín, fizetési mód és megjegyzések), valamint a beállításait. A „fizetési mód” mező szövegként van megadva: soha ne írjon bele hitelkártyaszámot."
+          },
+          {
+            "p": "Ezek az adatok az Ön iPhone-ján, kizárólag a Tacite widgettel megosztott területen tárolódnak, és a fejlesztő hozzáféréséhez nincs joga. Ahogy más alkalmazások adatok is, ezek az adatok az iPhone biztonsági mentéseiben is szerepelhetnek, ha ezt engedélyezte. Az alkalmazás törlése az adatok törlését eredményezi."
+          }
+        ]
+      },
+      {
+        "h": "Értesítések",
+        "blocks": [
+          {
+            "p": "A emlékeztetők helyi értesítések: az iPhone saját maga programozza és jeleníti meg őket, semmilyen kiszolgáló átjáró nélkül. Ezek a bejegyzések tartalmazzák az előfizetés nevét, az összeget és a fizetési dátumot. Bármit megtehet az iOS beállításokban, hogy kikapcsolja őket."
+          }
+        ]
+      },
+      {
+        "h": "Exportálás",
+        "blocks": [
+          {
+            "p": "Semmi sem hagyja el az alkalmazást, kivéve, ha Ön aktívan cselekszik. A CSV export tartalmazza az Ön előfizetéseit: Ön választhatja ki, hova küldi vagy hol menti el őket, és ekkor az adatok a kiválasztott szolgáltató feltételeinek alávetettek."
+          }
+        ]
+      },
+      {
+        "h": "Kérésre engedélyezett jogosultságok",
+        "blocks": [
+          {
+            "p": "A Tacite csak az értesítések megjelenítésének engedélyét kéri, a emlékeztetőkhez. Semmilyen más jogosultságot nem kér: sem kamera, sem helymeghatározás, sem kontaktok, sem képek."
+          }
+        ]
+      },
+      {
+        "h": "Hirdetések, vásárlások és követés",
+        "blocks": [
+          {
+            "p": "A Tacite ingyenes. Nem tartalmaz hirdetéseket, belső vásárlásokat, nyomkövetőt vagy használati statisztikák, elemzési eszközöket."
+          }
+        ]
+      },
+      {
+        "h": "Gyerekek",
+        "blocks": [
+          {
+            "p": "Az alkalmazás nem gyűjt semmilyen adatot, és minden korosztály számára megfelelő."
+          }
+        ]
+      },
+      {
+        "h": "Módosítások",
+        "blocks": [
+          {
+            "p": "Ha ez a szabályzat megváltozik, az új verzió ezen oldalon jelenik meg a frissítés dátumával."
+          }
+        ]
+      },
+      {
+        "h": "Kapcsolat",
+        "blocks": [
+          {
+            "p": "Bármilyen kérdés esetén ezzel a politikával kapcsolatban: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}
