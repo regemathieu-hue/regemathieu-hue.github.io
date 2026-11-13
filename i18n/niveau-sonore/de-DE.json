@@ -1,47 +1,47 @@
 {
   "support": {
-    "subtitle": "Der Schallpegelmesser, der die Geräuschhistorie speichert",
+    "subtitle": "Der Schallpegelmesser, der den Geräuschverlauf speichert",
     "contact": "Eine Frage, eine Idee oder ein Wert, der Sie überrascht? Schreiben Sie mir:<br>{email}",
     "faq": [
       {
         "q": "Sind die angezeigten Werte zuverlässig?",
-        "a": "Sie sind nur Richtwerte. Das Mikrofon eines iPhone ist kein zertifizierter Schallpegelmesser: je nach Gerät kann der Unterschied einige Dezibel betragen, besonders bei sehr leisen oder sehr lauten Geräuschen. Die App eignet sich zum Vergleich von Momenten, Orten oder Abenden, nicht für offizielle Messungen."
+        "a": "Sie sind nur Richtwerte. Das Mikrofon eines iPhone ist kein zertifizierter Schallpegelmesser: je nach Gerät kann der Unterschied einige Dezibel betragen, besonders bei sehr leisen oder sehr lauten Geräuschen. Die App eignet sich gut zum Vergleichen von Momenten, Orten oder Abenden, nicht jedoch für offizielle Messungen."
       },
       {
         "q": "Wie kalibriere ich die App?",
-        "a": "Stellen Sie das iPhone neben einen Schallpegelmesser oder eine Apple Watch (App Noise) in einem stabilen Geräusch und starten Sie eine Messung. Gehen Sie in Einstellungen › Kalibrierung und passen Sie die Korrektur an, bis beide denselben Wert anzeigen. Die Korrektur wirkt sich auf die nächste Aufnahme aus."
+        "a": "Stellen Sie das iPhone neben einen Schallpegelmesser oder eine Apple Watch (App Noise) in einem stabilen Geräusch und starten Sie eine Messung. Gehen Sie in Einstellungen › Kalibrierung und passen Sie die Korrektur an, bis beide denselben Wert anzeigen. Die Korrektur gilt für die nächste Messung."
       },
       {
         "q": "Was bedeuten dB(A) und dB(Z)?",
-        "a": "Die A-Bewertung dämpft tiefe Frequenzen wie das menschliche Ohr: Sie wird von Schallpegelmessern und Geräuschvorschriften verwendet und ist standardmäßig aktiviert. Die Z-Bewertung korrigiert nichts: sie zeigt auch tiefere Töne an, wie beispielsweise einen Subwoofer oder eine Lüftung. Die Auswahl erfolgt in den Einstellungen."
+        "a": "Die A-Gewichtung dämpft tiefe Frequenzen wie das menschliche Ohr: Sie wird von Schallpegelmessern und Geräuschvorschriften verwendet und ist standardmäßig aktiviert. Die Z-Gewichtung korrigiert nichts: sie zeigt auch Tiefen an, beispielsweise einen Subwoofer oder eine Lüftung. Die Auswahl erfolgt in den Einstellungen."
       },
       {
         "q": "Was bedeuten Durchschnitt (Leq), Spitze, L10 und L90?",
-        "a": "Der Durchschnitt (Leq) ist der konstante Pegel, der die gleiche Schallenergie wie die gesamte Messung liefert: laute Geräusche haben mehr Gewicht. Die Spitze ist der höchste Pegel, der innerhalb eines Achtels einer Sekunde erreicht wird. L10 ist der Pegel, der 10 % der Zeit überschritten wird (wahrnehmbare Geräusche), L90 der Pegel, der 90 % der Zeit überschritten wird (Hintergrundgeräusch)."
+        "a": "Der Durchschnitt (Leq) ist der konstante Pegel, der die gleiche Schallenergie wie die gesamte Messung liefert: laute Geräusche haben mehr Gewicht. Die Spitze ist der höchste Pegel, der innerhalb eines Achtels einer Sekunde erreicht wird. L10 ist der Pegel, der 10 % der Zeit überschritten wird (auffällige Geräusche), L90 der Pegel, der 90 % der Zeit überschritten wird (Hintergrundgeräusch)."
       },
       {
-        "q": "Was ist die Geräuschdosis?",
+        "q": "Was ist die Lärmdosis?",
         "a": "Sie vergleicht den während der Messung empfangenen Lärm mit dem empfohlenen Tagesmaximum: 85 dB(A) über 8 Stunden, wobei sich die zulässige Dauer bei jeder zusätzlichen 3 dB halbiert. Bei 100 % ist die Tagesgrenze erreicht: darüber hinaus sollte ein Gehörschutz getragen werden. Es handelt sich um eine Schätzung, kein professionelles Dosimeter."
       },
       {
         "q": "Läuft die Messung weiter, wenn der Bildschirm gesperrt ist?",
-        "a": "Ja. Die Messung läuft weiter, auch wenn der Bildschirm gesperrt ist oder in einer anderen App verwendet wird; das orangefarbene Symbol in iOS zeigt an, dass das Mikrofon aktiv ist. Ein Anruf unterbricht die Messung und speichert sie. Standardmäßig bleibt der Bildschirm während der Messung eingeschaltet: Sie können dies in den Einstellungen deaktivieren."
+        "a": "Ja. Die Messung läuft weiter, auch wenn der Bildschirm gesperrt ist oder in einer anderen App aktiv ist; das orange Feld in iOS zeigt an, dass das Mikrofon aktiv ist. Ein Anruf unterbricht die Messung und speichert sie. Standardmäßig bleibt der Bildschirm während der Messung eingeschaltet: Sie können dies in den Einstellungen deaktivieren."
       },
       {
         "q": "Wie dokumentiere ich den Lärm eines Nachbarn?",
-        "a": "Wählen Sie einen Schwellenwert in den Einstellungen (z. B. 40 dB nachts), starten Sie eine Messung und lassen Sie das iPhone im Raum. Im Verlauf listet die Aufnahme jedes Mal, wenn der Pegel über die Schwelle hinausging, mit Uhrzeit, Dauer und Spitzenwert auf. Sie können sie benennen, eine Notiz hinzufügen, eine Zusammenfassung teilen oder alle Messwerte als CSV-Datei exportieren. Diese Aufzeichnungen helfen bei der Kommunikation, ersetzen jedoch keinen offiziellen Bericht."
+        "a": "Wählen Sie einen Schwellenwert in den Einstellungen (z. B. 40 dB nachts), starten Sie eine Messung und lassen Sie das iPhone im Raum. Im Verlauf werden jeweils alle Überschreitungen des Schwellenwerts mit Uhrzeit, Dauer und Spitzenpegel aufgelistet. Sie können sie benennen, eine Notiz hinzufügen, eine Zusammenfassung teilen oder alle Messwerte als CSV exportieren. Diese Aufzeichnungen helfen bei der Kommunikation, ersetzen jedoch keinen offiziellen Bericht."
       },
       {
         "q": "Werden meine Messungen gespeichert?",
-        "a": "Jede Messung wird auf Ihrem Gerät gespeichert, wenn Sie sie beenden, und alle 30 Sekunden während des Laufs. Die Aufnahmen werden nicht zwischen Ihren Geräten synchronisiert und werden gelöscht, wenn Sie die App deinstallieren: Exportieren Sie diejenigen, die Sie behalten möchten, als CSV."
+        "a": "Jede Messung wird auf Ihrem Gerät gespeichert, wenn Sie sie beenden, und alle 30 Sekunden während der Laufzeit. Die Aufnahmen werden nicht zwischen Ihren Geräten synchronisiert und werden gelöscht, wenn Sie die App deinstallieren: Exportieren Sie diejenigen als CSV, die Sie behalten möchten."
       },
       {
         "q": "Wie lösche ich eine Messung?",
-        "a": "Im Verlauf wischen Sie die Messung nach links, oder öffnen Sie sie und wählen „Delete recording“ aus."
+        "a": "Im Verlauf wischen Sie die Messung nach links, oder öffnen Sie sie und wählen „Aufnahme löschen“."
       },
       {
         "q": "Speichert die App, was sie hört?",
-        "a": "Nein. Der Mikrofonsound dient nur zur Berechnung des Pegels, auf dem iPhone, danach wird er vergessen. Es werden nur die Pegelwerte (einer pro Sekunde) gespeichert."
+        "a": "Nein. Der Mikrofonsound dient nur zur Berechnung des Pegels auf dem iPhone und wird danach verworfen. Es werden nur die Pegel (einer pro Sekunde) gespeichert."
       }
     ],
     "privacy_summary": "Sound Level sammelt keine personenbezogenen Daten, nimmt kein Audio auf, verbindet sich mit keinem Server und enthält weder Werbung noch Käufe noch Tracking-Elemente. Ihre Messungen bleiben auf Ihrem Gerät."
@@ -71,10 +71,10 @@
         "h": "Ihre Daten",
         "blocks": [
           {
-            "p": "Die App speichert Ihre Messungen: das Datum, ein Schallpegel pro Sekunde, den Namen und die Notiz, die Sie ihnen geben, sowie Ihre Einstellungen (Gewichtung, Schwelle, Kalibrierung)."
+            "p": "Die App speichert Ihre Messungen: das Datum, ein Schallpegel pro Sekunde, den Namen und die Notiz, die Sie ihnen geben, sowie Ihre Einstellungen (Gewichtung, Warnschwelle, Kalibrierung)."
           },
           {
-            "p": "Diese Daten werden auf Ihrem Gerät gespeichert, und der Entwickler hat keinen Zugriff darauf. Wie die Daten anderer Apps können sie in den Sicherungskopien Ihres Geräts enthalten sein, falls Sie diese aktiviert haben. Sie können jede Messung im Verlauf löschen; das Löschen der App löscht alle Einträge."
+            "p": "Diese Daten werden auf Ihrem Gerät gespeichert, und der Entwickler hat keinen Zugriff darauf. Wie die Daten anderer Apps können sie in den Sicherungskopien Ihres Geräts enthalten sein, falls Sie diese aktiviert haben. Sie können jede Aufnahme im Verlauf löschen; das Löschen der App löscht sie alle."
           }
         ]
       },
@@ -86,17 +86,17 @@
           },
           {
             "ul": [
-              "<strong>Zusammenfassung teilen</strong>: Der Text wird über iOS-Teilungstools (AirDrop, Nachrichten, Mail…) versendet und enthält Datum, Pegel, Spitzenwerte und die Notiz der Messung.",
-              "<strong>CSV-Export</strong>: Die Datei enthält Uhrzeit und Pegelwert jeder Sekunde. Sie wählen aus, wo sie gespeichert oder wem sie gesendet wird; danach gelten die Bedingungen des gewählten Dienstes."
+              "<strong>Zusammenfassung teilen</strong>: Der Text wird über die iOS-Teilungsfunktionen (AirDrop, Nachrichten, Mail…) versendet und enthält Datum, Pegel, Spitzenwerte und die Notiz der Messung.",
+              "<strong>Werte exportieren (CSV)</strong>: Die Datei enthält Uhrzeit und Pegel für jede Sekunde. Sie wählen aus, wo sie gespeichert oder wem sie gesendet wird; danach unterliegt sie den Bedingungen des gewählten Dienstes."
             ]
           }
         ]
       },
       {
-        "h": "Anzeigen, Käufe und Verfolgung",
+        "h": "Werbeinhalte, Käufe und Verfolgung",
         "blocks": [
           {
-            "p": "Sound Level ist kostenlos. Es enthält keine Werbung, keine In-App-Käufe, keine Tracker und keine Analyse- oder Nutzungstatistik-Tools."
+            "p": "Sound Level ist kostenlos. Es enthält keine Werbung, keine In-App-Käufe, keine Tracker und keine Analyse- oder Nutzungsstatistik-Tools."
           }
         ]
       },

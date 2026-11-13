@@ -1,50 +1,50 @@
 {
   "support": {
-    "subtitle": "Tiếng ồn đo được – ứng dụng ghi lại lịch sử mức độ tiếng ồn",
-    "contact": "Có câu hỏi, ý tưởng hay một phép đo nào khiến bạn ngạc nhiên? Gửi cho tôi: <br>{email}",
+    "subtitle": "Tiếng ồn đo được – ứng dụng ghi lại lịch sử tiếng ồn",
+    "contact": "Có câu hỏi, ý tưởng hay một mức độ đo nào đó khiến bạn ngạc nhiên? Gửi cho tôi: <br>{email}",
     "faq": [
       {
         "q": "Các giá trị hiển thị có đáng tin cậy không?",
-        "a": "Chúng chỉ mang tính tham khảo. Micro của iPhone không phải là thiết bị đo tiếng ồn được chứng nhận: tùy theo thiết bị, sai số có thể lên tới vài decibel, đặc biệt ở những âm thanh rất nhỏ hoặc rất to. Ứng dụng phù hợp để so sánh các thời điểm, địa điểm hay buổi tiệc với nhau, chứ không dùng để đo chính xác theo quy chuẩn."
+        "a": "Chúng chỉ mang tính tham khảo. Micro của iPhone không phải là thiết bị đo tiếng ồn được chứng nhận: tùy theo thiết bị, sai số có thể lên tới vài decibel, đặc biệt ở những âm thanh rất nhỏ hoặc rất to. Ứng dụng phù hợp để so sánh các thời điểm, địa điểm hay buổi tối với nhau, chứ không dùng để đo chính thức."
       },
       {
-        "q": "Làm thế nào để hiệu chỉnh ứng dụng?",
-        "a": "Đặt iPhone cạnh một thiết bị đo tiếng ồn hoặc Apple Watch (ứng dụng Noise), trong môi trường có tiếng ồn ổn định, rồi bắt đầu đo. Trong Cài đặt › Hiệu chuẩn, điều chỉnh giá trị bù cho đến khi hai thiết bị hiển thị cùng một giá trị. Giá trị hiệu chuẩn này sẽ áp dụng cho lần đo tiếp theo."
+        "q": "Làm thế nào để hiệu chuẩn ứng dụng?",
+        "a": "Đặt iPhone cạnh một máy đo tiếng ồn hoặc đồng hồ Apple Watch (ứng dụng Noise), trong môi trường có tiếng ồn ổn định, rồi bắt đầu đo. Trong Cài đặt › Hiệu chuẩn, điều chỉnh hiệu chỉnh cho đến khi hai thiết bị hiển thị cùng một giá trị. Hiệu chỉnh này sẽ áp dụng cho bản ghi tiếp theo."
       },
       {
         "q": "dB(A) và dB(Z) có nghĩa là gì?",
-        "a": "Pondération A làm giảm các tần số thấp như tai người: đây là loại được dùng bởi các thiết bị đo tiếng ồn và quy định về tiếng ồn, được chọn mặc định. Pondération Z không hiệu chỉnh gì cả: nó hiển thị cả dải tần số thấp, như loa siêu trầm hay quạt thông gió. Bạn có thể chọn loại này trong Cài đặt."
+        "a": "Chỉnh trọng số A làm giảm các tần số thấp như tai người: đây là loại được dùng bởi máy đo tiếng ồn và các quy định về tiếng ồn, được chọn mặc định. Chỉnh trọng số Z không hiệu chỉnh gì cả: nó hiển thị cả dải tần số thấp, như loa siêu trầm hoặc quạt thông gió. Bạn chọn loại này trong Cài đặt."
       },
       {
         "q": "Trung bình (Leq), đỉnh, L10 và L90 có nghĩa là gì?",
         "a": "Trung bình (Leq) là mức độ ổn định mang năng lượng âm thanh tương đương với toàn bộ phép đo: các tiếng ồn lớn sẽ ảnh hưởng nhiều hơn. Đỉnh là mức độ lớn nhất đạt được trong một tám phần một giây. L10 là mức độ vượt quá 10% thời gian (tiếng ồn đáng chú ý), còn L90 là mức độ vượt quá 90% thời gian (tiếng ồn nền)."
       },
       {
-        "q": "Liều lượng tiếng ồn là gì?",
+        "q": "Liều tiếng ồn là gì?",
         "a": "Nó so sánh mức độ tiếng ồn tiếp nhận trong quá trình đo với giới hạn khuyến nghị trong một ngày: 85 dB(A) trong 8 giờ, thời gian cho phép sẽ giảm một nửa mỗi khi tăng thêm 3 dB. Khi đạt 100%, giới hạn trong ngày đã được chạm đến: vượt quá mức này, cần đeo bảo vệ thính giác. Đây chỉ là ước tính, không phải thiết bị đo chuyên nghiệp."
       },
       {
-        "q": "Liệu phép đo có tiếp tục khi màn hình bị khóa không?",
-        "a": "Có. Phép đo sẽ tiếp tục dù màn hình đã khóa hay đang sử dụng ứng dụng khác; điểm cam trên iOS cho thấy microphone đang lắng nghe. Một cuộc gọi điện thoại sẽ dừng và lưu lại dữ liệu. Mặc định, màn hình sẽ vẫn sáng trong suốt quá trình đo: bạn có thể tắt tính năng này trong Settings."
+        "q": "Phép đo có tiếp tục khi màn hình bị khóa không?",
+        "a": "Có. Phép đo vẫn tiếp tục dù màn hình bị khóa hay đang sử dụng ứng dụng khác; điểm cam trên iOS cho biết microphone đang lắng nghe. Một cuộc gọi điện thoại sẽ tạm dừng và lưu lại phép đo. Mặc định, màn hình sẽ luôn bật trong khi đo: bạn có thể tắt tính năng này trong Cài đặt."
       },
       {
         "q": "Làm thế nào để ghi nhận tiếng ồn từ một người hàng xóm?",
-        "a": "Chọn ngưỡng trong Settings (ví dụ 40 dB vào ban đêm), sau đó bắt đầu đo và để iPhone trong phòng. Trong History, phép đo sẽ liệt kê từng lần vượt ngưỡng cùng thời gian, thời lượng và mức độ đỉnh. Bạn có thể đặt tên, thêm ghi chú, chia sẻ bản tóm tắt hoặc xuất toàn bộ dữ liệu dưới dạng CSV. Những ghi chép này giúp khởi động cuộc trò chuyện, nhưng không thay thế cho biên bản chính thức."
+        "a": "Chọn ngưỡng trong Cài đặt (ví dụ 40 dB vào ban đêm), sau đó bắt đầu đo và để iPhone trong phòng. Trong Lịch sử, bản ghi sẽ liệt kê từng lần tiếng ồn vượt ngưỡng, kèm theo thời gian, thời lượng và mức độ đỉnh. Bạn có thể đặt tên, thêm ghi chú, chia sẻ tóm tắt hoặc xuất tất cả các kết quả dưới dạng CSV. Những dữ liệu này giúp khởi động cuộc trao đổi, nhưng không thay thế cho biên bản chính thức."
       },
       {
-        "q": "Các phép đo của tôi có được lưu lại không?",
-        "a": "Mỗi lần đo sẽ được lưu trên thiết bị của bạn khi bạn dừng lại, và mỗi 30 giây trong khi đang chạy. Các phép đo không được đồng bộ giữa các thiết bị của bạn và sẽ bị xóa nếu bạn gỡ ứng dụng: hãy xuất các phép đo bạn muốn giữ lại dưới dạng CSV."
+        "q": "Các phép đo của tôi có được lưu trữ không?",
+        "a": "Mỗi lần đo sẽ được lưu trên thiết bị của bạn khi bạn dừng lại, và mỗi 30 giây trong quá trình đang chạy. Các bản ghi không được đồng bộ giữa các thiết bị của bạn và sẽ bị xóa nếu bạn gỡ ứng dụng: hãy xuất các bản ghi bạn muốn giữ dưới dạng CSV."
       },
       {
         "q": "Làm thế nào để xóa một phép đo?",
-        "a": "Trong lịch sử, vuốt phép đo sang trái, hoặc mở nó ra và chọn “Delete recording”."
+        "a": "Trong Lịch sử, vuốt bản ghi sang trái, hoặc mở nó ra và chọn Xóa bản ghi."
       },
       {
         "q": "Ứng dụng có ghi lại âm thanh mà nó nghe thấy không?",
         "a": "Không. Âm than từ micrô chỉ được dùng để tính mức độ, trên iPhone, rồi bị xóa ngay lập tức. Chỉ các mức độ (mỗi giây một lần) mới được lưu lại."
       }
     ],
-    "privacy_summary": "Sound Level không thu thập bất kỳ dữ liệu cá nhân nào, không ghi âm bất kỳ âm thanh nào, không kết nối với máy chủ nào và không chứa quảng cáo, mua hàng trong ứng dụng hay trình theo dõi. Các phép đo của bạn luôn nằm trên thiết bị của bạn."
+    "privacy_summary": "Sound Level không thu thập bất kỳ dữ liệu cá nhân nào, không ghi lại âm thanh, không kết nối với máy chủ nào và không có quảng cáo, mua hàng trong ứng dụng hay trình theo dõi. Các phép đo của bạn luôn nằm trên thiết bị của bạn."
   },
   "privacy": {
     "sections": [
@@ -52,7 +52,7 @@
         "h": "Tóm tắt",
         "blocks": [
           {
-            "p": "Sound Level không thu thập bất kỳ dữ liệu cá nhân nào. Ứng dụng hoạt động ngoại tuyến, không kết nối với máy chủ nào và không yêu cầu tài khoản. Micro chỉ được sử dụng để tính mức độ âm than: không có âm than nào được ghi lại hay truyền đi."
+            "p": "Sound Level không thu thập bất kỳ dữ liệu cá nhân nào. Ứng dụng hoạt động ngoại tuyến, không kết nối với máy chủ nào và không yêu cầu tài khoản. Micro chỉ được sử dụng để tính mức độ tiếng ồn: không có âm thanh nào được ghi lại hay truyền đi."
           }
         ]
       },
@@ -60,10 +60,10 @@
         "h": "Micro",
         "blocks": [
           {
-            "p": "Ứng dụng yêu cầu truy cập vào micro để đo độ ồn. Âm than được phân tích trực tiếp trên iPhone, rồi ngay lập tức bị xóa: nó chưa bao giờ được ghi lại, lưu trữ hay gửi đi đâu cả."
+            "p": "Ứng dụng yêu cầu truy cập vào micro để đo tiếng ồn. Âm thanh được phân tích trực tiếp trên iPhone, sau đó ngay lập tức bị xóa: nó không bao giờ được ghi lại, lưu trữ hay gửi đi đâu cả."
           },
           {
-            "p": "Bạn có thể hủy quyền này bất kỳ lúc nào trong Settings › Privacy & Security › Microphone. Ứng dụng sẽ không thể đo lường được nữa."
+            "p": "Bạn có thể hủy quyền này bất kỳ lúc nào trong Cài đặt › Quyền riêng tư và bảo mật › Micro. Ứng dụng sẽ không thể đo lường được nữa."
           }
         ]
       },
@@ -71,10 +71,10 @@
         "h": "Dữ liệu của bạn",
         "blocks": [
           {
-            "p": "Ứng dụng lưu trữ các phép đo của bạn: ngày, mức độ âm than mỗi giây, tên và ghi chú bạn đặt cho chúng, cũng như cài đặt của bạn (phân loại, ngưỡng, hiệu chuẩn)."
+            "p": "Ứng dụng lưu trữ các phép đo của bạn: ngày, mức độ tiếng ồn mỗi giây, tên và ghi chú bạn đặt cho chúng, cùng với cài đặt của bạn (chỉnh trọng số, ngưỡng cảnh báo, hiệu chuẩn)."
           },
           {
-            "p": "Dữ liệu này được lưu trên thiết bị của bạn, và nhà phát triển không thể truy cập vào. Giống như dữ liệu của các ứng dụng khác, nó có thể được bao gồm trong bản sao lưu thiết bị của bạn nếu bạn đã bật tính năng này. Bạn có thể xóa từng phép đo trong History; việc gỡ bỏ ứng dụng sẽ xóa toàn bộ dữ liệu."
+            "p": "Dữ liệu này được lưu trên thiết bị của bạn, và nhà phát triển không thể truy cập vào. Giống như dữ liệu của các ứng dụng khác, nó có thể nằm trong bản sao lưu thiết bị của bạn nếu bạn đã bật tính năng này. Bạn có thể xóa từng phép đo trong Lịch sử; việc gỡ bỏ ứng dụng sẽ xóa toàn bộ dữ liệu."
           }
         ]
       },
@@ -86,8 +86,8 @@
           },
           {
             "ul": [
-              "<strong>Chia sẻ một bản tóm tắt</strong>: văn bản sẽ đi qua các công cụ của iOS (AirDrop, Tin nhắn, Mail…) và bao gồm ngày, mức độ, đỉnh điểm và ghi chú của phép đo.",
-              "<strong>Xuất CSV</strong>: tệp chứa thời gian và mức độ mỗi giây. Bạn chọn nơi lưu hoặc gửi cho ai; tệp sẽ tuân theo điều khoản dịch vụ bạn chọn."
+              "<strong>Chia sẻ tóm tắt</strong>: văn bản được gửi qua các công cụ của iOS (AirDrop, Tin nhắn, Mail…) và bao gồm ngày, mức độ, đỉnh và ghi chú của phép đo.",
+              "<strong>Xuất dữ liệu (CSV)</strong>: tệp chứa thời gian và mức độ mỗi giây. Bạn chọn nơi lưu hoặc gửi cho ai; tệp sẽ tuân theo điều khoản của dịch vụ bạn chọn."
             ]
           }
         ]
@@ -120,7 +120,7 @@
         "h": "Liên hệ",
         "blocks": [
           {
-            "p": "Nếu bạn có bất kỳ câu hỏi nào về chính sách này: {email}"
+            "p": "Nếu có bất kỳ câu hỏi nào về chính sách này: {email}"
           }
         ]
       }

@@ -1,50 +1,50 @@
 {
   "support": {
-    "subtitle": "Gürültü tarihini tutan ses seviyesi ölçer",
-    "contact": "Bir sorun, bir fikir veya sizi şaşırtan bir ölçümlü mü? Bana yazın:<br>{email}",
+    "subtitle": "Gürültü tarihini saklayan ses seviyesi ölçer",
+    "contact": "Bir sorun, bir fikir veya sizi şaşırtan bir okuma mı var? Bana yazın:<br>{email}",
     "faq": [
       {
         "q": "Gösterilen değerler güvenilir mi?",
-        "a": "Bu değerler tahmini. iPhone mikrofonu, onaylanmış bir ses seviyesi ölçer değildir: cihaza göre fark birkaç desibel kadar olabilir, özellikle çok düşük ya da çok yüksek gürültülerde. Uygulama, farklı zamanlar, yerler veya akşamları karşılaştırmak için uygundur, resmi bir ölçüm için değil."
+        "a": "Bu değerler tahmini. iPhone mikrofonu, onaylanmış bir ses seviyesi ölçer değildir: cihaza göre fark birkaç desibel kadar olabilir, özellikle çok hafif veya çok yüksek gürültülerde. Uygulama, farklı zamanlar, yerler veya akşamları karşılaştırmak için uygundur, resmi bir ölçüm için değil."
       },
       {
-        "q": "Uygulamayı nasıl ayarlayabilirim?",
-        "a": "iPhone’u sabit bir gürültüde bir ses seviyesi ölçer veya Apple Watch (Bruit uygulaması) yanında koyun ve bir ölçüm başlatın. Ayarlar › Kalibrasyon'da düzeltmeyi, aynı değeri okuyana kadar ayarlayın. Düzeltme sonraki ölçüme uygulanır."
+        "q": "Uygulamayı nasıl kalibre ederim?",
+        "a": "iPhone'ı sabit bir gürültüde bir ses seviyesi ölçer veya Apple Watch (Noise uygulaması) yanında koyun ve ölçümü başlatın. Ayarlar › Kalibrasyon'da düzeltmeyi, aynı değeri okuyana kadar ayarlayın. Düzeltme sonraki ölçüme uygulanır."
       },
       {
-        "q": "dB(A) ve dB(Z) ne anlama geliyor?",
-        "a": "A ağırlığı insan kulağı gibi düşük frekansları azaltır: ses seviyesi ölçerlerde ve gürültü düzenlemelerinde kullanılır, varsayılan olarak seçilir. Z ağırlığı hiçbir şeyi düzeltmez: bassleri de gösterir, örneğin bir subwoofer ya da havalandırma sistemi gibi. Seçim Ayarlar'da yapılır."
+        "q": "dB(A) ve dB(Z) ne anlama gelir?",
+        "a": "A ağırlıklandırması insan kulağı gibi düşük frekansları azaltır: ses seviyesi ölçerlerde ve gürültü düzenlemelerinde kullanılır, varsayılan olarak seçilir. Z ağırlıklandırması hiçbir şeyi düzeltmez: bassleri de gösterir, örneğin bir subwoofer veya vantilatör gibi. Seçim Ayarlar'dan yapılır."
       },
       {
-        "q": "Ortalama (Leq), zirve, L10 ve L90 ne anlama geliyor?",
-        "a": "Ortalama (Leq), ölçülen sürenin toplam enerjisine eşit ses enerjisi taşıyan sabit seviyedir: yüksek sesli gürültüler daha fazla ağırlığa sahiptir. Zirve, sekizde bir saniye içinde ulaşılan en yüksek seviyedir. L10, zamanın %10’unda aşılacak seviye (dikkat çekici gürültü), L90 ise zamanın %90’ında aşılacak seviye (arka plan gürültüsü)."
+        "q": "Ortalama (Leq), zirve, L10 ve L90 ne anlama gelir?",
+        "a": "Ortalama (Leq), tüm ölçüm boyunca aynı ses enerjisini taşıyacak sabit seviye olarak tanımlanır; yüksek sesli gürültüler daha fazla etki eder. Zirve, sekizde bir saniye içinde ulaşılan en yüksek seviyedir. L10, zamanın %10'unda aşılan seviyedir (dikkat çekici gürültü), L90 ise zamanın %90'ında aşılan seviyedir (arka plan gürültüsü)."
       },
       {
         "q": "Gürültü dozu nedir?",
-        "a": "Bu, ölçüm sırasında alınan gürültüyü bir gün boyunca önerilen maksimum seviyeye kıyaslar: 8 saat boyunca 85 dB(A), her 3 dB artışta kabul edilebilir süre yarıya iner. %100'e ulaşıldığında, günlük sınır aşılmıştır: bunun üzerine kulaklık kullanmak gerekir. Bu bir tahmindir, profesyonel dozimetre değildir."
+        "a": "Bu, ölçüm sırasında alınan gürültüyü günlük önerilen maksimumla karşılaştırır: 8 saat boyunca 85 dB(A), her 3 dB artışta kabul edilebilir süre iki katına çıkar. %100'e ulaşıldığında günlük sınır aşılmıştır; bunun üzerine kulaklık kullanımı gerekir. Bu, profesyonel bir dozimetre değil, tahmini bir değerdir."
       },
       {
         "q": "Ekran kilidindeyken ölçüm devam eder mi?",
-        "a": "Evet. Ölçüm, ekran kilitliyken veya başka bir uygulamada da devam eder; iOS'da mikrofonun dinlediğini gösteren turuncu nokta görünür. Bir telefon araması ölçümü durdurur ve kaydeder. Varsayılan olarak ölçüm sırasında ekran açık kalır: bu özelliği Ayarlar'dan kapatmak mümkündür."
+        "a": "Evet. Ölçüm, ekran kilitliyken veya başka bir uygulamada da devam eder; iOS'da mikrofonun dinlediğini gösteren turuncu nokta görünür. Telefon araması ölçümü durdurur ve kaydeder. Varsayılan olarak ölçüm sırasında ekran açık tutulur; bunu Ayarlar'dan kapatabilirsiniz."
       },
       {
-        "q": "Komşunun gürültüsünü nasıl kaydetmek istiyorum?",
-        "a": "Ayarlar'da bir eşik seçin (örneğin gece 40 dB), ardından bir ölçüm başlatın ve iPhone'ı odada bırakın. Tarihçede, eşikten yüksek geçişlerin her biri saati, süresi ve zirvesiyle listelenir. İsmi verilebilir, not ekleyebilir, özet paylaşılabilir veya tüm okumalar CSV olarak dışa aktarılabilir. Bu okumalar konuşma başlatmaya yardımcı olur ancak resmi bir rapor yerine geçemez."
+        "q": "Komşunun gürültüsünü nasıl kaydedebilirim?",
+        "a": "Ayarlar'da bir eşiği seçin (örneğin gece 40 dB), ardından ölçümü başlatın ve iPhone'ı odada bırakın. Geçmiş bölümünde, eşiğin üzerinde geçişlerin her biri saat, süresi ve zirve değerleriyle listelenir. İsmi verilebilir, not eklenerek, özet paylaşılabilir veya tüm okumalar CSV olarak dışa aktarılabilir. Bu okumalar konuşmaya başlamak için yardımcı olur ancak resmi bir raporun yerini alamaz."
       },
       {
-        "q": "Kayıtlarım saklanıyor mu?",
-        "a": "Her ölçüm, durdurduğunuzda cihazınızda kaydedilir ve çalışırken her 30 saniyede bir kaydedilir. Kayıtlar cihazlarınız arasında senkronize edilmez ve uygulamayı silerseniz silinir: saklamak istediğiniz kayıtları CSV olarak dışa aktarın."
+        "q": "Ölçümlerim kaydediliyor mu?",
+        "a": "Her ölçüm, durdurduğunuzda cihazınızda kaydedilir ve çalışırken her 30 saniyede bir kaydedilir. Kayıtlar cihazlarınız arasında senkronize edilmez ve uygulamayı silerseniz silinir: saklamak istediğinizleri CSV olarak dışa aktarın."
       },
       {
         "q": "Bir ölçümü nasıl silerim?",
-        "a": "Tarihçede, ölçümü sola doğru sürükleyin veya açın ve « Delete recording » seçeneğini seçin."
+        "a": "Geçmiş'te ölçümü sola kaydırın veya açın ve «Kaydı sil» seçeneğini seçin."
       },
       {
-        "q": "Uygulama duyduğu şeyi kaydeder mi?",
-        "a": "Hayır. Mikrofon sesi yalnızca düzeyi hesaplamak için kullanılır, iPhone'da kullanıldıktan sonra unutulur. Sadece düzeyler (her saniye bir) kaydedilir."
+        "q": "Uygulama ne duyduğunu kaydeder mi?",
+        "a": "Hayır. Mikrofon sesi yalnızca düzeyi hesaplamak için iPhone'da kullanılır ve ardından unutulur. Sadece düzeyler (her saniye bir) kaydedilir."
       }
     ],
-    "privacy_summary": "Sound Level hiçbir kişisel veri toplamaz, hiçbir ses kaydı yapmaz, hiçbir sunucuya bağlanmaz ve reklam, satın alma veya izleyici içermez. Kayıtlarınız cihazınızda kalır."
+    "privacy_summary": "Gürültü Düzeyi hiçbir kişisel veri toplamaz, hiçbir ses kaydı yapmaz, hiçbir sunucuya bağlanmaz ve reklam, satın alma veya izleyici içermez. Ölçümleriniz cihazınızda kalır."
   },
   "privacy": {
     "sections": [
@@ -60,7 +60,7 @@
         "h": "Mikrofon",
         "blocks": [
           {
-            "p": "Uygulama gürültüyü ölçmek için mikrofona erişim istiyor. Ses, iPhone'da anında analiz edilir ve hemen unutulur: hiçbir yerde kaydedilmez, saklanmaz veya gönderilmez."
+            "p": "Uygulama gürültüyü ölçmek için mikrofona erişim istiyor. Ses, iPhone üzerinde anında analiz edilir ve hemen unutulur: hiçbir yerde kaydedilmez, saklanmaz veya gönderilmez."
           },
           {
             "p": "Bu izni her zaman Ayarlar › Gizlilik ve Güvenlik › Mikrofon menüsünden kaldırabilirsiniz. Uygulama daha sonra ölçüm yapamaz."
@@ -71,10 +71,10 @@
         "h": "Verileriniz",
         "blocks": [
           {
-            "p": "Uygulama ölçümlerinizin kaydını tutar: tarih, saniyede bir ses seviyesi, onlara verdiğiniz isim ve not, ayrıca ayarlarınız (ağırlık, eşik, kalibrasyon)."
+            "p": "Uygulama ölçümlerinizin kaydını tutar: tarih, saniyede bir ses seviyesi, onlara verdiğiniz isim ve not, ayrıca ayarlarınız (ağırlıklandırma, uyarı eşiği, kalibrasyon)."
           },
           {
-            "p": "Bu veriler cihazınızda saklanır ve geliştiriciye erişimi yoktur. Diğer uygulamaların verileri gibi, etkinse cihaz yedeklemelerine dahil olabilirler. Her bir kaydı tarihçede silmek mümkündür; uygulamayı silmek tümünü siler."
+            "p": "Bu veriler cihazınızda saklanır ve geliştirici bunlara erişemez. Diğer uygulamaların verileri gibi, etkinse cihaz yedeklemelerine dahil olabilirler. Geçmişteki her kaydı tek tek silebilirsiniz; uygulamayı silmek tümünü siler."
           }
         ]
       },
@@ -82,21 +82,21 @@
         "h": "Paylaşım ve dışa aktarma",
         "blocks": [
           {
-            "p": "Uygulamadan hiçbir şey, sizin eyleminiz olmadan çıkartılmaz."
+            "p": "Uygulamadan hiçbir şey, sizin eyleminiz olmadan ayrılmaz."
           },
           {
             "ul": [
-              "<strong>Özet Paylaşımı</strong>: metin iOS paylaşım araçları (AirDrop, Mesajlar, Posta…) aracılığıyla geçer ve ölçümün tarihi, seviyeleri, zirveleri ve notu içerir.",
-              "<strong>CSV Dışa Aktarımı</strong>: dosya her saniyenin saati ve seviyesini içerir. Dosyayı nereye kaydetmek veya kime göndermek istediğinizi seçersiniz; ardından seçtiğiniz hizmetin koşullarına tabi tutulur."
+              "<strong>Özet Paylaş</strong>: metin iOS paylaşım araçları (AirDrop, Mesajlar, Posta…) aracılığıyla geçer ve ölçümün tarihi, seviyeleri, zirveleri ve notu içerir.",
+              "<strong>Okumaları dışa aktar (CSV)</strong>: dosya her saniyenin saati ve seviyesini içerir. Dosyayı nereye kaydetmek veya kime göndermek istediğinizi seçersiniz; ardından seçilen hizmetin koşullarına tabi tutulur."
             ]
           }
         ]
       },
       {
-        "h": "Reklam, Alışveriş ve Takip",
+        "h": "Reklam, satın alma ve izleme",
         "blocks": [
           {
-            "p": "Sound Level ücretsizdir. İçinde hiçbir reklam, iç içe satın alma, izleyici veya kullanım istatistikleri analiz aracı bulunmaz."
+            "p": "Ses Seviyesi ücretsizdir. Hiçbir reklam, iç içe satın alma, izleyici veya kullanım istatistikleri gibi araçlar içermez."
           }
         ]
       },
@@ -104,7 +104,7 @@
         "h": "Çocuklar",
         "blocks": [
           {
-            "p": "Uygulama herhangi bir veri toplamaz ve tüm yaş grupları için uygundur."
+            "p": "Uygulama hiçbir veri toplamaz ve tüm yaş grupları için uygundur."
           }
         ]
       },

@@ -5,54 +5,54 @@
     "faq": [
       {
         "q": "As leituras apresentadas são fiáveis?",
-        "a": "São indicativas. O microfone de um iPhone não é o de um sonómetro certificado: consoante o dispositivo, a diferença pode atingir alguns decibéis, especialmente em ruídos muito baixos ou muito altos. A aplicação é adequada para comparar momentos, locais ou festas entre si, não para medições oficiais."
+        "a": "São indicativas. O microfone de um iPhone não é o de um sonómetro homologado: consoante o dispositivo, a diferença pode atingir alguns decibéis, especialmente em ruídos muito baixos ou muito altos. A aplicação serve para comparar momentos, locais ou noites entre si, não para medições oficiais."
       },
       {
         "q": "Como calibro a aplicação?",
-        "a": "Coloque o iPhone ao lado de um sonómetro ou de uma Apple Watch (aplicação Noise), num ruído estável, e inicie uma medição. Em Configurações › Calibração, ajuste a correção até ler o mesmo valor. A correção aplica-se à próxima medição."
+        "a": "Coloque o iPhone ao lado de um sonómetro ou de uma Apple Watch (aplicação Noise), num ruído estável, e inicie uma medição. Em Definições › Calibração, ajuste a correção até ler o mesmo valor. A correção aplica-se à medição seguinte."
       },
       {
         "q": "O que significam dB(A) e dB(Z)?",
-        "a": "A ponderação A atenua os graves como faz a orelha humana: é a utilizada por sonómetros e regulamentações sobre ruído, escolhida por predefinição. A ponderação Z não corrige nada: mostra também as frequências baixas, como um subwoofer ou uma ventilação. A escolha é feita em Configurações."
+        "a": "A pesagem A atenua os graves como o ouvido humano: é a utilizada por sonómetros e regulamentações sobre ruído, escolhida por predefinição. A pesagem Z não corrige nada: mostra também as frequências baixas, como um subwoofer ou uma ventilação. A seleção faz-se nas Definições."
       },
       {
         "q": "O que significam média (Leq), pico, L10 e L90?",
-        "a": "A média (Leq) é o nível constante que proporcionaria a mesma energia sonora que toda a medição: os ruídos fortes têm maior peso. O pico é o nível mais alto atingido em um oitavo de segundo. O L10 é o nível ultrapassado 10 % do tempo (ruídos significativos), o L90 aquele ultrapassado 90 % do tempo (ruído de fundo)."
+        "a": "A média (Leq) é o nível constante que proporcionaria a mesma energia sonora que toda a medição: os ruídos fortes têm maior peso. O pico é o nível mais elevado atingido em um oitavo de segundo. O L10 é o nível ultrapassado 10 % do tempo (ruídos significativos), o L90 o nível ultrapassado 90 % do tempo (ruído de fundo)."
       },
       {
         "q": "O que é a dose de ruído?",
-        "a": "Compara o ruído recebido durante a medição com o máximo recomendado num dia: 85 dB(A) durante 8 horas, sendo que a duração permitida é dividida por dois a cada 3 dB adicionais. A 100 %, atinge-se o limite diário: para além disso, recomenda-se proteção auditiva. É uma estimativa, não um dosímetro profissional."
+        "a": "Compara o ruído recebido durante a medição com o máximo recomendado num dia: 85 dB(A) durante 8 horas, com a duração permitida a dividir por dois a cada 3 dB adicionais. A 100 %, atinge-se o limite diário: além disso, é necessário usar proteção auditiva. É uma estimativa, não um dosímetro profissional."
       },
       {
         "q": "A medição continua quando o ecrã está bloqueado?",
-        "a": "Sim. A medição continua com o ecrã bloqueado ou numa outra aplicação; o ponto laranja do iOS indica que o microfone está a escutar. Uma chamada telefónica interrompe e guarda a medição. Por predefinição, o ecrã permanece ligado durante a medição: pode desativar esta opção em Configurações."
+        "a": "Sim. A medição continua com o ecrã bloqueado ou numa outra aplicação; o ponto laranja do iOS indica que o microfone está a escutar. Uma chamada telefónica interrompe e guarda a medição. Por predefinição, o ecrã permanece ligado durante a medição: pode desativar esta opção nas Definições."
       },
       {
         "q": "Como registar o ruído de um vizinho?",
-        "a": "Escolha um limiar em Configurações (por exemplo, 40 dB à noite), depois inicie uma medição e deixe o iPhone na sala. No histórico, a medição lista cada vez que o nível ultrapassou o limiar, com a hora, duração e pico. Pode nomeá-la, adicionar uma nota, partilhar um resumo ou exportar todos os registos em CSV. Estes registos ajudam na conversa, mas não substituem um registo oficial."
+        "a": "Escolha um limite nas Definições (por exemplo, 40 dB à noite), depois inicie uma medição e deixe o iPhone na sala. No Histórico, a gravação lista cada vez que o ruído ultrapassou o limite, com a hora, a duração e o pico. Pode nomeá-la, adicionar uma nota, partilhar um resumo ou exportar todas as leituras em CSV. Estas leituras ajudam a iniciar uma conversa, mas não substituem um registo oficial."
       },
       {
         "q": "As minhas medições são guardadas?",
-        "a": "Cada medição é guardada no seu dispositivo quando a termina, e de cada 30 segundos enquanto está em curso. As medições não são sincronizadas entre os seus dispositivos e desaparecem se eliminar a aplicação: exporte as que quiser manter em formato CSV."
+        "a": "Cada medição é guardada no seu dispositivo quando a termina, e de cada 30 segundos enquanto está em curso. As medições não são sincronizadas entre os seus dispositivos e desaparecem se eliminar a aplicação: exporte as que quiser manter como CSV."
       },
       {
         "q": "Como elimino uma medição?",
-        "a": "No histórico, deslize a medição para a esquerda, ou abra-a e selecione « Delete recording »."
+        "a": "No Histórico, deslize a medição para a esquerda, ou abra-a e escolha Eliminar gravação."
       },
       {
-        "q": "A aplicação grava o que ouve?",
-        "a": "Não. O som do microfone é apenas utilizado para calcular o nível, no iPhone, e depois é esquecido. Apenas os níveis (um por segundo) são guardados."
+        "q": "A aplicação guarda o que ouve?",
+        "a": "Não. O som do microfone é apenas utilizado para calcular o nível, no iPhone, e depois é descartado. Apenas os níveis (um por segundo) são guardados."
       }
     ],
-    "privacy_summary": "Sound Level não recolhe quaisquer dados pessoais, não grava som algum, não se conecta a nenhum servidor e não contém anúncios, compras in-app nem rastreadores. As suas medições permanecem no seu dispositivo."
+    "privacy_summary": "Sound Level não recolhe dados pessoais, não grava som, não se conecta a nenhum servidor e não contém publicidade, compras in-app nem rastreadores. As suas medições permanecem no seu dispositivo."
   },
   "privacy": {
     "sections": [
       {
-        "h": "Resumo",
+        "h": "Em resumo",
         "blocks": [
           {
-            "p": "O Sound Level não recolhe quaisquer dados pessoais. A aplicação funciona offline, não se conecta a nenhum servidor e não exige conta. O microfone é utilizado apenas para calcular um nível sonoro: nenhum som é gravado nem transmitido."
+            "p": "O Nível Sonoro não recolhe quaisquer dados pessoais. A aplicação funciona offline, não se conecta a nenhum servidor e não exige conta. O microfone é utilizado apenas para calcular um nível sonoro: nenhum som é gravado nem transmitido."
           }
         ]
       },
@@ -60,10 +60,10 @@
         "h": "O microfone",
         "blocks": [
           {
-            "p": "A aplicação pede acesso ao microfone para medir o ruído. O som é analisado em tempo real no iPhone e imediatamente esquecido: nunca é gravado, armazenado ou enviado para qualquer lugar."
+            "p": "A aplicação pede acesso ao microfone para medir o ruído. O som é analisado em tempo real no iPhone, e de imediato esquecido: nunca é gravado, armazenado ou enviado para qualquer local."
           },
           {
-            "p": "Pode retirar esta autorização a qualquer momento em Configurações › Privacidade e Segurança › Microfone. A aplicação não poderá então mais medir."
+            "p": "Pode remover esta autorização a qualquer momento em Definições › Privacidade e Segurança › Microfone. A aplicação já não poderá medir."
           }
         ]
       },
@@ -71,10 +71,10 @@
         "h": "Os seus dados",
         "blocks": [
           {
-            "p": "A aplicação guarda as suas medições: a data, um nível sonoro por segundo, o nome e a nota que lhes atribui, bem como as suas definições (ponderação, limiar, calibração)."
+            "p": "A aplicação guarda as suas medições: a data, um nível sonoro por segundo, o nome e a nota que lhes atribui, bem como as suas definições (pesagem, limite, calibração)."
           },
           {
-            "p": "Estes dados são armazenados no seu dispositivo, e o desenvolvedor não tem acesso a eles. Tal como os dados de outras aplicações, podem estar incluídos nas cópias de segurança do seu dispositivo se as tiver ativado. Pode eliminar cada medição na história; a eliminação da aplicação elimina-as todas."
+            "p": "Estes dados são armazenados no seu dispositivo, e o desenvolvedor não tem acesso a eles. Tal como os dados de outras aplicações, podem estar incluídos nas cópias de segurança do seu dispositivo se as tiver ativado. Pode eliminar cada medição no histórico; a eliminação da aplicação elimina-as todas."
           }
         ]
       },
@@ -86,8 +86,8 @@
           },
           {
             "ul": [
-              "<strong>Partilha de um resumo</strong>: o texto passa pelos serviços do iOS (AirDrop, Mensagens, Mail…) e inclui a data, os níveis, os picos e a nota da medição.",
-              "<strong>Exportação CSV</strong>: o ficheiro contém a hora e os níveis de cada segundo. Escolhe onde guardar ou para quem enviar; fica sujeito aos termos do serviço escolhido."
+              "<strong>Partilhar resumo</strong>: o texto passa pelos serviços de partilha do iOS (AirDrop, Mensagens, Mail…) e contém a data, os níveis, os picos e a nota da medição.",
+              "<strong>Exportar leituras (CSV)</strong>: o ficheiro contém a hora e os níveis de cada segundo. Escolhe onde guardar ou para quem enviar; fica então sujeito aos termos do serviço escolhido."
             ]
           }
         ]

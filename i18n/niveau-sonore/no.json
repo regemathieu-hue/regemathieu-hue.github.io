@@ -1,50 +1,50 @@
 {
   "support": {
-    "subtitle": "Sonometeren som holder styr på lydnivåhistorikken",
-    "contact": "Har du en spørsmål, en idé eller en måling som overrasker deg? Skriv til meg:<br>{email}",
+    "subtitle": "Lydnivåmåleren som lagrer støyhistorikk",
+    "contact": "Har du en spørsmål, en idé eller en måling som overrasker deg? Skriv meg:<br>{email}",
     "faq": [
       {
-        "q": "Er verdiene som vises pålitelige?",
-        "a": "De er veiledende. Mikrofonen på en iPhone er ikke den samme som på en godkjent sonometer: avhengig av enheten kan avviket nå noen desibel, spesielt ved svært lavt eller høyt støynivå. Applikasjonen er egnet for å sammenligne øyeblikk, steder eller kvelder, ikke for offisielle målinger."
+        "q": "Er verdiene vist på skjermen pålitelige?",
+        "a": "De er veiledende. Mikrofonen på en iPhone er ikke den samme som på en godkjent lydnivåmåler: avhengig av enheten kan avviket nå noen desibel, spesielt ved svært stille eller svært høye lydverdier. Appet er egnet for å sammenligne øyeblikk, steder eller kvelder, ikke for offisielle målinger."
       },
       {
-        "q": "Hvordan kalibrerer jeg applikasjonen?",
-        "a": "Sett iPhone ved siden av et sonometer eller en Apple Watch (app Bruit), i en stabil støy, og start måling. I Settings › Calibration, juster korreksjonen til begge viser samme verdi. Korreksjonen gjelder for neste måling."
+        "q": "Hvordan kalibrerer jeg appen?",
+        "a": "Sett iPhone ved siden av en lydnivåmåler eller en Apple Watch (app: Støy) i et stabil støyområde, og start måling. I Innstillinger › Kalibrering, juster korreksjonen til begge viser samme verdi. Korreksjonen gjelder for neste måling."
       },
       {
         "q": "Hva betyr dB(A) og dB(Z)?",
-        "a": "A-vekting reduserer bassfrekvenser som menneskehøret kan oppfatte: dette er standard for sonometre og støyreguleringer, og valgt som forvalg. Z-vekting korregerer ikke noe: den viser også bass, som en subwoofer eller ventilasjon. Valget gjøres i Settings."
+        "a": "A-vekting reduserer bass som menneskehørelsen: dette er standard for lydnivåmålere og støyreguleringer, og er valgt som forvalg. Z-vekting korregerer ingenting: den viser også bass, som en subwoofer eller ventilasjon. Valget gjøres i Innstillinger."
       },
       {
         "q": "Hva betyr gjennomsnitt (Leq), topp, L10 og L90?",
-        "a": "Gjennomsnittet (Leq) er den konstante nivået som ville ha samme lydenergi som hele målingen: sterke lyder veier mer. Toppen er det høyeste nivået oppnådd på en åttendedel av en sekund. L10 er nivået som overskrides 10 % av tiden (merkbare lyder), mens L90 er nivået som overskrides 90 % av tiden (bakgrunnslyd)."
+        "a": "Gjennomsnittet (Leq) er den konstante nivået som ville overført samme lydenergi som hele målingen: sterke lyder veier tyngre. Topp er det høyeste nivået oppnådd på en åttendedel sekund. L10 er nivået som overskrides 10 % av tiden (merkbar støy), mens L90 er nivået som overskrides 90 % av tiden (bakgrunnsstøy)."
       },
       {
-        "q": "Hva er lyddosen?",
-        "a": "Den sammenligner den mottatte lyden under målingen med den anbefalte maksimumsnivået per dag: 85 dB(A) i 8 timer, der tillatt tid halveres for hver 3 dB mer. Ved 100 % er døgnsgrensen nådd: over dette bør du bruke hørselbeskyttelse. Det er en estimat, ikke et profesjonelt dosimeter."
+        "q": "Hva er støydose?",
+        "a": "Den sammenligner støyen du har mottatt under målingen med den anbefalte maksimumsverdien per dag: 85 dB(A) i 8 timer, der den tillatte tiden halveres for hver 3 dB mer. Ved 100 % er døgnsgrensen nådd: over dette kreves hørselvern. Det er en estimat, ikke et profesjonelt dosimeter."
       },
       {
         "q": "Fortsetter målingen når skjermen er låst?",
-        "a": "Ja. Målingen fortsetter med låst skjerm eller i en annen app; den orange prikken i iOS viser at mikrofonen lytter. En telefonoppringing stopper og lagrer målingen. Som standard forblir skjermen på under måling: du kan deaktivere dette i Settings."
+        "a": "Ja. Målingen fortsetter selv når skjermen er låst eller i en annen app; den orange prikken i iOS viser at mikrofonen lytter. Et telefonoppring har som følge at målingen stoppes og lagres. Som standard holder skjermen seg på under måling: du kan deaktivere dette i Innstillinger."
       },
       {
-        "q": "Hvordan noterer jeg en støyende nabo?",
-        "a": "Velg en terskel i Settings (for eksempel 40 dB om natten), start en måling og la iPhone være i rommet. I historikken viser målingen hver gang lyden går over terskelen, med tidspunkt, varighet og toppverdi. Du kan gi den et navn, legge til en notat, dele en oppsummering eller eksportere alle målingene som CSV. Disse målingene hjelper til å starte en samtale, men erstatter ikke en offisiell rapport."
+        "q": "Hvordan registrerer jeg støy fra en nabo?",
+        "a": "Velg et trinn i Innstillinger (for eksempel 40 dB om natten), start en måling og la iPhone være i rommet. I Historikk viser målingen hver gang støyen overstiger trinnet, med tidspunkt, varighet og toppverdi. Du kan gi den et navn, legge til en notat, dele en oppsummering eller eksportere alle målingene som Eksporter målinger (CSV). Disse målingene hjelper til å starte en samtale, men erstatter ikke en offisiell rapport."
       },
       {
         "q": "Er mine målinger lagret?",
-        "a": "Hver måling blir lagret på enheten din når du stopper den, og hver 30. sekund mens den kjører. Målingene blir ikke synkronisert mellom enhetene dine, og slettes hvis du fjerner appen: eksporter de du vil beholde som CSV."
+        "a": "Hver måling blir lagret på enheten din når du stopper den, og hvert 30. sekund mens den kjører. Målingene blir ikke synkronisert mellom dine enheter og slettes hvis du fjerner appen: eksporter de du vil beholde som CSV."
       },
       {
         "q": "Hvordan sletter jeg en måling?",
-        "a": "I historikken sveiper du målingen mot venstre, eller åpner den og velger «Delete recording»."
+        "a": "I Historikk, sveip målingen til venstre, eller åpne den og velg «Slett opptak»."
       },
       {
-        "q": "Lagrer appen det den hører?",
-        "a": "Nei. Lyden fra mikrofonen brukes kun til å beregne nivået, på iPhone, og blir deretter glemt. Bare nivåene (ett per sekund) lagres."
+        "q": "Samler Sound Level inn data om hva den hører?",
+        "a": "Nei. Lyden fra mikrofonen brukes kun til å beregne nivået, på iPhone, og blir deretter glemt. Kun nivåene (ett per sekund) lagres."
       }
     ],
-    "privacy_summary": "Sound Level samler ingen personlige data, lagrer ingen lyd, kobler seg ikke til noen server og inneholder ingen annonser, kjøp eller sporingsverktøy. Målingene dine forblir på enheten din."
+    "privacy_summary": "Sound Level samler ingen personlige data, lagrer ingen lyd, kobler seg ikke til noen server og inneholder ingen annonser, kjøp eller sporing. Målingene dine forblir på din enhet."
   },
   "privacy": {
     "sections": [
@@ -52,7 +52,7 @@
         "h": "Oppsummering",
         "blocks": [
           {
-            "p": "Sound Level samler ingen personopplysninger. Applikasjonen fungerer uten tilkobling, kobler seg ikke til noen server og krever ingen konto. Mikrofonen brukes kun til å beregne lydnivå: ingen lyd blir opptatt eller sendt."
+            "p": "Sound Level samler ingen personlige data. Applikasjonen fungerer uten tilkobling, kobler seg ikke til noen server og krever ingen konto. Mikrofonen brukes kun til å beregne lydnivå: ingen lyd blir opptatt eller sendt."
           }
         ]
       },
@@ -63,7 +63,7 @@
             "p": "Applikasjonen ber om tilgang til mikrofonen for å måle støy. Lyden analyseres direkte på iPhone, og slettes umiddelbart: den blir aldri opptatt, lagret eller sendt noe sted."
           },
           {
-            "p": "Du kan trekke tilgangen tilbake når som helst i Settings › Privacy & Security › Microphone. Applikasjonen kan da ikke lenger måle."
+            "p": "Du kan trenge denne tillatelsen når som helst i Innstillinger › Personvern og sikkerhet › Mikrofon. Applikasjonen kan da ikke lenger måle."
           }
         ]
       },
@@ -71,10 +71,10 @@
         "h": "Dine data",
         "blocks": [
           {
-            "p": "Applikasjonen lagrer dine målinger: dato, et lydnivå per sekund, navn og notat du gir dem, samt dine innstillinger (vekting, terskel, kalibrering)."
+            "p": "Applikasjonen lagrer dine målinger: dato, et lydnivå per sekund, navn og notat du gir dem, samt dine innstillinger (vektning, advarselstærskel, kalibrering)."
           },
           {
-            "p": "Disse dataene lagres på enheten din, og utvikleren har ingen tilgang til dem. Som andre appers data kan de være med i sikkerhetskopier av enheten hvis du har slått på dette. Du kan slette hver måling i History; sletting av applikasjonen sletter alle."
+            "p": "Disse dataene lagres på enheten din, og utvikleren har ingen tilgang til dem. Som andre appers data kan de være med i sikkerhetskopier av enheten hvis du har slått på dette. Du kan slette hver måling i historikken; sletting av applikasjonen sletter alle."
           }
         ]
       },
@@ -82,12 +82,12 @@
         "h": "Deling og eksport",
         "blocks": [
           {
-            "p": "Ingen går ut av applikasjonen uten at du velger å dele det."
+            "p": "Ingen data forlater appen uten at du velger å dele det."
           },
           {
             "ul": [
-              "<strong>Del en oppsummering</strong>: teksten går gjennom iOS-delingsverktøy (AirDrop, meldinger, e-post…) og inneholder dato, nivåer, toppverdier og notat fra målingen.",
-              "<strong>Eksporter CSV</strong>: fila inneholder tidspunkt og nivåer for hver sekund. Du velger hvor du vil lagre den eller hvem du vil sende den til; den blir da underlagt betingelsene for den tjenesten du velger."
+              "<strong>Del oppsummering</strong>: teksten går gjennom iOS-delingsverktøy (AirDrop, meldinger, e-post…) og inneholder dato, nivåer, toppverdier og notat fra målingen.",
+              "<strong>Eksporter målinger (CSV)</strong>: filen inneholder tidspunkt og nivåer for hver sekund. Du velger hvor du vil lagre den eller hvem du vil sende den til; den blir da underlagt betingelsene for den valgte tjenesten."
             ]
           }
         ]
@@ -96,7 +96,7 @@
         "h": "Annonser, kjøp og sporingsaktiviteter",
         "blocks": [
           {
-            "p": "Sound Level er gratis. Den inneholder ingen annonser, ingen innkjøp i appen, ingen sporingsteknologier og ingen analyse- eller brukerstatistikkverktøy."
+            "p": "Sound Level er gratis. Den inneholder ingen annonser, ingenting innkjøpt i appen, ingen sporingsteknologier og ingen analyse- eller brukstilleggsverktøy."
           }
         ]
       },
@@ -104,7 +104,7 @@
         "h": "Barn",
         "blocks": [
           {
-            "p": "Applikasjonen samler ikke inn noe data og er egnet for alle aldersgrupper."
+            "p": "Appen samler ingen data og er egnet for alle aldersgrupper."
           }
         ]
       },
@@ -112,7 +112,7 @@
         "h": "Endringer",
         "blocks": [
           {
-            "p": "Hvis denne politikken endres, vil den nye versjon bli publisert på denne siden med dens oppdateringsdato."
+            "p": "Hvis denne politikken endres, vil den nye versjonen bli publisert på denne siden med dens oppdateringsdato."
           }
         ]
       },

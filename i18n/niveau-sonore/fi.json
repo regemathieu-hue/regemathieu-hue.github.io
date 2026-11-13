@@ -1,50 +1,50 @@
 {
   "support": {
-    "subtitle": "Äänitaso- mittari, joka säilyttää melun historian",
-    "contact": "Kysymys, idea tai lukeminen, joka yllättää sinua? Kirjoita minulle:<br>{email}",
+    "subtitle": "Äänitasomittari, joka säilyttää melun historian",
+    "contact": "Kysymys, idea tai lukema, joka yllättää sinua? Kirjoita minulle:<br>{email}",
     "faq": [
       {
         "q": "Ovatko näytetyt arvot luotettavia?",
-        "a": "Ne ovat arvioita. iPhone:n mikrofoni ei ole hyväksyttyä äänitasomittaria: laitteen mukaan ero voi olla muutama desibeli, erityisesti erittäin hiljaisissa tai kovaäänisissä ympäristöissä. Sovellus on hyvä vertailemaan aikoja, paikkoja tai illallisia keskenään, ei virallisena mittauksena."
+        "a": "Ne ovat suuntaa antavia. iPhone:n mikrofoni ei ole hyväksyttyä äänitasomittaria: laitteen mukaan ero voi olla muutama desibeli, erityisesti erittäin hiljaisissa tai erittäin kovaäänisissä ympäristöissä. Sovellus on hyvä vertailla hetkiä, paikkoja tai illallisia keskenään, ei virallisena mittauksena."
       },
       {
-        "q": "Miten kalibroidaan sovellus?",
-        "a": "Aseta iPhone äänitasomittarin tai Apple Watchin (sovellus Noise) viereen vakion melun ympäristöön ja käynnistä mittaus. Asetuksissa › Kalibrointi säädä korjausta, kunnes arvot ovat samat. Korjaus vaikuttaa seuraavaan mittaukseen."
+        "q": "Miten kalibroin sovelluksen?",
+        "a": "Aseta iPhone äänitasomittimen tai Apple Watchin (sovellus Noise) viereen vakion melun ympäristöön ja käynnistä mittaus. Asetukset › Kalibrointi -sivulla säädä korjausta, kunnes arvot ovat samat. Korjaus vaikuttaa seuraavaan mittaukseen."
       },
       {
         "q": "Mikä on dB(A) ja dB(Z)?",
-        "a": "Painotus A heikentää alamäntä, kuten ihmiskorva: se on äänitasomittareiden ja melun säännösten mukaan käytetty painotus, valittu oletuksena. Painotus Z ei tee korjausta: se näyttää myös alamäntä, kuten subwooferin tai ilmanvaihtokoneen. Valinta tehdään asetuksissa."
+        "a": "Painotus A heikentää alamäntä, kuten ihmispuhelin: se on äänitasomittareiden ja melulakien mukaan käytetty painotus, valittu oletuksena. Painotus Z ei tee korjausta: se näyttää myös alamäntä, kuten subwooferin tai ilmanvaihtokoneen. Valinta tehdään Asetukset -sivulla."
       },
       {
         "q": "Mitä tarkoittaa keskiarvo (Leq), huippu, L10 ja L90?",
-        "a": "Keskiarvo (Leq) on vakio, joka tuottaisi saman äänenergian kuin koko mittaus: voimakkaat äänet painavat enemmän. Huippu on korkein tasoa saavutettu yhdeksäsosasekunnissa. L10 on taso, jota ylittyy 10 % ajasta (huomattavaa melua), L90 taso, jota ylittyy 90 % ajasta (taustamelu)."
+        "a": "Keskiarvo (Leq) on vakio, joka tuottaisi saman äänenergian kuin koko mittaus: voimakkaat äänet painavat enemmän. Huippu on korkein tasoa saavutettu yhdeksäsosasekunnissa. L10 on taso, jota ylitetään 10 % aikaa (huomattavaa melua), L90 taso, jota ylitetään 90 % aikaa (taustamelu)."
       },
       {
-        "q": "Mikä on melun annos?",
-        "a": "Se vertaa mitattua melua päivän suositeltuun enimmäismäärään: 85 dB(A) kahdeksan tuntia, sallittu aika puolitetaan jokaista lisää 3 dB:tä kohti. 100 %:n tasolla päivän raja on saavutettu: yli sen, kuulonsuojauksen käyttö on pakollista. Se on arvio, ei ammattimainen dosimetri."
+        "q": "Mitä tarkoittaa meludose?",
+        "a": "Se vertaa mittauksen aikana saamaasi meluun suositeltua päivän maksimia: 85 dB(A) 8 tunnin ajan, sallittu kesto puolitetaan jokaista 3 dB:n lisäystä kohden. 100 %:n tasolla päivän raja on saavutettu: yli sen, kuulonsuojauksen käyttö on pakollista. Se on arvio, ei ammattimaisen dosimetriin sovelluksen tarkkuus."
       },
       {
         "q": "Jatkuuko mittaus, kun näyttö on lukittu?",
-        "a": "Kyllä. Mittaus jatkuu näytön lukituksen tai toisen sovelluksen käytön aikana; iOS:n oranssi piste osoittaa, että mikrofoni kuuntelee. Puhelun aikana mittaus pysäytetään ja tallennetaan. Oletuksena näyttö pysyy päällä mittauksen ajan: voit poistaa tämän asetuksen Settings-asetuksista."
+        "a": "Kyllä. Mittaus jatkuu näytön lukituksen tai toisen sovelluksen käytön aikana; iOS:n oranssi piste osoittaa, että mikrofoni kuuntelee. Puhelun aikana mittaus keskeytyy ja tallentuu. Oletuksena näyttö pysyy päällä mittauksen ajan: voit poistaa tämän ominaisuuden Asetukset -valikosta."
       },
       {
-        "q": "Miten merkitään naapurin melun?",
-        "a": "Valitse raja-arvo asetuksissa (esimerkiksi 40 dB yöllä), käynnistä mittaus ja jätä iPhone huoneeseen. Historiassa mittaus näyttää jokaisen kerran, kun melu ylitti rajan, mukaan lukien ajan, keston ja huipun. Voit nimetä sen, lisätä muistiinpanon, jakaa yhteenvetoraportin tai viimeistään kaikki mittaukset CSV-muodossa. Näitä mittauksia voidaan käyttää keskustelun aloittamiseen, mutta ne eivät korvaa virallista todistusta."
+        "q": "Miten merkitään naapurin melua?",
+        "a": "Valitse raja-arvo Asetukset -valikossa (esimerkiksi 40 dB yöllä), käynnistä mittaus ja jätä iPhone huoneeseen. Historiassa mittaus näyttää jokaisen ylityksen rajan yli, mukaan lukien ajan, keston ja huipun. Voit nimetä sen, lisätä muistiinpanon, jakaa yhteenvetoraportin tai viedä kaikki lukemat CSV-muodossa. Näitä lukemia käytetään keskustelun aloittamiseen, mutta ne eivät korvaa virallista todistusta."
       },
       {
         "q": "Säilytetäänkö mittaukseni?",
-        "a": "Jokainen mittaus tallennetaan laitteellessi, kun se lopetetaan, ja joka 30. sekunti mittauksen ajan. Mittaukset eivät synkronoidu laitteiden välillä, ja ne poistuvat, jos poistat sovelluksen: vie pois CSV-muodossa ne mittaukset, jotka haluat säilyttää."
+        "a": "Jokainen mittaus tallennetaan laitteellessi, kun se lopetetaan, ja joka 30. sekunti mittauksen ajan. Mittaukset eivät synkronoidu laitteiden välillä, ja ne poistuvat, jos poistat sovelluksen: vie niistä ne, jotka haluat säilyttää, muodossa CSV."
       },
       {
         "q": "Miten poistan mittauksen?",
-        "a": "Historiassa vedä mittaus vasemmalle, tai avaa se ja valitse \"Delete recording\"."
+        "a": "Historiassa vedä mittaus vasemmalle, tai avaa se ja valitse \"Poista mittaus\"."
       },
       {
-        "q": "Säilyttääkö sovellus mitä se kuulee?",
-        "a": "Ei. Mikrofoniään käytetään laskemaan tasoa vain iPhone:ssa, ja se unohdetaan sitten. Tallennetaan vain tasot (yksi sekunnin välein)."
+        "q": "Tallentaa sovellus mitä se kuulee?",
+        "a": "Ei. Mikrofonin ääni käytetään laskemaan tasoa vain iPhone:ssa, ja sen jälkeen se unohdetaan. Tallennetaan vain tasot (yksi sekunnissa)."
       }
     ],
-    "privacy_summary": "Sound Level ei kerää henkilökohtaisia tietoja, ei tallenna ääntä, ei yhdistä palvelimeen ja sisältää ei mainoksia, ostoksia tai seurantatyökaluja. Mittauksesi pysyvät laitteellasi."
+    "privacy_summary": "Sound Level ei kerää henkilökohtaisia tietoja, ei tallenna ääntä, ei yhdistä mihinkään palvelimeen eikä sisällä mainoksia, ostoksia tai seurantatyökaluja. Mittauksesi pysyvät laitteesi sisällä."
   },
   "privacy": {
     "sections": [
@@ -52,7 +52,7 @@
         "h": "Yhteenveto",
         "blocks": [
           {
-            "p": "Sound Level ei kerää mitään henkilökohtaisia tietoja. Sovellus toimii ilman yhteyttä verkkoon, ei yhdistä mihinkään palvelimeen eikä vaadi tilin luomista. Mikrofoni käytetään vain äänitasojen laskemiseen: ääntä ei tallenneta eikä lähetetä missään muodossa."
+            "p": "Sound Level ei kerää mitään henkilökohtaisia tietoja. Sovellus toimii ilman yhteyttä verkkoon, ei yhdistä mihinkään palvelimeen eikä vaadi tiliä. Mikrofoni käytetään vain äänitasojen laskemiseen: ääntä ei tallenneta tai lähetetä missään muodossa."
           }
         ]
       },
@@ -71,10 +71,10 @@
         "h": "Tietosi",
         "blocks": [
           {
-            "p": "Sovellus tallentaa mittauksesi: päivämäärän, äänitason sekunnin välein, nimen ja muistiinpanon, joita annat niille, sekä asetuksesi (painotus, raja-arvo, kalibrointi)."
+            "p": "Sovellus tallentaa mittauksesi: päivämäärä, äänitaso sekunnin välein, mittauksen nimi ja muistiinpano sekä asetukset (painotus, hälytysraja, kalibrointi)."
           },
           {
-            "p": "Nämä tiedot tallennetaan laitteellesi, eikä kehittäjällä ole niihin pääsyä. Kuten muiden sovellusten tiedot, ne voivat sisältyä laitteesi varmuuskopioihin, jos olet ottanut ne käyttöön. Voit poistaa jokaisen mittauksen historian kautta; sovelluksen poistaminen poistaa kaikki niistä."
+            "p": "Nämä tiedot tallennetaan laitteesi sisään, eikä kehittäjällä ole siihen pääsyä. Kuten muiden sovellusten tiedot, ne voivat olla mukana laitteesi varmuuskopioissa, jos olet ottanut ne käyttöön. Voit poistaa jokaisen mittauksen historian kautta; sovelluksen poistaminen poistaa kaikki mittaukset."
           }
         ]
       },
@@ -82,12 +82,12 @@
         "h": "Jakaminen ja vienti",
         "blocks": [
           {
-            "p": "Mitään ei lähtee sovelluksesta ilman, että sinä itse toimit."
+            "p": "Mitään ei lähtee sovelluksesta ilman, että sinä valitset sen jakaa."
           },
           {
             "ul": [
-              "<strong>Jaa yhteenveto</strong>: teksti siirtyy iOS:n jakotyökalujen kautta (AirDrop, viestit, sähköposti…) ja sisältää mittauksen päivämäärän, tasot, huippuarvot sekä muistiinpanon.",
-              "<strong>Vie CSV-muodossa</strong>: tiedosto sisältää jokaisen sekunnin kellonajan ja tasot. Voit valita, missä tallentaa tai kenelle lähetät sen; se on sitten palvelun valinnan mukaisesti voimassa olevien ehtojen alaisena."
+              "<strong>Jaa yhteenveto</strong>: teksti siirtyy iOS:n jakotyökalujen (AirDrop, Viestit, Sähköposti…) kautta ja sisältää mittauksen päivämäärän, tasot, huippuarvot sekä muistiinpanon.",
+              "<strong>Vie lukemat (CSV)</strong>: tiedosto sisältää jokaisen sekunnin ajan ja tasot. Valitset, minne tallentaa tai kenelle lähettää; se on sitten palvelun valinnan mukaisia ehtoja noudattava."
             ]
           }
         ]
@@ -96,7 +96,7 @@
         "h": "Mainokset, ostokset ja seuranta",
         "blocks": [
           {
-            "p": "Sound Level on ilmainen. Siinä ei ole mainoksia, sisäisiä ostoksia, jäljitystä tai käyttötilastoja tai analyysityökaluja."
+            "p": "Sound Level on ilmainen. Sillä ei ole mainoksia, sisäisiä ostoksia, jäljitys- tai käyttötilastoja."
           }
         ]
       },
@@ -112,7 +112,7 @@
         "h": "Muutokset",
         "blocks": [
           {
-            "p": "Jos tätä käytännettä muutetaan, uusi versio julkaistaan tässä sivussa päivämäärän kanssa."
+            "p": "Jos tätä käytäntöä muutetaan, uusi versio julkaistaan tässä sivussa päivämäärän kanssa."
           }
         ]
       },
@@ -120,7 +120,7 @@
         "h": "Yhteys",
         "blocks": [
           {
-            "p": "Kysymyksissä tästä käytännöstä: {email}"
+            "p": "Kaikista kysymyksistä tästä käytännöstä: {email}"
           }
         ]
       }

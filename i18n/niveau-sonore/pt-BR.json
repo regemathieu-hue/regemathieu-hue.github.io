@@ -5,23 +5,23 @@
     "faq": [
       {
         "q": "Os valores exibidos são confiáveis?",
-        "a": "Eles são indicativos. O microfone de um iPhone não é o de um sonômetro certificado: dependendo do aparelho, a diferença pode chegar a alguns decibéis, especialmente em ruídos muito baixos ou muito altos. O aplicativo é adequado para comparar momentos, locais ou noites entre si, e não para medições oficiais."
+        "a": "Eles são indicativos. O microfone de um iPhone não é o de um medidor de nível sonoro certificado: dependendo do aparelho, a diferença pode chegar a alguns decibéis, especialmente em ruídos muito baixos ou muito altos. O aplicativo é adequado para comparar momentos, locais ou noites entre si, não para medições oficiais."
       },
       {
         "q": "Como calibro o aplicativo?",
-        "a": "Coloque o iPhone ao lado de um sonômetro ou de um Apple Watch (aplicativo Noise), em um ruído estável, e inicie uma medição. Em Configurações › Calibração, ajuste a correção até ler o mesmo valor. A correção será aplicada à próxima medição."
+        "a": "Coloque o iPhone ao lado de um medidor de nível sonoro ou de um Apple Watch (aplicativo Noise), em um ruído estável, e inicie a medição. Em Configurações › Calibração, ajuste a correção até ler o mesmo valor. A correção será aplicada à próxima medição."
       },
       {
         "q": "O que significam dB(A) e dB(Z)?",
-        "a": "O peso A atenua os graves como faz a orelha humana: é o usado por sonômetros e regulamentações sobre ruído, escolhido por padrão. O peso Z não corrige nada: mostra também os graves, como um subwoofer ou uma ventilação. A escolha é feita em Configurações."
+        "a": "A ponderação A atenua os graves como faz a orelha humana: é a usada por medidores de nível sonoro e regulamentações sobre ruído, escolhida por padrão. A ponderação Z não corrige nada: mostra também os graves, como um subwoofer ou uma ventilação. A escolha é feita nas Configurações."
       },
       {
         "q": "O que significam média (Leq), pico, L10 e L90?",
-        "a": "A média (Leq) é o nível constante que traria a mesma energia sonora que toda a medição: ruídos fortes têm maior peso. O pico é o nível mais alto atingido em um oitavo de segundo. O L10 é o nível ultrapassado 10 % do tempo (ruídos perceptíveis), e o L90, o nível ultrapassado 90 % do tempo (ruído de fundo)."
+        "a": "A média (Leq) é o nível constante que traria a mesma energia sonora que toda a medição: sons fortes pesam mais. O pico é o nível mais alto atingido em um oitavo de segundo. O L10 é o nível ultrapassado 10 % do tempo (sons marcantes), e o L90, o nível ultrapassado 90 % do tempo (ruído de fundo)."
       },
       {
         "q": "O que é a dose de ruído?",
-        "a": "Ela compara o ruído recebido durante a medição com o máximo recomendado em um dia: 85 dB(A) durante 8 horas, com a duração permitida dividida por dois a cada 3 dB adicionais. Em 100 %, o limite diário é atingido: além disso, é necessário usar proteção auditiva. É uma estimativa, não um dosímetro profissional."
+        "a": "Ela compara o ruído recebido durante a medição com o máximo recomendado em um dia: 85 dB(A) por 8 horas, com a duração permitida dividida por dois a cada 3 dB adicionais. Em 100 %, o limite diário é atingido: além disso, é necessário usar proteção auditiva. É uma estimativa, não um dosímetro profissional."
       },
       {
         "q": "A medição continua quando a tela está bloqueada?",
@@ -29,30 +29,30 @@
       },
       {
         "q": "Como registrar o ruído de um vizinho?",
-        "a": "Escolha um limiar nas Configurações (por exemplo, 40 dB à noite), depois inicie uma medição e deixe o iPhone na sala. No histórico, a medição lista cada vez que o ruído ultrapassou o limiar, com sua hora, duração e pico. Você pode nomeá-la, adicionar uma nota, compartilhar um resumo ou exportar todas as leituras em CSV. Essas leituras ajudam na conversa, mas não substituem um boletim oficial."
+        "a": "Escolha um limite nas Configurações (por exemplo, 40 dB à noite), depois inicie uma medição e deixe o iPhone na sala. No Histórico, a gravação lista cada vez que o ruído ultrapassou o limite, com sua hora, duração e pico. Você pode nomeá-la, adicionar uma nota, compartilhar um resumo ou exportar todas as leituras em CSV. Essas leituras ajudam na conversa, mas não substituem um boletim oficial."
       },
       {
         "q": "Minhas medições são salvas?",
-        "a": "Cada medição é salva no seu dispositivo quando você a interrompe, e a cada 30 segundos enquanto ela está em execução. Elas não são sincronizadas entre seus dispositivos e são excluídas se você remover o aplicativo: exporte como CSV as que quiser manter."
+        "a": "Cada medição é salva no seu dispositivo quando você a interrompe, e a cada 30 segundos enquanto está em execução. As medições não são sincronizadas entre seus dispositivos e são excluídas se você excluir o aplicativo: exporte como CSV as que quiser manter."
       },
       {
         "q": "Como excluir uma medição?",
-        "a": "No histórico, deslize a medição para a esquerda ou abra-a e escolha “Delete recording”."
+        "a": "No Histórico, deslize a medição para a esquerda ou abra-a e escolha « Excluir gravação »."
       },
       {
-        "q": "O aplicativo grava o que ele ouve?",
+        "q": "O aplicativo registra o que ele ouve?",
         "a": "Não. O som do microfone é usado apenas para calcular o nível, no iPhone, e depois é descartado. Apenas os níveis (um por segundo) são salvos."
       }
     ],
-    "privacy_summary": "Sound Level não coleta nenhum dado pessoal, não grava nenhum som, não se conecta a nenhum servidor e não contém publicidade, compras ou rastreadores. Suas medições permanecem no seu dispositivo."
+    "privacy_summary": "Sound Level não coleta nenhum dado pessoal, não grava nenhum som, não se conecta a nenhum servidor e não contém anúncios, compras ou rastreadores. Suas medições permanecem no seu dispositivo."
   },
   "privacy": {
     "sections": [
       {
-        "h": "Resumo",
+        "h": "Em resumo",
         "blocks": [
           {
-            "p": "Sound Level não coleta nenhum dado pessoal. O aplicativo funciona offline, não se conecta a nenhum servidor e não exige conta. O microfone é usado apenas para calcular o nível sonoro: nenhum som é gravado ou transmitido."
+            "p": "O aplicativo Sound Level não coleta nenhum dado pessoal. O app funciona offline, não se conecta a nenhum servidor e não exige conta. O microfone é usado apenas para calcular o nível sonoro: nenhum som é gravado ou transmitido."
           }
         ]
       },
@@ -60,10 +60,10 @@
         "h": "O microfone",
         "blocks": [
           {
-            "p": "O aplicativo solicita acesso ao microfone para medir o ruído. O som é analisado em tempo real no iPhone e, em seguida, imediatamente esquecido: ele nunca é gravado, armazenado ou enviado para nenhum lugar."
+            "p": "O aplicativo solicita acesso ao microfone para medir o ruído. O som é analisado em tempo real no iPhone e logo esquecido: nunca é gravado, armazenado ou enviado para nenhum lugar."
           },
           {
-            "p": "Você pode remover essa permissão a qualquer momento em Configurações › Privacidade e segurança › Microfone. O aplicativo então não poderá mais medir."
+            "p": "Você pode remover essa permissão a qualquer momento em Configurações › Privacidade e Segurança › Microfone. O aplicativo não poderá mais medir após isso."
           }
         ]
       },
@@ -71,10 +71,10 @@
         "h": "Seus dados",
         "blocks": [
           {
-            "p": "O aplicativo salva suas medições: a data, um nível sonoro por segundo, o nome e a nota que você atribui a elas, além de suas configurações (ponderação, limite, calibração)."
+            "p": "O aplicativo armazena suas medições: a data, um nível sonoro por segundo, o nome e a nota que você atribui a elas, além das suas configurações (ponderação, limite de alerta, calibração)."
           },
           {
-            "p": "Esses dados são armazenados no seu dispositivo, e o desenvolvedor não tem acesso a eles. Assim como os dados de outros aplicativos, eles podem estar incluídos em backups do seu dispositivo se você ativá-los. Você pode excluir cada medição no histórico; a exclusão do aplicativo apaga todas elas."
+            "p": "Esses dados são armazenados no seu dispositivo, e o desenvolvedor não tem acesso a eles. Assim como os dados de outros aplicativos, podem estar incluídos em backups do seu dispositivo se você os tiver ativado. Você pode excluir cada gravação no Histórico; a exclusão do aplicativo apaga todas elas."
           }
         ]
       },
@@ -86,8 +86,8 @@
           },
           {
             "ul": [
-              "<strong>Compartilhamento de um resumo</strong>: o texto passa pelos recursos do iOS (AirDrop, Mensagens, Mail…) e contém a data, os níveis, os picos e a nota da medição.",
-              "<strong>Exportação CSV</strong>: o arquivo contém a hora e os níveis de cada segundo. Você escolhe onde salvá-lo ou para quem enviá-lo; ele então fica sujeito aos termos do serviço escolhido."
+              "<strong>Compartilhar resumo</strong>: o texto passa pelos recursos de compartilhamento do iOS (AirDrop, Mensagens, Mail…) e contém a data, os níveis, os picos e a nota da medição.",
+              "<strong>Exportar leituras (CSV)</strong>: o arquivo contém a hora e os níveis de cada segundo. Você escolhe onde salvá-lo ou para quem enviá-lo; ele então fica sujeito aos termos do serviço escolhido."
             ]
           }
         ]
@@ -96,7 +96,7 @@
         "h": "Publicidade, compras e rastreamento",
         "blocks": [
           {
-            "p": "Sound Level é gratuita. Não contém publicidade, compras dentro do app, rastreadores nem ferramentas de análise ou estatísticas de uso."
+            "p": "Sound Level é gratuita. Não contém publicidade, compras internas, rastreadores nem ferramentas de análise ou estatísticas de uso."
           }
         ]
       },

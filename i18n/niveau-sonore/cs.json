@@ -1,50 +1,50 @@
 {
   "support": {
     "subtitle": "Sonometr, který uchovává historii hluku",
-    "contact": "Máte dotaz, nápad nebo měření, které vás překvapilo? Napište mi: <br>{email}",
+    "contact": "Máte dotaz, nápad nebo měření, které vás překvapí? Napište mi: <br>{email}",
     "faq": [
       {
         "q": "Jsou zobrazené hodnoty spolehlivé?",
-        "a": "Jsou pouze orientační. Mikrofon iPhone není mikrofonem kalibrovaného sonomtru: podle zařízení může být rozdíl až několik decibelů, zejména při velmi tichých nebo velmi hlasitých zvucích. Aplikace je vhodná pro porovnání časových okamžiků, míst nebo večer, nikoli pro oficiální měření."
+        "a": "Jsou pouze orientační. Mikrofon iPhone není kalibrovaným sonometrem: podle zařízení se rozdíl může pohybovat několika decibely, zejména při velmi tichých nebo velmi hlasitých zvucích. Aplikace je vhodná pro porovnání časových okamžiků, míst nebo večer, nikoli pro oficiální měření."
       },
       {
         "q": "Jak aplikaci kalibrovat?",
-        "a": "Umístěte iPhone vedle sonomtru nebo Apple Watch (aplikace Noise) v ustáleném hluku a spusťte měření. V Nastavení › Kalibrace upravte korekci, dokud nebudou obě zařízení ukazovat stejnou hodnotu. Korekce se použije při dalším měření."
+        "a": "Umístěte iPhone vedle sonometru nebo Apple Watch (aplikace Noise) v ustáleném hluku a spusťte měření. V Nastavení › Kalibrace upravte korekci, dokud nebudou obě zařízení ukazovat stejnou hodnotu. Korekce se použije při dalším měření."
       },
       {
         "q": "Co znamenají dB(A) a dB(Z)?",
-        "a": "Pondérace A tlumí hluboké tóny podobně jako lidské ucho: používá se v sonometrech a předpisech o hluku, je to výchozí nastavení. Pondérace Z nic nekorektuje: ukazuje i hluboké tóny, např. subwoofer nebo ventilaci. Výběr provádíte v Nastavení."
+        "a": "Vážení A tlumí hluboké tóny podobně jako lidské ucho: používá se u sonometrů a v předpisech o hluku, je to výchozí nastavení. Vážení Z nic nekorektuje: zobrazuje také basy, například subwoofer nebo ventilaci. Výběr provádíte v Nastavení."
       },
       {
         "q": "Co znamenají průměr (Leq), vrchol, L10 a L90?",
-        "a": "Průměr (Leq) je konstantní hladina, která by přinesla stejnou akustickou energii jako celá měření: hlasité zvuky mají větší váhu. Vrchol je nejvyšší úroveň dosažená během osminy sekundy. L10 je hladina překročená 10 % času (významné hluky), L90 hladina překročená 90 % času (zpětný hluk)."
+        "a": "Průměr (Leq) je konstantní hladina, která by přinesla stejnou akustickou energii jako celé měření: hlasitější zvuky mají větší váhu. Vrchol je nejvyšší úroveň dosažená během osminy sekundy. L10 je hladina překročená 10 % času (významné hluky), L90 hladina překročená 90 % času (přízvuk)."
       },
       {
         "q": "Co je dávka hluku?",
-        "a": "Porovnává hluk přijatý během měření s doporučeným maximem za den: 85 dB(A) po dobu 8 hodin, přičemž povolený čas se zkracuje na polovinu při každých dalších 3 dB. Při 100 % je dosažena denní hranice: nad touto hranicí je nutné používat ochranné sluchadla. Jedná se o odhad, nikoli o profesionální dosimetr."
+        "a": "Porovnává hluk přijatý během měření s doporučeným maximem za den: 85 dB(A) po dobu 8 hodin, přičemž povolený čas se zkracuje na polovinu při každých dalších 3 dB. Při 100 % je dosažena denní hranice: nad touto hranicí je nutné používat ochranu sluchu. Jedná se o odhad, nikoli o profesionální dosimetr."
       },
       {
-        "q": "Pokračuje měření i když je obrazovka uzamčená?",
-        "a": "Ano. Měření pokračuje i při uzamčené obrazovce nebo v jiné aplikaci; oranžový bod v iOS ukazuje, že mikrofon naslouchá. Hovor telefonu jej zastaví a uloží. Ve výchozím nastavení zůstane obrazovka při měření rozsvícená: můžete to vypnout v Nastavení."
+        "q": "Pokračuje měření i při zamknutém displeji?",
+        "a": "Ano. Měření pokračuje i při zamknutém displeji nebo v jiné aplikaci; oranžový bod v iOS ukazuje, že mikrofon naslouchá. Hovor telefonu jej zastaví a uloží. Ve výchozím nastavení zůstane obrazovka při měření zapnutá: můžete ji vypnout v Nastavení."
       },
       {
         "q": "Jak zaznamenat hluk souseda?",
-        "a": "Vyberte prahovou hodnotu v Nastavení (např. 40 dB v noci), pak spusťte měření a nechte iPhone v místnosti. V historii se zobrazí každé překročení prahu s časem, délkou a vrcholem. Můžete mu přidat název, poznámku, sdílet shrnutí nebo exportovat všechna měření ve formátu CSV. Tyto záznamy pomáhají začít konverzaci, ale ne nahrazují oficiální záznam."
+        "a": "Zvolte prahovou hodnotu v Nastavení (např. 40 dB v noci), spusťte měření a nechte iPhone v místnosti. V historii se zobrazí každé překročení prahu s časem, délkou a vrcholem. Můžete mu přidat název, poznámku, sdílet shrnutí nebo exportovat všechna měření ve formátu CSV. Tyto záznamy pomáhají při jednání, ale nezastupují oficiální protokol."
       },
       {
         "q": "Jsou mé měření uložena?",
-        "a": "Každé měření je uloženo na vašem zařízení, když jej zastavíte, a každých 30 sekund během jeho běhu. Nejsou synchronizována mezi vašimi zařízeními a zmizí, pokud odstraníte aplikaci: exportujte si ty, které chcete ponechat, jako CSV."
+        "a": "Každé měření je uloženo na vašem zařízení, když jej zastavíte, a každých 30 sekund během jeho provozu. Nejsou synchronizována mezi vašimi zařízeními a zmizí, pokud odstraníte aplikaci: exportujte ty, které chcete ponechat, jako CSV."
       },
       {
         "q": "Jak smazat měření?",
-        "a": "V historii přečtěte měření doprava nebo jej otevřete a vyberte „Delete recording“."
+        "a": "V historii přečtěte měření doprava nebo jej otevřete a vyberte „Smazat záznam“."
       },
       {
         "q": "Sbírá aplikace to, co slyší?",
-        "a": "Ne. Zvuk mikrofonu slouží pouze k výpočtu hladiny, na iPhone, a poté je zapomenut. Uložena jsou pouze hladiny (jedna za sekundu)."
+        "a": "Ne. Zvuk mikrofonu slouží pouze k výpočtu úrovně, na iPhone, a poté je zapomenut. Ukládají se pouze úrovně (jedna za sekundu)."
       }
     ],
-    "privacy_summary": "Sound Level nesbírá žádná osobní data, nezaznamenává žádný zvuk, nepřipojuje se k žádnému serveru a neobsahuje reklamy, nákupy ani sledovače. Vaše měření zůstávají na vašem zařízení."
+    "privacy_summary": "Aplikace Sound Level nezískává žádná osobní data, nezaznamenává žádný zvuk, nepřipojuje se k žádnému serveru a neobsahuje reklamy, nákupy ani sledovače. Vaše měření zůstávají na vašem zařízení."
   },
   "privacy": {
     "sections": [
@@ -60,7 +60,7 @@
         "h": "Mikrofon",
         "blocks": [
           {
-            "p": "Aplikace požaduje přístup k mikrofonu pro měření hluku. Zvuk je analyzován přímo na iPhone, okamžitě poté zapomenut: nikdy není nahrán, uložen ani odeslán kamkoli."
+            "p": "Aplikace požaduje přístup k mikrofonu pro měření hluku. Zvuk je analyzován v reálném čase na iPhone, okamžitě poté zapomenut: nikdy není nahrán, uložen ani odeslán kamkoli."
           },
           {
             "p": "Tuto oprávnění můžete kdykoli zrušit v Nastavení › Soukromí a bezpečnost › Mikrofon. Aplikace pak už nemůže měřit."
@@ -71,10 +71,10 @@
         "h": "Vaše data",
         "blocks": [
           {
-            "p": "Aplikace ukládá vaše měření: datum, hladinu hluku každou sekundu, název a poznámku, které jim přiřadíte, stejně jako vaše nastavení (zpřesnění, prahová hodnota, kalibrace)."
+            "p": "Aplikace ukládá vaše měření: datum, hladinu hluku každou sekundu, název a poznámku, které jim přiřadíte, stejně jako vaše nastavení (vážení, práh upozornění, kalibrace)."
           },
           {
-            "p": "Tyto údaje jsou uloženy na vašem zařízení a vývojář k nim nemá přístup. Stejně jako data jiných aplikací mohou být součástí zálohování vašeho zařízení, pokud je máte zapnuté. Můžete smazat každou měření v historii; odstranění aplikace je všechny smaže."
+            "p": "Tyto údaje jsou uloženy na vašem zařízení a vývojář k nim nemá přístup. Stejně jako data jiných aplikací mohou být součástí záloh vašeho zařízení, pokud jste je zapnuli. Můžete smazat každý záznam v historii; odstranění aplikace všechny záznamy smaže."
           }
         ]
       },
@@ -82,12 +82,12 @@
         "h": "Sdílení a export",
         "blocks": [
           {
-            "p": "Nic neopustí aplikaci bez vaší akce."
+            "p": "Nic nepoužívá aplikace bez vaší akce."
           },
           {
             "ul": [
-              "<strong>Sdílení shrnutí</strong>: text prochází nástroji iOS (AirDrop, Messages, Mail…) a obsahuje datum, úrovně, vrcholy a poznámku měření.",
-              "<strong>Export CSV</strong>: soubor obsahuje čas a úrovně každé sekundy. Vyberete si, kam jej uložit nebo komu odeslat; pak je podléhá podmínkám vybraného služby."
+              "<strong>Sdílení shrnutí</strong>: text prochází nástroji iOS (AirDrop, Zprávy, Mail…) a obsahuje datum, úrovně, vrcholy a poznámku měření.",
+              "<strong>Exportovat měření (CSV)</strong>: soubor obsahuje čas a úrovně každé sekundy. Vyberete si, kam jej uložit nebo komu odeslat; pak je podléhá podmínkám vybraného služby."
             ]
           }
         ]
@@ -96,7 +96,7 @@
         "h": "Reklamy, nákupy a sledování",
         "blocks": [
           {
-            "p": "Aplikace Sound Level je zdarma. Neobsahuje žádnou reklamu, žádné in-app nákupy, žádné sledovače ani žádné nástroje pro analýzu nebo statistiky používání."
+            "p": "Aplikace Sound Level je zdarma. Neobsahuje žádnou reklamu, žádné in-app nákupy, žádné sledovače ani nástroje pro analýzu nebo statistiky používání."
           }
         ]
       },
@@ -104,7 +104,7 @@
         "h": "Děti",
         "blocks": [
           {
-            "p": "Aplikace nezískává žádná data a je vhodná pro všechny věkové skupiny."
+            "p": "Aplikace neposkytuje žádná data a je vhodná pro všechny věkové kategorie."
           }
         ]
       },
@@ -112,7 +112,7 @@
         "h": "Změny",
         "blocks": [
           {
-            "p": "Pokud se tato politika změní, bude nová verze zveřejněna na této stránce spolu s datem aktualizace."
+            "p": "Pokud se tato politika změní, nová verze bude zveřejněna na této stránce spolu s datem aktualizace."
           }
         ]
       },
@@ -120,7 +120,7 @@
         "h": "Kontakt",
         "blocks": [
           {
-            "p": "Pro jakoukoli otázku k této politice: {email}"
+            "p": "Pro jakoukoli otázku týkající se této politiky: {email}"
           }
         ]
       }

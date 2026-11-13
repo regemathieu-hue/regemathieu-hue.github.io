@@ -1,11 +1,11 @@
 {
   "support": {
     "subtitle": "Il sonometro che conserva la cronologia del rumore",
-    "contact": "Una domanda, un'idea o un valore che ti sorprende? Scrivimi:<br>{email}",
+    "contact": "Una domanda, un'idea o una misura che ti sorprende? Scrivimi:<br>{email}",
     "faq": [
       {
         "q": "I valori visualizzati sono affidabili?",
-        "a": "Sono indicativi. Il microfono di un iPhone non è quello di un sonometro certificato: a seconda dell'apparecchio, la differenza può raggiungere alcuni decibel, specialmente nei rumori molto bassi o molto forti. L'applicazione è adatta per confrontare momenti, luoghi o serate tra loro, non per una misurazione ufficiale."
+        "a": "Sono indicativi. Il microfono di un iPhone non è quello di un sonometro certificato: a seconda dell'apparecchio, la differenza può arrivare a qualche decibel, specialmente nei rumori molto deboli o molto forti. L'applicazione è adatta per confrontare momenti, luoghi o serate tra loro, non per una misurazione ufficiale."
       },
       {
         "q": "Come si calibra l'applicazione?",
@@ -13,7 +13,7 @@
       },
       {
         "q": "Cosa significano dB(A) e dB(Z)?",
-        "a": "Il peso A attenua i bassi come fa l'orecchio umano: è quello utilizzato dai sonometri e dalle normative sul rumore, scelto per impostazione predefinita. Il peso Z non applica alcuna correzione: mostra anche i bassi, come un subwoofer o un ventilatore. La scelta si fa nelle Impostazioni."
+        "a": "La ponderazione A attenua i bassi come fa l'orecchio umano: è quella usata dai sonometri e dalle normative sul rumore, selezionata per impostazione predefinita. La ponderazione Z non applica alcuna correzione: mostra anche i bassi, come un subwoofer o un ventilatore. La scelta si fa nelle Impostazioni."
       },
       {
         "q": "Cosa significano media (Leq), picco, L10 e L90?",
@@ -25,19 +25,19 @@
       },
       {
         "q": "La misurazione continua quando lo schermo è bloccato?",
-        "a": "Sì. La misurazione continua anche con lo schermo bloccato o in un'altra app; il punto arancione su iOS indica che il microfono è in ascolto. Una chiamata telefonica la interrompe e la salva. Per impostazione predefinita, lo schermo rimane acceso durante la misurazione: puoi disattivarlo nelle Impostazioni."
+        "a": "Sì. La misurazione continua anche con lo schermo bloccato o in un'altra app; il punto arancione di iOS indica che il microfono è in ascolto. Una chiamata telefonica la interrompe e la salva. Per impostazione predefinita, lo schermo rimane acceso durante la misurazione: puoi disattivarlo nelle Impostazioni."
       },
       {
         "q": "Come registrare il rumore di un vicino?",
-        "a": "Scegli una soglia nelle Impostazioni (ad esempio 40 dB di notte), quindi avvia una misurazione e lascia l'iPhone nella stanza. Nell'History, la registrazione elenca ogni volta che il rumore supera la soglia, con orario, durata e picco. Puoi assegnarle un nome, aggiungere una nota, condividere un riassunto o esportare tutti i rilevamenti in formato CSV. Questi dati aiutano a intraprendere una discussione, ma non sostituiscono un verbale ufficiale."
+        "a": "Scegli una soglia nelle Impostazioni (ad esempio 40 dB di notte), quindi avvia una misurazione e lascia l'iPhone nella stanza. Nella Cronologia, la registrazione elenca ogni volta che il rumore supera la soglia, con orario, durata e picco. Puoi assegnarle un nome, aggiungere una nota, condividere un riassunto o esportare tutte le letture in formato CSV. Queste letture aiutano a intraprendere una conversazione, ma non sostituiscono un accertamento ufficiale."
       },
       {
         "q": "Le mie misurazioni vengono salvate?",
-        "a": "Ogni registrazione viene salvata sul tuo dispositivo quando la interrompi, e ogni 30 secondi durante il suo funzionamento. Le registrazioni non vengono sincronizzate tra i tuoi dispositivi e vengono eliminate se elimini l'app: esporta in formato CSV quelle che vuoi conservare."
+        "a": "Ogni misura viene salvata sul tuo dispositivo quando la interrompi, e ogni 30 secondi durante l'esecuzione. Le misurazioni non sono sincronizzate tra i tuoi dispositivi e vengono eliminate se elimini l'app: esporta in formato CSV quelle che vuoi conservare."
       },
       {
-        "q": "Come faccio a eliminare una misurazione?",
-        "a": "Nell'History, scorri la misurazione verso sinistra oppure aprila e seleziona « Delete recording »."
+        "q": "Come si elimina una misura?",
+        "a": "Nella cronologia, scorri la misura verso sinistra oppure aprila e seleziona « Elimina registrazione »."
       },
       {
         "q": "L'app registra ciò che sente?",
@@ -49,7 +49,7 @@
   "privacy": {
     "sections": [
       {
-        "h": "Riepilogo",
+        "h": "In sintesi",
         "blocks": [
           {
             "p": "Sound Level non raccoglie alcuna informazione personale. L'app funziona in modalità offline, non si collega a nessun server e non richiede alcun account. Il microfono viene utilizzato esclusivamente per calcolare il livello sonoro: nessun suono viene registrato né trasmesso."
@@ -60,7 +60,7 @@
         "h": "Il microfono",
         "blocks": [
           {
-            "p": "L'app richiede l'accesso al microfono per misurare il rumore. Il suono viene analizzato in tempo reale sull'iPhone, poi immediatamente dimenticato: non viene mai registrato, memorizzato né inviato da nessuna parte."
+            "p": "L'app richiede l'accesso al microfono per misurare il rumore. Il suono viene analizzato in tempo reale sull'iPhone, quindi immediatamente dimenticato: non viene mai registrato, memorizzato né inviato da nessuna parte."
           },
           {
             "p": "Puoi revocare questo permesso in qualsiasi momento in Impostazioni › Privacy e sicurezza › Microfono. L'app non potrà più misurare."
@@ -71,10 +71,10 @@
         "h": "I tuoi dati",
         "blocks": [
           {
-            "p": "L'app salva le tue misurazioni: la data, un livello sonoro al secondo, il nome e la nota che gli attribuisci, nonché le tue impostazioni (ponderazione, soglia, calibrazione)."
+            "p": "L'app salva le tue misurazioni: la data, un livello sonoro al secondo, il nome e la nota che gli assegni, nonché le impostazioni (ponderazione, soglia, calibrazione)."
           },
           {
-            "p": "Questi dati vengono salvati sul tuo dispositivo e lo sviluppatore non ne ha accesso. Come i dati di altre app, possono essere inclusi nei backup del tuo dispositivo se li hai attivati. Puoi eliminare ogni misurazione dall'History; l'eliminazione dell'app le cancella tutte."
+            "p": "Questi dati vengono salvati sul tuo dispositivo e lo sviluppatore non ne ha accesso. Come i dati di altre app, possono essere inclusi nei backup del tuo dispositivo se li hai abilitati. Puoi eliminare ogni registrazione nella Cronologia; la cancellazione dell'app li elimina tutti."
           }
         ]
       },
@@ -86,8 +86,8 @@
           },
           {
             "ul": [
-              "<strong>Condivisione di un riassunto</strong>: il testo passa attraverso gli strumenti di iOS (AirDrop, Messaggi, Mail…) e contiene la data, i livelli, i picchi e la nota della misurazione.",
-              "<strong>Esportazione CSV</strong>: il file contiene l'ora e i livelli di ogni secondo. Scegli dove salvarlo o a chi inviarlo; successivamente è soggetto ai termini del servizio scelto."
+              "<strong>Condividi riassunto</strong>: il testo passa attraverso gli strumenti di condivisione di iOS (AirDrop, Messaggi, Mail…) e contiene la data, i livelli, i picchi e la nota della misura.",
+              "<strong>Esporta letture (CSV)</strong>: il file contiene l'ora e i livelli di ogni secondo. Scegli dove salvarlo o a chi inviarlo; successivamente è soggetto ai termini del servizio scelto."
             ]
           }
         ]
@@ -96,7 +96,7 @@
         "h": "Pubblicità, acquisti e tracciamento",
         "blocks": [
           {
-            "p": "Sound Level è gratuita. Non contiene pubblicità, acquisti in-app, tracker né strumenti di analisi o statistiche sull'utilizzo."
+            "p": "Sound Level è gratuita. Non contiene pubblicità, acquisti in-app, tracciatori né strumenti di analisi o statistiche sull'uso."
           }
         ]
       },

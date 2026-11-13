@@ -1,55 +1,55 @@
 {
   "support": {
-    "subtitle": "Sonometrul care păstrează istoricul nivelului sonor",
-    "contact": "O întrebare, o idee sau o măsură care te surprinde? Scrie-mi:<br>{email}",
+    "subtitle": "Sonometrul care păstrează istoricul zgomotului",
+    "contact": "O întrebare, o idee sau o măsură care te surprinde? Scrie-mi: <br>{email}",
     "faq": [
       {
         "q": "Sunt valorile afișate fiabile?",
-        "a": "Ele sunt orientative. Microfonul unui iPhone nu este cel al unui sonometru certificat: în funcție de dispozitiv, eroarea poate ajunge la câțiva decibeli, mai ales în zgomote foarte slabe sau foarte puternice. Aplicația este potrivită pentru a compara momente, locuri sau serate între ele, nu pentru măsurători oficiale."
+        "a": "Ele sunt orientative. Microfonul unui iPhone nu este cel al unui sonometru certificat: în funcție de dispozitiv, diferența poate ajunge la câțiva decibeli, mai ales în zgomote foarte slabe sau foarte puternice. Aplicația este potrivită pentru a compara momente, locuri sau serate între ele, nu pentru măsurători oficiale."
       },
       {
-        "q": "Cum îmi etalonez aplicația?",
-        "a": "Plasează iPhone-ul lângă un sonometru sau o Apple Watch (aplicația Noise), într-un zgomot stabil, și pornește o măsurătoare. În Setări › Etalonare, ajustează corecția până când ambele afișează aceeași valoare. Corecția se aplică următoarei măsurători."
+        "q": "Cum îmi calibrez aplicația?",
+        "a": "Plasează iPhone-ul lângă un sonometru sau o Apple Watch (aplicația Noise), într-un zgomot stabil, și pornește o măsurare. În Setări › Calibrare, ajustează corecția până când afișează aceeași valoare. Corecția se aplică următoarei măsurători."
       },
       {
         "q": "Ce înseamnă dB(A) și dB(Z)?",
-        "a": "Ponderea A atenuează sunetele joase, asemenea urechii umane: este cea folosită de sonometre și reglementările privind zgomotul, setată implicit. Ponderea Z nu corectează nimic: afișează și sunetele joase, cum ar fi un subwoofer sau o ventilatie. Alegerea se face în Setări."
+        "a": "Ponderarea A atenuează sunetele joase, asemenea urechii umane: este cea folosită de sonometre și reglementările privind zgomotul, aleasă implicit. Ponderarea Z nu corectează nimic: afișează și sunetele joase, cum ar fi un subwoofer sau ventilatorul. Alegerea se face în Setări."
       },
       {
         "q": "Ce înseamnă medie (Leq), vârf, L10 și L90?",
-        "a": "Mediile (Leq) reprezintă nivelul constant care ar transmite aceeași energie sonoră ca întreaga măsurare: zgomotele puternice contează mai mult. Vârful este nivelul cel mai ridicat atins într-o optime de secundă. L10 este nivelul depășit 10 % din timp (zgomote semnificative), iar L90 este nivelul depășit în 90 % din timp (zgomot de fundal)."
+        "a": "Mediile (Leq) reprezintă nivelul constant care ar transmite aceeași energie sonoră ca întreaga măsurare: zgomotele puternice contează mai mult. Vârful este nivelul cel mai ridicat atins într-o optime de secundă. L10 este nivelul depășit în 10 % din timp (zgomote semnificative), iar L90 este nivelul depășit în 90 % din timp (zgomot de fundal)."
       },
       {
         "q": "Ce este doza de zgomot?",
-        "a": "Aceasta compară zgomotul perceput în timpul măsurării cu limita recomandată pe o zi: 85 dB(A) timp de 8 ore, durata admisă fiind împărțită la două pentru fiecare creștere de 3 dB. La 100 %, se atinge limita zilnică: peste aceasta, este necesară protecția auditivă. Este o estimare, nu un dosimetru profesional."
+        "a": "Aceasta compară zgomotul perceput în timpul măsurării cu limita recomandată pentru o zi: 85 dB(A) timp de 8 ore, durata admisă fiind împărțită la două pentru fiecare creștere de 3 dB. La 100 %, se atinge limita zilnică: peste aceasta, este necesară protecția auditivă. Este o estimare, nu un dosimetru profesional."
       },
       {
         "q": "Măsurarea continuă când ecranul este blocat?",
-        "a": "Da. Măsurarea continuă chiar dacă ecranul este blocat sau într-o altă aplicație; punctul portocaliu de pe iOS indică că microfonul ascultă. Un apel telefonic o oprește și o salvează. Implicit, ecranul rămâne aprins în timpul măsurării: puteți dezactiva această funcție în Settings."
+        "a": "Da. Măsurarea continuă chiar dacă ecranul este blocat sau într-o altă aplicație; punctul portocaliu din iOS indică că microfonul ascultă. Un apel telefonic o oprește și salvează înregistrarea. Implicit, ecranul rămâne pornit în timpul măsurării: puteți dezactiva această funcție în Setări."
       },
       {
         "q": "Cum notez zgomotul unui vecin?",
-        "a": "Alegeți un prag în Settings (de exemplu, 40 dB noaptea), apoi porniți o măsurare și lăsați iPhone-ul în cameră. În History, înregistrarea listează fiecare trecere peste prag, cu ora, durata și vârful. Puteți să-i dați un nume, adăugați o notă, împărțiți un rezumat sau exportați toate măsurătorile ca CSV. Aceste înregistrări ajută la dialog, dar nu înlocuiesc un raport oficial."
+        "a": "Alegeți un prag în Setări (de exemplu, 40 dB noaptea), apoi începeți o măsurare și lăsați iPhone-ul în cameră. În Istoric, înregistrarea listă fiecare trecere peste prag, cu ora, durata și vârful. Puteți să-i dați un nume, să adăugați o notă, să partajați un rezumat sau să exportați toate citirile în format CSV. Aceste citiri ajută la dialog, dar nu înlocuiesc un raport oficial."
       },
       {
-        "q": "Mesurările mele sunt salvate?",
-        "a": "Fiecare măsurare este salvată pe dispozitivul tău când o oprești, și la fiecare 30 de secunde în timp ce rulează. Acestea nu sunt sincronizate între dispozitivele tale și sunt șterse dacă ștergi aplicația: exportă-le în format CSV pe cele pe care vrei să le păstrezi."
+        "q": "Măsurările mele sunt salvate?",
+        "a": "Fiecare măsurare este salvată pe dispozitivul dumneavoastră atunci când o opriți, și la fiecare 30 de secunde în timp ce rulează. Acestea nu sunt sincronizate între dispozitivele dvs. și sunt șterse dacă eliminați aplicația: exportați-le ca CSV pe cele pe care doriți să le păstrați."
       },
       {
-        "q": "Cum șterg o măsurare?",
-        "a": "În istoric, alunecă măsurarea spre stânga, sau deschide-o și alege „Delete recording”."
+        "q": "Cum pot șterge o măsurare?",
+        "a": "În Istoric, glisați măsurarea spre stânga sau deschideți-o și alegeți „Șterge înregistrarea”."
       },
       {
         "q": "Aplicația înregistrează ce aude?",
         "a": "Nu. Sunetul de la microfon este folosit doar pentru a calcula nivelul, pe iPhone, apoi este uitat. Sunt salvate doar nivelurile (unul pe secundă)."
       }
     ],
-    "privacy_summary": "Sound Level nu colectează nicio dată personală, nu înregistrează sunet, nu se conectează la niciun server și nu conține reclame, cumpărături sau urmăritori. Măsurările tale rămân pe dispozitivul tău."
+    "privacy_summary": "Sound Level nu colectează nicio dată personală, nu înregistrează sunet, nu se conectează la niciun server și nu conține reclame, cumpărături sau urmăritori. Măsurările dumneavoastră rămân pe dispozitivul dvs."
   },
   "privacy": {
     "sections": [
       {
-        "h": "Rezumat",
+        "h": "În rezumat",
         "blocks": [
           {
             "p": "Sound Level nu colecte nicio dată personală. Aplicația funcționează offline, nu se conectează la niciun server și nu necesită cont. Microfonul este folosit doar pentru a calcula un nivel sonor: niciun sunet nu este înregistrat sau transmis."
@@ -60,10 +60,10 @@
         "h": "Microfonul",
         "blocks": [
           {
-            "p": "Aplicația cere accesul la microfon pentru a măsura zgomotul. Sunetul este analizat în timp real pe iPhone, apoi imediat uitat: nu este niciodată înregistrat, stocat sau trimis undeva."
+            "p": "Aplicația cere acces la microfon pentru a măsura zgomotul. Sunetul este analizat în timp real pe iPhone, apoi imediat uitat: nu este niciodată înregistrat, stocat sau trimis undeva."
           },
           {
-            "p": "Puteți revoca această permisiune oricând în Setări › Confidențialitate și securitate › Microfon. Aplicația nu va mai putea măsura apoi."
+            "p": "Puteți revoca această permisiune oricând în Setări › Confidențialitate și securitate › Microfon. Aplicația nu va mai putea măsura după aceea."
           }
         ]
       },
@@ -71,10 +71,10 @@
         "h": "Datele dvs.",
         "blocks": [
           {
-            "p": "Aplicația salvează măsurătorile dvs.: data, un nivel sonor pe secundă, numele și nota pe care le atribuiți, precum și setările dvs. (pondere, prag, etalonare)."
+            "p": "Aplicația salvează măsurările dvs.: data, un nivel sonor pe secundă, numele și nota pe care le atribuiți, precum și setările dvs. (ponderare, prag, calibrare)."
           },
           {
-            "p": "Aceste date sunt stocate pe dispozitivul dumneavoastră, iar dezvoltatorul nu are acces la ele. La fel ca datele altor aplicații, pot fi incluse în backup-urile dispozitivului dacă le-ați activat. Puteți șterge fiecare măsurătoare din istoric; ștergerea aplicației le șterge pe toate."
+            "p": "Aceste date sunt stocate pe dispozitivul dumneavoastră, iar dezvoltatorul nu are acces la ele. La fel ca datele altor aplicații, pot fi incluse în copiile de rezervă ale dispozitivului dacă le-ați activat. Puteți șterge fiecare înregistrare din Istoric; ștergerea aplicației le șterge pe toate."
           }
         ]
       },
@@ -82,12 +82,12 @@
         "h": "Partajare și export",
         "blocks": [
           {
-            "p": "Nimic nu părăsește aplicația fără acțiunea dumneavoastră."
+            "p": "Nimic nu părăsește aplicația fără acțiunea ta."
           },
           {
             "ul": [
-              "<strong>Partajare rezumat</strong>: textul trece prin instrumentele iOS (AirDrop, Mesagerii, Mail…) și conține data, nivelurile, vârfurile și nota măsurătorii.",
-              "<strong>Export CSV</strong>: fișierul conține ora și nivelurile fiecărei secunde. Alegeți unde să-l salvați sau cărui să-l trimiteți; este apoi supus termenilor serviciului ales."
+              "<strong>Partajează rezumatul</strong>: textul trece prin instrumentele iOS (AirDrop, Mesagerii, Mail…) și conține data, nivelurile, vârfurile și nota măsurării.",
+              "<strong>Exportă citirile (CSV)</strong>: fișierul conține ora și nivelurile fiecărei secunde. Alegi unde să-l salvezi sau către cine să-l trimiți; este apoi supus termenilor serviciului ales."
             ]
           }
         ]
@@ -96,7 +96,7 @@
         "h": "Publicitate, achiziții și urmărire",
         "blocks": [
           {
-            "p": "Sound Level este gratuită. Nu conține reclame, nicio cumpărare în aplicație, niciun urmăritor și niciun instrument de analiză sau statistică a utilizării."
+            "p": "Aplicația Sound Level este gratuită. Nu conține reclame, nicio cumpărare în aplicație, niciun urmăritor și niciun instrument de analiză sau statistică a utilizării."
           }
         ]
       },

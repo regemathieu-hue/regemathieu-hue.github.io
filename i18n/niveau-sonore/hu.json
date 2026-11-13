@@ -1,58 +1,58 @@
 {
   "support": {
-    "subtitle": "A zajszintmérő, amely naplózza a zajtörténetet",
-    "contact": "Kérdésed, ötleted vagy meglepő mérésed van? Írj nekem: <br>{email}",
+    "subtitle": "A zajszintmérő, amely nyomon követi a zajtörténetet",
+    "contact": "Kérdés, ötlet vagy meglepő olvasat? Írj nekem: <br>{email}",
     "faq": [
       {
         "q": "A megjelenített értékek megbízhatóak-e?",
-        "a": "Az értékek jelző jellegűek. Az iPhone mikrofonja nem azonos egy hitelesített zajszintmérővel: a készülék függvényében a eltérés néhány decibel is lehet, különösen nagyon halk vagy nagyon erős zajok esetén. Az alkalmazás alkalmas az időpontok, helyek vagy esték összehasonlítására, nem hivatalos mérésre."
+        "a": "Közelítő jellegűek. Az iPhone mikrofonja nem azonos egy hitelesített zajszintmérővel: a készülék függvényében a eltérés néhány decibel lehet, különösen nagyon halk vagy nagyon erős zajoknál. Az alkalmazás alkalmas az időpontok, helyek vagy esték összehasonlítására, nem hivatalos mérésekhez."
       },
       {
-        "q": "Hogyan kalibráljam az alkalmazást?",
-        "a": "Tegyél egy iPhone-t egy zajszintmérő mellé vagy egy Apple Watch mellé (app: Noise), egy stabil zajban, és indíts mérést. A Beállítások › Kalibrálás menüpontban állítsd be a korrekciót úgy, hogy azonos értéket olvasson. A korrekciónak a következő mérésre kell hatnia."
+        "q": "Hogyan kalibrálhatom az alkalmazást?",
+        "a": "Tegyél egy iPhone-t egy zajszintmérő vagy Apple Watch (Noise alkalmazás) mellé, egy stabil zajban, és indíts mérést. A Beállítások › Kalibrálás menüpontban állítsd be a Korrekciót úgy, hogy azonos értéket olvasson. A korrekció a következő mérésre vonatkozik."
       },
       {
-        "q": "Mit jelentenek a dB(A) és a dB(Z)?",
-        "a": "A dB(A) súlyozás csökkenti az alacsony frekvenciákat, ahogy az emberi fül is: ez a zajszintmérők és a zajszabályozások által használt súlyozás, alapértelmezett beállítás. A dB(Z) súlyozás semmilyen korrekciót nem végez: így láthatóak a mélyhangok is, például egy aláskalibra vagy légkezelő. A választás a Beállítások menüben történik."
+        "q": "Mit jelentenek a dB(A) és dB(Z)?",
+        "a": "A súlyozás A csökkenti az alacsony frekvenciákat, ahogy az emberi fül is: ez a zajszintmérők és a zajszabályozások által használt, alapértelmezett beállítás. A súlyozás Z semmilyen korrekciót nem végez: így láthatóak a mélyhangok is, például egy aláskáli vagy szellőztetés. A választás a Beállítások menüben történik."
       },
       {
         "q": "Mit jelent az átlag (Leq), csúcs, L10 és L90?",
-        "a": "Az átlag (Leq) az a konstans szint, amely ugyanazt a hangenergiát hordozná, mint az egész mérés: a hangosabb zajok nagyobb súllyal bírnak. A csúcs az a legnagyobb szint, amit egy nyolcad másodperc alatt elértek. Az L10 az a szint, amelyet 10%-ban a mérési idő alatt meghaladnak (megjegyzendő zajok), az L90 pedig az a szint, amelyet 90%-ban meghaladják (háttérzaj)."
+        "a": "Az átlag (Leq) a konstans szint, amely ugyanazt a hangenergiát hordozná, mint az egész felvétel: a hangos zajok erősebben súlyozottak. A csúcs az egy nyolcad másodperc alatt elérhető legnagyobb szint. Az L10 a szint, amelyet 10%-ban túllépnek (megjegyzésre méltó zajok), az L90 pedig az, amelyet 90%-ban túllépnek (háttérzaj)."
       },
       {
-        "q": "Mi az a zajdózis?",
-        "a": "Összehasonlítja a mérés során kapott zajszintet a napi maximálisan ajánlott értékkel: 85 dB(A) nyolc óra alatt, a megengedett idő minden 3 dB-es emelkedéssel feleződik. 100%-nál elérve a napi határérték elérve van: ennél magasabb szint esetén hallásvédő használata szükséges. Ez egy becslés, nem egy professzionális dosiméter."
+        "q": "Mi a zajdózis?",
+        "a": "Összehasonlítja a mérés során kapott zajszintet a napi ajánlott maximális szinttel: 85 dB(A) nyolc óra alatt, a megengedett idő minden 3 dB-es emelkedéssel feleződik. 100%-nál elérve a napi határérték elérve van: ennél magasabb szint esetén hallásvédő használata szükséges. Ez egy becslés, nem szakmai dosiméter."
       },
       {
         "q": "Folytatódik-e a mérés, ha az képernyő zárolva van?",
-        "a": "Igen. A mérés folytatódik, akár zárolva van a képernyő, akár más alkalmazásban vagyunk; az iOS piros pontja jelzi, hogy a mikrofon figyel. Egy hívás megállítja és elmenti a mérést. Alapértelmezés szerint a képernyő bekapcsolva marad a mérés során: ezt a Beállításokban kikapcsolhatod."
+        "a": "Igen. A mérés folytatódik képernyő zárolva vagy más alkalmazásban is; az iOS piros pontja jelzi, hogy a mikrofon figyel. Egy hívás megállítja és elmenti a felvételt. Alapértelmezés szerint a képernyő be van kapcsolva a mérés során: ezt a Beállításokban kikapcsolhatod."
       },
       {
         "q": "Hogyan jegyezhetem fel egy szomszéd zaját?",
-        "a": "Válaszd ki egy küszöbértéket a Beállításokban (pl. 40 dB éjszaka), majd indíts mérést, és hagyd az iPhone-ot a szobában. Az előzményekben a felvétel minden olyan időpontot felsorol, amikor a zaj a küszöbérték felett volt, ideértve az időpontot, a tartamot és a csúcsértéket. Megnevezheted, jegyzetet adhatsz hozzá, összegzést oszthatsz meg vagy minden mérési adatot CSV formátumban exportálhatsz. Ezek az adatok segítenek a párbeszéd megkezdésében, de nem helyettesítik az hivatalos jegyzőkönyvet."
+        "a": "Válaszd ki a küszöbértéket a Beállításokban (például éjszaka 40 dB), majd indíts mérést, és hagyd az iPhone-ot a szobában. Az Előzményekben a felvétel minden olyan időpontot felsorol, amikor a zaj a küszöböt túllépte, ideértve az időpontot, a tartamot és a csúcsértéket. Megnevezheted, megjegyzést adhatsz hozzá, összegzést oszthatsz meg vagy exportálhatod az összes olvasatot CSV formátumban. Ezek az olvasatok segítenek a beszélgetésben, de nem helyettesítik a hivatalos bejelentést."
       },
       {
-        "q": "A mérések elmentve vannak?",
-        "a": "Minden mérés elmentődik az eszközön, amikor leállítod, és minden 30 másodpercben, amíg fut. A felvételek nem szinkronizálódnak az eszközeid között, és eltűnnek, ha törölöd az alkalmazást: exportáld a megőrzendőket CSV formátumban."
+        "q": "A méréseim mentve vannak?",
+        "a": "Minden mérés az eszközön tárolódik, amikor befejezed, és minden 30 másodpercben, amíg fut. A felvételek nem szinkronizálódnak az eszközöd között, és törlődnek, ha eltávolítod az alkalmazást: exportáld a megőrzendőket CSV formátumban."
       },
       {
         "q": "Hogyan törölhetek egy mérést?",
-        "a": "Az előzményekben húzd balra a felvételt, vagy nyisd meg, majd válaszd a „Delete recording” lehetőséget."
+        "a": "Az Előzményekben húzd balra a felvételt, vagy nyisd meg, és válaszd a „Felvétel törlése” lehetőséget."
       },
       {
         "q": "Az alkalmazás rögzíti, amit hall?",
-        "a": "Nem. A mikrofon hangja csak a szint kiszámításához használható az iPhone-on, majd el van felejtve. Csak a szintek (egy másodpercenként) kerülnek mentésre."
+        "a": "Nem. A mikrofon hangja csak a szint kiszámításához használható az iPhone-on, majd el van felejtve. Csak a szintek (egy másodpercenként) kerülnek tárolásra."
       }
     ],
-    "privacy_summary": "A Sound Level semmilyen személyes adatot nem gyűjt, nem rögzít hangot, nem kapcsolódik semmilyen kiszolgálóhoz, és nincs benne reklám, vásárlás vagy nyomkövető. A méréseid az eszközön maradnak."
+    "privacy_summary": "A Zajszint semmilyen személyes adatot nem gyűjt, nem rögzít hangot, nem kapcsolódik semmilyen kiszolgálóhoz, és nincs benne reklám, vásárlás vagy nyomon követő. A méréseid az eszközödön maradnak."
   },
   "privacy": {
     "sections": [
       {
-        "h": "Összefoglalás",
+        "h": "Összegzés",
         "blocks": [
           {
-            "p": "A Sound Level nem gyűjt semmilyen személyes adatot. Az alkalmazás offline működik, nem csatlakozik semmilyen kiszolgálóhoz, és nem igényel fiókot. A mikrofon csak a hangszint kiszámításához használható: egyetlen hang sem rögzítődik vagy továbbítódik."
+            "p": "A Sound Level nem gyűjt személyes adatokat. Az alkalmazás offline működik, nem kapcsolódik semmilyen kiszolgálóhoz, és nem igényel fiókot. A mikrofon csak a hangszint kiszámításához használható: egyetlen hang sem rögzítődik vagy továbbítódik."
           }
         ]
       },
@@ -60,7 +60,7 @@
         "h": "A mikrofon",
         "blocks": [
           {
-            "p": "Az alkalmazás hozzáféréshez igényli a mikrofont a zaj méréséhez. A hang az iPhone-on élőben elemzésre kerül, majd azonnal el is felejtődik: soha nem rögzítődik, nem tárolódik, és semmilyen helyre nem küldődik el."
+            "p": "Az alkalmazás hozzáférést kér a mikrofonthoz a zaj méréséhez. A hang az iPhone-on élőben elemzésre kerül, majd azonnal el is felejti: soha nem rögzítődik, tárolódik vagy bárhová továbbítódik."
           },
           {
             "p": "Bármikor visszavonhatod ezt a hozzáférést a Beállítások › Adatvédelem és biztonság › Mikrofon menüben. Ekkor az alkalmazás már nem tud mérni."
@@ -71,40 +71,40 @@
         "h": "Adatok",
         "blocks": [
           {
-            "p": "Az alkalmazás rögzíti a mért értékeidet: dátum, másodpercenkénti hangszint, név és megjegyzés, valamint beállításaid (súlyozás, küszöbérték, kalibrálás)."
+            "p": "Az alkalmazás rögzíti a méréseidet: dátum, másodpercenkénti hangszint, név és megjegyzés, amit hozzáadnak, valamint beállításaid (súlyozás, küszöb, kalibrálás)."
           },
           {
-            "p": "Ezek az adatok a saját eszközödön tárolódnak, és a fejlesztőnek nincs hozzáférése hozzájuk. Ahogy más alkalmazások adatát is, ezek lehetnek a készüléked biztonsági mentésében, ha ezt bekapcsoltad. Minden mérés törlődhet az előzmények közül; az alkalmazás törlése minden rögzített adatot töröl."
+            "p": "Ezek az adatok a készülékeden tárolódnak, és a fejlesztő hozzáféréséhez nincs joga. Ahogy más alkalmazások adatát is, ezek szerepelhetnek a készüléked biztonsági mentéseiben, ha engedélyezted őket. Egyesével törölheted a méréseket az Előzményekben; az alkalmazás törlésével mindet eltávolítod."
           }
         ]
       },
       {
-        "h": "Megosztás és exportálás",
+        "h": "Megosztás és export",
         "blocks": [
           {
-            "p": "Semmi sem távozik az alkalmazásból, kivéve, ha Ön szándékosan megosztja."
+            "p": "Az alkalmazásból semmi nem kerül ki, kivéve, ha Ön választja a megosztást."
           },
           {
             "ul": [
-              "<strong>Összegzés megosztása</strong>: a szöveg az iOS-os eszközökön (AirDrop, Üzenetek, E-mail…) keresztül halad, és tartalmazza a mérés dátumát, szintjeit, csúcsértékeit és megjegyzését.",
-              "<strong>CSV exportálás</strong>: a fájl minden másodpercre tartalmazza az időpontot és a szintet. Ön választhatja ki, hova menti vagy kinek küldi; ekkor a kiválasztott szolgáltatás feltételei érvényesek rá."
+              "<strong>Összegzés megosztása</strong>: a szöveg az iOS-os megosztási eszközökön (AirDrop, Üzenetek, E-mail…) halad át, és tartalmazza a dátumot, a szinteket, a csúcsértékeket és a mérés megjegyzését.",
+              "<strong>Olvasatok exportálása (CSV)</strong>: a fájl minden másodpercre tartalmazza az időpontot és a szinteket. Ön választhatja ki, hova menti vagy kinek küldi; ezután a kiválasztott szolgáltatás feltételei érvényesek rá."
             ]
           }
         ]
       },
       {
-        "h": "Hirdetések, vásárlások és követés",
+        "h": "Hirdetések, vásárlások és nyomon követés",
         "blocks": [
           {
-            "p": "A Sound Level ingyenes. Nem tartalmaz hirdetéseket, beépített vásárlásokat, nyomkövetőket vagy használati statisztikákhoz kapcsolódó eszközöket."
+            "p": "A Sound Level ingyenes. Nem tartalmaz hirdetéseket, belső vásárlásokat, nyomon követőket vagy használati statisztikákhoz kapcsolódó eszközöket."
           }
         ]
       },
       {
-        "h": "Gyermekek",
+        "h": "Gyerekek",
         "blocks": [
           {
-            "p": "Az alkalmazás nem gyűjt semmilyen adatot, és minden korosztálynak megfelelő."
+            "p": "Az alkalmazás nem gyűjt semmilyen adatot, és minden korosztály számára megfelelő."
           }
         ]
       },
@@ -112,7 +112,7 @@
         "h": "Módosítások",
         "blocks": [
           {
-            "p": "Ha ez a szabályozás megváltozik, a frissített verzió ezen az oldalon jelenik meg a frissítés dátumával."
+            "p": "Ha ez a szabályozás megváltozik, az új verzió ezen a lapon jelenik meg a frissítés dátumával."
           }
         ]
       },
@@ -120,7 +120,7 @@
         "h": "Kapcsolat",
         "blocks": [
           {
-            "p": "Bármilyen kérdés esetén a szabályozással kapcsolatban: {email}"
+            "p": "Bármilyen kérdés esetén ezzel a politikával kapcsolatban: {email}"
           }
         ]
       }

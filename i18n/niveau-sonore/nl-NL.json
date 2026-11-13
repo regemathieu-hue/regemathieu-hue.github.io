@@ -1,55 +1,55 @@
 {
   "support": {
-    "subtitle": "De decibelsmeter die het geluidsniveau historie bijhoudt",
+    "subtitle": "De geluidsniveau-meter die het geluidshistorie bewaart",
     "contact": "Een vraag, een idee of een meting die je verbaast? Stuur me een e-mail:<br>{email}",
     "faq": [
       {
         "q": "Zijn de weergegeven waarden betrouwbaar?",
-        "a": "Ze zijn indicatief. De microfoon van een iPhone is niet dezelfde als die van een goedgekeurde decibelsmeter: afhankelijk van het apparaat kan het verschil enkele decibels bedragen, vooral bij zeer zachte of zeer harde geluiden. De app is geschikt om momenten, plaatsen of avonden met elkaar te vergelijken, niet voor officiële metingen."
+        "a": "Ze zijn indicatief. De microfoon van een iPhone is niet die van een goedgekeurde geluidsniveaumeter: afhankelijk van het apparaat kan het verschil enkele decibellen bedragen, vooral bij zeer zachte of zeer harde geluiden. De app is geschikt om momenten, plaatsen of avonden met elkaar te vergelijken, niet voor een officiële meting."
       },
       {
         "q": "Hoe kalibreer ik de app?",
-        "a": "Plaats de iPhone naast een decibelsmeter of een Apple Watch (app Noise) in een stabiel geluid en start een meting. In Settings › Calibration pas je de correctie aan tot beide dezelfde waarde tonen. De correctie wordt toegepast op de volgende meting."
+        "a": "Plaats de iPhone naast een geluidsniveaumeter of een Apple Watch (app 'Noise') in een stabiel geluid en start een meting. Ga naar Instellingen › Kalibratie en pas de correctie aan tot beide dezelfde waarde tonen. De correctie wordt toegepast op de volgende meting."
       },
       {
         "q": "Wat betekenen dB(A) en dB(Z)?",
-        "a": "A-gewichting vermindert lage frequenties zoals het menselijk oor dat doet: dit is de standaard voor decibelsmeters en geluidsregelgeving, en wordt standaard gebruikt. Z-gewichting corrigeert niets: deze toont ook basfrequenties, zoals een subwoofer of ventilatie. Je kiest dit in Settings."
+        "a": "A-gewichting vermindert lage frequenties zoals het menselijk oor: dit is de standaard voor geluidsniveaumeters en geluidsregelgeving, en wordt standaard gebruikt. Z-gewichting corrigeert niets: ook laagfrequente geluiden worden weergegeven, zoals een subwoofer of ventilatie. De keuze kun je maken in Instellingen."
       },
       {
         "q": "Wat betekenen gemiddelde (Leq), piek, L10 en L90?",
-        "a": "Het gemiddelde (Leq) is het constante niveau dat dezelfde geluidsenergie zou opleveren als de hele meting: luide geluiden wegen zwaarder mee. De piek is het hoogste niveau dat gedurende een achtste seconde wordt bereikt. L10 is het niveau dat 10% van de tijd wordt overschreden (opvallend geluid), L90 het niveau dat 90% van de tijd wordt overschreden (achtergrondgeluid)."
+        "a": "Het gemiddelde (Leq) is het constante niveau dat dezelfde geluidsenergie zou opleveren als de hele meting: luidere geluiden wegen zwaarder. De piek is het hoogste niveau dat gedurende een achtste seconde wordt bereikt. L10 is het niveau dat 10 % van de tijd wordt overschreden (opvallend geluid), L90 het niveau dat 90 % van de tijd wordt overschreden (achtergrondgeluid)."
       },
       {
         "q": "Wat is de geluidsdosering?",
-        "a": "Deze vergelijkt het ontvangen geluid tijdens de meting met het aanbevolen maximum per dag: 85 dB(A) gedurende 8 uur, waarbij de toegestane duur elke 3 dB meer wordt gehalveerd. Bij 100% is de daglimiet bereikt: daarboven is gehoorbescherming aan te raden. Het is een schatting, geen professionele dosimeter."
+        "a": "Deze vergelijkt het ontvangen geluid tijdens de meting met de aanbevolen dagelijkse maximumwaarde: 85 dB(A) gedurende 8 uur, waarbij de toegestane duur elke 3 dB meer wordt gehalveerd. Bij 100 % is de daglimiet bereikt: daarboven is gehoorbescherming aanbevolen. Het is een schatting, geen professionele dosimeter."
       },
       {
         "q": "Blijft de meting doorlopen als het scherm vergrendeld is?",
-        "a": "Ja. De meting gaat door wanneer het scherm vergrendeld is of in een andere app; het oranje puntje in iOS laat zien dat de microfoon luistert. Een telefoongesprek stopt en bewaart de meting. Standaard blijft het scherm aan tijdens een meting: u kunt dit uitschakelen in Settings."
+        "a": "Ja. De meting gaat door wanneer het scherm vergrendeld is of in een andere app; het oranje puntje in iOS laat zien dat de microfoon luistert. Een telefoongesprek stopt en bewaart de meting. Standaard blijft het scherm aan tijdens een meting: u kunt dit uitschakelen in Instellingen."
       },
       {
         "q": "Hoe noteer ik het geluid van een buur?",
-        "a": "Kies een drempelwaarde in Settings (bijvoorbeeld 40 dB 's nachts), start dan een meting en laat de iPhone in de kamer achter. In de geschiedenis wordt elke keer dat het geluid boven de drempel komt vermeld, inclusief tijd, duur en piek. U kunt deze meting benoemen, een notitie toevoegen, een samenvatting delen of alle meetwaarden als CSV exporteren. Deze metingen helpen bij gesprekken, maar vervangen geen officiële melding."
+        "a": "Kies een drempelwaarde in Instellingen (bijvoorbeeld 40 dB 's nachts), start dan een meting en laat de iPhone in de kamer achter. In Geschiedenis wordt elke keer dat het geluid boven de drempel komt, vermeld met tijd, duur en piek. U kunt deze meting benoemen, een notitie toevoegen, een samenvatting delen of alle meetwaarden exporteren als CSV. Deze metingen helpen bij gesprekken, maar vervangen geen officiële melding."
       },
       {
         "q": "Worden mijn metingen opgeslagen?",
-        "a": "Elke meting wordt opgeslagen op uw apparaat zodra u deze stopt, en elke 30 seconden terwijl deze loopt. Metingen worden niet gesynchroniseerd tussen uw apparaten en verdwijnen als u de app verwijdert: exporteer de metingen die u wilt behouden als CSV."
+        "a": "Elke meting wordt opgeslagen op uw apparaat zodra u ermee ophoudt, en elke 30 seconden terwijl deze loopt. De metingen worden niet gesynchroniseerd tussen uw apparaten en worden verwijderd als u de app verwijdert: exporteer de metingen die u wilt behouden als CSV."
       },
       {
         "q": "Hoe verwijder ik een meting?",
-        "a": "In de geschiedenis schuift u de meting naar links, of opent u deze en kiest u « Delete recording »."
+        "a": "In de Geschiedenis swipet u naar links over de meting, of opent u deze en kiest u « Opname verwijderen »."
       },
       {
         "q": "Bewaart de app wat hij hoort?",
         "a": "Nee. Het geluid van de microfoon wordt alleen gebruikt om het niveau te berekenen, op de iPhone, en wordt daarna vergeten. Alleen de niveaus (één per seconde) worden opgeslagen."
       }
     ],
-    "privacy_summary": "Sound Level verzamelt geen persoonlijke gegevens, bewaart geen geluid, verbindt zich niet met een server en bevat geen advertenties, in-app aankopen of tracking. Uw metingen blijven op uw apparaat."
+    "privacy_summary": "Sound Level verzamelt geen persoonlijke gegevens, bewaart geen geluid, verbindt zich niet met een server en bevat geen advertenties, aankopen of tracking. Uw metingen blijven op uw apparaat."
   },
   "privacy": {
     "sections": [
       {
-        "h": "Kort samengevat",
+        "h": "Samenvatting",
         "blocks": [
           {
             "p": "Sound Level verzamelt geen persoonlijke gegevens. De app werkt offline, verbindt niet met een server en vereist geen account. De microfoon wordt alleen gebruikt om een geluidsniveau te berekenen: er wordt geen geluid opgenomen of doorgestuurd."
@@ -60,10 +60,10 @@
         "h": "De microfoon",
         "blocks": [
           {
-            "p": "De app vraagt toegang tot de microfoon om geluid te meten. Het geluid wordt in realtime geanalyseerd op je iPhone, en direct vergeten: het wordt nooit opgenomen, bewaard of ergens naartoe gestuurd."
+            "p": "De app vraagt toegang tot de microfoon om geluid te meten. Het geluid wordt in realtime geanalyseerd op je iPhone en direct vergeten: het wordt nooit opgenomen, bewaard of ergens naartoe gestuurd."
           },
           {
-            "p": "U kunt deze toegang op elk moment intrekken in Instellingen › Privacy & Beveiliging › Microfoon. De app kan dan niet langer meten."
+            "p": "U kunt deze toegang op elk moment intrekken in Instellingen › Privacy & Security › Microfoon. De app kan dan niet langer meten."
           }
         ]
       },
@@ -71,23 +71,23 @@
         "h": "Uw gegevens",
         "blocks": [
           {
-            "p": "De app bewaart uw metingen: de datum, een geluidsniveau per seconde, de naam en notitie die u eraan geeft, evenals uw instellingen (gewichting, drempel, kalibratie)."
+            "p": "De app bewaart uw metingen: de datum, een geluidsniveau per seconde, de naam en notitie die u eraan geeft, evenals uw instellingen (weging, waarschuwingsdrempel, kalibratie)."
           },
           {
-            "p": "Deze gegevens worden opgeslagen op uw apparaat, en de ontwikkelaar heeft geen toegang tot ze. Net als de gegevens van andere apps kunnen ze in de back-ups van uw apparaat staan als u die hebt ingeschakeld. U kunt elke meting uit het historiek verwijderen; het verwijderen van de app verwijdert ze allemaal."
+            "p": "Deze gegevens worden opgeslagen op uw apparaat, en de ontwikkelaar heeft geen toegang tot ze. Net als gegevens van andere apps kunnen ze in de back-ups van uw apparaat staan als u die hebt ingeschakeld. U kunt elke meting uit de Geschiedenis verwijderen; het verwijderen van de app verwijdert ze allemaal."
           }
         ]
       },
       {
-        "h": "Delen en exporteren",
+        "h": "Deling en export",
         "blocks": [
           {
             "p": "Niets verlaat de app zonder uw actie."
           },
           {
             "ul": [
-              "<strong>Deel een samenvatting</strong>: de tekst gaat via iOS-deelopties (AirDrop, Messages, Mail…) en bevat datum, niveaus, pieken en de notitie van de meting.",
-              "<strong>CSV-export</strong>: het bestand bevat de tijd en de niveaus per seconde. U kiest waar u het opslaat of wie u het stuurt; het is dan onderworpen aan de voorwaarden van de gekozen service."
+              "<strong>Deel samenvatting</strong>: de tekst gaat via iOS-deelopties (AirDrop, Berichten, Mail…) en bevat de datum, niveaus, pieken en notitie van de meting.",
+              "<strong>Meetwaarden exporteren (CSV)</strong>: het bestand bevat de tijd en de niveaus per seconde. U kiest waar u het opslaat of wie u het stuurt; het is dan onderworpen aan de voorwaarden van de gekozen service."
             ]
           }
         ]
@@ -96,7 +96,7 @@
         "h": "Advertenties, aankopen en volgen",
         "blocks": [
           {
-            "p": "Sound Level is gratis. Het bevat geen advertenties, geen in-app aankopen, geen trackers en geen analysetools of gebruikstatistieken."
+            "p": "Sound Level is gratis. Het bevat geen advertenties, geen in-app aankopen, geen trackers en geen analysetools of gebruiksaanstatistieken."
           }
         ]
       },
@@ -112,7 +112,7 @@
         "h": "Wijzigingen",
         "blocks": [
           {
-            "p": "Als deze privacybeleid verandert, wordt de nieuwe versie op deze pagina geplaatst met de datum van de update."
+            "p": "Als deze politiek verandert, wordt de nieuwe versie op deze pagina gepubliceerd met de datum van de update."
           }
         ]
       },
@@ -120,7 +120,7 @@
         "h": "Contact",
         "blocks": [
           {
-            "p": "Voor vragen over dit privacybeleid: {email}"
+            "p": "Voor vragen over deze politiek: {email}"
           }
         ]
       }

@@ -1,69 +1,69 @@
 {
   "support": {
     "subtitle": "El sonomètre que manté l'historial del soroll",
-    "contact": "Una pregunta, una idea o una mesura que et sorprengui? Escriviu-me:<br>{email}",
+    "contact": "Una pregunta, una idea o una mesura que et sorprèn? Escriviu-me:<br>{email}",
     "faq": [
       {
         "q": "Les valors mostrades són fiables?",
-        "a": "Són indicatives. El micròfon d'un iPhone no és el d'un sonomètre homologat: segons l'apparell, la diferència pot arribar a uns quants decibels, especialment en sorolls molt febles o molt forts. L'aplicació és adequada per comparar moments, llocs o vespres entre ells, però no per a mesures oficials."
+        "a": "Són indicatives. El micròfon d'un iPhone no és el d'un sonomètre homologat: segons l'apparell, la diferència pot arribar a uns quants decibels, especialment en sorolls molt febles o molt forts. L'aplicació és bona per comparar moments, llocs o vetlles entre ells, no per a una mesura oficial."
       },
       {
-        "q": "Com cal calibrar l'aplicació?",
-        "a": "Posa l'iPhone al costat d'un sonomètre o d'un Apple Watch (app Noise), en un soroll estable, i inicia una mesura. A Configuració › Calibratge, ajusta la correcció fins que es llegeixi el mateix valor. La correcció s'aplica a la mesura següent."
+        "q": "Com calibrar l'aplicació?",
+        "a": "Posa l'iPhone al costat d'un sonomètre o d'un Apple Watch (aplicació Noise), en un soroll estable, i inicia la mesura. A Configuració › Calibratge, ajusta la correcció fins que es llegeixi el mateix valor. La correcció s'aplica a la mesura següent."
       },
       {
         "q": "Què volen dir dB(A) i dB(Z)?",
-        "a": "La ponderació A atenua els graves com ho fa l'oïda humana: és la que utilitzen els sonomètres i les regulacions sobre el soroll, i es tria per defecte. La ponderació Z no corrigeix res: mostra també els graves, com un subwoofer o una ventilació. Es tria a Configuració."
+        "a": "La ponderació A atenua els graves com l'oïda humana: és la que utilitzen els sonomètres i les regulacions sobre el soroll, triada per defecte. La ponderació Z no corrige res: mostra també els graves, com un caisson de graves o una ventilació. La tria es fa a Configuració."
       },
       {
         "q": "Què vol dir mitjana (Leq), pic, L10 i L90?",
-        "a": "La mitjana (Leq) és el nivell constant que portaria la mateixa energia sonora que tota la mesura: els sons forts pesen més. El pic és el nivell més alt assolit en un vuitè de segon. El L10 és el nivell superat el 10 % del temps (sons destacats), el L90 el superat el 90 % del temps (fons de soroll)."
+        "a": "La mitjana (Leq) és el nivell constant que portaria la mateixa energia sonora que tota la mesura: els sorolls forts pesen més. El pic és el nivell més alt assolit en un vuitè de segon. El L10 és el nivell superat el 10 % del temps (sorolls destacats), el L90 el nivell superat el 90 % del temps (soroll de fons)."
       },
       {
         "q": "Què és la dosi de soroll?",
-        "a": "Compara el soroll rebut durant la mesura amb el màxim recomanat en un dia: 85 dB(A) durant 8 hores, la durada admèsida es divideix per dues cada 3 dB addicionals. Al 100 %, s’ha arribat al límit del dia: més enllà, cal usar protecció auditiva. És una estimació, no un dosímetre professional."
+        "a": "Compara el soroll rebut durant la mesura amb el màxim recomanat en un dia: 85 dB(A) durant 8 hores, la durada admèsida es divideix per dues cada 3 dB més. Al 100 %, s’assoliria el límit del dia: més enllà, cal usar protecció auditiva. És una estimació, no un dosímetre professional."
       },
       {
-        "q": "La mesura continua quan l'ecran està bloquejat?",
-        "a": "Sí. La mesura continua amb l’ecran bloquejat o en una altra aplicació; el punt taronja d’iOS indica que el micròfon escolta. Un llamada telefònica la para i l’emmagatzema. Per defecte, l’ecran es manté encès durant la mesura: podeu desactivar-ho als Configuració."
+        "q": "La mesura continua quan l' pantalla està bloquejada?",
+        "a": "Sí. La mesura continua amb la pantalla bloquejada o en una altra aplicació; el punt taronja d'iOS indica que el microfòn escolta. Un llamada telefònica l’atura i l’emmagatzema. Per defecte, la pantalla roman encesa durant la mesura: podeu desactivar-ho a la Configuració."
       },
       {
         "q": "Com registrar el soroll d’un veí?",
-        "a": "Trieu un llindar als Configuració (per exemple 40 dB de nit), després comenceu una mesura i deixeu l’iPhone a la cambra. A l'historial, la mesura llista cada cop que el soroll supera el llindar amb l’hora, la durada i el pic. Podeu donar-li un nom, afegir una nota, compartir un resum o exportar totes les lectures en CSV. Aquestes lectures ajuden a iniciar una conversa, però no substitueixen un informe oficial."
+        "a": "Trieu un límit a la Configuració (per exemple 40 dB de nit), llavors inicieu una mesura i deixeu l'iPhone a la habitació. A l’Històric, la gravació mostra cada cop que el soroll supera el límit amb la seva hora, durada i pic. Podeu donar-li nom, afegir una nota, compartir un resum o exportar totes les lectures en CSV. Aquestes lectures ajuden a iniciar una conversa, però no substitueixen un informe oficial."
       },
       {
         "q": "Les meves mesures es conserven?",
-        "a": "Cada mesura es guarda al vostre dispositiu quan la atureu, i cada 30 segons mentre funcioni. No s'han de sincronitzar entre els vostres dispositius i desapareixen si es desinstal·la l'aplicació: exporteu les que vulgueu conservar com a CSV."
+        "a": "Cada mesura es guarda al vostre dispositiu quan la finalitzeu, i cada 30 segons durant la seva execució. No s'han de sincronitzar entre els vostres dispositius i es perden si desinstal·leu l'aplicació: exporteu les que vulgueu conservar com a CSV."
       },
       {
         "q": "Com esborro una mesura?",
-        "a": "A l'historial, desplaceu la mesura cap a l'esquerra, o obriu-la i trieu « Delete recording »."
+        "a": "A l'Històric, desplaceu la mesura cap a l'esquerra o obriu-la i trieu «Esborrar gravació»."
       },
       {
         "q": "L'aplicació guarda el que escolta?",
         "a": "No. El so del micròfon només s'utilitza per calcular el nivell, a l'iPhone, i després es descarta. Només es guarden els nivells (un per segon)."
       }
     ],
-    "privacy_summary": "Sound Level no recull cap dada personal, no grava cap so, no es connecta a cap servidor i no conté publicitat, compres ni rastrejadors. Les vostres mesures romanen al vostre dispositiu."
+    "privacy_summary": "Sound Level no recull cap dada personal, no grava cap so, no s'connecta a cap servidor i no conté publicitat, compres ni rastrejadors. Les vostres mesures romanen al vostre dispositiu."
   },
   "privacy": {
     "sections": [
       {
-        "h": "Resum",
+        "h": "En resum",
         "blocks": [
           {
-            "p": "Sound Level no recull cap dades personals. L'aplicació funciona fora de línia, no es connecta a cap servidor i no necessita cap compte. El micròfon s'utilitza només per calcular un nivell sonor: cap so es registra ni es transmet."
+            "p": "Sound Level no recull cap dada personal. L'aplicació funciona fora de línia, no es connecta a cap servidor i no necessita cap compte. El microfòn s'utilitza només per calcular un nivell sonor: cap so es registra ni transmet."
           }
         ]
       },
       {
-        "h": "El micròfon",
+        "h": "El microfòn",
         "blocks": [
           {
-            "p": "L'aplicació demana l'accés al micròfon per mesurar el soroll. El so s'anàlisi en temps real a l'iPhone, i immediatament es descarta: no es registra mai, no es conserva ni es transmet cap on."
+            "p": "L'aplicació demana accés al microfòn per mesurar el soroll. El so es analitza en temps real a l'iPhone, i llavors s'oblida immediatament: no es registra mai, no es conserva ni es transmet cap on."
           },
           {
-            "p": "Podeu retirar aquesta autorització en qualsevol moment a Configuració › Privacitat i seguretat › Micròfon. L'aplicació ja no podrà mesurar llavors."
+            "p": "Podeu retirar aquesta autorització en qualsevol moment a Configuració › Privacitat i seguretat › Micro. L'aplicació ja no podrà mesurar."
           }
         ]
       },
@@ -71,10 +71,10 @@
         "h": "Les vostres dades",
         "blocks": [
           {
-            "p": "L'aplicació guarda les vostra mesures: la data, un nivell sonor per segon, el nom i la nota que hi doneu, així com els vostres ajustaments (ponderació, llindar, calibratge)."
+            "p": "L'aplicació guarda les vostres mesures: la data, un nivell sonor per segon, el nom i la nota que hi doneu, així com els vostres ajustos (ponderació, límit, calibratge)."
           },
           {
-            "p": "Aquestes dades es guarden al vostre dispositiu, i el desenvolupador no hi té accés. Com les dades d'altres aplicacions, poden aparèixer a les còpies de seguretat del vostre dispositiu si les heu activat. Podeu suprimir cada mesura a l'historial; la supressió de l'aplicació les esborra totes."
+            "p": "Aquestes dades es guarden al vostre dispositiu, i el desenvolupador no hi té accés. Com les dades d'altres aplicacions, poden incloure's en les còpies de seguretat del vostre dispositiu si les heu activat. Podeu suprimir cada mesura a l'Històric; la supressió de l'aplicació les esborra totes."
           }
         ]
       },
@@ -86,8 +86,8 @@
           },
           {
             "ul": [
-              "<strong>Compartir un resum</strong>: el text passa per les eines d'iOS (AirDrop, Missatges, Correu…) i conté la data, els nivells, els pics i la nota de la mesura.",
-              "<strong>Exportació CSV</strong>: el fitxer conté l'hora i els nivells de cada segon. Tu trius on desar-lo o a qui enviar-lo; llavors queda sotmès als termes del servei triat."
+              "<strong>Compartir resum</strong>: el text passa per les eines d'iOS (AirDrop, Missatges, Correu…) i conté la data, els nivells, els pics i la nota de la mesura.",
+              "<strong>Exporta les lectures (CSV)</strong>: el fitxer conté l'hora i els nivells de cada segon. Tu trius on desar-lo o a qui enviar-lo; llavors queda sotmès als termes del servei triat."
             ]
           }
         ]
@@ -96,7 +96,7 @@
         "h": "Publicitat, compres i seguiment",
         "blocks": [
           {
-            "p": "Sound Level és gratuïta. No conté publicitat, cap compra integrada, cap rastrejador ni cap eina d'anàlisi o estadístiques d'ús."
+            "p": "Sound Level és gratuïta. No conté publicitat, cap compra dins l'aplicació, cap rastrejador ni cap eina d'anàlisi o estadístiques d'ús."
           }
         ]
       },

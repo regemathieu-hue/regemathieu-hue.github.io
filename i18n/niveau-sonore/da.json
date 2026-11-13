@@ -1,58 +1,58 @@
 {
   "support": {
-    "subtitle": "Sonometeren der holder styr på lydens historik",
-    "contact": "En spørgsmål, en idé eller en måling der overrasker dig? Skriv til mig:<br>{email}",
+    "subtitle": "Lydniveau-måleren der gemmer lydhistorikken",
+    "contact": "En spørgsmål, en ide eller en måling, der overrasker dig? Skriv til mig:<br>{email}",
     "faq": [
       {
         "q": "Er de viste værdier præcise?",
-        "a": "De er vejledende. En iPhone-mikrofon er ikke en godkendt sonometer: afhængigt af enheden kan afvigelsen nå et par decibel, især ved meget stille eller meget høje lyde. App’en er velegnet til at sammenligne tidspunkter, steder eller aftenarrangementer, men ikke til officielle målinger."
+        "a": "De er vejledende. En iPhone-mikrofon er ikke en godkendt lyd-niveau-måler: afhængigt af enheden kan forskellen nå et par decibel, især ved meget stille eller meget høje lyde. App’en er velegnet til at sammenligne tidspunkter, steder eller aftenarrangementer, men ikke til officielle målinger."
       },
       {
         "q": "Hvordan kalibrerer jeg app’en?",
-        "a": "Placer iPhone’en ved siden af et sonometer eller en Apple Watch (app: Noise) i en stabil lyd og start en måling. I Indstillinger › Kalibrering juster korrektionen, indtil begge viser samme værdi. Korrektionen gælder for den næste måling."
+        "a": "Placer iPhone’en ved siden af en lyd-niveau-måler eller en Apple Watch (app’en \"Noise\"), i et stabilt støjmiljø, og start en måling. I Indstillinger › Kalibrering, juster korrektionen, indtil begge viser samme værdi. Korrektionen anvendes på den næste måling."
       },
       {
         "q": "Hvad betyder dB(A) og dB(Z)?",
-        "a": "A-vægtning dæmper de lave toner som det menneskelige øre gør: det er den, der bruges af sonometre og støjreguleringer, og valgt som standard. Z-vægtning justerer ikke noget: den viser også baser, som en subwoofer eller ventilation. Valget foretages i Indstillinger."
+        "a": "Vægtning A dæmper de lave frekvenser som menneskeheden gør: det er den, der bruges af lyd-niveau-målerne og støjreguleringerne – valgt som standard. Vægtning Z korigerer ingenting: den viser også basfrekvenser, som en subwoofer eller ventilation. Valget foretages i Indstillinger."
       },
       {
         "q": "Hvad betyder gennemsnit (Leq), top, L10 og L90?",
-        "a": "Gennemsnittet (Leq) er den konstante lydniveau, der ville overføre samme lydenergi som hele målingen: høje lyde vejer mere. Top er det højeste niveau opnået på en ottendedel sekund. L10 er niveauet overskredet 10 % af tiden (markante lyde), L90 er niveauet overskredet 90 % af tiden (baggrundslyd)."
+        "a": "Gennemsnittet (Leq) er den konstante niveau, der ville overføre samme lydenergi som hele målingen: høje lyde vejer mere. Top er det højeste niveau opnået på en ottendedel sekund. L10 er niveauet, der overskrides 10 % af tiden (markante lyde), mens L90 er niveauet, der overskrides 90 % af tiden (baggrundslyd)."
       },
       {
-        "q": "Hvad er lyddosen?",
-        "a": "Den sammenligner den modtagne lyd under målingen med den anbefalede maksimum på en dag: 85 dB(A) i 8 timer, hvor den tilladte tid halveres for hver 3 dB mere. Ved 100 % er dagsgrænsen nået: over det kræves høreværn. Det er en estimation, ikke et professionelt dosimeter."
+        "q": "Hvad er støjdoseringen?",
+        "a": "Den sammenligner den modtagne støj under målingen med den anbefalede maksimum på en dag: 85 dB(A) i 8 timer, hvor den tilladte tid halveres for hver 3 dB mere. Ved 100 % er døgnsgrænsen nået: derover skal man bruge hørebeskyttelse. Det er en estimation, ikke en professionel dosimeter."
       },
       {
-        "q": "Fortæller målingen fortsat, når skærmen er låst?",
-        "a": "Ja. Målingen fortsætter, selv når skærmen er låst eller i en anden app; den orange prik i iOS viser, at mikrofonen lytter. Et telefonopkald stopper og gemmer målingen. Som standard forbliver skærmen tændt under måling: du kan slukke det i Settings."
+        "q": "Fortsætter målingen, når skærmen er låst?",
+        "a": "Ja. Målingen fortsætter, selv når skærmen er låst eller i en anden app; den orange prik i iOS viser, at mikrofonen lytter. Et telefonopkald stopper og gemmer målingen. Som standard forbliver skærmen tændt under måling: du kan slukke det i Indstillinger."
       },
       {
-        "q": "Hvordan noterer jeg en støjende nabos lyd?",
-        "a": "Vælg en grænse i Settings (f.eks. 40 dB om natten), start derefter en måling og lad iPhone være i rummet. I History viser målingen hver gang lyden overstiger grænsen med tidspunkt, varighed og top. Du kan navngive den, tilføje en note, dele en opsummering eller eksportere alle målinger som CSV. Disse målinger hjælper med at starte et samarbejde, men erstatter ikke en officiel rapport."
+        "q": "Hvordan noterer jeg støj fra en naboskab?",
+        "a": "Vælg en grænse i Indstillinger (f.eks. 40 dB om natten), start en måling og lad iPhone være i rummet. I Historik viser optagelsen hver gang lyden overstiger grænsen med tidspunkt, varighed og top. Du kan navngive den, tilføje en note, dele et resumé eller eksportere alle målinger som CSV. Disse oplysninger hjælper med at starte en dialog, men erstatter ikke en officiel rapport."
       },
       {
-        "q": "Er mine målinger gemt?",
-        "a": "Hver måling gemmes på din enhed, når du stopper den, og hver 30. sekund, mens den kører. Målingerne synkroniseres ikke mellem dine enheder, og slettes, hvis du fjerner appen: eksporter de målinger, du vil bevare, som CSV."
+        "q": "Er mine optagelser gemt?",
+        "a": "Hver måling gemmes på din enhed, når du stopper den, og hver 30. sekund, mens den kører. Målingerne synkroniseres ikke mellem dine enheder, og slettes, hvis du sletter appen: eksporter de, du vil bevare, som CSV."
       },
       {
         "q": "Hvordan sletter jeg en måling?",
-        "a": "I historikken svæver målingen mod venstre, eller åbn den og vælg « Delete recording »."
+        "a": "I Historik, svæv målingen mod venstre, eller åbn den og vælg Slet optagelse."
       },
       {
         "q": "Gemmer appen, hvad den hører?",
-        "a": "Nej. Lyden fra mikrofonen bruges kun til at beregne niveauet på iPhone, og slettes derefter. Kun niveauer (et pr. sekund) gemmes."
+        "a": "Nej. Lyden fra mikrofonen bruges kun til at beregne niveauet på din iPhone, og slettes derefter. Kun niveauer (ét pr. sekund) gemmes."
       }
     ],
-    "privacy_summary": "Sound Level indsamler ingen personlige oplysninger, optager ingen lyd, forbinder sig ikke med nogen server og indeholder hverken reklamer, køb eller sporing. Dine målinger forbliver på din enhed."
+    "privacy_summary": "Sound Level indsamler ingen personlige oplysninger, optager ingen lyd, forbinder sig ikke med nogen server og indeholder hverken reklamer, køb eller sporingsværktøjer. Dine målinger forbliver på din enhed."
   },
   "privacy": {
     "sections": [
       {
-        "h": "Resumé",
+        "h": "I korthed",
         "blocks": [
           {
-            "p": "Sound Level indsamler ingen personlige oplysninger. Applikationen fungerer offline, forbindes ikke til nogen server og kræver ingen konto. Mikrofonen bruges kun til at beregne lydniveau: ingen lyd optages eller sendes."
+            "p": "Sound Level indsamler ingen personlige oplysninger. App’en fungerer offline, forbindes ikke til nogen server og kræver ingen konto. Mikrofonen bruges kun til at beregne lydniveau: ingen lyd optages eller sendes."
           }
         ]
       },
@@ -60,10 +60,10 @@
         "h": "Mikrofonen",
         "blocks": [
           {
-            "p": "Applikationen beder om adgang til mikrofonen for at måle støj. Lyd analyseres direkte på din iPhone, og slettes straks: den optages aldrig, gemmes aldrig eller sendes nogensteds hen."
+            "p": "App’en beder om adgang til mikrofonen for at måle støj. Lyden analyseres direkte på din iPhone, og slettes straks: den optages aldrig, gemmes aldrig eller sendes nogensteds hen."
           },
           {
-            "p": "Du kan trække denne tilladelse tilbage når som helst i Indstillinger › Fortrolighed og sikkerhed › Mikrofon. Applikationen kan så ikke måle mere."
+            "p": "Du kan trække denne tilladelse tilbage når som helst i Indstillinger › Fortrolighed og sikkerhed › Mikrofon. App’en kan så ikke længere måle."
           }
         ]
       },
@@ -71,10 +71,10 @@
         "h": "Dine data",
         "blocks": [
           {
-            "p": "Applikationen gemmer dine målinger: dato, et lydniveau pr. sekund, navn og noter, du tilknytter dem, samt dine indstillinger (vægtning, træskel, kalibrering)."
+            "p": "App’en gemmer dine optagelser: dato, et lydniveau pr. sekund, navn og notat, du tilknytter dem, samt dine indstillinger (vægtning, advarselstærskel, kalibrering)."
           },
           {
-            "p": "Disse data gemmes på din enhed, og udvikleren har ikke adgang til dem. Ligesom andre apps' data kan de være med i sikkerhedskopier af din enhed, hvis du har aktiveret dem. Du kan slette hver måling i historikken; sletning af applikationen sletter dem alle."
+            "p": "Disse data gemmes på din enhed, og udvikleren har ikke adgang til dem. Ligesom andre apps’ data kan de være med i sikkerhedskopier af din enhed, hvis du har aktiveret dem. Du kan slette hver optagelse i historikken; sletning af app’en sletter dem alle."
           }
         ]
       },
@@ -82,12 +82,12 @@
         "h": "Deling og eksport",
         "blocks": [
           {
-            "p": "Ingen data forlades fra appen uden din handling."
+            "p": "Ingen data forlader appen uden din handling."
           },
           {
             "ul": [
-              "<strong>Del en opsummering</strong>: teksten sendes via iOS' delingsværktøjer (AirDrop, Beskeder, Mail…) og indeholder dato, niveauer, topværdier og notat fra målingen.",
-              "<strong>Eksportér CSV</strong>: filen indeholder tidspunkt og niveauer for hver sekund. Du vælger, hvor du gemmer den eller hvem du sender den til; den underkastes derefter betingelserne for den valgte tjeneste."
+              "<strong>Del resumé</strong>: teksten sendes via iOS' delingsværktøjer (AirDrop, Beskeder, Mail…) og indeholder dato, niveauer, topværdier og notat fra målingen.",
+              "<strong>Eksporter målinger (CSV)</strong>: filen indeholder tidspunkt og niveauer for hver sekund. Du vælger, hvor du vil gemme den eller hvem du vil sende den til; den underkastes derefter betingelserne for den valgte tjeneste."
             ]
           }
         ]
