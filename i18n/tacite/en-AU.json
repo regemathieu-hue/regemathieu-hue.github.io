@@ -17,7 +17,7 @@
       },
       {
         "q": "I’ve been paying for this subscription a long time—how do I count it properly?",
-        "a": "Turn on “I've been paying since…” and enter the date of your first payment. Past payments will then be included in the statistics and total paid amount, without changing future due dates."
+        "a": "Turn on “I’ve been paying since…” and enter the date of your first payment. Past payments will then be included in the statistics and total paid amount, without changing future due dates."
       },
       {
         "q": "I share this subscription—how do I only count my part?",
@@ -25,7 +25,7 @@
       },
       {
         "q": "I canceled a subscription: should I delete it?",
-        "a": "It's better to mark it as canceled: in its card, tap “I Canceled This Subscription” and choose the date of your final charge. It will no longer appear in totals or reminders, but remains in your history and statistics. You can re-enable it anytime."
+        "a": "It’s better to mark it as canceled: in its card, tap “I Canceled This Subscription” and choose the date of your final charge. It will no longer appear in totals or reminders, but remains in your history and statistics. You can re-enable it anytime."
       },
       {
         "q": "Can Tacite cancel a subscription on my behalf?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "How do I add the widget?",
-        "a": "Press and hold the Home Screen or Lock Screen, then tap « Edit » and « Add Widget», and select Tacite. The “Upcoming Payments” widget is available in small and medium sizes on the Home Screen, and in two formats on the Lock Screen."
+        "a": "Press and hold the Home Screen or Lock Screen, then tap “Edit” and “Add Widget”, and select Tacite. The “Upcoming Payments” widget is available in small and medium sizes on the Home Screen, and in two formats on the Lock Screen."
       },
       {
-        "q": "Are my data backed up or synced?",
+        "q": "Is my data backed up or synced?",
         "a": "Your subscriptions are stored on your iPhone and may be included in backups if you’ve enabled them. Tacite doesn’t sync data across devices, and all data is deleted if you uninstall the app. To keep a copy, use Settings › “Export to CSV”."
       }
     ],
@@ -60,10 +60,10 @@
         "h": "Your data",
         "blocks": [
           {
-            "p": "The app stores the subscriptions you enter (name, price, currency, frequency, dates, category, colour, payment method and notes) and your settings. The 'payment method' field is free text: never enter a card number here."
+            "p": "The app stores the subscriptions you enter (name, price, currency, frequency, dates, category, colour, payment method and notes) and your settings. The “Payment method” field is free text: never enter a card number here."
           },
           {
-            "p": "These data are stored on your iPhone, in an area shared only with the Tacite widget, and the developer does not have access to them. Like other app data, they may appear in your iPhone backups if you have enabled them. Deleting the app erases them."
+            "p": "This data is stored on your iPhone, in an area shared only with the Tacite widget, and the developer does not have access to it. Like other app data, it may appear in your iPhone backups if you have enabled them. Deleting the app erases it."
           }
         ]
       },

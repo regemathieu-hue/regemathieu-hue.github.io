@@ -5,7 +5,7 @@
     "faq": [
       {
         "q": "How to add a subscription?",
-        "a": "Tap the + button, then enter the name, price, frequency, and date of the next payment (“Next Payment”). Tacite then calculates all future due dates, as well as the monthly and yearly cost. A month-end date is respected: an subscription started on the 31st will be charged on the 28th or 29th of February, then again on the 31st of March."
+        "a": "Tap the + button, then enter the name, price, frequency, and date of the next payment (“Next Payment”). Tacite then calculates all future due dates, as well as the monthly and yearly cost. A month-end date is respected: a subscription started on the 31st will be charged on the 28th or 29th of February, then again on the 31st of March."
       },
       {
         "q": "How do reminders work?",
@@ -17,7 +17,7 @@
       },
       {
         "q": "I’ve been paying for this subscription for a long time: how do I count it properly?",
-        "a": "Enable “I've been paying since…” and enter the date of your first payment. Past payments will then be included in statistics and in the total paid, without changing future due dates."
+        "a": "Enable “I’ve been paying since…” and enter the date of your first payment. Past payments will then be included in statistics and in the total paid, without changing future due dates."
       },
       {
         "q": "I share this subscription: how do I count only my portion?",
@@ -25,7 +25,7 @@
       },
       {
         "q": "I canceled a subscription: should I delete it?",
-        "a": "It's better to mark it as canceled: in its card, tap “I Canceled This Subscription” and select the date of your last charge. It will no longer appear in totals or reminders, but it remains in your history and statistics. You can reactivate it at any time."
+        "a": "It’s better to mark it as canceled: in its card, tap “I Canceled This Subscription” and select the date of your last charge. It will no longer appear in totals or reminders, but it remains in your history and statistics. You can reactivate it at any time."
       },
       {
         "q": "Can Tacite cancel a subscription on my behalf?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "How do I add the widget?",
-        "a": "Press and hold the Home Screen or Lock Screen, then tap « Edit » and « Add Widget», and select Tacite. The “Upcoming Payments” widget is available in small and medium sizes on the Home Screen, and in two formats on the Lock Screen."
+        "a": "Press and hold the Home Screen or Lock Screen, then tap “Edit” and “Add Widget”, and select Tacite. The “Upcoming Payments” widget is available in small and medium sizes on the Home Screen, and in two formats on the Lock Screen."
       },
       {
-        "q": "Are my data backed up or synced?",
+        "q": "Is my data backed up or synced?",
         "a": "Your subscriptions are stored on your iPhone and may be included in backups if you have them enabled. Tacite does not sync data across devices, and your data is deleted if you uninstall the app. To keep a copy, use Settings › “Export to CSV”."
       }
     ],
@@ -60,10 +60,10 @@
         "h": "Your data",
         "blocks": [
           {
-            "p": "The app stores the subscriptions you enter (name, price, currency, frequency, dates, category, color, payment method, and notes) and your settings. The 'payment method' field is free text: never enter a card number here."
+            "p": "The app stores the subscriptions you enter (name, price, currency, frequency, dates, category, color, payment method, and notes) and your settings. The “Payment method” field is free text: never enter a card number here."
           },
           {
-            "p": "These data are stored on your iPhone, in an area shared only with the Tacite widget, and the developer does not have access to them. Like data from other apps, they may appear in your iPhone backups if you have enabled them. Deleting the app erases them."
+            "p": "This data is stored on your iPhone, in an area shared only with the Tacite widget, and the developer does not have access to it. Like data from other apps, it may appear in your iPhone backups if you have enabled them. Deleting the app erases it."
           }
         ]
       },

@@ -5,43 +5,43 @@
     "faq": [
       {
         "q": "Kako dodati pretplatu?",
-        "a": "Dodirnite gumb +, a zatim unesite naziv, cijenu, frekvenciju i datum sljedećeg plaćanja („Sljedeće plaćanje“). Tacite automatski izračuna sve sljedeće rokove plaćanja te mjesečnu i godišnju cijenu. Datum na kraju mjeseca se poštujе: pretplata koja je započeta 31. bit će naplaćena 28. ili 29. veljače, a zatim opet 31. ožujka."
+        "a": "Dodirnite gumb +, a zatim unesite naziv, cijenu, frekvenciju i datum sljedećeg plaćanja („Sljedeće plaćanje“). Tacite zatim izračuna sve sljedeće rokove plaćanja te mjesečnu i godišnju cijenu. Datum na kraju mjeseca se poštuje: pretplata koja je započeta 31. bit će naplaćena 28. ili 29. veljače, a zatim opet 31. ožujka."
       },
       {
         "q": "Kako rade podsjetnici?",
-        "a": "Za svaku pretplatu, opcija „Obavijesti me“ omogućuje: bez podsjetnika, istog dana, jedan dan prije ili 2, 3 ili 7 dana prije. Odaberite vrijeme obavijesti u Postavke › „Vrijeme podsjetnika“. Ako niste dopustili obavijesti, gumb u Postavke vas vodi direktno u postavke iPhonea."
+        "a": "Za svaku pretplatu, opcija „Obavijesti me“ omogućuje: bez podsjetnika, istog dana, jedan dan prije ili 2, 3 ili 7 dana prije. Odaberite vrijeme obavijesti u Postavkama › „Vrijeme podsjetnika“. Ako niste dopustili obavijesti, gumb u Postavkama vodi vas izravno u postavke iPhonea."
       },
       {
-        "q": "A šta je s besplatnim probnim periodom?",
-        "a": "Omogućite opciju „Besplatni probni period u tijeku“: probni period završava na datum sljedećeg plaćanja. Tacite vas obavijesti najkasnije dan prije, kako biste imali vrijeme otkazati ako usluga nije odgovarajuća."
+        "q": "A što je s besplatnim probnim razdobljem?",
+        "a": "Omogućite opciju „Besplatni probni period u tijeku“: probni period završava na datum sljedećeg plaćanja. Tacite će vas podsjetiti najkasnije dan prije, kako biste imali vremena otkazati ako vam usluga ne odgovara."
       },
       {
         "q": "Već dugo plaćam ovu pretplatu: kako je uključiti u račun?",
         "a": "Omogućite opciju „Već plaćam od…“ i unesite datum svog prvog plaćanja. Prethodna plaćanja tada će se uzeti u obzir u statistikama i ukupnom iznosu već uplaćenom, bez promjene budućih rokova."
       },
       {
-        "q": "Dijelim pretplatu s drugima: kako brojiti samo moju dijelovinu?",
-        "a": "Omogućite opciju „Dijeljeno s drugima“ i unesite „Moja strana“. Ukupni iznosi i podsjetnici tada će koristiti vaš dio, a detalji pretplate će i dalje prikazivati ukupnu cijenu."
+        "q": "Dijelim pretplatu s drugima: kako brojiti samo svoj udio?",
+        "a": "Omogućite opciju „Dijeljeno s drugima“ i unesite „Moj udio“. Ukupni iznosi i podsjetnici tada će koristiti vaš udio, a detalji pretplate će i dalje prikazivati ukupnu cijenu."
       },
       {
         "q": "Otkazao sam pretplatu: trebam li je ukloniti?",
-        "a": "Bolje je označiti je kao otkazanu: u njenom pregledu dodirnite „Otkazao sam ovu pretplatu“ i odaberite dan zadnjeg podizanja. Ona nestane iz ukupnih iznosa i podsjetnika, ali ostaje u povijesti i statistikama. Možete je u svakom trenutku ponovno aktivirati."
+        "a": "Bolje je označiti je kao otkazanu: u njenom pregledu dodirnite „Otkazao sam ovu pretplatu“ i odaberite datum zadnje naplate. Nestat će iz ukupnih iznosa i podsjetnika, ali ostaje u povijesti i statistikama. Možete je u svakom trenutku ponovno aktivirati."
       },
       {
         "q": "Može li Tacite otkazati pretplatu umjesto mene?",
-        "a": "Ne: Tacite nije povezan ni s jednim servisom niti s vašom bankom. Za pretplatu uzetu iz App Store-a, „Upravljaj pretplama u App Store-u“ otvara direktno stranicu s pretplatama vašeg Apple računa. Za ostale, otkazivanje se obavlja na web stranici servisa."
+        "a": "Ne: Tacite nije povezan ni s jednim servisom niti s vašom bankom. Za pretplatu kupljenu na App Storeu, „Upravljaj pretplatama na App Storeu“ izravno otvara stranicu s pretplatama vašeg Apple računa. Za ostale, otkazivanje se obavlja na web stranici servisa."
       },
       {
         "q": "Imam pretplate u više valuta.",
-        "a": "Svaka pretplata čuva svoju valutu, a ukupni iznosi se prikazuju zasebno za svaku, bez konverzije. Odaberite glavnu valutu u Postavke › „Glavna valuta“."
+        "a": "Svaka pretplata čuva svoju valutu, a ukupni iznosi se prikazuju zasebno za svaku, bez konverzije. Odaberite glavnu valutu u Postavkama › „Glavna valuta“."
       },
       {
         "q": "Kako dodati widget?",
-        "a": "Dodirnite dugme na početnom ekranu ili ekranu blokade duže, zatim „Uredi“ i „Dodaj widget“, te odaberite Tacite. Widget „Sljedeća plaćanja“ dostupan je u malom i srednjem formatu na početnom ekranu, a na ekranu blokade u dva formata."
+        "a": "Dugo pritisnite početni zaslon ili zaključani zaslon, zatim dodirnite „Uredi“ i „Dodaj widget“ te odaberite Tacite. Widget „Sljedeća plaćanja“ dostupan je u maloj i srednjoj veličini na početnom zaslonu te u dva formata na zaključanom zaslonu."
       },
       {
-        "q": "Zadržavaju li se moje podatke ili su sinkronizirani?",
-        "a": "Vaše pretplate su pohranjene na vašem iPhone-u i mogu biti uključene u sigurnosne kopije ako ste ih omogućili. Tacite ne sinkronizira ništa između vaših uređaja, a podaci se brišu ako izbrišete aplikaciju. Da biste sačuvali kopiju, koristite Postavke › „Izvezi kao CSV“."
+        "q": "Spremaju li se moji podaci ili sinkroniziraju?",
+        "a": "Vaše pretplate su pohranjene na vašem iPhone-u i mogu biti uključene u sigurnosne kopije ako ste ih omogućili. Tacite ne sinkronizira ništa između vaših uređaja, a podaci se brišu ako izbrišete aplikaciju. Da biste sačuvali kopiju, upotrijebite Postavke › „Izvezi kao CSV“."
       }
     ],
     "privacy_summary": "Tacite ne prikuplja nikakve osobne podatke, ne povezuje se s nikakvim poslužiteljem i nema reklame, kupovine ili praćenja. Vaše pretplate ostaju na vašem iPhone-u."
@@ -63,7 +63,7 @@
             "p": "Aplikacija pohranjuje pretplate koje unesete (naziv, cijena, valuta, frekvencija, datumi, kategorija, boja, način plaćanja i napomene) te vaše postavke. Polje „način plaćanja“ je slobodni tekst: nikada ne upisujte broj kartice."
           },
           {
-            "p": "Ti podaci pohranjuju se na vašem iPhoneu, u prostoru zajedničkom samo s widgetom Tacite, a razvojnik nema pristup njima. Kao i podaci drugih aplikacija, mogu se pojaviti u sigurnosnim kopijama vašeg iPhonea ako su omogućene. Brisanje aplikacije brise sve podatke."
+            "p": "Ti podaci pohranjuju se na vašem iPhoneu, u prostoru zajedničkom samo s widgetom Tacite, a razvojni programer nema im pristup. Kao i podaci drugih aplikacija, mogu se pojaviti u sigurnosnim kopijama vašeg iPhonea ako su omogućene. Brisanje aplikacije briše sve podatke."
           }
         ]
       },
@@ -71,7 +71,7 @@
         "h": "Obavijesti",
         "blocks": [
           {
-            "p": "Podsjetnici su lokalne obavijesti: programiraju se i prikazuju od strane vašeg iPhonea bez prolaska kroz poslužitelj. Sadrže naziv pretplate, iznos i datum plaćanja. Mogu ih u bilo kojem trenutku onemogućiti u postavkama iOS-a."
+            "p": "Podsjetnici su lokalne obavijesti: programiraju se i prikazuju od strane vašeg iPhonea bez prolaska kroz poslužitelj. Sadrže naziv pretplate, iznos i datum plaćanja. Možete ih u bilo kojem trenutku onemogućiti u postavkama iOS-a."
           }
         ]
       },
