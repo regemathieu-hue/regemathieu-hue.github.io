@@ -9,7 +9,7 @@
       },
       {
         "q": "Welche Spiele werden unterstützt?",
-        "a": "Belote, Coinche, Tarot, Scrabble und Uno. Für alle anderen Spiele mit Punkten (Kniffel, Rommé, Skyjo …) nutzen Sie das freie Spiel: Je nach Ihrer Wahl gewinnt die höchste oder die niedrigste Punktzahl."
+        "a": "Belote, Coinche, Tarot, Scrabble, Uno, Skyjo, 6 nimmt!, Kniffel (vollständiger Block) und Mölkky. Für alle anderen Spiele mit Punkten (Rommé, Stadt, Land, Fluss …) nutzen Sie das freie Spiel: Je nach Ihrer Wahl gewinnt die höchste oder die niedrigste Punktzahl."
       },
       {
         "q": "Meine Regeln sind anders: Kann ich sie ändern?",
@@ -25,11 +25,11 @@
       },
       {
         "q": "Wie wechsle ich das Gerät, ohne meine Partien zu verlieren?",
-        "a": "Öffnen Sie auf dem alten Gerät Einstellungen › „Alles exportieren (JSON)“ und sichern Sie die Datei. Wählen Sie auf dem neuen Gerät „Datei importieren“: Die Partien und Spieler werden zu den bereits vorhandenen hinzugefügt, ohne etwas zu überschreiben."
+        "a": "Wenn Ihre beiden Geräte dasselbe iCloud-Konto verwenden, lassen Sie die iCloud-Synchronisierung eingeschaltet (sie ist es standardmäßig): Ihre Partien und Spieler erscheinen dort von selbst. In allen anderen Fällen öffnen Sie auf dem alten Gerät Einstellungen › „Alles exportieren (JSON)“ und sichern die Datei. Wählen Sie auf dem neuen Gerät „Datei importieren“: Die Partien und Spieler werden zu den bereits vorhandenen hinzugefügt, ohne etwas zu überschreiben."
       },
       {
         "q": "Werden meine Partien synchronisiert oder gesichert?",
-        "a": "Jede Änderung wird auf Ihrem Gerät gespeichert, und Sie setzen die Partie dort fort, wo Sie aufgehört haben. Tablée synchronisiert nichts zwischen Ihren Geräten, und die Daten verschwinden, wenn Sie die App löschen: Denken Sie daran, ab und zu eine Sicherung zu exportieren."
+        "a": "Ja. Jede Änderung wird auf Ihrem Gerät gespeichert, und Sie setzen die Partie dort fort, wo Sie aufgehört haben. Die standardmäßig eingeschaltete iCloud-Synchronisierung kopiert Ihre Partien und Spieler außerdem in Ihre iCloud, sodass Sie sie auf Ihren anderen iPhones und iPads mit demselben Konto wiederfinden; Sie können sie in den Einstellungen ausschalten. Ohne sie oder ohne iCloud-Konto bleibt alles auf diesem Gerät und verschwindet, wenn Sie die App löschen. In jedem Fall ist es eine gute Idee, ab und zu eine Sicherung zu exportieren."
       },
       {
         "q": "Wie teile ich ein Ergebnis?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "Wie lösche ich alles?",
-        "a": "Unter Einstellungen › „Alle Daten löschen“. Dies ist endgültig: Exportieren Sie zuerst eine Sicherung, wenn Sie Ihre Partien behalten möchten."
+        "a": "Unter Einstellungen › „Alle Daten löschen“. Ist die iCloud-Synchronisierung eingeschaltet, werden die Daten von Tablée auch auf Ihren anderen synchronisierten Geräten gelöscht. Dies ist endgültig: Exportieren Sie zuerst eine Sicherung, wenn Sie Ihre Partien behalten möchten."
       }
     ],
-    "privacy_summary": "Tablée erhebt keine personenbezogenen Daten, verbindet sich mit keinem Server und enthält weder Werbung noch Käufe noch Tracker. Ihre Partien bleiben auf Ihrem Gerät."
+    "privacy_summary": "Tablée erhebt keine personenbezogenen Daten, verbindet sich mit keinem Server des Entwicklers und enthält weder Werbung noch Käufe noch Tracker. Ihre Partien bleiben auf Ihren Geräten und, wenn die Synchronisierung eingeschaltet ist, in Ihrer iCloud."
   },
   "privacy": {
     "sections": [
@@ -48,7 +48,7 @@
         "h": "Kurz gesagt",
         "blocks": [
           {
-            "p": "Tablée erhebt keine personenbezogenen Daten. Die App funktioniert offline, verbindet sich mit keinem Server und verlangt kein Konto. Alles, was Sie eingeben, bleibt auf Ihrem Gerät, es sei denn, Sie entscheiden sich, es zu teilen oder zu exportieren."
+            "p": "Tablée erhebt keine personenbezogenen Daten. Die App funktioniert offline, verbindet sich mit keinem Server des Entwicklers und verlangt kein Konto. Alles, was Sie eingeben, bleibt auf Ihren Geräten und, wenn die iCloud-Synchronisierung eingeschaltet ist, in Ihrer iCloud, es sei denn, Sie entscheiden sich, es zu teilen oder zu exportieren."
           }
         ]
       },
@@ -59,7 +59,7 @@
             "p": "Die App speichert Ihre Partien, deren Punkte und Regeln, Ihr Spielerverzeichnis (Name, Emoji, Farbe), die aus diesen Partien berechneten Statistiken und Ihre Einstellungen. Ein Spielername kann beliebig gewählt werden: Er ist nur für Sie von Nutzen."
           },
           {
-            "p": "Diese Daten werden auf Ihrem Gerät gespeichert, und der Entwickler hat keinen Zugriff darauf. Wie die Daten anderer Apps können sie in den Sicherungen Ihres Geräts enthalten sein, wenn Sie diese aktiviert haben. Sie können in den Einstellungen alles löschen; durch das Löschen der App werden die Daten ebenfalls gelöscht."
+            "p": "Diese Daten werden auf Ihrem Gerät gespeichert, und der Entwickler hat keinen Zugriff darauf. Ist die iCloud-Synchronisierung eingeschaltet (das ist die Standardeinstellung, und Sie können sie in den Einstellungen ausschalten), werden sie außerdem in Ihr eigenes iCloud-Konto kopiert, in einen der App vorbehaltenen und von Apple verschlüsselten Bereich, damit Sie sie auf Ihren anderen iPhones und iPads mit demselben Konto wiederfinden; kein Server des Entwicklers ist daran beteiligt. Wie die Daten anderer Apps können sie in den Sicherungen Ihres Geräts enthalten sein, wenn Sie diese aktiviert haben. Sie können in den Einstellungen alles löschen, auch auf Ihren anderen synchronisierten Geräten; durch das Löschen der App werden die Daten auf diesem Gerät gelöscht."
           }
         ]
       },
@@ -67,7 +67,7 @@
         "h": "Teilen, Export und Import",
         "blocks": [
           {
-            "p": "Nichts verlässt die App ohne Ihr Zutun."
+            "p": "Abgesehen von der oben beschriebenen iCloud-Synchronisierung verlässt nichts die App ohne Ihr Zutun."
           },
           {
             "ul": [

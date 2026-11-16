@@ -9,7 +9,7 @@
       },
       {
         "q": "Jakie gry są obsługiwane?",
-        "a": "Belote, coinche, tarot, Scrabble i Uno. W przypadku wszystkich pozostałych gier na punkty (Yahtzee, remik, Skyjo…) proszę użyć gry dowolnej: wygrywa najwyższy lub najniższy wynik, według Państwa wyboru."
+        "a": "Belote, coinche, tarot, Scrabble, Uno, Skyjo, 6 nimmt!, Generał (pełna tabela wyników) i Mölkky. W przypadku wszystkich pozostałych gier na punkty (remik, państwa-miasta…) proszę użyć gry dowolnej: wygrywa najwyższy lub najniższy wynik, według Państwa wyboru."
       },
       {
         "q": "Moje zasady są inne: czy mogę je zmienić?",
@@ -25,11 +25,11 @@
       },
       {
         "q": "Jak zmienić urządzenie, nie tracąc partii?",
-        "a": "Na starym urządzeniu proszę otworzyć Ustawienia › „Eksportuj wszystko (JSON)” i zapisać plik. Na nowym proszę wybrać „Importuj plik”: partie i gracze zostaną dodani do już istniejących, bez nadpisywania czegokolwiek."
+        "a": "Jeśli oba urządzenia korzystają z tego samego konta iCloud, wystarczy pozostawić włączoną synchronizację iCloud (jest włączona domyślnie): partie i gracze pojawią się na nim same. W pozostałych przypadkach na starym urządzeniu proszę otworzyć Ustawienia › „Eksportuj wszystko (JSON)” i zapisać plik. Na nowym proszę wybrać „Importuj plik”: partie i gracze zostaną dodani do już istniejących, bez nadpisywania czegokolwiek."
       },
       {
         "q": "Czy moje partie są synchronizowane lub zapisywane w kopii zapasowej?",
-        "a": "Każda zmiana jest zapisywana na Państwa urządzeniu, a partię można wznowić w miejscu, w którym została przerwana. Tablée niczego nie synchronizuje między urządzeniami, a jej dane znikają po usunięciu aplikacji: warto od czasu do czasu wyeksportować kopię zapasową."
+        "a": "Tak. Każda zmiana jest zapisywana na Państwa urządzeniu, a partię można wznowić w miejscu, w którym została przerwana. Synchronizacja iCloud, włączona domyślnie, kopiuje też partie i graczy do Państwa iCloud, dzięki czemu są dostępne na innych iPhone’ach i iPadach zalogowanych na to samo konto; można ją wyłączyć w Ustawieniach. Bez niej lub bez konta iCloud wszystko zostaje na tym urządzeniu i znika po usunięciu aplikacji. W każdym przypadku warto od czasu do czasu wyeksportować kopię zapasową."
       },
       {
         "q": "Jak udostępnić wynik?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "Jak wszystko usunąć?",
-        "a": "Proszę wejść w Ustawienia › „Usuń wszystkie dane”. Tej operacji nie można cofnąć: jeśli chcą Państwo zachować partie, proszę najpierw wyeksportować kopię zapasową."
+        "a": "Proszę wejść w Ustawienia › „Usuń wszystkie dane”. Jeśli synchronizacja iCloud jest włączona, dane Tablée zostaną usunięte także na pozostałych zsynchronizowanych urządzeniach. Tej operacji nie można cofnąć: jeśli chcą Państwo zachować partie, proszę najpierw wyeksportować kopię zapasową."
       }
     ],
-    "privacy_summary": "Tablée nie zbiera żadnych danych osobowych, nie łączy się z żadnym serwerem i nie zawiera reklam, zakupów ani trackerów. Państwa partie zostają na Państwa urządzeniu."
+    "privacy_summary": "Tablée nie zbiera żadnych danych osobowych, nie łączy się z żadnym serwerem dewelopera i nie zawiera reklam, zakupów ani trackerów. Państwa partie zostają na Państwa urządzeniach oraz, jeśli synchronizacja jest włączona, w Państwa iCloud."
   },
   "privacy": {
     "sections": [
@@ -48,7 +48,7 @@
         "h": "W skrócie",
         "blocks": [
           {
-            "p": "Tablée nie zbiera żadnych danych osobowych. Aplikacja działa offline, nie łączy się z żadnym serwerem i nie wymaga konta. Wszystko, co Państwo wpiszą, zostaje na Państwa urządzeniu, chyba że zdecydują się to udostępnić lub wyeksportować."
+            "p": "Tablée nie zbiera żadnych danych osobowych. Aplikacja działa offline, nie łączy się z żadnym serwerem dewelopera i nie wymaga konta. Wszystko, co Państwo wpiszą, zostaje na Państwa urządzeniach oraz, jeśli synchronizacja iCloud jest włączona, w Państwa iCloud, chyba że zdecydują się to udostępnić lub wyeksportować."
           }
         ]
       },
@@ -59,7 +59,7 @@
             "p": "Aplikacja zapisuje Państwa partie, ich punkty i zasady, książkę graczy (imię, emoji, kolor), statystyki obliczone na podstawie tych partii oraz ustawienia. Nazwa gracza może być dowolna: jest przydatna tylko Państwu."
           },
           {
-            "p": "Dane te są zapisywane na Państwa urządzeniu, a deweloper nie ma do nich dostępu. Podobnie jak dane innych aplikacji, mogą znajdować się w kopiach zapasowych Państwa urządzenia, jeśli są one włączone. Wszystko można usunąć w ustawieniach; usunięcie aplikacji także je kasuje."
+            "p": "Dane te są zapisywane na Państwa urządzeniu, a deweloper nie ma do nich dostępu. Jeśli synchronizacja iCloud jest włączona (tak jest domyślnie; można ją wyłączyć w ustawieniach), są one także kopiowane na Państwa własne konto iCloud, do przestrzeni zarezerwowanej dla aplikacji i szyfrowanej przez Apple, aby były dostępne na innych iPhone’ach i iPadach zalogowanych na to samo konto; nie uczestniczy w tym żaden serwer dewelopera. Podobnie jak dane innych aplikacji, mogą znajdować się w kopiach zapasowych Państwa urządzenia, jeśli są one włączone. Wszystko można usunąć w ustawieniach, co usuwa dane także na pozostałych zsynchronizowanych urządzeniach; usunięcie aplikacji kasuje dane z tego urządzenia."
           }
         ]
       },
@@ -67,7 +67,7 @@
         "h": "Udostępnianie, eksport i import",
         "blocks": [
           {
-            "p": "Nic nie opuszcza aplikacji bez Państwa działania."
+            "p": "Poza opisaną powyżej synchronizacją iCloud nic nie opuszcza aplikacji bez Państwa działania."
           },
           {
             "ul": [

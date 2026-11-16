@@ -9,7 +9,7 @@
       },
       {
         "q": "Hvilke spil understøttes?",
-        "a": "Belote, coinche, tarot, Scrabble og Uno. Til alle andre spil med point (Yatzy, Rummy, Skyjo …) bruger du det frie spil: den højeste eller den laveste score vinder, som du vælger."
+        "a": "Belote, coinche, tarot, Scrabble, Uno, Skyjo, 6 nimmt!, Yatzy (komplet pointblok) og Mölkky. Til alle andre spil med point (Rummy, Scattergories …) bruger du det frie spil: den højeste eller den laveste score vinder, som du vælger."
       },
       {
         "q": "Mine regler er anderledes: kan jeg ændre dem?",
@@ -25,11 +25,11 @@
       },
       {
         "q": "Hvordan skifter jeg enhed uden at miste mine spil?",
-        "a": "Åbn Indstillinger › »Eksportér alt (JSON)« på den gamle enhed, og gem filen. Vælg »Importér en fil« på den nye: spillene og spillerne føjes til dem, der allerede er der, uden at noget bliver overskrevet."
+        "a": "Hvis dine to enheder bruger den samme iCloud-konto, så lad iCloud-synkronisering være slået til (det er den som standard): dine spil og spillere dukker selv op. I andre tilfælde skal du åbne Indstillinger › »Eksportér alt (JSON)« på den gamle enhed og gemme filen. Vælg »Importér en fil« på den nye: spillene og spillerne føjes til dem, der allerede er der, uden at noget bliver overskrevet."
       },
       {
         "q": "Bliver mine spil synkroniseret eller sikkerhedskopieret?",
-        "a": "Hver ændring gemmes på din enhed, og du fortsætter spillet, hvor du slap. Tablée synkroniserer ikke noget mellem dine enheder, og data forsvinder, hvis du sletter appen: husk at eksportere en sikkerhedskopi en gang imellem."
+        "a": "Ja. Hver ændring gemmes på din enhed, og du fortsætter spillet, hvor du slap. iCloud-synkronisering, som er slået til som standard, kopierer også dine spil og spillere til din iCloud, så du finder dem på dine andre iPhones og iPads, der er logget ind på den samme konto; du kan slå den fra i Indstillinger. Uden den, eller uden en iCloud-konto, bliver alt på denne enhed og forsvinder, hvis du sletter appen. Under alle omstændigheder er det stadig en god idé at eksportere en sikkerhedskopi en gang imellem."
       },
       {
         "q": "Hvordan deler jeg et resultat?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "Hvordan sletter jeg alt?",
-        "a": "Under Indstillinger › »Slet alle data«. Det kan ikke fortrydes: eksportér først en sikkerhedskopi, hvis du vil beholde dine spil."
+        "a": "Under Indstillinger › »Slet alle data«. Hvis iCloud-synkronisering er slået til, slettes Tablées data også på dine andre synkroniserede enheder. Det kan ikke fortrydes: eksportér først en sikkerhedskopi, hvis du vil beholde dine spil."
       }
     ],
-    "privacy_summary": "Tablée indsamler ingen personlige oplysninger, opretter ikke forbindelse til nogen server og indeholder hverken reklamer, køb eller trackere. Dine spil bliver på din enhed."
+    "privacy_summary": "Tablée indsamler ingen personlige oplysninger, opretter ikke forbindelse til nogen server hos udvikleren og indeholder hverken reklamer, køb eller trackere. Dine spil bliver på dine enheder og, hvis synkronisering er slået til, i din iCloud."
   },
   "privacy": {
     "sections": [
@@ -48,7 +48,7 @@
         "h": "Kort fortalt",
         "blocks": [
           {
-            "p": "Tablée indsamler ingen personlige oplysninger. Appen fungerer offline, opretter ikke forbindelse til nogen server og kræver ingen konto. Alt, hvad du skriver ind, bliver på din enhed, medmindre du selv vælger at dele eller eksportere det."
+            "p": "Tablée indsamler ingen personlige oplysninger. Appen fungerer offline, opretter ikke forbindelse til nogen server hos udvikleren og kræver ingen konto. Alt, hvad du skriver ind, bliver på dine enheder og, hvis iCloud-synkronisering er slået til, i din iCloud, medmindre du selv vælger at dele eller eksportere det."
           }
         ]
       },
@@ -59,7 +59,7 @@
             "p": "Appen gemmer dine spil, deres point og regler, din spillerliste (navn, emoji, farve), statistikkerne beregnet ud fra spillene og dine indstillinger. Et spillernavn kan være, hvad du vil: det er kun til nytte for dig."
           },
           {
-            "p": "Disse data gemmes på din enhed, og udvikleren har ikke adgang til dem. Ligesom data fra andre apps kan de indgå i sikkerhedskopierne af din enhed, hvis du har slået dem til. Du kan slette alt i indstillingerne; hvis du sletter appen, forsvinder dataene også."
+            "p": "Disse data gemmes på din enhed, og udvikleren har ikke adgang til dem. Hvis iCloud-synkronisering er slået til (det er standardindstillingen, og du kan slå den fra i indstillingerne), kopieres de også til din egen iCloud-konto, i et område forbeholdt appen og krypteret af Apple, så du finder dem på dine andre iPhones og iPads, der er logget ind på den samme konto; ingen server hos udvikleren er involveret. Ligesom data fra andre apps kan de indgå i sikkerhedskopierne af din enhed, hvis du har slået dem til. Du kan slette alt i indstillingerne, hvilket også sletter dem på dine andre synkroniserede enheder; hvis du sletter appen, forsvinder dataene på denne enhed."
           }
         ]
       },
@@ -67,7 +67,7 @@
         "h": "Deling, eksport og import",
         "blocks": [
           {
-            "p": "Intet forlader appen uden din handling."
+            "p": "Bortset fra iCloud-synkroniseringen, der er beskrevet ovenfor, forlader intet appen uden din handling."
           },
           {
             "ul": [

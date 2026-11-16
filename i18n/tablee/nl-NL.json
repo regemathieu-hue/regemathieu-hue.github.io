@@ -9,7 +9,7 @@
       },
       {
         "q": "Welke spellen worden ondersteund?",
-        "a": "Belote, coinche, tarot, Scrabble en Uno. Voor alle andere spellen met punten (Yahtzee, rummy, Skyjo …) gebruikt u het vrije spel: de hoogste of de laagste score wint, naar keuze."
+        "a": "Belote, coinche, tarot, Scrabble, Uno, Skyjo, 6 nimmt!, Yahtzee (volledig scoreblok) en Mölkky. Voor alle andere spellen met punten (rummy, petit bac …) gebruikt u het vrije spel: de hoogste of de laagste score wint, naar keuze."
       },
       {
         "q": "Mijn regels zijn anders: kan ik ze aanpassen?",
@@ -25,11 +25,11 @@
       },
       {
         "q": "Hoe stap ik over op een ander apparaat zonder mijn spellen kwijt te raken?",
-        "a": "Open op het oude apparaat Instellingen › ‘Alles exporteren (JSON)’ en bewaar het bestand. Kies op het nieuwe apparaat ‘Bestand importeren’: de spellen en spelers worden toegevoegd aan wat er al is, zonder iets te overschrijven."
+        "a": "Als uw twee apparaten hetzelfde iCloud-account gebruiken, laat dan de iCloud-synchronisatie aanstaan (standaard staat ze aan): uw spellen en spelers verschijnen er vanzelf. In andere gevallen opent u op het oude apparaat Instellingen › ‘Alles exporteren (JSON)’ en bewaart u het bestand. Kies op het nieuwe apparaat ‘Bestand importeren’: de spellen en spelers worden toegevoegd aan wat er al is, zonder iets te overschrijven."
       },
       {
         "q": "Worden mijn spellen gesynchroniseerd of geback-upt?",
-        "a": "Elke wijziging wordt op uw apparaat opgeslagen, en u gaat verder waar u gebleven was. Tablée synchroniseert niets tussen uw apparaten, en de gegevens verdwijnen als u de app verwijdert: denk eraan af en toe een back-up te exporteren."
+        "a": "Ja. Elke wijziging wordt op uw apparaat opgeslagen, en u gaat verder waar u gebleven was. De iCloud-synchronisatie, die standaard aanstaat, kopieert uw spellen en spelers ook naar uw iCloud, zodat u ze terugvindt op uw andere iPhones en iPads met hetzelfde account; u kunt ze uitzetten in Instellingen. Zonder synchronisatie of zonder iCloud-account blijft alles op dit apparaat en verdwijnt het als u de app verwijdert. Hoe dan ook blijft het een goed idee om af en toe een back-up te exporteren."
       },
       {
         "q": "Hoe deel ik een uitslag?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "Hoe wis ik alles?",
-        "a": "Via Instellingen › ‘Alle gegevens wissen’. Dit is definitief: exporteer eerst een back-up als u uw spellen wilt bewaren."
+        "a": "Via Instellingen › ‘Alle gegevens wissen’. Als de iCloud-synchronisatie aanstaat, worden de gegevens van Tablée ook gewist op uw andere gesynchroniseerde apparaten. Dit is definitief: exporteer eerst een back-up als u uw spellen wilt bewaren."
       }
     ],
-    "privacy_summary": "Tablée verzamelt geen persoonsgegevens, maakt geen verbinding met een server en bevat geen reclame, aankopen of trackers. Uw spellen blijven op uw apparaat."
+    "privacy_summary": "Tablée verzamelt geen persoonsgegevens, maakt geen verbinding met een server van de ontwikkelaar en bevat geen reclame, aankopen of trackers. Uw spellen blijven op uw apparaten en, als de synchronisatie aanstaat, in uw iCloud."
   },
   "privacy": {
     "sections": [
@@ -48,7 +48,7 @@
         "h": "In het kort",
         "blocks": [
           {
-            "p": "Tablée verzamelt geen persoonsgegevens. De app werkt offline, maakt geen verbinding met een server en vraagt geen account. Alles wat u invoert blijft op uw apparaat, tenzij u ervoor kiest het te delen of te exporteren."
+            "p": "Tablée verzamelt geen persoonsgegevens. De app werkt offline, maakt geen verbinding met een server van de ontwikkelaar en vraagt geen account. Alles wat u invoert blijft op uw apparaten en, als de iCloud-synchronisatie aanstaat, in uw iCloud, tenzij u ervoor kiest het te delen of te exporteren."
           }
         ]
       },
@@ -59,7 +59,7 @@
             "p": "De app slaat uw spellen op, met hun punten en regels, uw spelerslijst (naam, emoji, kleur), de statistieken die uit die spellen worden berekend en uw instellingen. Een spelersnaam mag alles zijn wat u wilt: ze is alleen voor u van nut."
           },
           {
-            "p": "Deze gegevens worden op uw apparaat opgeslagen, en de ontwikkelaar heeft er geen toegang toe. Net als de gegevens van andere apps kunnen ze in de back-ups van uw apparaat zitten als u die hebt ingeschakeld. U kunt alles wissen in de instellingen; als u de app verwijdert, worden de gegevens ook gewist."
+            "p": "Deze gegevens worden op uw apparaat opgeslagen, en de ontwikkelaar heeft er geen toegang toe. Als de iCloud-synchronisatie aanstaat (dat is de standaardinstelling, en u kunt ze uitzetten in de instellingen), worden ze ook gekopieerd naar uw eigen iCloud-account, in een ruimte die voor de app is gereserveerd en door Apple is versleuteld, zodat u ze terugvindt op uw andere iPhones en iPads met hetzelfde account; er komt geen server van de ontwikkelaar aan te pas. Net als de gegevens van andere apps kunnen ze in de back-ups van uw apparaat zitten als u die hebt ingeschakeld. U kunt alles wissen in de instellingen, ook op uw andere gesynchroniseerde apparaten; als u de app verwijdert, worden de gegevens op dit apparaat gewist."
           }
         ]
       },
@@ -67,7 +67,7 @@
         "h": "Delen, exporteren en importeren",
         "blocks": [
           {
-            "p": "Niets verlaat de app zonder dat u iets doet."
+            "p": "Afgezien van de hierboven beschreven iCloud-synchronisatie verlaat niets de app zonder dat u iets doet."
           },
           {
             "ul": [

@@ -9,7 +9,7 @@
       },
       {
         "q": "Quins jocs admet?",
-        "a": "La belote, la coinche, el tarot, el Scrabble i el Uno. Per a tots els altres jocs de punts (yams, rummy, Skyjo…), feu servir el joc lliure: guanya la puntuació més alta o la més baixa, segons trieu."
+        "a": "La belote, la coinche, el tarot, el Scrabble, el Uno, l'Skyjo, el 6 nimmt!, el Yahtzee (full de puntuació complet) i el Mölkky. Per a tots els altres jocs de punts (rummy, petit bac…), feu servir el joc lliure: guanya la puntuació més alta o la més baixa, segons trieu."
       },
       {
         "q": "Les meves normes són diferents: les puc canviar?",
@@ -25,11 +25,11 @@
       },
       {
         "q": "Com puc canviar de dispositiu sense perdre les meves partides?",
-        "a": "Al dispositiu antic, obriu Ajustos › «Exporta-ho tot (JSON)» i deseu el fitxer. Al nou, trieu «Importa un fitxer»: les partides i els jugadors s'afegeixen als que ja hi ha, sense sobreescriure res."
+        "a": "Si els vostres dos dispositius fan servir el mateix compte d'iCloud, deixeu activada la sincronització amb iCloud (ho està per defecte): les vostres partides i els vostres jugadors hi apareixeran sols. En els altres casos, al dispositiu antic, obriu Ajustos › «Exporta-ho tot (JSON)» i deseu el fitxer. Al nou, trieu «Importa un fitxer»: les partides i els jugadors s'afegeixen als que ja hi ha, sense sobreescriure res."
       },
       {
         "q": "Les meves partides es sincronitzen o es desen en còpia de seguretat?",
-        "a": "Cada modificació es desa al vostre dispositiu, i reprenéu la partida allà on l'havíeu deixada. Tablée no sincronitza res entre els vostres dispositius, i les seves dades desapareixen si elimineu l'aplicació: recordeu exportar una còpia de seguretat de tant en tant."
+        "a": "Sí. Cada modificació es desa al vostre dispositiu, i reprenéu la partida allà on l'havíeu deixada. La sincronització amb iCloud, activada per defecte, també copia les vostres partides i els vostres jugadors al vostre iCloud, i els retrobeu als altres iPhone i iPad connectats al mateix compte; la podeu desactivar a Ajustos. Sense ella, o sense compte d'iCloud, tot es queda en aquest dispositiu i desapareix si elimineu l'aplicació. En qualsevol cas, exportar una còpia de seguretat de tant en tant continua sent una bona idea."
       },
       {
         "q": "Com puc compartir un resultat?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "Com ho puc esborrar tot?",
-        "a": "A Ajustos › «Esborra totes les dades». Aquesta acció és definitiva: exporteu primer una còpia de seguretat si voleu conservar les vostres partides."
+        "a": "A Ajustos › «Esborra totes les dades». Si la sincronització amb iCloud està activada, les dades de Tablée també s'esborren als vostres altres dispositius sincronitzats. Aquesta acció és definitiva: exporteu primer una còpia de seguretat si voleu conservar les vostres partides."
       }
     ],
-    "privacy_summary": "Tablée no recull cap dada personal, no es connecta a cap servidor i no conté ni publicitat, ni compres, ni rastrejadors. Les vostres partides es queden al vostre dispositiu."
+    "privacy_summary": "Tablée no recull cap dada personal, no es connecta a cap servidor del desenvolupador i no conté ni publicitat, ni compres, ni rastrejadors. Les vostres partides es queden als vostres dispositius i, si la sincronització està activada, al vostre iCloud."
   },
   "privacy": {
     "sections": [
@@ -48,7 +48,7 @@
         "h": "En resum",
         "blocks": [
           {
-            "p": "Tablée no recull cap dada personal. L'aplicació funciona sense connexió, no es connecta a cap servidor i no demana cap compte. Tot el que introduïu es queda al vostre dispositiu, tret que trieu compartir-ho o exportar-ho."
+            "p": "Tablée no recull cap dada personal. L'aplicació funciona sense connexió, no es connecta a cap servidor del desenvolupador i no demana cap compte. Tot el que introduïu es queda als vostres dispositius i, si la sincronització amb iCloud està activada, al vostre iCloud, tret que trieu compartir-ho o exportar-ho."
           }
         ]
       },
@@ -59,7 +59,7 @@
             "p": "L'aplicació desa les vostres partides, els seus punts i les seves normes, la vostra llibreta de jugadors (nom, emoji, color), les estadístiques calculades a partir d'aquestes partides i els vostres ajustos. El nom d'un jugador pot ser el que vulgueu: només us serveix a vosaltres."
           },
           {
-            "p": "Aquestes dades es desen al vostre dispositiu, i el desenvolupador no hi té accés. Com les dades de les altres aplicacions, poden formar part de les còpies de seguretat del vostre dispositiu si les heu activades. Ho podeu esborrar tot als ajustos; en eliminar l'aplicació també s'esborren."
+            "p": "Aquestes dades es desen al vostre dispositiu, i el desenvolupador no hi té accés. Si la sincronització amb iCloud està activada (ho està per defecte, i la podeu desactivar als ajustos), també es copien al vostre propi compte d'iCloud, en un espai reservat a l'aplicació i xifrat per Apple, perquè les retrobeu als altres iPhone i iPad connectats al mateix compte; no hi intervé cap servidor del desenvolupador. Com les dades de les altres aplicacions, poden formar part de les còpies de seguretat del vostre dispositiu si les heu activades. Ho podeu esborrar tot als ajustos, cosa que també les esborra als vostres altres dispositius sincronitzats; en eliminar l'aplicació s'esborren les d'aquest dispositiu."
           }
         ]
       },
@@ -67,7 +67,7 @@
         "h": "Compartir, exportar i importar",
         "blocks": [
           {
-            "p": "Res no surt de l'aplicació sense una acció vostra."
+            "p": "A banda de la sincronització amb iCloud descrita més amunt, res no surt de l'aplicació sense una acció vostra."
           },
           {
             "ul": [

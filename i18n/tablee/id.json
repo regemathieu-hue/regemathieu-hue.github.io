@@ -9,7 +9,7 @@
       },
       {
         "q": "Permainan apa saja yang didukung?",
-        "a": "Belote, coinche, tarot, Scrabble, dan Uno. Untuk semua permainan berpoin lainnya (Yahtzee, rummy, Skyjo…), gunakan permainan bebas: skor tertinggi atau terendah yang menang, sesuai pilihan Anda."
+        "a": "Belote, coinche, tarot, Scrabble, Uno, Skyjo, 6 nimmt!, Yahtzee (lembar skor lengkap), dan Mölkky. Untuk semua permainan berpoin lainnya (rummy, Scattergories…), gunakan permainan bebas: skor tertinggi atau terendah yang menang, sesuai pilihan Anda."
       },
       {
         "q": "Aturan saya berbeda: bisakah saya mengubahnya?",
@@ -25,11 +25,11 @@
       },
       {
         "q": "Bagaimana cara berganti perangkat tanpa kehilangan permainan saya?",
-        "a": "Di perangkat lama, buka Pengaturan › “Ekspor semua (JSON)” dan simpan filenya. Di perangkat baru, pilih “Impor file”: permainan dan pemain ditambahkan ke yang sudah ada, tanpa menimpa apa pun."
+        "a": "Jika kedua perangkat Anda menggunakan akun iCloud yang sama, biarkan sinkronisasi iCloud tetap aktif (aktif secara default): permainan dan pemain Anda akan muncul di sana dengan sendirinya. Dalam kasus lain, di perangkat lama, buka Pengaturan › “Ekspor semua (JSON)” dan simpan filenya. Di perangkat baru, pilih “Impor file”: permainan dan pemain ditambahkan ke yang sudah ada, tanpa menimpa apa pun."
       },
       {
         "q": "Apakah permainan saya disinkronkan atau dicadangkan?",
-        "a": "Setiap perubahan disimpan di perangkat Anda, dan Anda melanjutkan permainan dari tempat terakhir Anda berhenti. Tablée tidak menyinkronkan apa pun antarperangkat Anda, dan datanya hilang jika Anda menghapus aplikasi: ingatlah untuk mengekspor cadangan sesekali."
+        "a": "Ya. Setiap perubahan disimpan di perangkat Anda, dan Anda melanjutkan permainan dari tempat terakhir Anda berhenti. Sinkronisasi iCloud, yang aktif secara default, juga menyalin permainan dan pemain Anda ke iCloud Anda, sehingga Anda menemukannya di iPhone dan iPad lain yang masuk ke akun yang sama; Anda dapat menonaktifkannya di Pengaturan. Tanpa sinkronisasi, atau tanpa akun iCloud, semuanya tetap di perangkat ini dan hilang jika Anda menghapus aplikasi. Bagaimanapun juga, mengekspor cadangan sesekali tetap merupakan ide yang baik."
       },
       {
         "q": "Bagaimana cara membagikan hasil?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "Bagaimana cara menghapus semuanya?",
-        "a": "Di Pengaturan › “Hapus semua data”. Tindakan ini permanen: ekspor cadangan terlebih dahulu jika Anda ingin menyimpan permainan Anda."
+        "a": "Di Pengaturan › “Hapus semua data”. Jika sinkronisasi iCloud aktif, data Tablée juga dihapus di perangkat Anda lainnya yang tersinkron. Tindakan ini permanen: ekspor cadangan terlebih dahulu jika Anda ingin menyimpan permainan Anda."
       }
     ],
-    "privacy_summary": "Tablée tidak mengumpulkan data pribadi apa pun, tidak terhubung ke server mana pun, dan tidak berisi iklan, pembelian, maupun pelacak. Permainan Anda tetap ada di perangkat Anda."
+    "privacy_summary": "Tablée tidak mengumpulkan data pribadi apa pun, tidak terhubung ke server pengembang mana pun, dan tidak berisi iklan, pembelian, maupun pelacak. Permainan Anda tetap ada di perangkat Anda dan, jika sinkronisasi aktif, di iCloud Anda."
   },
   "privacy": {
     "sections": [
@@ -48,7 +48,7 @@
         "h": "Ringkasnya",
         "blocks": [
           {
-            "p": "Tablée tidak mengumpulkan data pribadi apa pun. Aplikasi ini bekerja secara offline, tidak terhubung ke server mana pun, dan tidak memerlukan akun. Semua yang Anda masukkan tetap ada di perangkat Anda, kecuali jika Anda memilih untuk membagikan atau mengekspornya."
+            "p": "Tablée tidak mengumpulkan data pribadi apa pun. Aplikasi ini bekerja secara offline, tidak terhubung ke server pengembang mana pun, dan tidak memerlukan akun. Semua yang Anda masukkan tetap ada di perangkat Anda dan, jika sinkronisasi iCloud aktif, di iCloud Anda, kecuali jika Anda memilih untuk membagikan atau mengekspornya."
           }
         ]
       },
@@ -59,7 +59,7 @@
             "p": "Aplikasi menyimpan permainan Anda, poin dan aturannya, daftar pemain Anda (nama, emoji, warna), statistik yang dihitung dari permainan tersebut, serta pengaturan Anda. Nama pemain boleh apa saja sesuai keinginan Anda: nama itu hanya berguna bagi Anda."
           },
           {
-            "p": "Data ini disimpan di perangkat Anda, dan pengembang tidak dapat mengaksesnya. Seperti data aplikasi lain, data ini dapat ikut tersimpan dalam cadangan perangkat Anda jika Anda mengaktifkannya. Anda dapat menghapus semuanya di pengaturan; menghapus aplikasi juga menghapusnya."
+            "p": "Data ini disimpan di perangkat Anda, dan pengembang tidak dapat mengaksesnya. Jika sinkronisasi iCloud aktif (secara default aktif, dan Anda dapat menonaktifkannya di pengaturan), data ini juga disalin ke akun iCloud Anda sendiri, di ruang khusus untuk aplikasi yang dienkripsi oleh Apple, agar Anda dapat menemukannya di iPhone dan iPad lain yang masuk ke akun yang sama; tidak ada server pengembang yang terlibat. Seperti data aplikasi lain, data ini dapat ikut tersimpan dalam cadangan perangkat Anda jika Anda mengaktifkannya. Anda dapat menghapus semuanya di pengaturan, yang juga menghapusnya di perangkat Anda lainnya yang tersinkron; menghapus aplikasi menghapus data di perangkat ini."
           }
         ]
       },
@@ -67,7 +67,7 @@
         "h": "Berbagi, ekspor, dan impor",
         "blocks": [
           {
-            "p": "Tidak ada yang keluar dari aplikasi tanpa tindakan dari Anda."
+            "p": "Selain sinkronisasi iCloud yang dijelaskan di atas, tidak ada yang keluar dari aplikasi tanpa tindakan dari Anda."
           },
           {
             "ul": [

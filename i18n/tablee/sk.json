@@ -9,7 +9,7 @@
       },
       {
         "q": "Aké hry sú podporované?",
-        "a": "Belote, coinche, tarot, Scrabble a Uno. Pre všetky ostatné hry na body (Yahtzee, rummy, Skyjo…) použite voľnú hru: vyhráva najvyššie alebo najnižšie skóre, podľa vášho výberu."
+        "a": "Belote, coinche, tarot, Scrabble, Uno, Skyjo, 6 nimmt!, Yahtzee (kompletná tabuľka) a Mölkky. Pre všetky ostatné hry na body (rummy, mesto-zviera-vec…) použite voľnú hru: vyhráva najvyššie alebo najnižšie skóre, podľa vášho výberu."
       },
       {
         "q": "Hrám podľa iných pravidiel: môžem ich zmeniť?",
@@ -25,11 +25,11 @@
       },
       {
         "q": "Ako prejsť na iné zariadenie bez straty partií?",
-        "a": "Na pôvodnom zariadení otvorte Nastavenia › „Exportovať všetko (JSON)“ a súbor uložte. Na novom vyberte „Importovať súbor“: partie a hráči sa pridajú k tým, ktoré tam už sú, a nič sa neprepíše."
+        "a": "Ak obe zariadenia používajú rovnaký účet iCloud, nechajte zapnutú synchronizáciu cez iCloud (predvolene je zapnutá): partie a hráči sa na nové zariadenie prenesú sami. V ostatných prípadoch na pôvodnom zariadení otvorte Nastavenia › „Exportovať všetko (JSON)“ a súbor uložte. Na novom vyberte „Importovať súbor“: partie a hráči sa pridajú k tým, ktoré tam už sú, a nič sa neprepíše."
       },
       {
         "q": "Synchronizujú sa moje partie, alebo sa zálohujú?",
-        "a": "Každá zmena sa ukladá vo vašom zariadení a v partii pokračujete tam, kde ste skončili. Tablée nič medzi vašimi zariadeniami nesynchronizuje a jej dáta zmiznú, ak aplikáciu odstránite: čas od času preto exportujte zálohu."
+        "a": "Áno. Každá zmena sa ukladá vo vašom zariadení a v partii pokračujete tam, kde ste skončili. Synchronizácia cez iCloud, predvolene zapnutá, navyše kopíruje vaše partie a hráčov do vášho iCloudu, takže ich nájdete aj na ďalších iPhonoch a iPadoch prihlásených do rovnakého účtu; vypnúť ju môžete v Nastaveniach. Bez nej alebo bez účtu iCloud zostáva všetko v tomto zariadení a zmizne, ak aplikáciu odstránite. V každom prípade je dobré čas od času exportovať zálohu."
       },
       {
         "q": "Ako zdieľať výsledok?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "Ako všetko vymazať?",
-        "a": "V Nastaveniach › „Vymazať všetky údaje“. Táto akcia je nezvratná: ak chcete partie zachovať, najprv exportujte zálohu."
+        "a": "V Nastaveniach › „Vymazať všetky údaje“. Ak je zapnutá synchronizácia cez iCloud, údaje Tablée sa vymažú aj na vašich ďalších synchronizovaných zariadeniach. Táto akcia je nezvratná: ak chcete partie zachovať, najprv exportujte zálohu."
       }
     ],
-    "privacy_summary": "Tablée nezbiera žiadne osobné údaje, nepripája sa k žiadnemu serveru a neobsahuje reklamy, nákupy ani sledovače. Vaše partie zostávajú vo vašom zariadení."
+    "privacy_summary": "Tablée nezbiera žiadne osobné údaje, nepripája sa k žiadnemu serveru vývojára a neobsahuje reklamy, nákupy ani sledovače. Vaše partie zostávajú vo vašich zariadeniach a, ak je synchronizácia zapnutá, vo vašom iCloude."
   },
   "privacy": {
     "sections": [
@@ -48,7 +48,7 @@
         "h": "Zhrnutie",
         "blocks": [
           {
-            "p": "Tablée nezbiera žiadne osobné údaje. Aplikácia funguje offline, nepripája sa k žiadnemu serveru a nevyžaduje žiadny účet. Všetko, čo zadáte, zostáva vo vašom zariadení, pokiaľ sa to nerozhodnete zdieľať alebo exportovať."
+            "p": "Tablée nezbiera žiadne osobné údaje. Aplikácia funguje offline, nepripája sa k žiadnemu serveru vývojára a nevyžaduje žiadny účet. Všetko, čo zadáte, zostáva vo vašich zariadeniach a, ak je synchronizácia cez iCloud zapnutá, vo vašom iCloude, pokiaľ sa to nerozhodnete zdieľať alebo exportovať."
           }
         ]
       },
@@ -59,7 +59,7 @@
             "p": "Aplikácia ukladá vaše partie, ich body a pravidlá, váš zoznam hráčov (meno, emoji, farba), štatistiky vypočítané z týchto partií a vaše nastavenia. Meno hráča môže byť ľubovoľné: hodí sa iba vám."
           },
           {
-            "p": "Tieto údaje sa ukladajú vo vašom zariadení a vývojár k nim nemá prístup. Rovnako ako dáta iných aplikácií sa môžu nachádzať v zálohách vášho zariadenia, ak ich máte zapnuté. Všetko môžete vymazať v nastaveniach; odstránením aplikácie sa údaje tiež vymažú."
+            "p": "Tieto údaje sa ukladajú vo vašom zariadení a vývojár k nim nemá prístup. Ak je zapnutá synchronizácia cez iCloud (predvolene áno a v nastaveniach ju môžete vypnúť), kopírujú sa aj do vášho vlastného účtu iCloud, do priestoru vyhradeného aplikácii a šifrovaného spoločnosťou Apple, aby ste ich našli aj na ďalších iPhonoch a iPadoch prihlásených do rovnakého účtu; žiadny server vývojára sa na tom nepodieľa. Rovnako ako dáta iných aplikácií sa môžu nachádzať v zálohách vášho zariadenia, ak ich máte zapnuté. Všetko môžete vymazať v nastaveniach, čím sa vymažú aj na vašich ďalších synchronizovaných zariadeniach; odstránením aplikácie sa vymažú údaje v tomto zariadení."
           }
         ]
       },
@@ -67,7 +67,7 @@
         "h": "Zdieľanie, export a import",
         "blocks": [
           {
-            "p": "Nič neopustí aplikáciu bez vášho zásahu."
+            "p": "Okrem vyššie opísanej synchronizácie cez iCloud nič neopustí aplikáciu bez vášho zásahu."
           },
           {
             "ul": [

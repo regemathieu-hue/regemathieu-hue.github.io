@@ -9,7 +9,7 @@
       },
       {
         "q": "Hangi oyunlar destekleniyor?",
-        "a": "belote, coinche, tarot, Scrabble ve Uno. Puanlı diğer tüm oyunlar için (Yahtzee, remi, Skyjo…) serbest oyunu kullanın: tercihinize göre en yüksek ya da en düşük skoru alan kazanır."
+        "a": "Belote, coinche, tarot, Scrabble, Uno, Skyjo, 6 nimmt!, Yahtzee (tam puan tablosuyla) ve Mölkky. Puanlı diğer tüm oyunlar için (remi, İsim Şehir…) serbest oyunu kullanın: tercihinize göre en yüksek ya da en düşük skoru alan kazanır."
       },
       {
         "q": "Benim kurallarım farklı: değiştirebilir miyim?",
@@ -25,11 +25,11 @@
       },
       {
         "q": "Oyunlarımı kaybetmeden cihaz değiştirmek için ne yapmalıyım?",
-        "a": "Eski cihazda Ayarlar › “Hepsini dışa aktar (JSON)” seçeneğini açın ve dosyayı kaydedin. Yeni cihazda “Dosya içe aktar” seçeneğini seçin: oyunlar ve oyuncular mevcut olanlara eklenir, hiçbir şeyin üzerine yazılmaz."
+        "a": "İki cihazınız da aynı iCloud hesabını kullanıyorsa iCloud eşzamanlamasını açık bırakın (varsayılan olarak açıktır): oyunlarınız ve oyuncularınız kendiliğinden orada olur. Diğer durumlarda, eski cihazda Ayarlar › “Hepsini dışa aktar (JSON)” seçeneğini açın ve dosyayı kaydedin. Yeni cihazda “Dosya içe aktar” seçeneğini seçin: oyunlar ve oyuncular mevcut olanlara eklenir, hiçbir şeyin üzerine yazılmaz."
       },
       {
         "q": "Oyunlarım eşzamanlanıyor mu ya da yedekleniyor mu?",
-        "a": "Her değişiklik cihazınıza kaydedilir ve oyuna kaldığınız yerden devam edersiniz. Tablée cihazlarınız arasında hiçbir şeyi eşzamanlamaz ve uygulamayı silerseniz verileri de kaybolur: ara sıra bir yedek dışa aktarmayı unutmayın."
+        "a": "Evet. Her değişiklik cihazınıza kaydedilir ve oyuna kaldığınız yerden devam edersiniz. Varsayılan olarak açık olan iCloud eşzamanlaması, oyunlarınızı ve oyuncularınızı iCloud'unuza da kopyalar; böylece aynı hesaba bağlı diğer iPhone ve iPad'lerinizde de bulursunuz. Bunu Ayarlar'dan kapatabilirsiniz. Eşzamanlama olmadan ya da iCloud hesabı olmadan her şey bu cihazda kalır ve uygulamayı silerseniz kaybolur. Her durumda ara sıra bir yedek dışa aktarmak yine de iyi bir fikirdir."
       },
       {
         "q": "Bir sonucu nasıl paylaşırım?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "Her şeyi nasıl silerim?",
-        "a": "Ayarlar › “Tüm verileri sil” bölümünden. Bu işlem kalıcıdır: oyunlarınızı saklamak istiyorsanız önce bir yedek dışa aktarın."
+        "a": "Ayarlar › “Tüm verileri sil” bölümünden. iCloud eşzamanlaması açıksa Tablée verileri eşzamanlanan diğer cihazlarınızda da silinir. Bu işlem kalıcıdır: oyunlarınızı saklamak istiyorsanız önce bir yedek dışa aktarın."
       }
     ],
-    "privacy_summary": "Tablée hiçbir kişisel veri toplamaz, hiçbir sunucuya bağlanmaz; reklam, satın alma veya izleyici içermez. Oyunlarınız cihazınızda kalır."
+    "privacy_summary": "Tablée hiçbir kişisel veri toplamaz, geliştiricinin hiçbir sunucusuna bağlanmaz; reklam, satın alma veya izleyici içermez. Oyunlarınız cihazlarınızda ve eşzamanlama açıksa iCloud'unuzda kalır."
   },
   "privacy": {
     "sections": [
@@ -48,7 +48,7 @@
         "h": "Özetle",
         "blocks": [
           {
-            "p": "Tablée hiçbir kişisel veri toplamaz. Uygulama çevrimdışı çalışır, hiçbir sunucuya bağlanmaz ve hesap gerektirmez. Girdiğiniz her şey, paylaşmayı ya da dışa aktarmayı seçmediğiniz sürece cihazınızda kalır."
+            "p": "Tablée hiçbir kişisel veri toplamaz. Uygulama çevrimdışı çalışır, geliştiricinin hiçbir sunucusuna bağlanmaz ve hesap gerektirmez. Girdiğiniz her şey, paylaşmayı ya da dışa aktarmayı seçmediğiniz sürece cihazlarınızda ve iCloud eşzamanlaması açıksa iCloud'unuzda kalır."
           }
         ]
       },
@@ -59,7 +59,7 @@
             "p": "Uygulama oyunlarınızı, puanlarını ve kurallarını, oyuncu defterinizi (ad, emoji, renk), bu oyunlardan hesaplanan istatistikleri ve ayarlarınızı kaydeder. Bir oyuncu adı istediğiniz gibi olabilir: yalnızca sizin için işe yarar."
           },
           {
-            "p": "Bu veriler cihazınıza kaydedilir ve geliştiricinin bunlara erişimi yoktur. Diğer uygulamaların verileri gibi, yedeklemeleri açtıysanız cihazınızın yedeklerinde yer alabilirler. Ayarlardan her şeyi silebilirsiniz; uygulamayı silmek de bunları siler."
+            "p": "Bu veriler cihazınıza kaydedilir ve geliştiricinin bunlara erişimi yoktur. iCloud eşzamanlaması açıksa (varsayılan olarak açıktır ve ayarlardan kapatabilirsiniz), veriler aynı hesaba bağlı diğer iPhone ve iPad'lerinizde de bulunabilmesi için kendi iCloud hesabınıza, uygulamaya ayrılmış ve Apple tarafından şifrelenen bir alana da kopyalanır; geliştiricinin hiçbir sunucusu bu işe karışmaz. Diğer uygulamaların verileri gibi, yedeklemeleri açtıysanız cihazınızın yedeklerinde yer alabilirler. Ayarlardan her şeyi silebilirsiniz; bu, verileri eşzamanlanan diğer cihazlarınızda da siler. Uygulamayı silmek ise bu cihazdaki verileri siler."
           }
         ]
       },
@@ -67,7 +67,7 @@
         "h": "Paylaşım, dışa aktarma ve içe aktarma",
         "blocks": [
           {
-            "p": "Siz bir işlem yapmadıkça hiçbir şey uygulamadan çıkmaz."
+            "p": "Yukarıda açıklanan iCloud eşzamanlaması dışında, siz bir işlem yapmadıkça hiçbir şey uygulamadan çıkmaz."
           },
           {
             "ul": [
