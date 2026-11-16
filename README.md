@@ -50,7 +50,6 @@ ar-SA, ca, cs, da, de-DE, el, en-AU, en-CA, en-GB, en-US, es-ES, es-MX, fi, fr-C
 |---|---|---|
 | Atelier Fichiers | https://regemathieu-hue.github.io/atelier-fichiers/ | https://regemathieu-hue.github.io/atelier-fichiers/privacy.html |
 | Carnet de shooting (Shootbook) | https://regemathieu-hue.github.io/carnetshooting/ | https://regemathieu-hue.github.io/carnetshooting/privacy.html |
-| Carte Wi-Fi | https://regemathieu-hue.github.io/cartewifi/ | https://regemathieu-hue.github.io/cartewifi/privacy.html |
 | Convert Everything | https://regemathieu-hue.github.io/convert-everything/ | https://regemathieu-hue.github.io/convert-everything/privacy.html |
 | Flashbooth | https://regemathieu-hue.github.io/flashbooth/ | https://regemathieu-hue.github.io/flashbooth/privacy.html |
 | Nuit Claire | https://regemathieu-hue.github.io/nuitclaire/ | https://regemathieu-hue.github.io/nuitclaire/privacy.html |
