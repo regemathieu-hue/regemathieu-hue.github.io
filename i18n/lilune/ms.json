@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Buku log untuk bulan-bulan pertama bayi",
+    "contact": "Ada soalan, idea atau masalah dengan aplikasi ini? Tulis kepada saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Bagaimana cara berkongsi rekod dengan ibu bapa lain?",
+        "a": "Buka tab \"Bayi\", kemudian \"Kongsi dengan ibu bapa lain\" dan hantar jemputan melalui Mesej, Mel atau WhatsApp. Ibu bapa lain menyentuh pautan di iPhone mereka: mereka boleh melihat dan melengkapkan rekod yang sama menggunakan akaun iCloud mereka sendiri. Kedua-dua peranti mesti log masuk ke iCloud. Fungsi perkongsian ialah sebahagian daripada Lilune Pro, tetapi ibu bapa lain tidak perlu membeli apa-apa."
+      },
+      {
+        "q": "Apa yang termasuk dalam Lilune Pro?",
+        "a": "Versi percuma membolehkan anda mencatat semuanya untuk satu bayi tanpa had masa: susu botol, penyusuan, tidur, lampin, pam susu, kesihatan, pertumbuhan, temujanji, widget dan mod lampu malam. Lilune Pro, pembelian sekali sahaja tanpa langganan, menambah perkongsian dengan ibu bapa lain, ramalan tidur siang seterusnya, statistik, eksport PDF, beberapa bayi dan pilihan ikon. Ia dikongsi dengan keluarga anda melalui Perkongsian Keluarga."
+      },
+      {
+        "q": "Bagaimana saya boleh memulihkan pembelian saya di peranti baharu?",
+        "a": "Buka tetingkap Lilune Pro dan sentuh \"Kembalikan Pembelian Saya\", menggunakan akaun App Store yang sama seperti masa pembelian."
+      },
+      {
+        "q": "Bagaimana ramalan tidur siang berfungsi?",
+        "a": "Lilune bermula daripada tempoh bangun biasa pada umur bayi anda, kemudian menyesuaikannya dengan tempoh bangun sebenar dalam beberapa hari lepas. Hasilnya ialah anggaran masa dengan julat, bukan satu peraturan: setiap bayi mempunyai ritma sendiri."
+      },
+      {
+        "q": "Adakah Lilune menggantikan doktor pakar kanak-kanak?",
+        "a": "Tidak. Lilune ialah buku log: ia mencatat waktu makan, tidur, lampin dan pertumbuhan, serta mengingatkan anda tentang temujanji. Ia tidak memberi sebarang nasihat perubatan. Jika anda ragu-ragu tentang kesihatan bayi anda, dapatkan nasihat daripada profesional kesihatan."
+      },
+      {
+        "q": "Adakah pemasa terus berjalan apabila saya tutup aplikasi?",
+        "a": "Ya. Sesi penyusuan atau tidur yang dimulakan akan terus dikira, dipaparkan pada skrin kunci dan di Dynamic Island, serta muncul pada ibu bapa lain jika anda berkongsi rekod."
+      },
+      {
+        "q": "Bagaimana cara menukar iPhone tanpa kehilangan data saya?",
+        "a": "Data anda berada dalam iCloud anda: log masuk dengan akaun iCloud yang sama di iPhone baharu dan pasang Lilune, rekod anda akan kembali secara automatik."
+      },
+      {
+        "q": "Bagaimana saya boleh memadam data saya?",
+        "a": "Padamkan seorang bayi daripada profilnya (\"Edit Profil\"): semua maklumat mengenainya akan dipadam. Memadam aplikasi tidak mencukupi, kerana data masih kekal dalam iCloud anda: untuk memadam semuanya, buka Tetapan › nama anda › iCloud › Urus Storan, kemudian Lilune."
+      }
+    ],
+    "privacy_summary": "Lilune tidak mengumpul sebarang data peribadi dan tidak mengandungi iklan atau penjejak. Data anda kekal pada peranti anda dan dalam iCloud anda; pembangun tidak mempunyai akses kepadanya."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasan",
+        "blocks": [
+          {
+            "p": "Lilune tidak mengumpul sebarang data peribadi. Aplikasi ini tiada pelayan dan tidak meminta akaun: data anda disimpan pada peranti anda dan dalam iCloud anda sendiri, dan pembangun tidak mempunyai akses kepadanya."
+          }
+        ]
+      },
+      {
+        "h": "Data anda",
+        "blocks": [
+          {
+            "p": "Aplikasi ini menyimpan apa yang anda masukkan mengenai bayi anda: nama pertama, tarikh lahir, jantina jika anda memasukkannya, gambar, makanan, tidur, lampin, pam susu, kesihatan (suhu, ubat), ukuran pertumbuhan, temujanji dan nota."
+          },
+          {
+            "p": "Data ini diselaraskan antara peranti anda melalui iCloud (pangkalan data peribadi akaun anda, dikelolakan oleh Apple). Ia tidak melalui mana-mana pelayan pembangun."
+          }
+        ]
+      },
+      {
+        "h": "Kongsi dengan ibu bapa lain",
+        "blocks": [
+          {
+            "p": "Jika anda berkongsi seorang bayi, orang yang dijemput akan dapat melihat dan mengubah semua maklumat berkaitan bayi tersebut. Perkongsian dilakukan melalui iCloud; anda boleh menghentikannya pada bila-bila masa, dan setiap orang yang dijemput juga boleh keluar daripadanya."
+          }
+        ]
+      },
+      {
+        "h": "Gambar dan notifikasi",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Gambar</strong>: hanya gambar yang anda pilih untuk bayi anda yang akan diimport.",
+              "<strong>Notifikasi</strong>: peringatan temujanji dan waktu makan dijadualkan pada peranti anda; tiada perkhidmatan notifikasi luaran digunakan."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Widget, pemasa dan eksport",
+        "blocks": [
+          {
+            "p": "Widget membaca ringkasan yang disimpan pada peranti anda, dan pemasa yang dipaparkan pada skrin kunci kekal pada peranti anda. Eksport PDF hanya keluar daripada aplikasi jika anda berkongsinya melalui alat iOS; ia kemudian tertakluk kepada terma perkhidmatan yang dipilih."
+          }
+        ]
+      },
+      {
+        "h": "Pembelian, iklan dan penjejakan",
+        "blocks": [
+          {
+            "p": "Lilune Pro dijual oleh Apple; pembangun tidak menerima sebarang data pembayaran. Aplikasi ini tidak mengandungi iklan, penjejak atau alat analitik atau statistik penggunaan."
+          }
+        ]
+      },
+      {
+        "h": "Kanak-kanak",
+        "blocks": [
+          {
+            "p": "Aplikasi ini ditujukan kepada ibu bapa. Ia tidak mengumpul sebarang data, dan maklumat mengenai anak anda kekal di iCloud anda."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika dasar ini berubah, versi baharu akan diterbitkan di halaman ini bersama tarikh kemaskini."
+          }
+        ]
+      },
+      {
+        "h": "Hubungan",
+        "blocks": [
+          {
+            "p": "Untuk sebarang pertanyaan mengenai dasar ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

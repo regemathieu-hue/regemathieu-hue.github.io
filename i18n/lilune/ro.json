@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Jurnalul primelor luni de viață ale bebelușului",
+    "contact": "O întrebare, o idee sau o problemă cu aplicația? Scrieți-mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Cum partajez jurnalul cu celălalt părinte?",
+        "a": "Deschideți fila „Bebeluș”, apoi „Partajează cu celălalt părinte” și trimiteți invitația prin Mesaje, Mail sau WhatsApp. Celălalt părinte atinge linkul pe iPhone-ul lui: vede și completează același jurnal, cu propriul cont iCloud. Trebuie să fiți conectați la iCloud pe ambele dispozitive. Partajarea face parte din Lilune Pro, dar celălalt părinte nu trebuie să cumpere nimic."
+      },
+      {
+        "q": "Ce include Lilune Pro?",
+        "a": "Versiunea gratuită vă permite să notați totul, fără limită de timp, pentru un singur bebeluș: biberoane, alăptări, somn, scutece, pomparea laptelui, sănătate, creștere, programări, widgeturi și modul lumină de veghe. Lilune Pro, o achiziție unică fără abonament, adaugă partajarea cu celălalt părinte, predicția următorului somn de zi, statistici, export în PDF, mai mulți bebeluși și alegerea pictogramelor. Este partajat cu familia dvs. prin Partajarea în familie."
+      },
+      {
+        "q": "Cum îmi recuperez achiziția pe un dispozitiv nou?",
+        "a": "Deschideți fereastra Lilune Pro și atingeți „Restabilește achizițiile”, folosind același cont App Store ca la achiziție."
+      },
+      {
+        "q": "Cum funcționează predicția somnului de zi?",
+        "a": "Lilune pornește de la durata obișnuită de veghe pentru vârsta bebelușului dvs., apoi o ajustează în funcție de perioadele reale de veghe din ultimele zile. Rezultatul este o oră orientativă, cu un interval, niciodată o regulă: fiecare bebeluș are ritmul lui."
+      },
+      {
+        "q": "Lilune înlocuiește medicul pediatru?",
+        "a": "Nu. Lilune este un jurnal: păstrează evidența meselor, a somnului, a scutecelor și a creșterii și vă reamintește programările. Nu oferă niciun sfat medical. Dacă aveți îndoieli privind sănătatea bebelușului dvs., cereți părerea unui specialist în sănătate."
+      },
+      {
+        "q": "Cronometrele continuă să meargă când închid aplicația?",
+        "a": "Da. O alăptare sau un somn pornit continuă să fie cronometrat, apare pe ecranul de blocare și în Dynamic Island și se vede și la celălalt părinte, dacă partajați jurnalul."
+      },
+      {
+        "q": "Cum schimb iPhone-ul fără să-mi pierd datele?",
+        "a": "Datele dvs. sunt în iCloud: conectați-vă cu același cont iCloud pe noul iPhone și instalați Lilune, iar jurnalul revine singur."
+      },
+      {
+        "q": "Cum îmi șterg datele?",
+        "a": "Ștergeți un bebeluș din fișa lui („Modifică profilul”): tot ce îl privește este șters. Nu este suficient să ștergeți aplicația, deoarece datele rămân în iCloud. Pentru a șterge totul, deschideți Setări › numele dvs. › iCloud › Gestionare stocare, apoi Lilune."
+      }
+    ],
+    "privacy_summary": "Lilune nu colectează nicio dată personală și nu conține reclame sau elemente de urmărire. Datele dvs. rămân pe dispozitivele dvs. și în iCloud; dezvoltatorul nu are acces la ele."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Pe scurt",
+        "blocks": [
+          {
+            "p": "Lilune nu colectează nicio dată personală. Aplicația nu are server și nu cere un cont: datele dvs. sunt salvate pe dispozitivele dvs. și în propriul iCloud, iar dezvoltatorul nu are acces la ele."
+          }
+        ]
+      },
+      {
+        "h": "Datele dvs.",
+        "blocks": [
+          {
+            "p": "Aplicația salvează ceea ce introduceți despre bebelușul dvs.: prenumele, data nașterii, sexul dacă îl completați, fotografia, mesele, somnul, scutecele, pomparea laptelui, sănătatea (temperaturi, medicamente), măsurătorile de creștere, programările și notițele."
+          },
+          {
+            "p": "Aceste date sunt sincronizate între dispozitivele dvs. prin iCloud (baza de date privată a contului dvs., administrată de Apple). Ele nu trec prin niciun server al dezvoltatorului."
+          }
+        ]
+      },
+      {
+        "h": "Partajarea cu celălalt părinte",
+        "blocks": [
+          {
+            "p": "Dacă partajați un bebeluș, persoanele invitate văd și pot modifica tot ce îl privește. Partajarea se face prin iCloud; o puteți opri oricând, iar fiecare invitat o poate părăsi."
+          }
+        ]
+      },
+      {
+        "h": "Fotografii și notificări",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fotografii</strong>: este importată doar fotografia pe care o alegeți pentru bebelușul dvs.",
+              "<strong>Notificări</strong>: mementourile pentru programări și mese sunt programate pe dispozitivul dvs.; nu se folosește niciun serviciu extern de notificări."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Widgeturi, cronometre și exporturi",
+        "blocks": [
+          {
+            "p": "Widgeturile citesc un rezumat salvat pe dispozitivul dvs., iar cronometrele afișate pe ecranul de blocare rămân pe dispozitivul dvs. Exportul PDF părăsește aplicația doar dacă îl partajați, cu instrumentele iOS; este atunci supus condițiilor serviciului ales."
+          }
+        ]
+      },
+      {
+        "h": "Achiziții, reclame și urmărire",
+        "blocks": [
+          {
+            "p": "Lilune Pro este vândut de Apple; dezvoltatorul nu primește nicio dată de plată. Aplicația nu conține reclame, elemente de urmărire sau instrumente de analiză ori de statistici de utilizare."
+          }
+        ]
+      },
+      {
+        "h": "Copii",
+        "blocks": [
+          {
+            "p": "Aplicația este destinată părinților. Nu colectează nicio dată, iar informațiile despre copilul dvs. rămân în iCloud."
+          }
+        ]
+      },
+      {
+        "h": "Modificări",
+        "blocks": [
+          {
+            "p": "Dacă această politică se modifică, noua versiune va fi publicată pe această pagină, împreună cu data actualizării."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pentru orice întrebare legată de această politică: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

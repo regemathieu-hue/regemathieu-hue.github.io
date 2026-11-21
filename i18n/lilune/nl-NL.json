@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Het logboek van de eerste maanden van je baby",
+    "contact": "Een vraag, een idee of een probleem met de app? Schrijf me:<br>{email}",
+    "faq": [
+      {
+        "q": "Hoe deel ik het logboek met de andere ouder?",
+        "a": "Open het tabblad “Baby”, kies “Delen met de andere ouder” en stuur de uitnodiging via Berichten, Mail of WhatsApp. De andere ouder tikt op de link op zijn of haar iPhone en ziet en vult dan hetzelfde logboek aan met een eigen iCloud-account. Beide apparaten moeten bij iCloud zijn aangemeld. Delen hoort bij Lilune Pro, maar de andere ouder hoeft niets te kopen."
+      },
+      {
+        "q": "Wat zit er in Lilune Pro?",
+        "a": "Met de gratis versie kun je voor één baby alles noteren, zonder tijdslimiet: flesvoedingen, borstvoedingen, slaap, luiers, kolven, gezondheid, groei, afspraken, widgets en nachtlampmodus. Lilune Pro, een eenmalige aankoop zonder abonnement, voegt delen met de andere ouder, de voorspelling van het volgende slaapje, statistieken, PDF-export, meerdere baby’s en een keuze aan pictogrammen toe. Het wordt met je gezin gedeeld via Delen met gezin."
+      },
+      {
+        "q": "Hoe krijg ik mijn aankoop terug op een nieuw apparaat?",
+        "a": "Open het scherm van Lilune Pro en tik op “Herstel aankopen”, met hetzelfde App Store-account als waarmee je hebt gekocht."
+      },
+      {
+        "q": "Hoe werkt de voorspelling van het slaapje?",
+        "a": "Lilune gaat uit van de gebruikelijke wakkertijd voor de leeftijd van je baby en past die aan met de werkelijke wakkerperiodes van de afgelopen dagen. Het resultaat is een indicatief tijdstip met een marge, nooit een regel: elke baby heeft zijn eigen ritme."
+      },
+      {
+        "q": "Vervangt Lilune de kinderarts?",
+        "a": "Nee. Lilune is een logboek: het houdt voedingen, slaap, luiers en groei bij en herinnert je aan afspraken. Het geeft geen medisch advies. Heb je twijfels over de gezondheid van je baby, vraag dan advies aan een zorgprofessional."
+      },
+      {
+        "q": "Blijven de timers doorlopen als ik de app sluit?",
+        "a": "Ja. Een borstvoeding of slaapje dat je hebt gestart, blijft doortellen, verschijnt op het toegangsscherm en in het Dynamic Island en is ook zichtbaar bij de andere ouder als je het logboek deelt."
+      },
+      {
+        "q": "Hoe stap ik over op een nieuwe iPhone zonder mijn gegevens te verliezen?",
+        "a": "Je gegevens staan in je iCloud: meld je op de nieuwe iPhone aan met hetzelfde iCloud-account en installeer Lilune, dan is het logboek er vanzelf weer."
+      },
+      {
+        "q": "Hoe verwijder ik mijn gegevens?",
+        "a": "Verwijder een baby via zijn of haar profiel (“Profiel wijzigen”): alles wat daarbij hoort, wordt gewist. De app verwijderen is niet genoeg, want de gegevens blijven in je iCloud staan. Om alles te wissen open je Instellingen › je naam › iCloud › Opslag beheren en kies je Lilune."
+      }
+    ],
+    "privacy_summary": "Lilune verzamelt geen persoonlijke gegevens en bevat geen advertenties of trackers. Je gegevens blijven op je apparaten en in je iCloud; de ontwikkelaar heeft er geen toegang toe."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort samengevat",
+        "blocks": [
+          {
+            "p": "Lilune verzamelt geen persoonlijke gegevens. De app heeft geen server en vraagt geen account aan: je gegevens worden opgeslagen op je apparaten en in je eigen iCloud, en de ontwikkelaar heeft er geen toegang toe."
+          }
+        ]
+      },
+      {
+        "h": "Je gegevens",
+        "blocks": [
+          {
+            "p": "De app slaat op wat je over je baby invoert: voornaam, geboortedatum, geslacht als je dat invult, foto, voedingen, slaap, luiers, kolven, gezondheid (temperatuur, medicijnen), groeimetingen, afspraken en notities."
+          },
+          {
+            "p": "Deze gegevens worden via iCloud gesynchroniseerd tussen je apparaten (de privédatabase van je account, beheerd door Apple). Ze lopen niet via een server van de ontwikkelaar."
+          }
+        ]
+      },
+      {
+        "h": "Delen met de andere ouder",
+        "blocks": [
+          {
+            "p": "Als je een baby deelt, zien en wijzigen de uitgenodigde personen alles wat daarbij hoort. Delen verloopt via iCloud; je kunt het op elk moment stoppen en elke uitgenodigde kan het ook zelf verlaten."
+          }
+        ]
+      },
+      {
+        "h": "Foto’s en meldingen",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Foto’s</strong>: alleen de foto die je voor je baby kiest, wordt geïmporteerd.",
+              "<strong>Meldingen</strong>: herinneringen aan afspraken en voedingen worden op je apparaat ingepland; er wordt geen externe meldingsdienst gebruikt."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Widgets, timers en exports",
+        "blocks": [
+          {
+            "p": "De widgets lezen een samenvatting die op je apparaat is opgeslagen en de timers op het toegangsscherm blijven op je apparaat. De PDF-export verlaat de app alleen als je hem deelt met de hulpmiddelen van iOS; hij valt dan onder de voorwaarden van de gekozen dienst."
+          }
+        ]
+      },
+      {
+        "h": "Aankopen, advertenties en tracking",
+        "blocks": [
+          {
+            "p": "Lilune Pro wordt door Apple verkocht; de ontwikkelaar ontvangt geen betaalgegevens. De app bevat geen advertenties, geen trackers en geen analyse- of gebruiksstatistiekentools."
+          }
+        ]
+      },
+      {
+        "h": "Kinderen",
+        "blocks": [
+          {
+            "p": "De app is bedoeld voor ouders. Ze verzamelt geen gegevens en de informatie over je kind blijft in je iCloud."
+          }
+        ]
+      },
+      {
+        "h": "Wijzigingen",
+        "blocks": [
+          {
+            "p": "Als dit privacybeleid verandert, wordt de nieuwe versie met de datum van de wijziging op deze pagina gepubliceerd."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Voor vragen over dit privacybeleid: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

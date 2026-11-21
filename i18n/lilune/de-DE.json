@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Das Logbuch für die ersten Monate Ihres Babys",
+    "contact": "Eine Frage, eine Idee oder ein Problem mit der App? Schreiben Sie mir:<br>{email}",
+    "faq": [
+      {
+        "q": "Wie teile ich den Verlauf mit dem anderen Elternteil?",
+        "a": "Öffnen Sie den Tab „Baby“, dann „Mit dem anderen Elternteil teilen“ und senden Sie die Einladung per Nachrichten, Mail oder WhatsApp. Der andere Elternteil tippt auf den Link auf seinem iPhone: Er sieht denselben Verlauf und kann ihn mit seinem eigenen iCloud-Konto ergänzen. Beide Geräte müssen bei iCloud angemeldet sein. Die Freigabe ist Teil von Lilune Pro, aber der andere Elternteil muss nichts kaufen."
+      },
+      {
+        "q": "Was beinhaltet Lilune Pro?",
+        "a": "Die kostenlose Version ermöglicht das unbegrenzte Notieren für ein Baby: Fläschchen, Stillen, Schlaf, Windeln, Abpumpen, Gesundheit, Wachstum, Termine, Widgets und Nachtlicht-Modus. Lilune Pro, ein einmaliger Kauf ohne Abo, fügt die Freigabe für den anderen Elternteil, die Vorhersage des nächsten Nickerchens, Statistiken, PDF-Export, mehrere Babys und eine Auswahl an App-Symbolen hinzu. Es wird über die Familienfreigabe mit Ihrer Familie geteilt."
+      },
+      {
+        "q": "Wie erhalte ich meinen Kauf auf einem neuen Gerät wieder?",
+        "a": "Öffnen Sie das Fenster von Lilune Pro und tippen Sie auf „Käufe wiederherstellen“, und zwar mit demselben App-Store-Konto, mit dem Sie den Kauf getätigt haben."
+      },
+      {
+        "q": "Wie funktioniert die Nickerchen-Vorhersage?",
+        "a": "Lilune geht von der üblichen Wachzeit für das Alter Ihres Babys aus und passt sie anhand der tatsächlichen Wachphasen der letzten Tage an. Das Ergebnis ist eine geschätzte Uhrzeit mit einem Zeitfenster – niemals eine Regel: Jedes Baby hat seinen eigenen Rhythmus."
+      },
+      {
+        "q": "Ersetzt Lilune den Kinderarzt?",
+        "a": "Nein. Lilune ist ein Logbuch: Es hält Mahlzeiten, Schlaf, Windeln und Wachstum fest und erinnert Sie an Termine. Es gibt keine medizinischen Ratschläge. Bei Zweifeln an der Gesundheit Ihres Babys wenden Sie sich bitte an medizinisches Fachpersonal."
+      },
+      {
+        "q": "Laufen die Timer weiter, wenn ich die App schließe?",
+        "a": "Ja. Eine gestartete Stillmahlzeit oder ein gestarteter Schlaf läuft weiter, wird auf dem Sperrbildschirm und in der Dynamic Island angezeigt und erscheint auch beim anderen Elternteil, wenn Sie den Verlauf teilen."
+      },
+      {
+        "q": "Wie wechsle ich zu einem neuen iPhone, ohne Daten zu verlieren?",
+        "a": "Ihre Daten liegen in Ihrer iCloud: Melden Sie sich auf dem neuen iPhone mit demselben iCloud-Konto an und installieren Sie Lilune – der Verlauf kommt von selbst zurück."
+      },
+      {
+        "q": "Wie lösche ich meine Daten?",
+        "a": "Löschen Sie ein Baby in seinem Profil („Profil bearbeiten“): Alles, was es betrifft, wird gelöscht. Das Löschen der App reicht nicht aus, da die Daten in Ihrer iCloud bleiben. Um alles zu löschen, öffnen Sie Einstellungen › Ihr Name › iCloud › Speicher verwalten und dann Lilune."
+      }
+    ],
+    "privacy_summary": "Lilune sammelt keine personenbezogenen Daten und enthält weder Werbung noch Tracking-Tools. Ihre Daten verbleiben auf Ihren Geräten und in Ihrer iCloud; der Entwickler hat keinen Zugriff darauf."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kurz gesagt",
+        "blocks": [
+          {
+            "p": "Lilune sammelt keine personenbezogenen Daten. Die App hat keinen Server und erfordert kein Konto: Ihre Daten werden auf Ihren Geräten und in Ihrer eigenen iCloud gespeichert, und der Entwickler hat keinen Zugriff darauf."
+          }
+        ]
+      },
+      {
+        "h": "Ihre Daten",
+        "blocks": [
+          {
+            "p": "Die App speichert, was Sie für Ihr Baby eingeben: Vorname, Geburtsdatum, Geschlecht (falls Sie es angeben), Foto, Mahlzeiten, Schlaf, Windeln, Abpumpen, Gesundheit (Temperaturen, Medikamente), Wachstumsmaße, Termine und Notizen."
+          },
+          {
+            "p": "Diese Daten werden zwischen Ihren Geräten über iCloud synchronisiert (private Datenbank Ihres Kontos, verwaltet von Apple). Sie laufen zu keinem Zeitpunkt über einen Server des Entwicklers."
+          }
+        ]
+      },
+      {
+        "h": "Teilen mit dem anderen Elternteil",
+        "blocks": [
+          {
+            "p": "Wenn Sie ein Baby teilen, können die eingeladenen Personen alles dazu sehen und bearbeiten. Die Freigabe erfolgt über iCloud; Sie können sie jederzeit beenden, und jede eingeladene Person kann sie verlassen."
+          }
+        ]
+      },
+      {
+        "h": "Fotos und Benachrichtigungen",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fotos</strong>: Nur das Foto, das Sie für Ihr Baby auswählen, wird importiert.",
+              "<strong>Benachrichtigungen</strong>: Erinnerungen an Termine und Mahlzeiten werden auf Ihrem Gerät geplant; es wird kein externer Benachrichtigungsdienst verwendet."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Widgets, Timer und Exporte",
+        "blocks": [
+          {
+            "p": "Widgets lesen eine auf Ihrem Gerät gespeicherte Zusammenfassung, und die auf dem Sperrbildschirm angezeigten Timer verbleiben auf Ihrem Gerät. Der PDF-Export verlässt die App nur, wenn Sie ihn über die iOS-Funktionen teilen; danach unterliegt er den Bedingungen des gewählten Dienstes."
+          }
+        ]
+      },
+      {
+        "h": "Käufe, Werbung und Tracking",
+        "blocks": [
+          {
+            "p": "Lilune Pro wird von Apple verkauft; der Entwickler erhält keine Zahlungsdaten. Die App enthält keine Werbung, keine Tracker und keine Analyse- oder Nutzungsstatistik-Tools."
+          }
+        ]
+      },
+      {
+        "h": "Kinder",
+        "blocks": [
+          {
+            "p": "Die App ist für Eltern gedacht. Sie sammelt keine Daten, und die Informationen über Ihr Kind verbleiben in Ihrer iCloud."
+          }
+        ]
+      },
+      {
+        "h": "Änderungen",
+        "blocks": [
+          {
+            "p": "Sollte diese Richtlinie geändert werden, wird die neue Version auf dieser Seite mit dem Aktualisierungsdatum veröffentlicht."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Für Fragen zu dieser Richtlinie: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

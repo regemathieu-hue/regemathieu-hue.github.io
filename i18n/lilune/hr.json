@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Dnevnik prvih mjeseci djeteta",
+    "contact": "Imate pitanje, ideju ili problem s aplikacijom? Pišite mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Kako podijeliti dnevnik s drugim roditeljem?",
+        "a": "Otvorite karticu „Beba“, zatim „Podijeli s drugim roditeljem“ i pošaljite poziv putem Poruka, Maila ili WhatsAppa. Drugi roditelj dodirne poveznicu na svom iPhoneu: vidi i dopunjuje isti dnevnik sa svojim iCloud računom. Potrebno je da ste prijavljeni na iCloud na oba uređaja. Dijeljenje je dio Lilune Pro, ali drugi roditelj ne mora ništa kupiti."
+      },
+      {
+        "q": "Što uključuje Lilune Pro?",
+        "a": "Besplatna verzija omogućuje neograničeno bilježenje za jedno dijete: bočice, dojenje, spavanje, pelene, izdajanje mlijeka, zdravlje, rast, termine, widgete i noćno svjetlo. Lilune Pro, jednokratna kupnja bez pretplate, dodaje dijeljenje s drugim roditeljem, predviđanje sljedećeg dnevnog spavanja, statistike, izvoz u PDF, više djece i izbor ikona. Dijeli se s vašom obitelji putem Obiteljskog dijeljenja."
+      },
+      {
+        "q": "Kako vratiti svoju kupnju na novom uređaju?",
+        "a": "Otvorite prozor Lilune Pro i dodirnite „Vrati kupnje“, s istim računom App Store kojim ste obavili kupnju."
+      },
+      {
+        "q": "Kako funkcionira predviđanje dnevnog spavanja?",
+        "a": "Lilune polazi od uobičajenog trajanja budnosti za dob vašeg djeteta, a zatim ga prilagođava stvarnim razdobljima budnosti iz posljednjih dana. Rezultat je okvirno vrijeme s rasponom, nikad pravilo: svako dijete ima svoj ritam."
+      },
+      {
+        "q": "Zamjenjuje li Lilune pedijatra?",
+        "a": "Ne. Lilune je dnevnik: bilježi obroke, san, pelene i rast te vas podsjeća na termine. Ne daje nikakve medicinske savjete. Ako sumnjate u zdravlje svog djeteta, potražite savjet zdravstvenog stručnjaka."
+      },
+      {
+        "q": "Nastavljaju li štoperice raditi kad zatvorim aplikaciju?",
+        "a": "Da. Dojenje ili spavanje koje ste pokrenuli nastavlja se mjeriti, prikazuje se na zaključanom zaslonu i u Dynamic Islandu te se pojavljuje i kod drugog roditelja ako dijelite praćenje."
+      },
+      {
+        "q": "Kako prijeći na novi iPhone bez gubitka podataka?",
+        "a": "Vaši su podaci u vašem iCloudu: prijavite se istim iCloud računom na novom iPhoneu i instalirajte Lilune, praćenje će se samo vratiti."
+      },
+      {
+        "q": "Kako izbrisati svoje podatke?",
+        "a": "Izbrišite dijete s njegove kartice („Uredi profil“): briše se sve što se na njega odnosi. Brisanje aplikacije nije dovoljno jer podaci ostaju u vašem iCloudu: da biste sve izbrisali, otvorite Postavke › vaše ime › iCloud › Upravljanje pohranom, a zatim Lilune."
+      }
+    ],
+    "privacy_summary": "Lilune ne prikuplja nikakve osobne podatke i nema oglasa ni alata za praćenje. Vaši podaci ostaju na vašim uređajima i u vašem iCloudu; razvojnik nema pristup do njih."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ukratko",
+        "blocks": [
+          {
+            "p": "Lilune ne prikuplja osobne podatke. Aplikacija nema poslužitelj i ne traži račun: vaši se podaci pohranjuju na vašim uređajima i u vašem vlastitom iCloudu, a razvojnik nema pristup do njih."
+          }
+        ]
+      },
+      {
+        "h": "Vaši podaci",
+        "blocks": [
+          {
+            "p": "Aplikacija sprema ono što unesete za svoje dijete: ime, datum rođenja, spol ako ga navedete, fotografiju, obroke, san, pelene, izdajanje mlijeka, zdravlje (temperature, lijekovi), mjere rasta, termine i bilješke."
+          },
+          {
+            "p": "Ti se podaci sinkroniziraju između vaših uređaja putem iClouda (privatna baza vašeg računa, kojom upravlja Apple). Ne prolaze ni kroz jedan poslužitelj razvojnika."
+          }
+        ]
+      },
+      {
+        "h": "Dijeljenje s drugim roditeljem",
+        "blocks": [
+          {
+            "p": "Ako dijelite dijete, pozvane osobe vide i mijenjaju sve što se na njega odnosi. Dijeljenje ide preko iClouda; možete ga prekinuti u bilo kojem trenutku, a svaka pozvana osoba može ga napustiti."
+          }
+        ]
+      },
+      {
+        "h": "Fotografije i obavijesti",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fotografije</strong>: uvozi se samo fotografija koju odaberete za svoje dijete.",
+              "<strong>Obavijesti</strong>: podsjetnici za termine i obroke zakazani su na vašem uređaju; ne koristi se nikakva vanjska usluga obavijesti."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Widgeti, štoperice i izvozi",
+        "blocks": [
+          {
+            "p": "Widgeti čitaju sažetak pohranjen na vašem uređaju, a štoperice prikazane na zaključanom zaslonu ostaju na vašem uređaju. PDF izvoz napušta aplikaciju samo ako ga podijelite pomoću iOS alata; tada podliježe uvjetima odabrane usluge."
+          }
+        ]
+      },
+      {
+        "h": "Kupnje, oglasi i praćenje",
+        "blocks": [
+          {
+            "p": "Lilune Pro prodaje Apple; razvojnik ne prima nikakve podatke o plaćanju. Aplikacija ne sadrži oglase, alate za praćenje ni alate za analitiku ili statistiku korištenja."
+          }
+        ]
+      },
+      {
+        "h": "Djeca",
+        "blocks": [
+          {
+            "p": "Aplikacija je namijenjena roditeljima. Ne prikuplja nikakve podatke, a podaci o vašem djetetu ostaju u vašem iCloudu."
+          }
+        ]
+      },
+      {
+        "h": "Promjene",
+        "blocks": [
+          {
+            "p": "Ako se ova politika promijeni, nova će verzija biti objavljena na ovoj stranici s datumom ažuriranja."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Za bilo kakva pitanja vezana uz ovu politiku: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

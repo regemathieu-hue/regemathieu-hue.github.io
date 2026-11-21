@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "A babá első hónapjainak naplója",
+    "contact": "Kérdésed, ötleted vagy problémád van az alkalmazással? Írj nekem:<br>{email}",
+    "faq": [
+      {
+        "q": "Hogyan oszthatom meg a naplót a másik szülővel?",
+        "a": "Nyisd meg a „Baba” fület, majd a „Megosztás a másik szülővel” lehetőséget, és küldd el a meghívót Üzenetekben, Mailben vagy WhatsAppban. A másik szülő megérinti a linket az iPhone-ján: látja és kiegészíti ugyanazt a naplót a saját iCloud-fiókjával. Mindkét eszközön be kell jelentkezni az iCloudba. A megosztás a Lilune Pro része, de a másik szülőnek nem kell semmit vásárolnia."
+      },
+      {
+        "q": "Mit tartalmaz a Lilune Pro?",
+        "a": "Az ingyenes verzióban időkorlát nélkül mindent rögzíthetsz egy babához: cumisüveges etetés, szoptatás, alvás, pelenka, fejés, egészség, növekedés, időpontok, widgetek és éjjelifény mód. A Lilune Pro, amely egyszeri vásárlás, előfizetés nélkül, hozzáadja a másik szülővel való megosztást, a következő szunyókálás előrejelzését, statisztikákat, PDF-exportot, több babát és választható ikonokat. A Családi megosztáson keresztül megosztható a családoddal."
+      },
+      {
+        "q": "Hogyan állíthatom vissza a vásárlásomat egy új eszközön?",
+        "a": "Nyisd meg a Lilune Pro ablakot, és érintsd meg a „Vásárlások visszaállítása” gombot, ugyanazzal az App Store-fiókkal, amellyel a vásárlást végezted."
+      },
+      {
+        "q": "Hogyan működik a szunyókálás-előrejelzés?",
+        "a": "A Lilune a babád életkorához tartozó szokásos ébrenléti időből indul ki, majd az utóbbi napok tényleges ébrenléti időszakaival finomítja azt. Az eredmény egy tájékoztató időpont egy tartománnyal, soha nem szabály: minden babának saját ritmusa van."
+      },
+      {
+        "q": "A Lilune helyettesíti-e a gyermekorvost?",
+        "a": "Nem. A Lilune egy napló: nyomon követi az étkezéseket, az alvást, a pelenkákat és a növekedést, és emlékeztet az időpontokra. Semmilyen orvosi tanácsot nem ad. Ha kétségeid vannak a babád egészségével kapcsolatban, kérd egészségügyi szakember véleményét."
+      },
+      {
+        "q": "Az időmérők tovább futnak, ha bezárom az alkalmazást?",
+        "a": "Igen. Az elindított szoptatás vagy alvás tovább számol, megjelenik a zárolt képernyőn és a Dynamic Islanden, a másik szülőnél is látszik, ha megosztjátok a naplót."
+      },
+      {
+        "q": "Hogyan válthatok új iPhone-ra az adataim elvesztése nélkül?",
+        "a": "Az adataid az iCloudban vannak: jelentkezz be ugyanazzal az iCloud-fiókkal az új iPhone-on, és telepítsd a Lilune-t, a napló magától visszatér."
+      },
+      {
+        "q": "Hogyan törölhetem az adatokat?",
+        "a": "Töröld a babát a profiljából („Profil szerkesztése”): minden, ami rá vonatkozik, törlődik. Az alkalmazás törlése nem elég, mert az adatok megmaradnak az iCloudban: mindennek a törléséhez nyisd meg a Beállítások › a neved › iCloud › Tárhely kezelése lehetőséget, majd a Lilune-t."
+      }
+    ],
+    "privacy_summary": "A Lilune semmilyen személyes adatot nem gyűjt, és nincs benne reklám vagy nyomkövető. Az adataid az eszközeiden és az iCloudban maradnak; a fejlesztő nem fér hozzájuk."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Összefoglalva",
+        "blocks": [
+          {
+            "p": "A Lilune semmilyen személyes adatot nem gyűjt. Az alkalmazásnak nincs kiszolgálója, és nem kér fiókot: az adataid az eszközeiden és a saját iCloudodban tárolódnak, a fejlesztő pedig nem fér hozzájuk."
+          }
+        ]
+      },
+      {
+        "h": "Az adataid",
+        "blocks": [
+          {
+            "p": "Az alkalmazás rögzíti, amit a babádról megadsz: keresztnév, születési dátum, nem (ha megadod), fénykép, etetések, alvás, pelenkák, fejés, egészség (hőmérséklet, gyógyszerek), növekedési mérések, időpontok és jegyzetek."
+          },
+          {
+            "p": "Ezek az adatok az iCloudon keresztül szinkronizálódnak az eszközeid között (a fiókod privát adatbázisa, amelyet az Apple kezel). Nem haladnak át a fejlesztő egyetlen kiszolgálóján sem."
+          }
+        ]
+      },
+      {
+        "h": "Megosztás a másik szülővel",
+        "blocks": [
+          {
+            "p": "Ha megosztasz egy babát, a meghívott személyek mindent látnak és szerkeszthetnek, ami rá vonatkozik. A megosztás az iCloudon keresztül történik; bármikor leállíthatod, és minden meghívott kiléphet belőle."
+          }
+        ]
+      },
+      {
+        "h": "Fotók és értesítések",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fotók</strong>: csak a babához választott fotó kerül importálásra.",
+              "<strong>Értesítések</strong>: az időpont- és étkezési emlékeztetők az eszközödön vannak ütemezve; külső értesítési szolgáltatást nem használ az alkalmazás."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Widgetek, időmérők és exportok",
+        "blocks": [
+          {
+            "p": "A widgetek egy az eszközödön tárolt összegzést olvasnak, a zárolt képernyőn megjelenő időmérők pedig az eszközödön maradnak. A PDF-export csak akkor hagyja el az alkalmazást, ha megosztod az iOS eszközeivel; ilyenkor a kiválasztott szolgáltatás feltételei érvényesek."
+          }
+        ]
+      },
+      {
+        "h": "Vásárlások, hirdetések és nyomkövetés",
+        "blocks": [
+          {
+            "p": "A Lilune Pro-t az Apple értékesíti; a fejlesztő semmilyen fizetési adatot nem kap. Az alkalmazás nem tartalmaz reklámokat, nyomkövetőket, sem használati elemző vagy statisztikai eszközöket."
+          }
+        ]
+      },
+      {
+        "h": "Gyerekek",
+        "blocks": [
+          {
+            "p": "Az alkalmazás szülőknek készült. Semmilyen adatot nem gyűjt, és a gyermekedre vonatkozó információk az iCloudodban maradnak."
+          }
+        ]
+      },
+      {
+        "h": "Módosítások",
+        "blocks": [
+          {
+            "p": "Ha ez a politika megváltozik, a frissített verziót ezen az oldalon jelentjük meg a frissítés dátumával."
+          }
+        ]
+      },
+      {
+        "h": "Kapcsolat",
+        "blocks": [
+          {
+            "p": "Ha kérdésed van ezzel a szabályzattal kapcsolatban: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

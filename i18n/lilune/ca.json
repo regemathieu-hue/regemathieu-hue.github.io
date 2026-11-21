@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "El quadern de bord dels primers mesos del nadó",
+    "contact": "Una pregunta, una idea o un problema amb l'aplicació? Escriviu-me:<br>{email}",
+    "faq": [
+      {
+        "q": "Com puc compartir el seguiment amb l'altre progenitor?",
+        "a": "Obriu la pestanya «Nadó», després «Compartir amb l'altre progenitor» i envieu la invitació per Missatges, Correu o WhatsApp. L'altre progenitor toca l'enllaç al seu iPhone: veu i completa el mateix seguiment amb el seu propi compte d'iCloud. Cal tenir la sessió iniciada a iCloud als dos dispositius. La compartició forma part de Lilune Pro, però l'altre progenitor no ha de comprar res."
+      },
+      {
+        "q": "Què inclou Lilune Pro?",
+        "a": "La versió gratuïta permet registrar-ho tot per a un nadó sense límit de temps: biberons, lactància materna, son, bolquers, extracció de llet, salut, creixement, cites, ginys i mode llum de nit. Lilune Pro, una compra única sense subscripció, afegeix la compartició amb l'altre progenitor, la predicció de la propera migdiada, les estadístiques, l'exportació en PDF, diversos nadons i la tria d'icones. Es comparteix amb la família gràcies a Compartir en família."
+      },
+      {
+        "q": "Com recupero la meva compra en un dispositiu nou?",
+        "a": "Obriu la finestra de Lilune Pro i toqueu «Restaura les compres», amb el mateix compte d'App Store amb què vau fer la compra."
+      },
+      {
+        "q": "Com funciona la predicció de la migdiada?",
+        "a": "Lilune parteix de la durada de vigília habitual a l'edat del vostre nadó i després l'ajusta amb els seus períodes de vigília reals dels darrers dies. El resultat és una hora orientativa amb un interval, mai una regla: cada nadó té el seu ritme."
+      },
+      {
+        "q": "Lilune substitueix el pediatre?",
+        "a": "No. Lilune és un quadern: guarda el registre dels àpats, del son, dels bolquers i del creixement, i us recorda les cites. No dona cap consell mèdic. Si teniu algun dubte sobre la salut del vostre nadó, consulteu un professional sanitari."
+      },
+      {
+        "q": "Els cronòmetres continuen quan tanco l'aplicació?",
+        "a": "Sí. Si inicieu una sessió de lactància o de son, continua comptant, es mostra a la pantalla de bloqueig i a la Dynamic Island, i també apareix a l'altre progenitor si compartiu el seguiment."
+      },
+      {
+        "q": "Com canvio d'iPhone sense perdre les meves dades?",
+        "a": "Les vostres dades són al vostre iCloud: inicieu la sessió amb el mateix compte d'iCloud al nou iPhone i instal·leu Lilune, i el seguiment tornarà tot sol."
+      },
+      {
+        "q": "Com elimino les meves dades?",
+        "a": "Elimineu un nadó des de la seva fitxa («Edita el perfil»): s'esborra tot el que li fa referència. Eliminar l'aplicació no n'hi ha prou, perquè les dades continuen al vostre iCloud: per esborrar-ho tot, obriu Configuració › el vostre nom › iCloud › Gestiona l'emmagatzematge, i després Lilune."
+      }
+    ],
+    "privacy_summary": "Lilune no recull cap dada personal ni conté publicitat ni rastrejadors. Les vostres dades romanen als vostres dispositius i al vostre iCloud; el desenvolupador no hi té accés."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resum",
+        "blocks": [
+          {
+            "p": "Lilune no recull cap dada personal. L'aplicació no té servidor ni demana cap compte: les vostres dades es desen als vostres dispositius i al vostre propi iCloud, i el desenvolupador no hi té accés."
+          }
+        ]
+      },
+      {
+        "h": "Les vostres dades",
+        "blocks": [
+          {
+            "p": "L'aplicació desa el que introduïu sobre el vostre nadó: nom, data de naixement, sexe si l'indiqueu, foto, àpats, son, bolquers, extracció de llet, salut (temperatures, medicaments), mesures de creixement, cites i notes."
+          },
+          {
+            "p": "Aquestes dades se sincronitzen entre els vostres dispositius mitjançant iCloud (base de dades privada del vostre compte, gestionada per Apple). No passen per cap servidor del desenvolupador."
+          }
+        ]
+      },
+      {
+        "h": "Compartició amb l'altre progenitor",
+        "blocks": [
+          {
+            "p": "Si compartiu un nadó, les persones convidades veuen i modifiquen tot el que li fa referència. La compartició passa per iCloud; podeu aturar-la en qualsevol moment, i cada persona convidada pot deixar-la."
+          }
+        ]
+      },
+      {
+        "h": "Fotos i notificacions",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fotos</strong>: només s'importa la foto que trieu per al vostre nadó.",
+              "<strong>Notificacions</strong>: els recordatoris de cites i d'àpats es programen al vostre dispositiu; no s'utilitza cap servei de notificacions extern."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Ginys, cronòmetres i exportacions",
+        "blocks": [
+          {
+            "p": "Els ginys llegeixen un resum desat al vostre dispositiu, i els cronòmetres mostrats a la pantalla de bloqueig es queden al vostre dispositiu. L'exportació en PDF només surt de l'aplicació si la compartiu mitjançant les eines d'iOS; llavors queda subjecta a les condicions del servei triat."
+          }
+        ]
+      },
+      {
+        "h": "Compres, publicitat i seguiment",
+        "blocks": [
+          {
+            "p": "Lilune Pro el ven Apple; el desenvolupador no rep cap dada de pagament. L'aplicació no conté cap publicitat, cap rastrejador ni cap eina d'anàlisi o d'estadístiques d'ús."
+          }
+        ]
+      },
+      {
+        "h": "Infants",
+        "blocks": [
+          {
+            "p": "L'aplicació està destinada als pares i mares. No recull cap dada, i la informació sobre el vostre fill o filla es queda al vostre iCloud."
+          }
+        ]
+      },
+      {
+        "h": "Modificacions",
+        "blocks": [
+          {
+            "p": "Si aquesta política canvia, la nova versió es publicarà en aquesta pàgina amb la data d'actualització."
+          }
+        ]
+      },
+      {
+        "h": "Contacte",
+        "blocks": [
+          {
+            "p": "Per a qualsevol pregunta sobre aquesta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

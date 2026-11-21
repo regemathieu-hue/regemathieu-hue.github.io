@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "The logbook for your baby's first months",
+    "contact": "A question, an idea or a problem with the app? Write to me:<br>{email}",
+    "faq": [
+      {
+        "q": "How do I share the log with the other parent?",
+        "a": "Open the \"Baby\" tab, then \"Share with the other parent\", and send the invitation by Messages, Mail or WhatsApp. The other parent taps the link on their iPhone: they see and complete the same log with their own iCloud account. Both devices need to be signed in to iCloud. Sharing is part of Lilune Pro, but the other parent doesn't have to buy anything."
+      },
+      {
+        "q": "What does Lilune Pro include?",
+        "a": "The free version lets you log everything for one baby with no time limit: bottles, nursing, sleep, diapers, pumping, health, growth, appointments, widgets and night-light mode. Lilune Pro, a one-time purchase with no subscription, adds sharing with the other parent, next nap prediction, statistics, PDF export, multiple babies and a choice of app icons. It is shared with your family through Family Sharing."
+      },
+      {
+        "q": "How do I get my purchase back on a new device?",
+        "a": "Open the Lilune Pro window and tap \"Restore Purchases\", with the same App Store account you used to buy it."
+      },
+      {
+        "q": "How does the nap prediction work?",
+        "a": "Lilune starts from the usual awake time for your baby's age, then adjusts it with their actual awake periods over the last few days. The result is an estimated time with a range, never a rule: every baby has their own rhythm."
+      },
+      {
+        "q": "Does Lilune replace the pediatrician?",
+        "a": "No. Lilune is a logbook: it keeps track of feeds, sleep, diapers and growth, and reminds you of appointments. It gives no medical advice. If you have any doubt about your baby's health, ask a healthcare professional."
+      },
+      {
+        "q": "Do the timers keep running when I close the app?",
+        "a": "Yes. A nursing session or sleep you start keeps counting, shows on the Lock Screen and in the Dynamic Island, and also appears for the other parent if you share the log."
+      },
+      {
+        "q": "How do I switch iPhones without losing my data?",
+        "a": "Your data is in your iCloud: sign in with the same iCloud account on the new iPhone and install Lilune, and your log comes back on its own."
+      },
+      {
+        "q": "How do I delete my data?",
+        "a": "Delete a baby from their profile (\"Edit profile\"): everything about them is erased. Deleting the app is not enough, because the data stays in your iCloud: to erase everything, open Settings › your name › iCloud › Manage Storage, then Lilune."
+      }
+    ],
+    "privacy_summary": "Lilune collects no personal data and contains no ads or trackers. Your data stays on your devices and in your iCloud; the developer has no access to it."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In short",
+        "blocks": [
+          {
+            "p": "Lilune collects no personal data. The app has no server and asks for no account: your data is stored on your devices and in your own iCloud, and the developer has no access to it."
+          }
+        ]
+      },
+      {
+        "h": "Your data",
+        "blocks": [
+          {
+            "p": "The app stores what you enter for your baby: first name, date of birth, sex if you enter it, photo, feeds, sleep, diapers, pumping, health (temperatures, medicine), growth measurements, appointments and notes."
+          },
+          {
+            "p": "This data is synced between your devices through iCloud (your account's private database, managed by Apple). It never goes through a server of the developer."
+          }
+        ]
+      },
+      {
+        "h": "Sharing with the other parent",
+        "blocks": [
+          {
+            "p": "If you share a baby, the people you invite see and edit everything about them. Sharing goes through iCloud; you can stop it at any time, and each invitee can leave it."
+          }
+        ]
+      },
+      {
+        "h": "Photos and notifications",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Photos</strong>: only the photo you choose for your baby is imported.",
+              "<strong>Notifications</strong>: appointment and feeding reminders are scheduled on your device; no outside notification service is used."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Widgets, timers and exports",
+        "blocks": [
+          {
+            "p": "Widgets read a summary stored on your device, and the timers shown on the Lock Screen stay on your device. The PDF export only leaves the app if you share it, using iOS tools; it is then subject to the terms of the service you choose."
+          }
+        ]
+      },
+      {
+        "h": "Purchases, ads and tracking",
+        "blocks": [
+          {
+            "p": "Lilune Pro is sold by Apple; the developer receives no payment data. The app contains no ads, no trackers and no analytics or usage statistics tools."
+          }
+        ]
+      },
+      {
+        "h": "Children",
+        "blocks": [
+          {
+            "p": "The app is meant for parents. It collects no data, and the information about your child stays in your iCloud."
+          }
+        ]
+      },
+      {
+        "h": "Changes",
+        "blocks": [
+          {
+            "p": "If this policy changes, the new version will be published on this page with its update date."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "For any question about this policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

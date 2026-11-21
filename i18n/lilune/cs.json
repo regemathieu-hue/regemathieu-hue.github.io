@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Deník prvních měsíců vašeho miminka",
+    "contact": "Máte dotaz, nápad nebo problém s aplikací? Napište mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Jak sdílet záznamy s druhým rodičem?",
+        "a": "Otevřete záložku „Miminko“, poté „Sdílet s druhým rodičem“ a pošlete pozvánku přes Zprávy, Mail nebo WhatsApp. Druhý rodič klepne na odkaz na svém iPhonu: uvidí stejný deník a bude do něj moci zapisovat pod vlastním účtem iCloud. Na obou zařízeních musíte být přihlášeni k iCloudu. Sdílení je součástí Lilune Pro, ale druhý rodič si nemusí nic kupovat."
+      },
+      {
+        "q": "Co obsahuje Lilune Pro?",
+        "a": "Bezplatná verze umožňuje bez časového omezení zapisovat vše pro jedno miminko: krmení z lahve, kojení, spánek, plenky, odsávání mléka, zdraví, růst, schůzky, widgety a noční světlo. Lilune Pro, jednorázový nákup bez předplatného, přidává sdílení s druhým rodičem, předpověď dalšího denního spánku, statistiky, export do PDF, více miminek a volbu ikony aplikace. Díky Sdílení v rodině je dostupné i vaší rodině."
+      },
+      {
+        "q": "Jak obnovím svůj nákup na novém zařízení?",
+        "a": "Otevřete okno Lilune Pro a klepněte na „Obnovit nákupy“, a to se stejným účtem App Store, jaký jste použili při nákupu."
+      },
+      {
+        "q": "Jak funguje předpověď denního spánku?",
+        "a": "Lilune vychází z obvyklé doby bdění v daném věku vašeho miminka a upravuje ji podle jeho skutečných dob bdění z posledních dní. Výsledkem je orientační čas s rozmezím, nikoli pravidlo: každé miminko má svůj rytmus."
+      },
+      {
+        "q": "Nahrazuje Lilune pediatra?",
+        "a": "Ne. Lilune je deník: sleduje krmení, spánek, plenky a růst a připomíná vám schůzky. Neposkytuje žádné lékařské rady. Máte-li jakékoli pochybnosti o zdraví svého miminka, obraťte se na zdravotnického odborníka."
+      },
+      {
+        "q": "Běží časovače dál, když aplikaci zavřu?",
+        "a": "Ano. Zahájené kojení nebo spánek se počítá dál, zobrazuje se na zamčené obrazovce a v Dynamic Island a objeví se i u druhého rodiče, pokud deník sdílíte."
+      },
+      {
+        "q": "Jak přejdu na nový iPhone a nepřijdu o data?",
+        "a": "Vaše data jsou ve vašem iCloudu: na novém iPhonu se přihlaste ke stejnému účtu iCloud a nainstalujte Lilune, deník se vrátí sám."
+      },
+      {
+        "q": "Jak smažu svá data?",
+        "a": "Smažte miminko v jeho profilu („Upravit profil“): vše, co se ho týká, bude vymazáno. Smazání aplikace nestačí, protože data zůstávají ve vašem iCloudu: chcete-li smazat vše, otevřete Nastavení › vaše jméno › iCloud › Spravovat úložiště a poté Lilune."
+      }
+    ],
+    "privacy_summary": "Lilune neshromažduje žádné osobní údaje a neobsahuje reklamy ani sledovací nástroje. Vaše data zůstávají na vašich zařízeních a ve vašem iCloudu; vývojář k nim nemá přístup."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ve stručnosti",
+        "blocks": [
+          {
+            "p": "Lilune neshromažduje žádné osobní údaje. Aplikace nemá server a nevyžaduje účet: vaše data jsou uložena na vašich zařízeních a ve vašem vlastním iCloudu a vývojář k nim nemá přístup."
+          }
+        ]
+      },
+      {
+        "h": "Vaše data",
+        "blocks": [
+          {
+            "p": "Aplikace ukládá to, co zadáte o svém miminku: křestní jméno, datum narození, pohlaví, pokud ho zadáte, fotografii, krmení, spánek, plenky, odsávání mléka, zdraví (teploty, léky), měření růstu, schůzky a poznámky."
+          },
+          {
+            "p": "Tato data se mezi vašimi zařízeními synchronizují přes iCloud (soukromá databáze vašeho účtu, kterou spravuje Apple). Neprocházejí žádným serverem vývojáře."
+          }
+        ]
+      },
+      {
+        "h": "Sdílení s druhým rodičem",
+        "blocks": [
+          {
+            "p": "Pokud miminko sdílíte, pozvané osoby vidí a upravují vše, co se ho týká. Sdílení probíhá přes iCloud; můžete ho kdykoli ukončit a každý pozvaný ho může opustit."
+          }
+        ]
+      },
+      {
+        "h": "Fotky a oznámení",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fotky</strong>: importuje se pouze fotka, kterou vyberete pro své miminko.",
+              "<strong>Oznámení</strong>: připomínky schůzek a krmení se plánují přímo na vašem zařízení; nepoužívá se žádná externí služba oznámení."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Widgety, časovače a exporty",
+        "blocks": [
+          {
+            "p": "Widgety čtou souhrn uložený ve vašem zařízení a časovače zobrazené na zamčené obrazovce zůstávají ve vašem zařízení. Export do PDF opustí aplikaci, jen pokud ho sdílíte pomocí nástrojů iOS; poté se na něj vztahují podmínky vámi zvolené služby."
+          }
+        ]
+      },
+      {
+        "h": "Nákupy, reklamy a sledování",
+        "blocks": [
+          {
+            "p": "Lilune Pro prodává společnost Apple; vývojář nedostává žádné platební údaje. Aplikace neobsahuje žádné reklamy, žádné sledovací nástroje ani nástroje pro analýzu či statistiky používání."
+          }
+        ]
+      },
+      {
+        "h": "Děti",
+        "blocks": [
+          {
+            "p": "Aplikace je určena rodičům. Neshromažďuje žádné údaje a informace o vašem dítěti zůstávají ve vašem iCloudu."
+          }
+        ]
+      },
+      {
+        "h": "Změny",
+        "blocks": [
+          {
+            "p": "Pokud se tyto zásady změní, bude nová verze zveřejněna na této stránce spolu s datem aktualizace."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "V případě jakéhokoli dotazu k těmto zásadám: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

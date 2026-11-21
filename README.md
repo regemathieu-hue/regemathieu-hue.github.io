@@ -50,9 +50,9 @@ ar-SA, ca, cs, da, de-DE, el, en-AU, en-CA, en-GB, en-US, es-ES, es-MX, fi, fr-C
 |---|---|---|
 | À toi ! (Your Turn!) | https://regemathieu-hue.github.io/atoi/ | https://regemathieu-hue.github.io/atoi/privacy.html |
 | Atelier Fichiers | https://regemathieu-hue.github.io/atelier-fichiers/ | https://regemathieu-hue.github.io/atelier-fichiers/privacy.html |
-| Carnet de shooting (Shootbook) | https://regemathieu-hue.github.io/carnetshooting/ | https://regemathieu-hue.github.io/carnetshooting/privacy.html |
 | Convert Everything | https://regemathieu-hue.github.io/convert-everything/ | https://regemathieu-hue.github.io/convert-everything/privacy.html |
 | Flashbooth | https://regemathieu-hue.github.io/flashbooth/ | https://regemathieu-hue.github.io/flashbooth/privacy.html |
+| Lilune | https://regemathieu-hue.github.io/lilune/ | https://regemathieu-hue.github.io/lilune/privacy.html |
 | Nuit Claire | https://regemathieu-hue.github.io/nuitclaire/ | https://regemathieu-hue.github.io/nuitclaire/privacy.html |
 | Pattoune | https://regemathieu-hue.github.io/pattoune/ | https://regemathieu-hue.github.io/pattoune/privacy.html |
 | Tablée | https://regemathieu-hue.github.io/tablee/ | https://regemathieu-hue.github.io/tablee/privacy.html |

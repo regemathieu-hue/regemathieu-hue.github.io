@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Dziennik pierwszych miesięcy życia dziecka",
+    "contact": "Masz pytanie, pomysł lub problem z aplikacją? Napisz do mnie:<br>{email}",
+    "faq": [
+      {
+        "q": "Jak udostępnić dziennik drugiemu rodzicowi?",
+        "a": "Otwórz zakładkę „Dziecko”, następnie „Udostępnij drugiemu rodzicowi” i wyślij zaproszenie przez Wiadomości, Pocztę lub WhatsApp. Drugi rodzic dotyka linku na swoim iPhonie: widzi ten sam dziennik i może go uzupełniać, korzystając z własnego konta iCloud. Na obu urządzeniach trzeba być zalogowanym do iCloud. Udostępnianie jest częścią Lilune Pro, ale drugi rodzic nie musi nic kupować."
+      },
+      {
+        "q": "Co zawiera Lilune Pro?",
+        "a": "Wersja bezpłatna pozwala bez ograniczeń czasowych zapisywać wszystko dla jednego dziecka: karmienie butelką, karmienie piersią, sen, pieluszki, odciąganie mleka, zdrowie, wzrost, wizyty, widżety i tryb lampki nocnej. Lilune Pro – jednorazowy zakup bez subskrypcji – dodaje udostępnianie drugiemu rodzicowi, przewidywanie następnej drzemki, statystyki, eksport do PDF, obsługę kilkorga dzieci i wybór ikon. Jest udostępniany Twojej rodzinie dzięki funkcji Udostępnianie rodzinne."
+      },
+      {
+        "q": "Jak odzyskać zakup na nowym urządzeniu?",
+        "a": "Otwórz okno Lilune Pro i dotknij „Przywróć zakupy”, używając tego samego konta App Store, które posłużyło do zakupu."
+      },
+      {
+        "q": "Jak działa przewidywanie drzemki?",
+        "a": "Lilune zaczyna od typowego czasu czuwania dla wieku Twojego dziecka, a następnie koryguje go na podstawie rzeczywistych okresów czuwania z ostatnich dni. Wynikiem jest orientacyjna godzina z przedziałem – nigdy reguła: każde dziecko ma swój rytm."
+      },
+      {
+        "q": "Czy Lilune zastępuje pediatrę?",
+        "a": "Nie. Lilune to dziennik: zapisuje posiłki, sen, pieluszki i wzrost oraz przypomina o wizytach. Nie udziela żadnych porad medycznych. W razie wątpliwości dotyczących zdrowia dziecka zasięgnij opinii pracownika służby zdrowia."
+      },
+      {
+        "q": "Czy czasomierze działają dalej, gdy zamknę aplikację?",
+        "a": "Tak. Rozpoczęte karmienie piersią lub sen są nadal odliczane, wyświetlają się na ekranie blokady i w Dynamic Island, a także pojawiają się u drugiego rodzica, jeśli udostępniacie dziennik."
+      },
+      {
+        "q": "Jak zmienić iPhone’a bez utraty danych?",
+        "a": "Twoje dane są w iCloud: zaloguj się tym samym kontem iCloud na nowym iPhonie i zainstaluj Lilune – dziennik wróci sam."
+      },
+      {
+        "q": "Jak usunąć moje dane?",
+        "a": "Usuń dziecko z jego profilu („Edytuj profil”): wszystko, co go dotyczy, zostanie skasowane. Usunięcie aplikacji nie wystarczy, ponieważ dane pozostają w Twoim iCloud. Aby skasować wszystko, otwórz Ustawienia › Twoje imię i nazwisko › iCloud › Zarządzaj pamięcią, a następnie Lilune."
+      }
+    ],
+    "privacy_summary": "Lilune nie zbiera żadnych danych osobowych i nie zawiera reklam ani narzędzi śledzących. Twoje dane pozostają na Twoich urządzeniach i w Twoim iCloud; deweloper nie ma do nich dostępu."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "W skrócie",
+        "blocks": [
+          {
+            "p": "Lilune nie zbiera żadnych danych osobowych. Aplikacja nie ma serwera i nie wymaga konta: Twoje dane są zapisywane na Twoich urządzeniach i w Twoim własnym iCloud, a deweloper nie ma do nich dostępu."
+          }
+        ]
+      },
+      {
+        "h": "Twoje dane",
+        "blocks": [
+          {
+            "p": "Aplikacja zapisuje to, co wprowadzisz o swoim dziecku: imię, datę urodzenia, płeć (jeśli ją podasz), zdjęcie, posiłki, sen, pieluszki, odciąganie mleka, zdrowie (temperatury, leki), pomiary wzrostu, wizyty i notatki."
+          },
+          {
+            "p": "Dane te są synchronizowane między Twoimi urządzeniami przez iCloud (prywatną bazę danych Twojego konta, zarządzaną przez Apple). Nie przechodzą przez żaden serwer dewelopera."
+          }
+        ]
+      },
+      {
+        "h": "Udostępnianie drugiemu rodzicowi",
+        "blocks": [
+          {
+            "p": "Jeśli udostępnisz dziecko, zaproszone osoby widzą i mogą edytować wszystko, co go dotyczy. Udostępnianie odbywa się przez iCloud; możesz je zakończyć w każdej chwili, a każda zaproszona osoba może z niego zrezygnować."
+          }
+        ]
+      },
+      {
+        "h": "Zdjęcia i powiadomienia",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Zdjęcia</strong>: importowane jest tylko zdjęcie, które wybierzesz dla swojego dziecka.",
+              "<strong>Powiadomienia</strong>: przypomnienia o wizytach i posiłkach są planowane na Twoim urządzeniu; nie korzystamy z żadnej zewnętrznej usługi powiadomień."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Widżety, czasomierze i eksporty",
+        "blocks": [
+          {
+            "p": "Widżety odczytują podsumowanie zapisane na Twoim urządzeniu, a czasomierze wyświetlane na ekranie blokady pozostają na Twoim urządzeniu. Eksport PDF opuszcza aplikację tylko wtedy, gdy go udostępnisz za pomocą narzędzi iOS; podlega on wówczas warunkom wybranej usługi."
+          }
+        ]
+      },
+      {
+        "h": "Zakupy, reklamy i śledzenie",
+        "blocks": [
+          {
+            "p": "Lilune Pro jest sprzedawany przez Apple; deweloper nie otrzymuje żadnych danych płatniczych. Aplikacja nie zawiera reklam, narzędzi śledzących ani narzędzi analitycznych czy statystyk użytkowania."
+          }
+        ]
+      },
+      {
+        "h": "Dzieci",
+        "blocks": [
+          {
+            "p": "Aplikacja jest przeznaczona dla rodziców. Nie zbiera żadnych danych, a informacje o Twoim dziecku pozostają w Twoim iCloud."
+          }
+        ]
+      },
+      {
+        "h": "Zmiany",
+        "blocks": [
+          {
+            "p": "Jeśli ta polityka ulegnie zmianie, nowa wersja zostanie opublikowana na tej stronie wraz z datą aktualizacji."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "W razie pytań dotyczących tej polityki: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

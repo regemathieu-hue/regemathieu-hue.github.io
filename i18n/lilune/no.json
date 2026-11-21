@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Loggboken for de første månedene med babyen din",
+    "contact": "Har du et spørsmål, en idé eller et problem med appen? Skriv til meg:<br>{email}",
+    "faq": [
+      {
+        "q": "Hvordan deler jeg loggen med den andre forelderen?",
+        "a": "Åpne fanen «Baby», velg «Del med den andre forelderen» og send invitasjonen via Meldinger, E-post eller WhatsApp. Den andre forelderen trykker på lenken på sin iPhone og ser og fyller ut den samme loggen med sin egen iCloud-konto. Begge enhetene må være logget på iCloud. Deling er en del av Lilune Pro, men den andre forelderen trenger ikke å kjøpe noe."
+      },
+      {
+        "q": "Hva inneholder Lilune Pro?",
+        "a": "Den gratis versjonen lar deg notere alt uten tidsbegrensning for én baby: flaskemål, amming, søvn, bleier, brystpumping, helse, vekst, avtaler, widgets og nattlysmodus. Lilune Pro, et engangskjøp uten abonnement, legger til deling med den andre forelderen, prediksjon av neste lur, statistikk, PDF-eksport, flere babyer og valg av ikoner. Det deles med familien din gjennom Familiedeling."
+      },
+      {
+        "q": "Hvordan får jeg tilbake kjøpet mitt på en ny enhet?",
+        "a": "Åpne Lilune Pro-vinduet og trykk på «Gjenopprett kjøp», med den samme App Store-kontoen som du brukte til kjøpet."
+      },
+      {
+        "q": "Hvordan fungerer prediksjonen av lur?",
+        "a": "Lilune tar utgangspunkt i vanlig våken tid for alderen til babyen din og justerer den ut fra de faktiske våkenperiodene de siste dagene. Resultatet er et veiledende tidspunkt med et tidsrom, aldri en regel: hver baby har sin egen rytme."
+      },
+      {
+        "q": "Erstatter Lilune helsesykepleieren eller legen?",
+        "a": "Nei. Lilune er en loggbok: den holder oversikt over måltider, søvn, bleier og vekst, og minner deg på avtaler. Den gir ingen medisinsk rådgivning. Er du i tvil om babyens helse, bør du spørre helsepersonell."
+      },
+      {
+        "q": "Fortsetter tidtakerne å gå når jeg lukker appen?",
+        "a": "Ja. En ammeøkt eller en søvn du har startet, fortsetter å telle, vises på låseskjermen og i Dynamic Island, og vises også hos den andre forelderen hvis dere deler loggen."
+      },
+      {
+        "q": "Hvordan bytter jeg iPhone uten å miste dataene mine?",
+        "a": "Dataene dine ligger i iCloud: logg på med den samme iCloud-kontoen på den nye iPhonen og installer Lilune, så kommer loggen tilbake av seg selv."
+      },
+      {
+        "q": "Hvordan sletter jeg dataene mine?",
+        "a": "Slett en baby fra profilen («Rediger profil»): alt som gjelder babyen, slettes. Det er ikke nok å slette appen, for dataene blir liggende i iCloud. For å slette alt åpner du Innstillinger › ditt navn › iCloud › Administrer lagring, og velger deretter Lilune."
+      }
+    ],
+    "privacy_summary": "Lilune samler ikke inn personopplysninger og inneholder verken reklame eller sporing. Dataene dine blir på enhetene dine og i iCloud-en din; utvikleren har ikke tilgang til dem."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort fortalt",
+        "blocks": [
+          {
+            "p": "Lilune samler ikke inn personopplysninger. Appen har ingen server og krever ingen konto: dataene dine lagres på enhetene dine og i din egen iCloud, og utvikleren har ikke tilgang til dem."
+          }
+        ]
+      },
+      {
+        "h": "Dataene dine",
+        "blocks": [
+          {
+            "p": "Appen lagrer det du fyller inn om babyen din: fornavn, fødselsdato, kjønn hvis du oppgir det, bilde, måltider, søvn, bleier, brystpumping, helse (temperatur, medisiner), vekstmålinger, avtaler og notater."
+          },
+          {
+            "p": "Disse dataene synkroniseres mellom enhetene dine via iCloud (den private databasen til kontoen din, administrert av Apple). De går ikke gjennom noen server hos utvikleren."
+          }
+        ]
+      },
+      {
+        "h": "Deling med den andre forelderen",
+        "blocks": [
+          {
+            "p": "Hvis du deler en baby, kan de inviterte se og endre alt som gjelder babyen. Delingen går via iCloud; du kan avslutte den når som helst, og hver inviterte kan forlate den."
+          }
+        ]
+      },
+      {
+        "h": "Bilder og varsler",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Bilder</strong>: bare bildet du velger for babyen din, blir importert.",
+              "<strong>Varsler</strong>: påminnelser om avtaler og måltider planlegges på enheten din; ingen ekstern varslingstjeneste brukes."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Widgets, tidtakere og eksport",
+        "blocks": [
+          {
+            "p": "Widgetene leser et sammendrag som er lagret på enheten din, og tidtakerne som vises på låseskjermen, blir på enheten din. PDF-eksporten forlater appen bare hvis du deler den med iOS' delingsverktøy; den er da underlagt vilkårene til tjenesten du velger."
+          }
+        ]
+      },
+      {
+        "h": "Kjøp, reklame og sporing",
+        "blocks": [
+          {
+            "p": "Lilune Pro selges av Apple; utvikleren mottar ingen betalingsopplysninger. Appen inneholder ingen reklame, ingen sporere og ingen analyse- eller brukerstatistikkverktøy."
+          }
+        ]
+      },
+      {
+        "h": "Barn",
+        "blocks": [
+          {
+            "p": "Appen er laget for foreldre. Den samler ikke inn noen data, og opplysningene om barnet ditt blir i iCloud-en din."
+          }
+        ]
+      },
+      {
+        "h": "Endringer",
+        "blocks": [
+          {
+            "p": "Hvis denne personvernerklæringen endres, publiseres den nye versjonen på denne siden med oppdateringsdato."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Spørsmål om denne personvernerklæringen kan sendes til: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

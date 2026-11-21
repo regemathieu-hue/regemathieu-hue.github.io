@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Vauvan ensimmäisten kuukausien päiväkirja",
+    "contact": "Kysymys, idea tai ongelma sovelluksen kanssa? Kirjoita minulle:<br>{email}",
+    "faq": [
+      {
+        "q": "Miten jaan seurannan toisen vanhemman kanssa?",
+        "a": "Avaa Vauva-välilehti, valitse ”Jaa toisen vanhemman kanssa” ja lähetä kutsu Viestit-, Mail- tai WhatsApp-sovelluksella. Toinen vanhempi napauttaa linkkiä iPhonessaan: hän näkee saman seurannan ja voi täydentää sitä omalla iCloud-tilillään. Molemmilla laitteilla on oltava kirjauduttuna iCloudiin. Jakaminen kuuluu Lilune Pro -versioon, mutta toisen vanhemman ei tarvitse ostaa mitään."
+      },
+      {
+        "q": "Mitä Lilune Pro sisältää?",
+        "a": "Ilmaisella versiolla voit kirjata kaiken yhdestä vauvasta ilman aikarajaa: pulloruokinnat, imetykset, unet, vaipat, maidonpumppauksen, terveyden, kasvun, tapaamiset, widgetit ja yövalotilan. Lilune Pro, kertaosto ilman tilausta, lisää jakamisen toisen vanhemman kanssa, seuraavan päiväunen ennusteen, tilastot, PDF-viennin, useita vauvoja ja valittavat kuvakkeet. Se jaetaan perheesi kanssa Perhejaon kautta."
+      },
+      {
+        "q": "Miten saan ostoksen takaisin uudella laitteella?",
+        "a": "Avaa Lilune Pro -ikkuna ja napauta ”Palauta ostot” samalla App Store -tilillä, jolla teit ostoksen."
+      },
+      {
+        "q": "Miten päiväunien ennuste toimii?",
+        "a": "Lilune lähtee vauvasi ikään sopivasta tyypillisestä hereilläoloajasta ja säätää sitä viime päivien todellisten hereilläolojaksojen mukaan. Tulos on suuntaa-antava kellonaika aikavälin kanssa, ei koskaan sääntö: jokaisella vauvalla on oma rytminsä."
+      },
+      {
+        "q": "Korvaako Lilune lastenlääkärin?",
+        "a": "Ei. Lilune on päiväkirja: se pitää kirjaa ruokinnoista, unesta, vaipoista ja kasvusta ja muistuttaa tapaamisista. Se ei anna lääketieteellisiä neuvoja. Jos olet epävarma vauvasi terveydestä, kysy neuvoa terveydenhuollon ammattilaiselta."
+      },
+      {
+        "q": "Jatkuvatko ajastimet, kun suljen sovelluksen?",
+        "a": "Kyllä. Aloitettu imetys tai uni jatkaa laskemista, näkyy lukitusnäytöllä ja Dynamic Islandissa sekä toisen vanhemman laitteella, jos jaat seurannan."
+      },
+      {
+        "q": "Miten vaihdan iPhonea menettämättä tietoja?",
+        "a": "Tietosi ovat iCloudissa: kirjaudu uudella iPhonella samalle iCloud-tilille ja asenna Lilune, niin seuranta palautuu itsestään."
+      },
+      {
+        "q": "Miten poistan tietoni?",
+        "a": "Poista vauva hänen tiedoistaan (”Muokkaa profiilia”): kaikki häneen liittyvä poistetaan. Sovelluksen poistaminen ei riitä, koska tiedot säilyvät iCloudissa: voit poistaa kaiken avaamalla Asetukset › nimesi › iCloud › Hallitse tallennustilaa ja valitsemalla Lilune."
+      }
+    ],
+    "privacy_summary": "Lilune ei kerää henkilötietoja eikä sisällä mainoksia tai seuraimia. Tietosi pysyvät laitteillasi ja iCloudissa; kehittäjällä ei ole pääsyä niihin."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Lyhyesti",
+        "blocks": [
+          {
+            "p": "Lilune ei kerää henkilötietoja. Sovelluksella ei ole palvelinta, eikä se vaadi tiliä: tietosi tallennetaan laitteillesi ja omaan iCloudiisi, eikä kehittäjällä ole pääsyä niihin."
+          }
+        ]
+      },
+      {
+        "h": "Tietosi",
+        "blocks": [
+          {
+            "p": "Sovellus tallentaa sen, mitä vauvastasi syötät: etunimi, syntymäaika, sukupuoli jos annat sen, valokuva, ruokinnat, unet, vaipat, maidonpumppaus, terveys (lämpötilat, lääkkeet), kasvumittaukset, tapaamiset ja muistiinpanot."
+          },
+          {
+            "p": "Nämä tiedot synkronoidaan laitteidesi välillä iCloudin kautta (tilisi yksityinen tietokanta, jota Apple hallinnoi). Ne eivät kulje minkään kehittäjän palvelimen kautta."
+          }
+        ]
+      },
+      {
+        "h": "Jakaminen toisen vanhemman kanssa",
+        "blocks": [
+          {
+            "p": "Jos jaat vauvan, kutsutut henkilöt näkevät ja voivat muokata kaikkea häneen liittyvää. Jakaminen tapahtuu iCloudin kautta; voit lopettaa sen milloin tahansa, ja jokainen kutsuttu voi poistua jaosta."
+          }
+        ]
+      },
+      {
+        "h": "Kuvat ja ilmoitukset",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Kuvat</strong>: vain vauvallesi valitsemasi kuva tuodaan sovellukseen.",
+              "<strong>Ilmoitukset</strong>: tapaamisten ja ruokintojen muistutukset ajastetaan laitteellasi; ulkopuolista ilmoituspalvelua ei käytetä."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Widgetit, ajastimet ja viennit",
+        "blocks": [
+          {
+            "p": "Widgetit lukevat laitteellesi tallennetun yhteenvedon, ja lukitusnäytöllä näkyvät ajastimet pysyvät laitteellasi. PDF-vienti poistuu sovelluksesta vain, jos jaat sen iOS:n työkaluilla; silloin siihen sovelletaan valitsemasi palvelun ehtoja."
+          }
+        ]
+      },
+      {
+        "h": "Ostokset, mainokset ja seuranta",
+        "blocks": [
+          {
+            "p": "Lilune Pron myy Apple; kehittäjä ei saa mitään maksutietoja. Sovelluksessa ei ole mainoksia, seuraimia eikä analytiikka- tai käyttötilastotyökaluja."
+          }
+        ]
+      },
+      {
+        "h": "Lapset",
+        "blocks": [
+          {
+            "p": "Sovellus on tarkoitettu vanhemmille. Se ei kerää mitään tietoja, ja lastasi koskevat tiedot pysyvät iCloudissasi."
+          }
+        ]
+      },
+      {
+        "h": "Muutokset",
+        "blocks": [
+          {
+            "p": "Jos tämä käytäntö muuttuu, uusi versio julkaistaan tällä sivulla päivityspäivämäärineen."
+          }
+        ]
+      },
+      {
+        "h": "Yhteystiedot",
+        "blocks": [
+          {
+            "p": "Jos sinulla on kysyttävää tästä käytännöstä: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

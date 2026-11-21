@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Bebeğinizin ilk aylarının günlüğü",
+    "contact": "Uygulamayla ilgili bir sorunuz, fikriniz ya da sorununuz mu var? Bana yazın:<br>{email}",
+    "faq": [
+      {
+        "q": "Takibi diğer ebeveynle nasıl paylaşırım?",
+        "a": "“Bebek” sekmesini açın, ardından “Diğer ebeveynle paylaş” seçeneğine dokunun ve daveti Mesajlar, Mail veya WhatsApp ile gönderin. Diğer ebeveyn bağlantıya iPhone’unda dokunur: kendi iCloud hesabıyla aynı takibi görür ve onu tamamlar. İki cihazda da iCloud’a giriş yapılmış olması gerekir. Paylaşım Lilune Pro’nun bir parçasıdır, ancak diğer ebeveynin hiçbir şey satın alması gerekmez."
+      },
+      {
+        "q": "Lilune Pro neleri içerir?",
+        "a": "Ücretsiz sürüm, bir bebek için her şeyi süre sınırı olmadan kaydetmenizi sağlar: biberon, emzirme, uyku, bez, süt sağma, sağlık, büyüme, randevular, widget’lar ve gece lambası modu. Tek seferlik, aboneliksiz bir satın alma olan Lilune Pro; diğer ebeveynle paylaşım, bir sonraki şekerleme tahmini, istatistikler, PDF dışa aktarma, birden fazla bebek ve istediğiniz simgeyi seçme özelliklerini ekler. Aile Paylaşımı sayesinde ailenizle paylaşılır."
+      },
+      {
+        "q": "Satın alımımı yeni bir cihazda nasıl geri alırım?",
+        "a": "Lilune Pro penceresini açın ve satın alırken kullandığınız App Store hesabıyla “Satın Alımları Geri Yükle” seçeneğine dokunun."
+      },
+      {
+        "q": "Şekerleme tahmini nasıl çalışır?",
+        "a": "Lilune, bebeğinizin yaşına uygun olağan uyanık kalma süresinden yola çıkar, ardından bunu bebeğinizin son günlerdeki gerçek uyanıklık sürelerine göre ayarlar. Sonuç, bir aralıkla birlikte yaklaşık bir saattir; asla bir kural değildir: her bebeğin kendi ritmi vardır."
+      },
+      {
+        "q": "Lilune çocuk doktorunun yerini tutar mı?",
+        "a": "Hayır. Lilune bir defterdir: öğünleri, uykuyu, bezleri ve büyümeyi kaydeder ve size randevuları hatırlatır. Hiçbir tıbbi tavsiye vermez. Bebeğinizin sağlığıyla ilgili bir şüpheniz olursa bir sağlık uzmanına danışın."
+      },
+      {
+        "q": "Uygulamayı kapattığımda kronometreler çalışmaya devam eder mi?",
+        "a": "Evet. Başlattığınız bir emzirme ya da uyku saymaya devam eder, kilit ekranında ve Dynamic Island’da görünür; takibi paylaşıyorsanız diğer ebeveynde de görünür."
+      },
+      {
+        "q": "Verilerimi kaybetmeden iPhone’umu nasıl değiştiririm?",
+        "a": "Verileriniz iCloud’unuzdadır: yeni iPhone’da aynı iCloud hesabıyla oturum açın ve Lilune’u yükleyin, takip kendiliğinden geri gelir."
+      },
+      {
+        "q": "Verilerimi nasıl silerim?",
+        "a": "Bir bebeği profilinden silin (“Profili Düzenle”): bebekle ilgili her şey silinir. Uygulamayı silmek yetmez, çünkü veriler iCloud’unuzda kalır: her şeyi silmek için Ayarlar › adınız › iCloud › Depolamayı Yönet seçeneğini açın, ardından Lilune’u seçin."
+      }
+    ],
+    "privacy_summary": "Lilune hiçbir kişisel veri toplamaz; reklam ya da izleyici içermez. Verileriniz cihazlarınızda ve iCloud’unuzda kalır; geliştiricinin bunlara erişimi yoktur."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Özetle",
+        "blocks": [
+          {
+            "p": "Lilune hiçbir kişisel veri toplamaz. Uygulamanın sunucusu yoktur ve hesap istemez: verileriniz cihazlarınızda ve kendi iCloud’unuzda saklanır; geliştiricinin bunlara erişimi yoktur."
+          }
+        ]
+      },
+      {
+        "h": "Verileriniz",
+        "blocks": [
+          {
+            "p": "Uygulama, bebeğiniz için girdiğiniz bilgileri kaydeder: adı, doğum tarihi, belirtirseniz cinsiyeti, fotoğraf, öğünler, uyku, bezler, süt sağma, sağlık (ateş, ilaçlar), büyüme ölçümleri, randevular ve notlar."
+          },
+          {
+            "p": "Bu veriler cihazlarınız arasında iCloud aracılığıyla (hesabınızın Apple tarafından yönetilen özel veritabanı) senkronize edilir. Geliştiricinin hiçbir sunucusundan geçmez."
+          }
+        ]
+      },
+      {
+        "h": "Diğer ebeveynle paylaşım",
+        "blocks": [
+          {
+            "p": "Bir bebeği paylaşırsanız davet ettiğiniz kişiler bebekle ilgili her şeyi görür ve değiştirebilir. Paylaşım iCloud üzerinden yapılır; istediğiniz zaman durdurabilirsiniz ve davet edilen her kişi de paylaşımdan ayrılabilir."
+          }
+        ]
+      },
+      {
+        "h": "Fotoğraflar ve bildirimler",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fotoğraflar</strong>: yalnızca bebeğiniz için seçtiğiniz fotoğraf içe aktarılır.",
+              "<strong>Bildirimler</strong>: randevu ve öğün hatırlatmaları cihazınızda programlanır; hiçbir harici bildirim hizmeti kullanılmaz."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Widget’lar, kronometreler ve dışa aktarmalar",
+        "blocks": [
+          {
+            "p": "Widget’lar cihazınızda saklanan bir özeti okur ve kilit ekranında görünen kronometreler cihazınızda kalır. PDF dışa aktarma, ancak iOS araçlarıyla paylaşırsanız uygulamadan çıkar; bu durumda seçtiğiniz hizmetin koşullarına tabi olur."
+          }
+        ]
+      },
+      {
+        "h": "Satın alımlar, reklam ve izleme",
+        "blocks": [
+          {
+            "p": "Lilune Pro Apple tarafından satılır; geliştirici hiçbir ödeme verisi almaz. Uygulama reklam, izleyici ya da analiz veya kullanım istatistiği aracı içermez."
+          }
+        ]
+      },
+      {
+        "h": "Çocuklar",
+        "blocks": [
+          {
+            "p": "Uygulama ebeveynlere yöneliktir. Hiçbir veri toplamaz ve çocuğunuza ait bilgiler iCloud’unuzda kalır."
+          }
+        ]
+      },
+      {
+        "h": "Değişiklikler",
+        "blocks": [
+          {
+            "p": "Bu politika değişirse yeni sürüm, güncelleme tarihiyle birlikte bu sayfada yayımlanır."
+          }
+        ]
+      },
+      {
+        "h": "İletişim",
+        "blocks": [
+          {
+            "p": "Bu politikayla ilgili sorularınız için: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

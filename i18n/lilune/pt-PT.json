@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "O diário dos primeiros meses do bebé",
+    "contact": "Tem uma questão, uma ideia ou um problema com a aplicação? Escreva-me:<br>{email}",
+    "faq": [
+      {
+        "q": "Como partilho o registo com o outro progenitor?",
+        "a": "Abra o separador “Bebé”, depois “Partilhar com o outro progenitor” e envie o convite por Mensagens, Mail ou WhatsApp. O outro progenitor toca na ligação no seu iPhone: vê e completa o mesmo registo com a sua própria conta iCloud. É necessário ter sessão iniciada no iCloud nos dois dispositivos. A partilha faz parte do Lilune Pro, mas o outro progenitor não precisa de comprar nada."
+      },
+      {
+        "q": "O que inclui o Lilune Pro?",
+        "a": "A versão gratuita permite registar tudo, sem limite de tempo, para um bebé: biberões, mamadas, sono, fraldas, extração de leite, saúde, crescimento, consultas, widgets e modo luz de presença. O Lilune Pro, uma compra única sem subscrição, acrescenta a partilha com o outro progenitor, a previsão da próxima sesta, estatísticas, exportação para PDF, vários bebés e a escolha de ícones. É partilhado com a sua família através da Partilha em Família."
+      },
+      {
+        "q": "Como recupero a minha compra num novo dispositivo?",
+        "a": "Abra a janela do Lilune Pro e toque em “Restaurar Compras”, com a mesma conta da App Store utilizada na compra."
+      },
+      {
+        "q": "Como funciona a previsão da sesta?",
+        "a": "A Lilune parte do tempo de vigília habitual para a idade do seu bebé e depois ajusta-o com os períodos reais de vigília dos últimos dias. O resultado é uma hora indicativa com um intervalo, nunca uma regra: cada bebé tem o seu ritmo."
+      },
+      {
+        "q": "A Lilune substitui o pediatra?",
+        "a": "Não. A Lilune é um diário: regista as refeições, o sono, as fraldas e o crescimento, e lembra-o das consultas. Não dá qualquer aconselhamento médico. Em caso de dúvida sobre a saúde do seu bebé, consulte um profissional de saúde."
+      },
+      {
+        "q": "Os cronómetros continuam quando fecho a aplicação?",
+        "a": "Sim. Uma mamada ou um sono iniciado continua a contar, aparece no ecrã de bloqueio e na Dynamic Island, e também é visível para o outro progenitor se partilhar o registo."
+      },
+      {
+        "q": "Como mudar de iPhone sem perder os meus dados?",
+        "a": "Os seus dados estão no seu iCloud: inicie sessão com a mesma conta iCloud no novo iPhone e instale a Lilune, e o registo volta sozinho."
+      },
+      {
+        "q": "Como elimino os meus dados?",
+        "a": "Elimine um bebé a partir da respetiva ficha (“Editar perfil”): tudo o que lhe diz respeito é apagado. Eliminar a aplicação não chega, porque os dados permanecem no seu iCloud. Para apagar tudo, abra Definições › o seu nome › iCloud › Gerir Armazenamento e depois Lilune."
+      }
+    ],
+    "privacy_summary": "A Lilune não recolhe quaisquer dados pessoais e não contém publicidade nem rastreadores. Os seus dados permanecem nos seus dispositivos e no seu iCloud; o programador não tem acesso a eles."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Em resumo",
+        "blocks": [
+          {
+            "p": "A Lilune não recolhe quaisquer dados pessoais. A aplicação não tem servidor nem pede conta: os seus dados são guardados nos seus dispositivos e no seu próprio iCloud, e o programador não tem acesso a eles."
+          }
+        ]
+      },
+      {
+        "h": "Os seus dados",
+        "blocks": [
+          {
+            "p": "A aplicação guarda aquilo que introduz sobre o seu bebé: nome, data de nascimento, sexo (se o indicar), foto, refeições, sono, fraldas, extração de leite, saúde (temperaturas, medicamentos), medidas de crescimento, consultas e notas."
+          },
+          {
+            "p": "Estes dados são sincronizados entre os seus dispositivos através do iCloud (base de dados privada da sua conta, gerida pela Apple). Não passam por qualquer servidor do programador."
+          }
+        ]
+      },
+      {
+        "h": "Partilha com o outro progenitor",
+        "blocks": [
+          {
+            "p": "Se partilhar um bebé, as pessoas convidadas veem e modificam tudo o que lhe diz respeito. A partilha é feita através do iCloud; pode interrompê-la a qualquer momento, e cada convidado pode sair dela."
+          }
+        ]
+      },
+      {
+        "h": "Fotos e notificações",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fotos</strong>: apenas a foto que escolher para o seu bebé é importada.",
+              "<strong>Notificações</strong>: os lembretes de consultas e refeições são programados no seu dispositivo; não é utilizado nenhum serviço externo de notificações."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Widgets, cronómetros e exportações",
+        "blocks": [
+          {
+            "p": "Os widgets leem um resumo guardado no seu dispositivo, e os cronómetros apresentados no ecrã de bloqueio permanecem no seu dispositivo. A exportação PDF só sai da aplicação se a partilhar, através das ferramentas do iOS; fica então sujeita aos termos do serviço escolhido."
+          }
+        ]
+      },
+      {
+        "h": "Compras, publicidade e rastreio",
+        "blocks": [
+          {
+            "p": "O Lilune Pro é vendido pela Apple; o programador não recebe qualquer dado de pagamento. A aplicação não contém publicidade, rastreadores nem ferramentas de análise ou de estatísticas de utilização."
+          }
+        ]
+      },
+      {
+        "h": "Crianças",
+        "blocks": [
+          {
+            "p": "A aplicação destina-se aos pais. Não recolhe quaisquer dados e as informações sobre o seu filho permanecem no seu iCloud."
+          }
+        ]
+      },
+      {
+        "h": "Alterações",
+        "blocks": [
+          {
+            "p": "Se esta política for alterada, a nova versão será publicada nesta página com a data de atualização."
+          }
+        ]
+      },
+      {
+        "h": "Contacto",
+        "blocks": [
+          {
+            "p": "Para qualquer questão sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

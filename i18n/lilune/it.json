@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Il taccuino dei primi mesi del tuo bambino",
+    "contact": "Hai una domanda, un'idea o un problema con l'app? Scrivimi:<br>{email}",
+    "faq": [
+      {
+        "q": "Come condivido il registro con l'altro genitore?",
+        "a": "Apri la scheda \"Bambino\", poi \"Condividi con l'altro genitore\" e invia l'invito tramite Messaggi, Mail o WhatsApp. L'altro genitore tocca il link sul suo iPhone: vede e completa lo stesso registro con il proprio account iCloud. È necessario aver effettuato l'accesso a iCloud su entrambi i dispositivi. La condivisione fa parte di Lilune Pro, ma l'altro genitore non deve acquistare nulla."
+      },
+      {
+        "q": "Cosa include Lilune Pro?",
+        "a": "La versione gratuita ti permette di registrare tutto senza limiti di tempo per un bambino: biberon, allattamento, sonno, pannolini, tiralatte, salute, crescita, appuntamenti, widget e modalità luce notturna. Lilune Pro, un acquisto una tantum senza abbonamento, aggiunge la condivisione con l'altro genitore, la previsione del prossimo pisolino, le statistiche, l'esportazione in PDF, più bambini e la scelta delle icone. È condiviso con la tua famiglia tramite Condivisione Familiare."
+      },
+      {
+        "q": "Come ritrovo il mio acquisto su un nuovo dispositivo?",
+        "a": "Apri la finestra Lilune Pro e tocca \"Ripristina gli acquisti\", usando lo stesso account App Store utilizzato per l'acquisto."
+      },
+      {
+        "q": "Come funziona la previsione del pisolino?",
+        "a": "Lilune parte dalla durata abituale di veglia all'età del tuo bambino, quindi la aggiusta con i veri periodi di veglia degli ultimi giorni. Il risultato è un orario indicativo con un intervallo, mai una regola: ogni bambino ha il suo ritmo."
+      },
+      {
+        "q": "Lilune sostituisce il pediatra?",
+        "a": "No. Lilune è un taccuino: tiene traccia dei pasti, del sonno, dei pannolini e della crescita, e ti ricorda gli appuntamenti. Non fornisce alcun consiglio medico. In caso di dubbi sulla salute del tuo bambino, chiedi il parere di un professionista della salute."
+      },
+      {
+        "q": "I cronometri continuano quando chiudo l'applicazione?",
+        "a": "Sì. Un allattamento o un sonno avviato continua a essere conteggiato, appare sulla schermata di blocco e nella Dynamic Island, e compare anche per l'altro genitore se condividi il registro."
+      },
+      {
+        "q": "Come passare a un nuovo iPhone senza perdere i miei dati?",
+        "a": "I tuoi dati sono nel tuo iCloud: accedi con lo stesso account iCloud sul nuovo iPhone e installa Lilune, il registro torna da solo."
+      },
+      {
+        "q": "Come elimino i miei dati?",
+        "a": "Elimina un bambino dalla sua scheda (\"Modifica profilo\"): tutto ciò che lo riguarda viene cancellato. Eliminare l'applicazione non basta, perché i dati rimangono nel tuo iCloud: per cancellarli tutti, apri Impostazioni › il tuo nome › iCloud › Gestisci spazio, quindi Lilune."
+      }
+    ],
+    "privacy_summary": "Lilune non raccoglie alcuna informazione personale e non contiene pubblicità né tracciatori. I tuoi dati rimangono sui tuoi dispositivi e nel tuo iCloud; lo sviluppatore non ne ha accesso."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In breve",
+        "blocks": [
+          {
+            "p": "Lilune non raccoglie alcuna informazione personale. L'applicazione non ha un server e non richiede alcun account: i tuoi dati sono memorizzati sui tuoi dispositivi e nel tuo iCloud personale, e lo sviluppatore non ne ha accesso."
+          }
+        ]
+      },
+      {
+        "h": "I tuoi dati",
+        "blocks": [
+          {
+            "p": "L'applicazione registra ciò che inserisci per il tuo bambino: nome, data di nascita, sesso se lo indichi, foto, pasti, sonno, pannolini, tiralatte, salute (temperature, farmaci), misurazioni della crescita, appuntamenti e note."
+          },
+          {
+            "p": "Questi dati vengono sincronizzati tra i tuoi dispositivi tramite iCloud (il database privato del tuo account, gestito da Apple). Non passano mai attraverso un server dello sviluppatore."
+          }
+        ]
+      },
+      {
+        "h": "Condivisione con l'altro genitore",
+        "blocks": [
+          {
+            "p": "Se condividi un bambino, le persone invitate vedono e modificano tutto ciò che lo riguarda. La condivisione avviene tramite iCloud; puoi interromperla in qualsiasi momento, e ogni invitato può uscire dalla condivisione."
+          }
+        ]
+      },
+      {
+        "h": "Foto e notifiche",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Foto</strong>: viene importata soltanto la foto che scegli per il tuo bambino.",
+              "<strong>Notifiche</strong>: gli avvisi per appuntamenti e pasti sono programmati sul tuo dispositivo; non viene utilizzato alcun servizio di notifica esterno."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Widget, cronometri ed esportazioni",
+        "blocks": [
+          {
+            "p": "I widget leggono un riassunto memorizzato sul tuo dispositivo, e i cronometri visualizzati sullo schermo bloccato rimangono sul tuo dispositivo. L'esportazione PDF lascia l'applicazione solo se la condividi, tramite gli strumenti di iOS; in tal caso è soggetta ai termini del servizio scelto."
+          }
+        ]
+      },
+      {
+        "h": "Acquisti, pubblicità e tracciamento",
+        "blocks": [
+          {
+            "p": "Lilune Pro è venduto da Apple; lo sviluppatore non riceve alcuna informazione sui pagamenti. L'app non contiene pubblicità, tracciatori né strumenti di analisi o statistiche sull'uso."
+          }
+        ]
+      },
+      {
+        "h": "Bambini",
+        "blocks": [
+          {
+            "p": "L'app è pensata per i genitori. Non raccoglie alcuna informazione, e i dati sul tuo bambino rimangono nel tuo iCloud."
+          }
+        ]
+      },
+      {
+        "h": "Modifiche",
+        "blocks": [
+          {
+            "p": "Se questa politica viene modificata, la nuova versione sarà pubblicata su questa pagina con la relativa data di aggiornamento."
+          }
+        ]
+      },
+      {
+        "h": "Contatto",
+        "blocks": [
+          {
+            "p": "Per qualsiasi domanda riguardo a questa politica: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "support": {
+    "subtitle": "Cuốn nhật ký những tháng đầu đời của bé",
+    "contact": "Bạn có câu hỏi, ý tưởng hay gặp vấn đề với ứng dụng? Hãy viết thư cho tôi:<br>{email}",
+    "faq": [
+      {
+        "q": "Làm thế nào để chia sẻ nhật ký với người còn lại trong cặp bố mẹ?",
+        "a": "Mở thẻ “Bé”, sau đó chọn “Chia sẻ với bố/mẹ còn lại” và gửi lời mời qua Tin nhắn, Mail hoặc WhatsApp. Người kia chạm vào liên kết trên iPhone của mình: họ xem và bổ sung cùng một nhật ký bằng tài khoản iCloud riêng. Cả hai thiết bị đều phải đăng nhập iCloud. Tính năng chia sẻ nằm trong Lilune Pro, nhưng người còn lại không cần mua gì."
+      },
+      {
+        "q": "Lilune Pro gồm những gì?",
+        "a": "Phiên bản miễn phí cho phép ghi lại mọi thứ không giới hạn thời gian cho một bé: bú bình, bú mẹ, giấc ngủ, tã, hút sữa, sức khỏe, tăng trưởng, lịch hẹn, tiện ích và chế độ đèn ngủ. Lilune Pro, mua một lần không cần đăng ký, bổ sung tính năng chia sẻ với bố/mẹ còn lại, dự đoán giấc ngủ ngắn tiếp theo, thống kê, xuất PDF, nhiều bé và tùy chọn biểu tượng. Gói này được chia sẻ cho gia đình bạn nhờ Chia sẻ trong gia đình."
+      },
+      {
+        "q": "Làm thế nào để lấy lại giao dịch mua trên thiết bị mới?",
+        "a": "Mở cửa sổ Lilune Pro và chạm “Khôi phục giao dịch mua”, dùng cùng tài khoản App Store đã dùng khi mua."
+      },
+      {
+        "q": "Dự đoán giấc ngủ ngắn hoạt động như thế nào?",
+        "a": "Lilune bắt đầu từ thời gian thức thông thường theo độ tuổi của bé, rồi điều chỉnh theo các khoảng thức thực tế của bé trong những ngày gần đây. Kết quả là một giờ tham khảo kèm khoảng thời gian, không bao giờ là quy tắc cứng nhắc: mỗi bé có nhịp riêng."
+      },
+      {
+        "q": "Lilune có thay thế bác sĩ nhi khoa không?",
+        "a": "Không. Lilune là một cuốn sổ: ứng dụng lưu lại các cữ ăn, giấc ngủ, tã và tăng trưởng, đồng thời nhắc bạn các lịch hẹn. Ứng dụng không đưa ra lời khuyên y tế nào. Nếu có băn khoăn về sức khỏe của bé, hãy hỏi ý kiến chuyên gia y tế."
+      },
+      {
+        "q": "Bộ đếm giờ có tiếp tục chạy khi tôi đóng ứng dụng không?",
+        "a": "Có. Một cữ bú mẹ hoặc giấc ngủ đã bắt đầu vẫn tiếp tục được tính giờ, hiển thị trên màn hình khóa và trong Dynamic Island, đồng thời cũng hiện ở thiết bị của người còn lại nếu bạn chia sẻ nhật ký."
+      },
+      {
+        "q": "Làm thế nào để đổi iPhone mà không mất dữ liệu?",
+        "a": "Dữ liệu của bạn nằm trong iCloud: hãy đăng nhập cùng tài khoản iCloud trên iPhone mới và cài đặt Lilune, nhật ký sẽ tự động quay lại."
+      },
+      {
+        "q": "Làm thế nào để xóa dữ liệu của tôi?",
+        "a": "Xóa một bé từ hồ sơ của bé (“Sửa hồ sơ”): mọi thứ liên quan đến bé sẽ bị xóa. Chỉ xóa ứng dụng là chưa đủ vì dữ liệu vẫn nằm trong iCloud của bạn: để xóa tất cả, hãy mở Cài đặt › tên của bạn › iCloud › Quản lý dung lượng, rồi chọn Lilune."
+      }
+    ],
+    "privacy_summary": "Lilune không thu thập bất kỳ dữ liệu cá nhân nào và không có quảng cáo hay trình theo dõi. Dữ liệu của bạn nằm trên thiết bị của bạn và trong iCloud của bạn; nhà phát triển không thể truy cập."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Tóm tắt",
+        "blocks": [
+          {
+            "p": "Lilune không thu thập bất kỳ dữ liệu cá nhân nào. Ứng dụng không có máy chủ và không yêu cầu tài khoản: dữ liệu của bạn được lưu trên thiết bị của bạn và trong iCloud của chính bạn, nhà phát triển không thể truy cập."
+          }
+        ]
+      },
+      {
+        "h": "Dữ liệu của bạn",
+        "blocks": [
+          {
+            "p": "Ứng dụng lưu những gì bạn nhập về bé: tên, ngày sinh, giới tính nếu bạn nhập, ảnh, cữ ăn, giấc ngủ, tã, hút sữa, sức khỏe (nhiệt độ, thuốc), số đo tăng trưởng, lịch hẹn và ghi chú."
+          },
+          {
+            "p": "Các dữ liệu này được đồng bộ giữa các thiết bị của bạn qua iCloud (cơ sở dữ liệu riêng tư của tài khoản bạn, do Apple quản lý). Chúng không đi qua bất kỳ máy chủ nào của nhà phát triển."
+          }
+        ]
+      },
+      {
+        "h": "Chia sẻ với bố/mẹ còn lại",
+        "blocks": [
+          {
+            "p": "Nếu bạn chia sẻ một bé, những người được mời có thể xem và chỉnh sửa mọi thứ liên quan đến bé. Việc chia sẻ thực hiện qua iCloud; bạn có thể dừng bất cứ lúc nào và mỗi người được mời cũng có thể tự rời khỏi."
+          }
+        ]
+      },
+      {
+        "h": "Ảnh và thông báo",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Ảnh</strong>: chỉ ảnh bạn chọn cho bé mới được nhập vào.",
+              "<strong>Thông báo</strong>: lời nhắc lịch hẹn và cữ ăn được lên lịch ngay trên thiết bị của bạn; không dùng dịch vụ thông báo bên ngoài nào."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Tiện ích, bộ đếm giờ và xuất dữ liệu",
+        "blocks": [
+          {
+            "p": "Các tiện ích đọc bản tóm tắt được lưu trên thiết bị của bạn, và các bộ đếm giờ hiển thị trên màn hình khóa vẫn nằm trên thiết bị của bạn. Tệp PDF xuất ra chỉ rời khỏi ứng dụng nếu bạn chia sẻ bằng các công cụ của iOS; khi đó nó chịu điều khoản của dịch vụ bạn chọn."
+          }
+        ]
+      },
+      {
+        "h": "Giao dịch mua, quảng cáo và theo dõi",
+        "blocks": [
+          {
+            "p": "Lilune Pro do Apple bán; nhà phát triển không nhận bất kỳ dữ liệu thanh toán nào. Ứng dụng không có quảng cáo, trình theo dõi hay công cụ phân tích hoặc thống kê sử dụng nào."
+          }
+        ]
+      },
+      {
+        "h": "Trẻ em",
+        "blocks": [
+          {
+            "p": "Ứng dụng dành cho bố mẹ. Ứng dụng không thu thập dữ liệu nào, và thông tin về con bạn nằm trong iCloud của bạn."
+          }
+        ]
+      },
+      {
+        "h": "Thay đổi",
+        "blocks": [
+          {
+            "p": "Nếu chính sách này thay đổi, phiên bản mới sẽ được đăng trên trang này kèm ngày cập nhật."
+          }
+        ]
+      },
+      {
+        "h": "Liên hệ",
+        "blocks": [
+          {
+            "p": "Mọi câu hỏi về chính sách này: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}
