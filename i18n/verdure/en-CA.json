@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Identify your plants, care for them, grow your vegetable garden",
+    "contact": "A question, an idea or a problem with the app? Write to me:<br>{email}",
+    "faq": [
+      {
+        "q": "How does Verdure recognize my plants without a connection?",
+        "a": "A recognition model is built into the app. When you take or choose a photo, it is analyzed right on your iPhone or iPad: nothing is sent over the internet, and it all works even in airplane mode. When Verdure is unsure, it offers several choices instead of confidently guessing wrong."
+      },
+      {
+        "q": "Verdure doesn't recognize my plant, what can I do?",
+        "a": "Take the photo in bright light, with a leaf or flower clearly visible against a simple background, and try again. Recognition covers about 240 houseplants and balcony plants: if yours isn't one of them, search for it by name in the Explore tab, which holds 282 care sheets."
+      },
+      {
+        "q": "My watering reminders don't arrive, why?",
+        "a": "First check that notifications are allowed: Settings › Notifications › Verdure, then turn on \"Allow Notifications\". Also make sure a Focus mode or Do Not Disturb isn't active at the reminder time. Verdure sends a single reminder a day, at the time you choose in its Settings, with all of the day's care. Reminders are scheduled on your device, with no server."
+      },
+      {
+        "q": "What does Verdure+ include and how much does it cost?",
+        "a": "The free version gives you 3 recognitions a month, 2 tracked plants with their watering reminders, all the care sheets, and in the vegetable garden the calendar, the vegetable sheets and one bed. Verdure+ costs €4.99 a month, with a 7-day free trial: unlimited recognitions and plants, the plant doctor, fertilizing, repotting and misting reminders, the photo journal, and in the garden unlimited beds, crop rotation and sowing and harvest reminders."
+      },
+      {
+        "q": "How do I cancel or restore my subscription?",
+        "a": "The subscription is sold and managed by Apple. To cancel, open Settings › your name › Subscriptions › Verdure, at least 24 hours before the end of the current period. On a new device, tap \"Restore Purchases\" in Verdure's Settings to get back a subscription you already paid for."
+      },
+      {
+        "q": "Is the toxicity information reliable?",
+        "a": "It is indicative only, based on public sources (notably the ASPCA for cats and dogs). It does not replace medical or veterinary advice. If your pet or a child has eaten a plant, call your vet or a poison control center right away."
+      },
+      {
+        "q": "Where do the photos on the care sheets come from?",
+        "a": "The reference photos come from iNaturalist and Wikimedia Commons under free licenses and are bundled in the app. The author and license of each photo are listed in Settings › Photo credits."
+      },
+      {
+        "q": "Where are my plants and photos stored?",
+        "a": "Only on your device, in Verdure's private storage. There is no account and no server. Removing a plant erases its data; deleting the app erases everything. They may be included in your device's iCloud or iTunes backups, which you manage in Apple's settings."
+      }
+    ],
+    "privacy_summary": "Verdure collects no data, asks for no account and contains no ads or trackers. Plant recognition happens on your device: your photos are never sent anywhere."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In short",
+        "blocks": [
+          {
+            "p": "Verdure collects no data. Everything you do in the app stays on your iPhone or iPad."
+          },
+          {
+            "ul": [
+              "No account, no ads, no tracking: Verdure includes no analytics or advertising tools and does not identify you in any way."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Plant recognition on your device",
+        "blocks": [
+          {
+            "p": "Photos you take or choose are analyzed by a model installed in the app, without any connection. They are not sent anywhere."
+          }
+        ]
+      },
+      {
+        "h": "Camera and photo library",
+        "blocks": [
+          {
+            "p": "The camera is only used to frame a plant inside the app. The photo library is only read for photos you pick yourself (recognition, photo journal). Nothing is read in the background."
+          }
+        ]
+      },
+      {
+        "h": "Your plants, journal and photos",
+        "blocks": [
+          {
+            "p": "They are stored in the app's private storage on your device. Removing a plant or deleting the app erases them. They may be included in your device's iCloud or iTunes backups, which you manage yourself in Apple's settings."
+          }
+        ]
+      },
+      {
+        "h": "Notifications",
+        "blocks": [
+          {
+            "p": "Watering and care reminders are scheduled on the device; no server is involved."
+          }
+        ]
+      },
+      {
+        "h": "Purchases",
+        "blocks": [
+          {
+            "p": "The Verdure+ subscription is sold and managed by Apple. Verdure sees neither your payment method nor your identity; the app only checks through the App Store whether a subscription is active, to unlock features."
+          }
+        ]
+      },
+      {
+        "h": "Reference photos",
+        "blocks": [
+          {
+            "p": "The photos on care sheets come from iNaturalist and Wikimedia Commons (free licenses) and are bundled in the app; credits are in Settings › Photo credits."
+          }
+        ]
+      },
+      {
+        "h": "Children",
+        "blocks": [
+          {
+            "p": "Verdure collects no data, including from children."
+          }
+        ]
+      },
+      {
+        "h": "Changes",
+        "blocks": [
+          {
+            "p": "If this policy changes, the new version will be published on this page with its update date."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "For any question about this policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

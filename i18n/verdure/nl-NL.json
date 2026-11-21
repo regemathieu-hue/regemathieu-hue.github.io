@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Herken je planten, verzorg ze en kweek je moestuin",
+    "contact": "Een vraag, een idee of een probleem met de app? Stuur me een bericht:<br>{email}",
+    "faq": [
+      {
+        "q": "Hoe herkent Verdure mijn planten zonder verbinding?",
+        "a": "Een herkenningsmodel is ingebouwd in de app. Wanneer je een foto maakt of kiest, wordt die direct op je iPhone of iPad geanalyseerd: er wordt niets naar internet gestuurd en alles werkt zelfs in de vliegtuigmodus. Als Verdure twijfelt, stelt ze meerdere keuzes voor in plaats van zelfverzekerd verkeerd te raden."
+      },
+      {
+        "q": "Verdure herkent mijn plant niet, wat nu?",
+        "a": "Maak de foto bij goed licht, met een duidelijk zichtbaar blad of duidelijke bloem en een eenvoudige achtergrond, en probeer het opnieuw. De herkenning omvat ongeveer 240 kamer- en balkonplanten: als jouw plant er niet bij zit, zoek hem dan op naam in het tabblad Explore, dat 282 verzorgingskaarten bevat."
+      },
+      {
+        "q": "Mijn waterherinneringen komen niet binnen, waarom?",
+        "a": "Controleer eerst of meldingen zijn toegestaan: Instellingen › Berichtgeving › Verdure, en zet ‘Sta berichtgeving toe’ aan. Controleer ook of een Focus of ‘Niet storen’ niet actief is op het moment van de herinnering. Verdure stuurt één herinnering per dag, op het tijdstip dat je kiest in de Settings van de app, met alle verzorgingstaken van die dag. Herinneringen worden op je apparaat gepland, zonder server."
+      },
+      {
+        "q": "Wat bevat Verdure+ en hoeveel kost het?",
+        "a": "De gratis versie biedt 3 herkenningen per maand, 2 gevolgde planten met waterherinneringen, alle verzorgingskaarten en in de moestuin de kalender, de groentekaarten en één bed. Verdure+ kost 4,99 € per maand, met een gratis proefperiode van 7 dagen: onbeperkt herkennen en planten, de plantendokter, herinneringen voor bemesten, verpotten en besproeien, een fotodagboek en in de moestuin onbeperkt veel bedden, vruchtwisseling en herinneringen voor zaaien en oogsten."
+      },
+      {
+        "q": "Hoe zeg ik mijn abonnement op of herstel ik het?",
+        "a": "Het abonnement wordt verkocht en beheerd door Apple. Om op te zeggen open je Instellingen › jouw naam › Abonnementen › Verdure, minstens 24 uur voor het einde van de huidige periode. Op een nieuw apparaat tik je op ‘Restore Purchases’ in de Settings van Verdure om een al betaald abonnement terug te krijgen."
+      },
+      {
+        "q": "Zijn de gegevens over toxiciteit betrouwbaar?",
+        "a": "Ze zijn indicatief en gebaseerd op openbare bronnen (zoals de ASPCA voor katten en honden). Ze vervangen geen medisch of diergeneeskundig advies. Als je huisdier of een kind een plant heeft gegeten, bel dan meteen je dierenarts of een gifcentrum."
+      },
+      {
+        "q": "Waar komen de foto's op de verzorgingskaarten vandaan?",
+        "a": "De referentiefoto's komen van iNaturalist en Wikimedia Commons onder vrije licenties en zijn in de app ingebouwd. De maker en licentie van elke foto staan in Settings › Photo credits."
+      },
+      {
+        "q": "Waar worden mijn planten en foto's opgeslagen?",
+        "a": "Alleen op je apparaat, in de privéruimte van Verdure. Er is geen account en geen server. Als je een plant verwijdert, worden haar gegevens gewist; als je de app verwijdert, wordt alles gewist. Ze kunnen voorkomen in de back-ups van iCloud of iTunes van je apparaat, die je beheert in de instellingen van Apple."
+      }
+    ],
+    "privacy_summary": "Verdure verzamelt geen gegevens, vraagt geen account en bevat geen advertenties of tracking. De plantenherkenning vindt plaats op je apparaat: je foto's worden nergens naartoe gestuurd."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort samengevat",
+        "blocks": [
+          {
+            "p": "Verdure verzamelt geen gegevens. Alles wat je in de app doet blijft op je iPhone of iPad."
+          },
+          {
+            "ul": [
+              "Geen account, geen advertenties, geen tracking: Verdure bevat geen analysetools of reclame en identificeert je op geen enkele manier."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Plantenherkenning op je apparaat",
+        "blocks": [
+          {
+            "p": "De foto's die je maakt of kiest worden geanalyseerd door een model dat is geïnstalleerd in de app, zonder verbinding. Ze worden nergens naartoe gestuurd."
+          }
+        ]
+      },
+      {
+        "h": "Camera en fototheek",
+        "blocks": [
+          {
+            "p": "De camera wordt alleen gebruikt om een plant in beeld te brengen in de app. De fototheek wordt alleen gelezen voor foto's die jij zelf kiest (herkenning, fotodagboek). Er wordt niets op de achtergrond gelezen."
+          }
+        ]
+      },
+      {
+        "h": "Je planten, journaal en foto's",
+        "blocks": [
+          {
+            "p": "Ze worden opgeslagen in de privé-opslag van de app op je apparaat. Als je een plant of de app verwijdert, worden ze gewist. Ze kunnen worden opgenomen in back-ups van iCloud of iTunes van je apparaat, die jij zelf beheert in de instellingen van Apple."
+          }
+        ]
+      },
+      {
+        "h": "Meldingen",
+        "blocks": [
+          {
+            "p": "Herinneringen aan water geven en verzorging worden ingesteld op het apparaat; er is geen server betrokken."
+          }
+        ]
+      },
+      {
+        "h": "Aankopen",
+        "blocks": [
+          {
+            "p": "Het abonnement Verdure+ wordt verkocht en beheerd door Apple. Verdure ziet noch je betaalmethode noch je identiteit; de app controleert alleen via de App Store of een abonnement actief is, om functies te ontgrendelen."
+          }
+        ]
+      },
+      {
+        "h": "Referentiefoto's",
+        "blocks": [
+          {
+            "p": "De foto's op de verzorgingskaarten komen van iNaturalist en Wikimedia Commons (vrije licenties) en zijn in de app ingebouwd; de credits staan in Settings › Photo credits."
+          }
+        ]
+      },
+      {
+        "h": "Kinderen",
+        "blocks": [
+          {
+            "p": "Verdure verzamelt geen gegevens, ook niet van kinderen."
+          }
+        ]
+      },
+      {
+        "h": "Wijzigingen",
+        "blocks": [
+          {
+            "p": "Als dit beleid verandert, wordt de nieuwe versie op deze pagina gepubliceerd met de datum van bijwerking."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Voor vragen over dit beleid: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

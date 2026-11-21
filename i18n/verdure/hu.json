@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Ismerd fel a növényeidet, gondozd őket, és műveld a konyhakertedet",
+    "contact": "Kérdés, ötlet vagy probléma az alkalmazással kapcsolatban? Írj nekem:<br>{email}",
+    "faq": [
+      {
+        "q": "Hogyan ismeri fel a Verdure a növényeimet internetkapcsolat nélkül?",
+        "a": "A felismerő modell be van építve az alkalmazásba. Amikor fényképet készítesz vagy választasz, az közvetlenül az iPhone-odon vagy iPadeden kerül elemzésre: semmi nem kerül az internetre, és minden repülő üzemmódban is működik. Ha a Verdure bizonytalan, több lehetőséget kínál fel ahelyett, hogy tévesen állítana valamit."
+      },
+      {
+        "q": "A Verdure nem ismeri fel a növényemet, mit tegyek?",
+        "a": "Készítsd a fényképet jó fényben, jól látható levéllel vagy virággal és egyszerű háttérrel, és próbáld újra. A felismerés körülbelül 240 szobanövényt és erkélynövényt fed le: ha a tiéd nincs köztük, keresd név szerint az Explore fülön, ahol 282 gondozási lap található."
+      },
+      {
+        "q": "A locsolási emlékeztetéseim nem érkeznek meg, miért?",
+        "a": "Először ellenőrizd, hogy az értesítések engedélyezve vannak-e: Beállítások › Értesítések › Verdure, majd kapcsold be az „Értesítések engedélyezése” opciót. Arról is győződj meg, hogy az emlékeztető idején nem aktív a Fókusz vagy a Ne zavarjanak mód. A Verdure naponta egy emlékeztetőt küld abban az időpontban, amelyet az alkalmazás Settings részében választasz, és abban szerepel az aznapi összes gondozási teendő. Az emlékeztetők az eszközödön vannak ütemezve, szerver nélkül."
+      },
+      {
+        "q": "Mit tartalmaz a Verdure+, és mennyibe kerül?",
+        "a": "Az ingyenes verzió havi 3 felismerést, 2 követett növényt öntözési emlékeztetőkkel, az összes gondozási lapot, a konyhakertben pedig a naptárat, a zöldséglapokat és egy ágyást tartalmaz. A Verdure+ havi 4,99 €, 7 napos ingyenes próbaidővel: korlátlan felismerés és növények, növényorvos, tápoldatozási, átültetési és permetezési emlékeztetők, fotónapló, a konyhakertben pedig korlátlan ágyás, vetésforgó, valamint vetési és betakarítási emlékeztetők."
+      },
+      {
+        "q": "Hogyan mondhatom le vagy állíthatom vissza az előfizetésemet?",
+        "a": "Az előfizetést az Apple árusítja és kezeli. A lemondáshoz nyisd meg a Beállítások › a neved › Előfizetések › Verdure oldalt, legalább 24 órával az aktuális időszak vége előtt. Új eszközön koppints a „Restore Purchases” gombra a Verdure Settings részében, hogy visszaállítsd a már kifizetett előfizetést."
+      },
+      {
+        "q": "Megbízhatók a mérgezőségi információk?",
+        "a": "Csak tájékoztató jellegűek, nyilvános forrásokon alapulnak (például az ASPCA a macskák és kutyák esetében). Nem helyettesítik az orvosi vagy állatorvosi tanácsot. Ha a háziállatod vagy egy gyermek megevett egy növényt, azonnal hívd az állatorvosodat vagy a toxikológiai tájékoztató szolgálatot."
+      },
+      {
+        "q": "Honnan származnak a gondozási útmutatók képei?",
+        "a": "A referenciafotók az iNaturalistról és a Wikimedia Commonsról származnak, szabad licenc alatt, és az alkalmazásba vannak építve. Minden fotó szerzője és licence a Settings › Photo credits alatt található."
+      },
+      {
+        "q": "Hol tárolódnak a növényeim és a fotóim?",
+        "a": "Csak az eszközödön, a Verdure privát tárhelyén. Nincs fiók és nincs szerver. Egy növény törlésekor törlődnek az adatai; az alkalmazás törlésekor minden törlődik. Szerepelhetnek az eszközöd iCloud- vagy iTunes-mentéseiben, amelyeket az Apple beállításaiban kezelhetsz."
+      }
+    ],
+    "privacy_summary": "A Verdure semmilyen adatot nem gyűjt, nem kér fiókot, és nincs benne reklám vagy nyomkövető. A növényfelismerés az eszközödön történik: a fotóid sehova nem kerülnek elküldésre."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Összefoglalva",
+        "blocks": [
+          {
+            "p": "A Verdure semmilyen adatot nem gyűjt. Minden, amit az alkalmazásban csinálsz, az iPhone-odon vagy iPadeden marad."
+          },
+          {
+            "ul": [
+              "Nincs fiók, nincs reklám, nincs követés: a Verdure nem tartalmaz elemzési vagy hirdetési eszközöket, és semmilyen módon nem azonosít téged."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Növényfelismerés az eszközön",
+        "blocks": [
+          {
+            "p": "A fotókat, amelyeket készítesz vagy kiválasztasz, az alkalmazásba telepített modell elemzi, internetkapcsolat nélkül. Sehova nem kerülnek elküldésre."
+          }
+        ]
+      },
+      {
+        "h": "Kamera és fotótár",
+        "blocks": [
+          {
+            "p": "A kamerát csak arra használja az alkalmazás, hogy egy növényre irányíthasd. A fotótárból csak azokat a fotókat olvassa, amelyeket te magad választasz ki (felismerés, fotónapló). Háttérben semmit nem olvas."
+          }
+        ]
+      },
+      {
+        "h": "Növényeid, naplód és képeid",
+        "blocks": [
+          {
+            "p": "Az alkalmazás privát tárhelyén tárolódnak, az eszközödön. Ha eltávolítasz egy növényt vagy törlöd az alkalmazást, törlődnek. Szerepelhetnek az eszközöd iCloud- vagy iTunes-mentéseiben, amelyeket te magad kezelsz az Apple beállításaiban."
+          }
+        ]
+      },
+      {
+        "h": "Értesítések",
+        "blocks": [
+          {
+            "p": "A locsolási és gondozási emlékeztetők az eszközön vannak ütemezve; semmilyen szerver nem vesz részt benne."
+          }
+        ]
+      },
+      {
+        "h": "Vásárlások",
+        "blocks": [
+          {
+            "p": "A Verdure+ előfizetést az Apple árusítja és kezeli. A Verdure nem látja sem a fizetési módodat, sem a személyazonosságodat; az alkalmazás csak az App Store-on keresztül ellenőrzi, hogy aktív-e az előfizetés, hogy feloldja a funkciókat."
+          }
+        ]
+      },
+      {
+        "h": "Referenciafotók",
+        "blocks": [
+          {
+            "p": "A gondozási lapokon szereplő fotók az iNaturalistról és a Wikimedia Commonsról származnak (szabad licencek), és az alkalmazásba vannak építve; a szerzők a Settings › Photo credits alatt vannak feltüntetve."
+          }
+        ]
+      },
+      {
+        "h": "Gyerekek",
+        "blocks": [
+          {
+            "p": "A Verdure semmilyen adatot nem gyűjt, a gyerekektől sem."
+          }
+        ]
+      },
+      {
+        "h": "Módosítások",
+        "blocks": [
+          {
+            "p": "Ha ez az irányelv megváltozik, az új változat ezen az oldalon jelenik meg a frissítés dátumával."
+          }
+        ]
+      },
+      {
+        "h": "Kapcsolat",
+        "blocks": [
+          {
+            "p": "Bármilyen kérdésed van e szabályozással kapcsolatban: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

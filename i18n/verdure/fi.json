@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Tunnista kasvisi, hoida niitä ja viljele kasvimaatasi",
+    "contact": "Kysymys, idea tai ongelma sovelluksen kanssa? Kirjoita minulle:<br>{email}",
+    "faq": [
+      {
+        "q": "Miten Verdure tunnistaa kasvini ilman yhteyttä?",
+        "a": "Tunnistusmalli on sisäänrakennettu sovellukseen. Kun otat tai valitset kuvan, se analysoidaan suoraan iPhonellasi tai iPadillasi: mitään ei lähetetä internetiin, ja kaikki toimii jopa lentokonetilassa. Kun Verdure ei ole varma, se ehdottaa useita vaihtoehtoja sen sijaan, että arvaisi väärin."
+      },
+      {
+        "q": "Verdure ei tunnista kasvini, mitä teen?",
+        "a": "Ota kuva hyvässä valossa niin, että lehti tai kukka näkyy selvästi ja tausta on yksinkertainen, ja yritä uudelleen. Tunnistus kattaa noin 240 huone- ja parvekekasvia: jos kasviasi ei ole mukana, hae sitä nimellä Explore-välilehdeltä, jossa on 282 hoitokorttia."
+      },
+      {
+        "q": "Kastelumuistutukset eivät tule, miksi?",
+        "a": "Tarkista ensin, että ilmoitukset on sallittu: Asetukset › Ilmoitukset › Verdure, ja ota käyttöön ”Salli ilmoitukset”. Tarkista myös, ettei Keskittyminen tai Älä häiritse ole päällä muistutuksen aikaan. Verdure lähettää yhden muistutuksen päivässä sovelluksen Settingsissä valitsemanasi kellonaikana, ja siinä ovat kaikki päivän hoitotyöt. Muistutukset ajastetaan laitteellasi ilman palvelinta."
+      },
+      {
+        "q": "Mitä Verdure+ sisältää ja paljonko se maksaa?",
+        "a": "Ilmainen versio sisältää 3 tunnistusta kuukaudessa, 2 seurattavaa kasvia kastelumuistutuksineen, kaikki hoitokortit sekä kasvimaalla kalenterin, vihanneskortit ja yhden penkin. Verdure+ maksaa 4,99 € kuukaudessa, ja siihen kuuluu 7 päivän ilmainen kokeilu: rajaton määrä tunnistuksia ja kasveja, kasvilääkäri, lannoitus-, ruukutus- ja suihkutusmuistutukset, kuvapäiväkirja sekä kasvimaalla rajaton määrä penkkejä, viljelykierto sekä kylvö- ja sadonkorjuumuistutukset."
+      },
+      {
+        "q": "Miten peruutan tai palautan tilaukseni?",
+        "a": "Tilauksen myy ja hallinnoi Apple. Peruuttaaksesi sen avaa Asetukset › oma nimesi › Tilaukset › Verdure vähintään 24 tuntia ennen nykyisen jakson päättymistä. Uudella laitteella voit palauttaa jo maksetun tilauksen painamalla Verduren Settingsissä ”Restore Purchases”."
+      },
+      {
+        "q": "Onko myrkyllisyysinfo luotettavaa?",
+        "a": "Tiedot ovat suuntaa-antavia ja perustuvat julkisiin lähteisiin (erityisesti ASPCA kissoille ja koirille). Ne eivät korvaa lääkärin tai eläinlääkärin neuvoa. Jos lemmikkisi tai lapsi on syönyt kasvia, ota heti yhteyttä eläinlääkäriin tai myrkytystietokeskukseen."
+      },
+      {
+        "q": "Mistä hoitokorttien kuvat ovat peräisin?",
+        "a": "Viitekuvat ovat peräisin iNaturalistista ja Wikimedia Commonsista vapailla lisensseillä, ja ne on sisällytetty sovellukseen. Jokaisen kuvan tekijä ja lisenssi näkyvät kohdassa Settings › Photo credits."
+      },
+      {
+        "q": "Missä kasvini ja kuvani säilytetään?",
+        "a": "Vain laitteellasi, Verduren yksityisessä tallennustilassa. Tiliä tai palvelinta ei ole. Kun poistat kasvin, sen tiedot poistuvat; kun poistat sovelluksen, kaikki poistuu. Ne voivat olla mukana laitteesi iCloud- tai iTunes-varmuuskopioissa, joita hallitset Applen asetuksissa."
+      }
+    ],
+    "privacy_summary": "Verdure ei kerää mitään tietoja, ei pyydä tiliä eikä sisällä mainoksia tai seurantatyökaluja. Kasvien tunnistus tapahtuu laitteellasi: kuviasi ei lähetetä mihinkään."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Yhteenveto",
+        "blocks": [
+          {
+            "p": "Verdure ei kerää tietoja. Kaikki, mitä teet sovelluksessa, pysyy iPhonellasi tai iPadillasi."
+          },
+          {
+            "ul": [
+              "Ei tiliä, ei mainoksia, ei seurantaa: Verdure ei sisällä analytiikka- eikä mainosvälineitä, eikä tunnista sinua millään tavalla."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Kasvien tunnistus laitteellasi",
+        "blocks": [
+          {
+            "p": "Ottamasi tai valitsemasi kuvat analysoidaan sovellukseen asennetulla mallilla ilman yhteyttä. Niitä ei lähetetä mihinkään."
+          }
+        ]
+      },
+      {
+        "h": "Kamera ja kuvakirjasto",
+        "blocks": [
+          {
+            "p": "Kameraa käytetään vain kasvin kohdistamiseen sovelluksessa. Kuvakirjastoa luetaan vain itse valitsemiesi kuvien osalta (tunnistus, kuvapäiväkirja). Taustalla ei lueta mitään."
+          }
+        ]
+      },
+      {
+        "h": "Kasvisi, päiväkirjasi ja kuvasi",
+        "blocks": [
+          {
+            "p": "Ne tallennetaan sovelluksen yksityiseen tallennustilaan laitteellesi. Kun poistat kasvin tai sovelluksen, ne poistuvat. Ne voivat olla mukana laitteesi iCloud- tai iTunes-varmuuskopioissa, joita hallitset itse Applen asetuksissa."
+          }
+        ]
+      },
+      {
+        "h": "Ilmoitukset",
+        "blocks": [
+          {
+            "p": "Kastelu- ja hoitomuistutukset ajastetaan laitteella; palvelinta ei käytetä."
+          }
+        ]
+      },
+      {
+        "h": "Ostot",
+        "blocks": [
+          {
+            "p": "Verdure+-tilauksen myy ja hallinnoi Apple. Verdure ei näe maksutapaasi eikä henkilöllisyyttäsi; sovellus vain tarkistaa App Storen kautta, onko tilaus aktiivinen, jotta ominaisuudet voidaan avata."
+          }
+        ]
+      },
+      {
+        "h": "Viittauskuvat",
+        "blocks": [
+          {
+            "p": "Hoitokorttien kuvat ovat peräisin iNaturalistista ja Wikimedia Commonsista (vapaat lisenssit), ja ne on sisällytetty sovellukseen; tekijätiedot löytyvät kohdasta Settings › Photo credits."
+          }
+        ]
+      },
+      {
+        "h": "Lapset",
+        "blocks": [
+          {
+            "p": "Verdure ei kerää mitään tietoja, myöskään lapsilta."
+          }
+        ]
+      },
+      {
+        "h": "Muutokset",
+        "blocks": [
+          {
+            "p": "Jos tämä käytäntö muuttuu, uusi versio julkaistaan tällä sivulla päivityspäivämäärineen."
+          }
+        ]
+      },
+      {
+        "h": "Yhteystiedot",
+        "blocks": [
+          {
+            "p": "Kysymyksistä tästä käytännöstä: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

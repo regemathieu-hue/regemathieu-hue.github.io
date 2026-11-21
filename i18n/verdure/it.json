@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Riconosci le tue piante, prenditi cura di loro, coltiva il tuo orto",
+    "contact": "Una domanda, un'idea o un problema con l'app? Scrivimi:<br>{email}",
+    "faq": [
+      {
+        "q": "Come fa Verdure a riconoscere le mie piante senza connessione?",
+        "a": "Un modello di riconoscimento è integrato nell'applicazione. Quando scatti o selezioni una foto, questa viene analizzata direttamente sul tuo iPhone o iPad: nulla viene inviato su internet e tutto funziona anche in modalità aereo. Quando Verdure esita, ti propone più opzioni invece di affermare in modo errato."
+      },
+      {
+        "q": "Verdure non riconosce la mia pianta, cosa posso fare?",
+        "a": "Scatta la foto con buona luce, con una foglia o un fiore ben visibile e uno sfondo semplice, poi riprova. Il riconoscimento copre circa 240 piante da appartamento e da balcone: se la tua pianta non è tra queste, cercala per nome nella scheda Explore, che contiene 282 schede di cura."
+      },
+      {
+        "q": "I miei promemoria di innaffiatura non arrivano, perché?",
+        "a": "Prima verifica che le notifiche siano consentite: Impostazioni › Notifiche › Verdure, quindi attiva «Consenti notifiche». Controlla anche che la modalità Full immersion o Non disturbare non sia attiva all'ora del promemoria. Verdure invia un solo promemoria al giorno, all'ora che scegli nelle Settings dell'app, con tutte le attività di cura del giorno. I promemoria sono programmati sul tuo dispositivo, senza server."
+      },
+      {
+        "q": "Che cosa include Verdure+ e quanto costa?",
+        "a": "La versione gratuita offre 3 riconoscimenti al mese, 2 piante seguite con i promemoria di innaffiatura, tutte le schede di cura, e nell'orto il calendario, le schede degli ortaggi e un'aiuola. Verdure+ costa 4,99 € al mese, con 7 giorni di prova gratuita: riconoscimenti e piante illimitati, il medico delle piante, promemoria per fertilizzazioni, trapianti e nebulizzazioni, il giornale fotografico, e nell'orto aiuole illimitate, la rotazione dei raccolti e i promemoria per semina e raccolta."
+      },
+      {
+        "q": "Come posso annullare o ripristinare il mio abbonamento?",
+        "a": "L'abbonamento è venduto e gestito da Apple. Per annullarlo, apri Impostazioni › il tuo nome › Abbonamenti › Verdure, almeno 24 ore prima della fine del periodo corrente. Su un nuovo dispositivo, tocca \"Ripristina gli acquisti\" nelle Impostazioni di Verdure per riprendere un abbonamento già pagato."
+      },
+      {
+        "q": "Le informazioni sulla tossicità sono affidabili?",
+        "a": "Sono fornite a titolo indicativo, basate su fonti pubbliche (in particolare l'ASPCA per gatti e cani). Non sostituiscono un parere medico o veterinario. Se il tuo animale o un bambino ha mangiato una pianta, chiama immediatamente il tuo veterinario o un centro antiveleno."
+      },
+      {
+        "q": "Da dove provengono le foto delle schede?",
+        "a": "Le foto di riferimento provengono da iNaturalist e Wikimedia Commons, con licenze libere, e sono integrate nell'applicazione. L'autore e la licenza di ogni foto sono indicati in Settings › Photo credits."
+      },
+      {
+        "q": "Dove sono salvate le mie piante e le mie foto?",
+        "a": "Solo sul tuo dispositivo, nello spazio privato di Verdure. Non c'è alcun account né server. Rimuovere una pianta cancella i suoi dati; eliminare l'app cancella tutto. Possono essere incluse nei backup iCloud o iTunes del tuo dispositivo, che gestisci nelle impostazioni di Apple."
+      }
+    ],
+    "privacy_summary": "Verdure non raccoglie alcun dato, non richiede alcun account e non contiene pubblicità né tracciatori. Il riconoscimento delle piante avviene sul tuo dispositivo: le tue foto non vengono inviate da nessuna parte."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In breve",
+        "blocks": [
+          {
+            "p": "Verdure non raccoglie dati. Tutto ciò che fai nell'app rimane sul tuo iPhone o iPad."
+          },
+          {
+            "ul": [
+              "Nessun account, nessuna pubblicità, nessun tracciamento: Verdure non contiene strumenti di analisi né pubblicitari e non ti identifica in alcun modo."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Riconoscimento delle piante sul dispositivo",
+        "blocks": [
+          {
+            "p": "Le foto che scatti o selezioni vengono analizzate da un modello installato nell'app, senza connessione. Non vengono inviate da nessuna parte."
+          }
+        ]
+      },
+      {
+        "h": "Fotocamera e libreria foto",
+        "blocks": [
+          {
+            "p": "La fotocamera viene utilizzata solo per inquadrare una pianta nell'applicazione. La libreria foto viene letta solo per le foto che scegli tu stesso (riconoscimento, diario fotografico). Niente viene letto in background."
+          }
+        ]
+      },
+      {
+        "h": "Le tue piante, il tuo diario e le tue foto",
+        "blocks": [
+          {
+            "p": "Sono memorizzati nello spazio privato dell'applicazione sul tuo dispositivo. Eliminarli (rimuovere una pianta o eliminare l'applicazione) li cancella definitivamente. Possono essere inclusi nei backup iCloud o iTunes del tuo dispositivo, che gestisci tu stesso nelle impostazioni di Apple."
+          }
+        ]
+      },
+      {
+        "h": "Notifiche",
+        "blocks": [
+          {
+            "p": "I promemoria di innaffiatura e cura sono programmati sul dispositivo; non è coinvolto alcun server."
+          }
+        ]
+      },
+      {
+        "h": "Acquisti",
+        "blocks": [
+          {
+            "p": "L'abbonamento Verdure+ viene venduto e gestito da Apple. Verdure non vede né il tuo metodo di pagamento né la tua identità; l'applicazione legge solo, tramite l'App Store, se un abbonamento è attivo per sbloccare le funzioni."
+          }
+        ]
+      },
+      {
+        "h": "Foto di riferimento",
+        "blocks": [
+          {
+            "p": "Le foto delle schede provengono da iNaturalist e Wikimedia Commons (licenze libere) e sono integrate nell'applicazione; i crediti sono in Settings › Photo credits."
+          }
+        ]
+      },
+      {
+        "h": "Bambini",
+        "blocks": [
+          {
+            "p": "Verdure non raccoglie alcun dato, neanche da bambini."
+          }
+        ]
+      },
+      {
+        "h": "Modifiche",
+        "blocks": [
+          {
+            "p": "Se questa politica viene modificata, la nuova versione sarà pubblicata su questa pagina con la relativa data di aggiornamento."
+          }
+        ]
+      },
+      {
+        "h": "Contatto",
+        "blocks": [
+          {
+            "p": "Per qualsiasi domanda riguardo a questa politica: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

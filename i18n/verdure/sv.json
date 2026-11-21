@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Känn igen dina växter, ta hand om dem och odla din grönsaksodling",
+    "contact": "Har du en fråga, ett förslag eller ett problem med appen? Skriv till mig:<br>{email}",
+    "faq": [
+      {
+        "q": "Hur känner Verdure igen mina plantor utan internetanslutning?",
+        "a": "En igenkänningsmodell är inbyggd i appen. När du tar eller väljer ett foto analyseras det direkt på din iPhone eller iPad: inget skickas över internet, och allt fungerar även i flygplansläge. Om Verdure är osäker föreslår den flera alternativ i stället för att gissa fel."
+      },
+      {
+        "q": "Verdure känner inte igen min växt, vad ska jag göra?",
+        "a": "Ta fotot i bra ljus, med ett tydligt synligt blad eller en blomma och en enkel bakgrund, och försök igen. Igenkänningen omfattar cirka 240 inomhus- och balkongväxter: om din växt inte finns med, sök på namnet i fliken Explore, som innehåller 282 skötselkort."
+      },
+      {
+        "q": "Mina vattenpåminnelser kommer inte, varför?",
+        "a": "Kontrollera först att aviseringar är tillåtna: Inställningar › Aviseringar › Verdure, och slå på ”Tillåt aviseringar”. Kontrollera också att Fokus eller Stör ej inte är aktivt när påminnelsen ska komma. Verdure skickar en enda påminnelse per dag, vid den tid du väljer i appens Settings, med all dagens skötsel. Påminnelserna schemaläggs på din enhet, utan server."
+      },
+      {
+        "q": "Vad ingår i Verdure+ och hur mycket kostar det?",
+        "a": "Den kostnadsfria versionen ger dig 3 igenkänningar per månad, 2 växter med vattningspåminnelser, alla skötselkort och i grönsaksodlingen kalendern, grönsakskorten och en odlingsbädd. Verdure+ kostar 4,99 € per månad, med 7 dagars kostnadsfri provperiod: obegränsat antal igenkänningar och växter, växtdoktorn, påminnelser om gödsling, omplantering och dimning, fotodagbok och i grönsaksodlingen obegränsat antal bäddar, växtföljd och påminnelser om sådd och skörd."
+      },
+      {
+        "q": "Hur avbryter jag eller återställer min prenumeration?",
+        "a": "Prenumerationen säljs och hanteras av Apple. För att avsluta den öppnar du Inställningar › ditt namn › Prenumerationer › Verdure, minst 24 timmar före slutet på den pågående perioden. På en ny enhet trycker du på ”Restore Purchases” i Verdures Settings för att få tillbaka en prenumeration du redan har betalat."
+      },
+      {
+        "q": "Är informationen om giftighet tillförlitlig?",
+        "a": "Den är endast vägledande och bygger på offentliga källor (särskilt ASPCA för katter och hundar). Den ersätter inte medicinsk eller veterinär rådgivning. Om ditt husdjur eller ett barn har ätit en växt, kontakta genast din veterinär eller Giftinformationscentralen."
+      },
+      {
+        "q": "Var kommer bilderna på skötselkorten ifrån?",
+        "a": "Referensbilderna kommer från iNaturalist och Wikimedia Commons under fria licenser och är inbyggda i appen. Fotograf och licens för varje bild anges i Settings › Photo credits."
+      },
+      {
+        "q": "Var lagras mina växter och bilder?",
+        "a": "Bara på din enhet, i Verdures privata lagring. Det finns inget konto och ingen server. Om du tar bort en växt raderas dess data; om du tar bort appen raderas allt. De kan ingå i säkerhetskopior av din enhet i iCloud eller iTunes, som du hanterar i Apples inställningar."
+      }
+    ],
+    "privacy_summary": "Verdure samlar ingen data, kräver inget konto och innehåller inga annonser eller spårningsverktyg. Växtigenkänning sker på din enhet: dina bilder skickas inte någonstans."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort sagt",
+        "blocks": [
+          {
+            "p": "Verdure samlar ingen data. Allt du gör i appen förblir på din iPhone eller iPad."
+          },
+          {
+            "ul": [
+              "Inget konto, inga annonser, ingen spårning: Verdure innehåller inga analysverktyg eller annonser och identifierar dig inte på något sätt."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Växtigenkänning på din enhet",
+        "blocks": [
+          {
+            "p": "Bilderna du tar eller väljer analyseras av en modell installerad i appen, utan anslutning. De skickas inte någonstans."
+          }
+        ]
+      },
+      {
+        "h": "Kamera och bildbibliotek",
+        "blocks": [
+          {
+            "p": "Kameran används endast för att rikta på en växt i appen. Bildbiblioteket läses bara för bilder du själv väljer (igenkänning, fotojournal). Inget läses i bakgrunden."
+          }
+        ]
+      },
+      {
+        "h": "Dina växter, din dagbok och dina bilder",
+        "blocks": [
+          {
+            "p": "De sparas i appens privata lagring på din enhet. Om du tar bort en växt eller appen raderas de. De kan ingå i säkerhetskopior av din enhet i iCloud eller iTunes, som du själv hanterar i Apples inställningar."
+          }
+        ]
+      },
+      {
+        "h": "Aviseringar",
+        "blocks": [
+          {
+            "p": "Påminnelser om vattning och skötsel schemaläggs på enheten; ingen server är inblandad."
+          }
+        ]
+      },
+      {
+        "h": "Köp",
+        "blocks": [
+          {
+            "p": "Prenumerationen Verdure+ säljs och hanteras av Apple. Verdure ser varken din betalningsmetod eller din identitet; appen kontrollerar bara via App Store om en prenumeration är aktiv, för att låsa upp funktioner."
+          }
+        ]
+      },
+      {
+        "h": "Referensbilder",
+        "blocks": [
+          {
+            "p": "Bilderna på skötselkorten kommer från iNaturalist och Wikimedia Commons (fria licenser) och är inbyggda i appen; kreditering finns i Settings › Photo credits."
+          }
+        ]
+      },
+      {
+        "h": "Barn",
+        "blocks": [
+          {
+            "p": "Verdure samlar ingen data, inte heller från barn."
+          }
+        ]
+      },
+      {
+        "h": "Ändringar",
+        "blocks": [
+          {
+            "p": "Om denna policy ändras kommer den nya versionen att publiceras på denna sida med dess uppdateringsdatum."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "För frågor om denna policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

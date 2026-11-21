@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Bitkilerini tanı, onlara bak, sebze bahçeni yetiştir",
+    "contact": "Uygulamayla ilgili bir sorun, bir fikir ya da bir sorun mu var? Bana yaz:<br>{email}",
+    "faq": [
+      {
+        "q": "Verdure benim bitkimi bağlantısızken nasıl tanıyor?",
+        "a": "Tanıma modeli uygulamada yer alır. Fotoğrafı çektiğinde ya da seçtiğinde, doğrudan iPhone veya iPad’ında analiz edilir: hiçbir şey internete gönderilmez ve uçak modunda bile çalışır. Verdure tereddüt ederse, yanlış bir şekilde kesin bir tahminde bulunmak yerine senin için birkaç seçenek sunar."
+      },
+      {
+        "q": "Verdure bitkimi tanımıyor, ne yapmalıyım?",
+        "a": "Fotoğrafı iyi ışıkta, yaprak ya da çiçek net görünecek şekilde ve sade bir arka planla çek, sonra tekrar dene. Tanıma yaklaşık 240 oda ve balkon bitkisini kapsar: bitkin bu listede yoksa Explore sekmesinde adıyla ara; orada 282 bakım kartı var."
+      },
+      {
+        "q": "Sulama hatırlatmalarım gelmiyor, neden?",
+        "a": "Önce bildirimlere izin verildiğinden emin ol: Ayarlar › Bildirimler › Verdure, ardından “Bildirimlere İzin Ver” seçeneğini aç. Ayrıca hatırlatma saatinde Odak ya da Rahatsız Etme modunun açık olmadığını kontrol et. Verdure, uygulamanın Settings bölümünde seçtiğin saatte, günün tüm bakım işlerini içeren tek bir hatırlatma gönderir. Hatırlatmalar sunucu olmadan cihazında planlanır."
+      },
+      {
+        "q": "Verdure+ neleri içerir ve ne kadar?",
+        "a": "Ücretsiz sürümde ayda 3 tanıma, sulama hatırlatmalı 2 bitki takibi, tüm bakım kartları ve sebze bahçesinde takvim, sebze kartları ve bir ekim yatağı bulunur. Verdure+ ayda 4,99 €’dur ve 7 gün ücretsiz deneme sunar: sınırsız tanıma ve bitki, bitki doktoru, gübreleme, saksı değiştirme ve püskürtme hatırlatmaları, fotoğraf günlüğü ve sebze bahçesinde sınırsız ekim yatağı, ürün rotasyonu ile ekim ve hasat hatırlatmaları."
+      },
+      {
+        "q": "Aboneliğimi nasıl iptal edebilirim veya geri yükleyebilirim?",
+        "a": "Abonelik Apple tarafından satılır ve yönetilir. İptal etmek için, geçerli dönemin bitmesinden en az 24 saat önce Ayarlar › adın › Abonelikler › Verdure’ü aç. Yeni bir cihazda, daha önce ödediğin aboneliği geri almak için Verdure’ün Settings bölümünde “Restore Purchases” seçeneğine dokun."
+      },
+      {
+        "q": "Zehirlik bilgileri güvenilir mi?",
+        "a": "Bilgiler yalnızca yol göstericidir ve kamuya açık kaynaklara (özellikle kediler ve köpekler için ASPCA) dayanır. Tıbbi ya da veterinerlik tavsiyesinin yerini tutmaz. Evcil hayvanın ya da bir çocuk bir bitki yediyse hemen veterinerini ya da zehir danışma merkezini ara."
+      },
+      {
+        "q": "Kılavuzlardaki fotoğraflar nereden geliyor?",
+        "a": "Referans fotoğraflar, serbest lisanslarla iNaturalist ve Wikimedia Commons’tan gelir ve uygulamaya dahildir. Her fotoğrafın sahibi ve lisansı Settings › Photo credits bölümünde belirtilir."
+      },
+      {
+        "q": "Bitkilerim ve fotoğraflarım nerede saklanıyor?",
+        "a": "Yalnızca cihazında, Verdure’ün özel alanında. Hesap ya da sunucu yok. Bir bitkiyi silmek verilerini siler; uygulamayı silmek her şeyi siler. Cihazının iCloud ya da iTunes yedeklerine dahil olabilirler; bunları Apple ayarlarından yönetirsin."
+      }
+    ],
+    "privacy_summary": "Verdure hiçbir veri toplamaz, hesap istemez ve reklam ya da izleyici içermez. Bitki tanıma cihazında gerçekleşir: fotoğrafların hiçbir yere gönderilmez."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Özetle",
+        "blocks": [
+          {
+            "p": "Verdure hiçbir veri toplamaz. Uygulamada yaptığın her şey iPhone’unda ya da iPad’inde kalır."
+          },
+          {
+            "ul": [
+              "Hesap yok, reklam yok, izleme yok: Verdure hiçbir analiz ya da reklam aracı içermez ve seni hiçbir şekilde tanımlamaz."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Cihazda bitki tanıma",
+        "blocks": [
+          {
+            "p": "Çektiğin ya da seçtiğin fotoğraflar, uygulamaya kurulu bir model tarafından internet bağlantısı olmadan analiz edilir. Hiçbir yere gönderilmezler."
+          }
+        ]
+      },
+      {
+        "h": "Kamera ve fotoğraf kitaplığı",
+        "blocks": [
+          {
+            "p": "Cihaz kamerası yalnızca uygulamada bir bitkiyi hedeflemek için kullanılır. Fotoğraf kütüphanesi yalnızca kendin seçtiğin fotoğraflar için okunur (tanıma, fotoğraf günlüğü). Arka planda hiçbir şey okunmaz."
+          }
+        ]
+      },
+      {
+        "h": "Bitkilerin, günlük ve fotoğrafların",
+        "blocks": [
+          {
+            "p": "Uygulamanın özel depolama alanına, cihazında kaydedilirler. Bir bitkiyi kaldırman veya uygulamayı silmen onları siler. Cihazının iCloud veya iTunes yedeklemelerine dahil olabilirler; bunları Apple ayarlarından kendin yönetirsin."
+          }
+        ]
+      },
+      {
+        "h": "Bildirimler",
+        "blocks": [
+          {
+            "p": "Sulama ve bakım hatırlatmaları cihazda planlanır; hiçbir sunucu katılmaz."
+          }
+        ]
+      },
+      {
+        "h": "Satın alımlar",
+        "blocks": [
+          {
+            "p": "Verdure+ aboneliği Apple tarafından satılır ve yönetilir. Verdure ne ödeme yöntemini ne de kimliğini görür; uygulama yalnızca App Store üzerinden bir aboneliğin etkin olup olmadığını kontrol ederek özellikleri açar."
+          }
+        ]
+      },
+      {
+        "h": "Referans fotoğraflar",
+        "blocks": [
+          {
+            "p": "Bakım kartlarındaki fotoğraflar iNaturalist ve Wikimedia Commons’tan (serbest lisanslar) gelir ve uygulamaya dahildir; krediler Settings › Photo credits bölümündedir."
+          }
+        ]
+      },
+      {
+        "h": "Çocuklar",
+        "blocks": [
+          {
+            "p": "Verdure, çocuklar dahil hiç kimseden veri toplamaz."
+          }
+        ]
+      },
+      {
+        "h": "Değişiklikler",
+        "blocks": [
+          {
+            "p": "Bu politika değişirse, yeni sürüm bu sayfada güncelleme tarihiyle birlikte yayınlanacaktır."
+          }
+        ]
+      },
+      {
+        "h": "İletişim",
+        "blocks": [
+          {
+            "p": "Bu politikayla ilgili sorularını şuraya iletebilirsin: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

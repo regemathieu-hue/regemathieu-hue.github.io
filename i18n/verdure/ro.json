@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Recunoaște-ți plantele, îngrijește-le și cultivă-ți grădina de legume",
+    "contact": "O întrebare, o idee sau o problemă cu aplicația? Scrie-mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Cum recunoaște Verdure plantele mele fără conexiune?",
+        "a": "Un model de recunoaștere este integrat în aplicație. Când faci sau alegi o fotografie, aceasta este analizată direct pe iPhone-ul sau iPad-ul tău: nimic nu este trimis pe internet și totul funcționează chiar și în modul avion. Când Verdure ezită, îți oferă mai multe opțiuni în loc să afirme greșit."
+      },
+      {
+        "q": "Verdure nu recunoaște planta mea, ce pot face?",
+        "a": "Fă fotografia la lumină bună, cu o frunză sau o floare bine vizibilă și un fundal simplu, apoi încearcă din nou. Recunoașterea acoperă aproximativ 240 de plante de apartament și de balcon: dacă planta ta nu se numără printre ele, caut-o după nume în fila Explore, care conține 282 de fișe de îngrijire."
+      },
+      {
+        "q": "Mementourile mele pentru udat nu ajung, de ce?",
+        "a": "Verifică mai întâi dacă notificările sunt permise: Setări › Notificări › Verdure, apoi activează „Permite notificările”. Asigură-te și că modul Concentrare sau Nu deranja nu este activ la ora mementoului. Verdure trimite un singur memento pe zi, la ora pe care o alegi în Settings din aplicație, cu toate îngrijirile zilei. Mementourile sunt programate pe dispozitivul tău, fără server."
+      },
+      {
+        "q": "Ce conține Verdure+ și cât costă?",
+        "a": "Versiunea gratuită oferă 3 recunoașteri pe lună, 2 plante urmărite cu mementouri de udat, toate fișele de îngrijire, iar în grădina de legume calendarul, fișele legumelor și un strat. Verdure+ costă 4,99 € pe lună, cu 7 zile de probă gratuită: recunoașteri și plante nelimitate, doctorul plantelor, mementouri pentru fertilizare, rempotare și pulverizare, jurnal foto, iar în grădina de legume straturi nelimitate, rotația culturilor și mementouri pentru semănat și recoltat."
+      },
+      {
+        "q": "Cum pot anula sau restaura abonamentul meu?",
+        "a": "Abonamentul este vândut și gestionat de Apple. Pentru a-l anula, deschide Setări › numele tău › Abonamente › Verdure, cu cel puțin 24 de ore înainte de sfârșitul perioadei curente. Pe un dispozitiv nou, apasă „Restore Purchases” în Settings din Verdure pentru a recupera un abonament deja plătit."
+      },
+      {
+        "q": "Informațiile despre toxicitate sunt fiabile?",
+        "a": "Sunt oferite doar cu titlu orientativ, pe baza unor surse publice (în special ASPCA pentru pisici și câini). Nu înlocuiesc un sfat medical sau veterinar. Dacă animalul tău de companie sau un copil a mâncat o plantă, sună imediat medicul veterinar sau un centru de toxicologie."
+      },
+      {
+        "q": "De unde provin imaginile din fișele de îngrijire?",
+        "a": "Imaginile de referință provin de la iNaturalist și Wikimedia Commons, sub licențe libere, și sunt incluse în aplicație. Autorul și licența fiecărei imagini sunt indicate în Settings › Photo credits."
+      },
+      {
+        "q": "Unde sunt salvate plantele și imaginile mele?",
+        "a": "Doar pe dispozitivul tău, în spațiul privat al aplicației Verdure. Nu există conturi sau servere. Ștergerea unei plante șterge datele sale; ștergerea aplicației șterge totul. Acestea pot fi incluse în backup-urile iCloud sau iTunes ale dispozitivului tău, pe care le gestionezi în setările Apple."
+      }
+    ],
+    "privacy_summary": "Verdure nu colectează nicio dată, nu cere cont și nu conține reclame sau elemente de urmărire. Recunoașterea plantelor se face pe dispozitivul tău: fotografiile tale nu sunt trimise nicăieri."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "În rezumat",
+        "blocks": [
+          {
+            "p": "Verdure nu colectează date. Tot ceea ce faci în aplicație rămâne pe iPhone-ul sau iPad-ul tău."
+          },
+          {
+            "ul": [
+              "Fără cont, fără reclame, fără urmărire: Verdure nu conține niciun instrument de analiză sau publicitate și nu te identifică în niciun fel."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Recunoașterea plantelor pe dispozitiv",
+        "blocks": [
+          {
+            "p": "Imaginile pe care le iei sau le alegi sunt analizate de un model instalat în aplicație, fără conexiune. Nu sunt trimise nicăieri."
+          }
+        ]
+      },
+      {
+        "h": "Camera și biblioteca foto",
+        "blocks": [
+          {
+            "p": "Camera este folosită doar pentru a încadra o plantă în aplicație. Biblioteca foto este citită doar pentru fotografiile pe care le alegi chiar tu (recunoaștere, jurnal foto). Nimic nu este citit în fundal."
+          }
+        ]
+      },
+      {
+        "h": "Plantele tale, jurnalul și imaginile",
+        "blocks": [
+          {
+            "p": "Sunt stocate în spațiul privat al aplicației, pe dispozitivul tău. Dacă elimini o plantă sau ștergi aplicația, sunt șterse. Pot fi incluse în copiile de rezervă iCloud sau iTunes ale dispozitivului tău, pe care le gestionezi chiar tu în setările Apple."
+          }
+        ]
+      },
+      {
+        "h": "Notificări",
+        "blocks": [
+          {
+            "p": "Mementourile pentru udat și îngrijire sunt programate pe dispozitiv; nu este implicat niciun server."
+          }
+        ]
+      },
+      {
+        "h": "Achiziții",
+        "blocks": [
+          {
+            "p": "Abonamentul Verdure+ este vândut și gestionat de Apple. Verdure nu vede nici metoda ta de plată, nici identitatea ta; aplicația citește doar, prin App Store, dacă un abonament este activ pentru a debloca funcțiile."
+          }
+        ]
+      },
+      {
+        "h": "Fotografii de referință",
+        "blocks": [
+          {
+            "p": "Imaginile de pe fișele de îngrijire provin de la iNaturalist și Wikimedia Commons (licențe libere) și sunt incluse în aplicație; creditele se află în Settings › Photo credits."
+          }
+        ]
+      },
+      {
+        "h": "Copii",
+        "blocks": [
+          {
+            "p": "Verdure nu colectează nicio dată, nici de la copii."
+          }
+        ]
+      },
+      {
+        "h": "Modificări",
+        "blocks": [
+          {
+            "p": "Dacă această politică se schimbă, versiunea actualizată va fi afișată pe această pagină cu data de actualizare."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pentru orice întrebare legată de această politică: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

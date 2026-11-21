@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Poznávej své rostliny, pečuj o ně, pěstuj svou zahrádku",
+    "contact": "Máš dotaz, nápad nebo problém s aplikací? Napiš mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Jak Verdure pozná mé rostliny bez připojení k internetu?",
+        "a": "V aplikaci je zabudovaný model rozpoznávání. Když si vyfotíš nebo zvolíš obrázek, analyzuje se přímo na tvém iPhone nebo iPadu: nic se neposílá přes internet a vše funguje i v režimu letadla. Pokud má Verdure pochybnosti, nabídne ti několik možností místo toho, aby špatně hádala."
+      },
+      {
+        "q": "Verdure moji rostlinu nepozná, co mám dělat?",
+        "a": "Vyfoť ji při dobrém světle, aby byl dobře vidět list nebo květ, na jednoduchém pozadí a zkus to znovu. Rozpoznávání zahrnuje přibližně 240 pokojových a balkonových rostlin: pokud tvoje rostlina mezi nimi není, vyhledej ji podle jména na záložce Explore, kde je 282 karet péče."
+      },
+      {
+        "q": "Mé upomínky na zalévání nepřicházejí, proč?",
+        "a": "Nejprve zkontroluj, jestli jsou povolená oznámení: Nastavení › Oznámení › Verdure a zapni „Povolit oznámení“. Ujisti se také, že v čase upomínky není aktivní režim Soustředění nebo Nerušit. Verdure pošle jednu upomínku denně v čase, který si nastavíš v Settings aplikace, se všemi úkoly péče na ten den. Upomínky se plánují přímo na tvém zařízení, bez serveru."
+      },
+      {
+        "q": "Co obsahuje Verdure+ a kolik stojí?",
+        "a": "Zdarma máš 3 rozpoznání měsíčně, 2 sledované rostliny s upomínkami na zalévání, všechny karty péče a na zahrádce kalendář, karty zeleniny a jeden záhon. Verdure+ stojí 4,99 € měsíčně a prvních 7 dní je zdarma: neomezený počet rozpoznání a rostlin, doktor rostlin, upomínky na hnojení, přesazování a rosení, fotodeník a na zahrádce neomezené záhony, střídání plodin a upomínky na setí a sklizeň."
+      },
+      {
+        "q": "Jak zruším nebo obnovím své předplatné?",
+        "a": "Předplatné prodává a spravuje Apple. Zrušíš ho v Nastavení › své jméno › Předplatná › Verdure, nejpozději 24 hodin před koncem aktuálního období. Na novém zařízení klepni na „Restore Purchases“ v Settings aplikace Verdure a už zaplacené předplatné se obnoví."
+      },
+      {
+        "q": "Jsou informace o jedovatosti spolehlivé?",
+        "a": "Jsou pouze orientační a vycházejí z veřejných zdrojů (zejména ASPCA pro kočky a psy). Nenahrazují lékařskou ani veterinární radu. Pokud tvé zvíře nebo dítě rostlinu snědlo, okamžitě zavolej veterináře nebo toxikologické informační středisko."
+      },
+      {
+        "q": "Odkud pocházejí fotografie na kartách?",
+        "a": "Referenční fotografie pocházejí z iNaturalist a Wikimedia Commons pod volnými licencemi a jsou součástí aplikace. Autor a licence každé fotografie jsou uvedeny v Settings › Photo credits."
+      },
+      {
+        "q": "Kde jsou uloženy mé rostliny a fotky?",
+        "a": "Pouze na tvém zařízení, v soukromém úložišti aplikace Verdure. Není žádný účet ani server. Smazáním rostliny se smažou její data; smazáním aplikace se smaže vše. Mohou být součástí záloh iCloudu nebo iTunes tvého zařízení, které spravuješ v nastavení Apple."
+      }
+    ],
+    "privacy_summary": "Verdure neshromažďuje žádná data, nepožaduje účet a neobsahuje reklamy ani sledovače. Rozpoznávání rostlin probíhá na tvém zařízení: tvé fotky se nikam neodesílají."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Zkrátka",
+        "blocks": [
+          {
+            "p": "Verdure neshromažďuje žádná data. Všechno, co v aplikaci děláš, zůstává na tvém iPhonu nebo iPadu."
+          },
+          {
+            "ul": [
+              "Žádný účet, žádné reklamy, žádné sledování: Verdure neobsahuje žádné analytické ani reklamní nástroje a nijak tě neidentifikuje."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Rozpoznávání rostlin na zařízení",
+        "blocks": [
+          {
+            "p": "Fotografie, které si pořídíš nebo vybereš, jsou analyzovány modelem nainstalovaným v aplikaci, bez připojení k internetu. Nikam nejsou odesílány."
+          }
+        ]
+      },
+      {
+        "h": "Fotoaparát a knihovna fotografií",
+        "blocks": [
+          {
+            "p": "Fotoaparát slouží pouze k zaměření rostliny v aplikaci. Knihovna fotografií se čte jen pro fotky, které sám vybereš (rozpoznání, fotodeník). Na pozadí se nečte nic."
+          }
+        ]
+      },
+      {
+        "h": "Tvé rostliny, tvůj deník a tvé fotky",
+        "blocks": [
+          {
+            "p": "Jsou uloženy v soukromém úložišti aplikace na tvém zařízení. Smazáním rostliny nebo aplikace se smažou. Mohou být součástí záloh iCloudu nebo iTunes tvého zařízení, které si spravuješ sám v nastavení Apple."
+          }
+        ]
+      },
+      {
+        "h": "Oznámení",
+        "blocks": [
+          {
+            "p": "Upomínky na zalévání a péči se plánují na zařízení; žádný server se do toho nezapojuje."
+          }
+        ]
+      },
+      {
+        "h": "Nákupy",
+        "blocks": [
+          {
+            "p": "Předplatné Verdure+ prodává a spravuje Apple. Verdure nevidí ani tvůj způsob platby, ani tvoji identitu; aplikace jen přes App Store zjišťuje, zda je předplatné aktivní, aby odemkla funkce."
+          }
+        ]
+      },
+      {
+        "h": "Referenční fotografie",
+        "blocks": [
+          {
+            "p": "Fotografie na kartách péče pocházejí z iNaturalist a Wikimedia Commons (volné licence) a jsou součástí aplikace; zdroje najdeš v Settings › Photo credits."
+          }
+        ]
+      },
+      {
+        "h": "Děti",
+        "blocks": [
+          {
+            "p": "Verdure neshromažďuje žádná data, ani od dětí."
+          }
+        ]
+      },
+      {
+        "h": "Změny",
+        "blocks": [
+          {
+            "p": "Pokud se tato politika změní, bude nová verze zveřejněna na této stránce s jejím datem aktualizace."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Pro jakoukoli otázku ohledně této politiky: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

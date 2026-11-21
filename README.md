@@ -56,6 +56,7 @@ ar-SA, ca, cs, da, de-DE, el, en-AU, en-CA, en-GB, en-US, es-ES, es-MX, fi, fr-C
 | Nuit Claire | https://regemathieu-hue.github.io/nuitclaire/ | https://regemathieu-hue.github.io/nuitclaire/privacy.html |
 | Pattoune | https://regemathieu-hue.github.io/pattoune/ | https://regemathieu-hue.github.io/pattoune/privacy.html |
 | Tablée | https://regemathieu-hue.github.io/tablee/ | https://regemathieu-hue.github.io/tablee/privacy.html |
+| Verdure | https://regemathieu-hue.github.io/verdure/ | https://regemathieu-hue.github.io/verdure/privacy.html |
 
 Une langue précise : `https://regemathieu-hue.github.io/<appli>/<langue>/` et `.../<langue>/privacy.html`.
 

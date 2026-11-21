@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Prepoznaj svoje biljke, brini o njima i uzgajaj svoj povrtnjak",
+    "contact": "Imaš pitanje, ideju ili problem s aplikacijom? Piši mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Kako Verdure prepoznaje moje biljke bez internetske veze?",
+        "a": "Model za prepoznavanje ugrađen je u aplikaciju. Kad snimiš ili odabereš fotografiju, analizira se izravno na tvom iPhoneu ili iPadu: ništa se ne šalje na internet, a sve radi čak i u načinu rada u zrakoplovu. Kad Verdure nije sigurna, ponudit će ti više mogućnosti umjesto da pogrešno tvrdi."
+      },
+      {
+        "q": "Verdure ne prepoznaje moju biljku, što mogu učiniti?",
+        "a": "Snimi fotografiju na dobrom svjetlu, s jasno vidljivim listom ili cvijetom i jednostavnom pozadinom, pa pokušaj ponovno. Prepoznavanje obuhvaća oko 240 sobnih i balkonskih biljaka: ako tvoje nema među njima, potraži je po imenu na kartici Explore, koja sadrži 282 kartice njege."
+      },
+      {
+        "q": "Moji podsjetnici za zalijevanje ne stižu, zašto?",
+        "a": "Najprije provjeri jesu li obavijesti dopuštene: Postavke › Obavijesti › Verdure, pa uključi „Dopusti obavijesti”. Provjeri i je li u vrijeme podsjetnika uključen Fokus ili Ne uznemiravaj. Verdure šalje jedan podsjetnik dnevno, u vrijeme koje odabereš u Settings aplikacije, sa svim poslovima njege za taj dan. Podsjetnici se zakazuju na tvom uređaju, bez poslužitelja."
+      },
+      {
+        "q": "Što uključuje Verdure+ i koliko košta?",
+        "a": "Besplatna verzija nudi 3 prepoznavanja mjesečno, 2 biljke s podsjetnicima za zalijevanje, sve kartice njege te u povrtnjaku kalendar, kartice povrća i jednu gredicu. Verdure+ košta 4,99 € mjesečno, uz 7 dana besplatnog probnog razdoblja: neograničeno prepoznavanje i biljke, liječnik za biljke, podsjetnici za gnojidbu, presađivanje i prskanje, foto dnevnik te u povrtnjaku neograničene gredice, plodored i podsjetnici za sjetvu i berbu."
+      },
+      {
+        "q": "Kako otkazati ili obnoviti svoju pretplatu?",
+        "a": "Pretplatu prodaje i njome upravlja Apple. Za otkazivanje otvori Postavke › tvoje ime › Pretplate › Verdure, najmanje 24 sata prije kraja trenutnog razdoblja. Na novom uređaju dodirni „Restore Purchases” u Settings aplikacije Verdure kako bi vratio već plaćenu pretplatu."
+      },
+      {
+        "q": "Jesu li informacije o otrovnosti pouzdane?",
+        "a": "Daju se samo kao smjernica, na temelju javnih izvora (npr. ASPCA za mačke i pse). Ne zamjenjuju liječnički ni veterinarski savjet. Ako je tvoj ljubimac ili dijete pojelo biljku, odmah nazovi veterinara ili centar za kontrolu otrovanja."
+      },
+      {
+        "q": "Odakle dolaze fotografije na karticama?",
+        "a": "Referentne fotografije potječu s iNaturalista i Wikimedia Commonsa pod slobodnim licencama i ugrađene su u aplikaciju. Autor i licenca svake fotografije navedeni su u Settings › Photo credits."
+      },
+      {
+        "q": "Gdje su pohranjene moje biljke i slike?",
+        "a": "Samo na tvom uređaju, u privatnom prostoru aplikacije Verdure. Nema ni računa ni poslužitelja. Brisanjem biljke brišu se njezini podaci; brisanjem aplikacije briše se sve. Mogu biti uključeni u sigurnosne kopije iCloud ili iTunes tvog uređaja, kojima upravljaš u Appleovim postavkama."
+      }
+    ],
+    "privacy_summary": "Verdure ne prikuplja nikakve podatke, ne traži račun i nema reklama ni alata za praćenje. Prepoznavanje biljaka obavlja se na tvom uređaju: tvoje fotografije nikamo se ne šalju."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ukratko",
+        "blocks": [
+          {
+            "p": "Verdure ne prikuplja podatke. Sve što radiš u aplikaciji ostaje na tvom iPhoneu ili iPadu."
+          },
+          {
+            "ul": [
+              "Bez računa, bez reklama, bez praćenja: Verdure nema alata za analitiku ni reklame i ne identificira te ni na koji način."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Prepoznavanje biljaka na uređaju",
+        "blocks": [
+          {
+            "p": "Fotografije koje snimiš ili odabereš analizira model instaliran u aplikaciji, bez internetske veze. Nikamo se ne šalju."
+          }
+        ]
+      },
+      {
+        "h": "Kamera i fotogalerija",
+        "blocks": [
+          {
+            "p": "Kamera se koristi samo za kadriranje biljke unutar aplikacije. Fotogalerija se čita samo za fotografije koje sam odabereš (prepoznavanje, foto dnevnik). Ništa se ne čita u pozadini."
+          }
+        ]
+      },
+      {
+        "h": "Tvoje biljke, dnevnik i fotografije",
+        "blocks": [
+          {
+            "p": "Pohranjuju se u privatni prostor aplikacije na tvom uređaju. Brisanjem biljke ili aplikacije brišu se. Mogu biti uključene u sigurnosne kopije iCloud ili iTunes tvog uređaja, kojima sam upravljaš u Appleovim postavkama."
+          }
+        ]
+      },
+      {
+        "h": "Obavijesti",
+        "blocks": [
+          {
+            "p": "Podsjetnici za zalijevanje i njegu zakazuju se na uređaju; nijedan poslužitelj nije uključen."
+          }
+        ]
+      },
+      {
+        "h": "Kupovine",
+        "blocks": [
+          {
+            "p": "Pretplatu Verdure+ prodaje i njome upravlja Apple. Verdure ne vidi ni tvoj način plaćanja ni tvoj identitet; aplikacija samo provjerava putem App Storea je li pretplata aktivna kako bi otključala funkcije."
+          }
+        ]
+      },
+      {
+        "h": "Referentne fotografije",
+        "blocks": [
+          {
+            "p": "Fotografije na karticama njege potječu s iNaturalista i Wikimedia Commonsa (slobodne licence) i ugrađene su u aplikaciju; zasluge su u Settings › Photo credits."
+          }
+        ]
+      },
+      {
+        "h": "Djeca",
+        "blocks": [
+          {
+            "p": "Verdure ne sakuplja nikakve podatke, uključujući i od djece."
+          }
+        ]
+      },
+      {
+        "h": "Promjene",
+        "blocks": [
+          {
+            "p": "Ako se ova politika promijeni, nova verzija bit će objavljena na ovoj stranici s datumom ažuriranja."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Za bilo kakvo pitanje vezano uz ovu politiku: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

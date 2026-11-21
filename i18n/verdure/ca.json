@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Identifica les teves plantes, cuida-les, cultiva el teu hort",
+    "contact": "Una pregunta, una idea o un problema amb l'aplicació? Escriu-me:<br>{email}",
+    "faq": [
+      {
+        "q": "Com reconeix Verdure les meves plantes sense connexió?",
+        "a": "Un model de reconeixement està instal·lat a l'aplicació. Quan prens o trius una foto, es processa directament al teu iPhone o iPad: res s'envia a internet, i tot funciona fins i tot en mode avió. Quan Verdure dubta, et proposa diverses opcions en comptes d'affirmar erròniament."
+      },
+      {
+        "q": "Verdure no reconeix la meva planta, què puc fer?",
+        "a": "Fes la foto amb llum intensa, amb una fulla o una flor ben visibles i un fons senzill, i torna-ho a provar. El reconeixement cobreix unes 240 plantes d'interior i de balcó: si la teva no hi és, busca-la pel nom a la pestanya Explore, que conté 282 fitxes de cures."
+      },
+      {
+        "q": "Els meus recordatoris de reg no arriben, per què?",
+        "a": "Comprova primer que les notificacions estiguin permeses: Configuració › Notificacions › Verdure, i activa «Permet les notificacions». Comprova també que el mode Concentració o No molestar no estigui actiu a l'hora del recordatori. Verdure envia un sol recordatori al dia, a l'hora que triïs a la Configuració de l'aplicació (Settings), amb totes les cures del dia. Els recordatoris es programen al teu dispositiu, sense cap servidor."
+      },
+      {
+        "q": "Què inclou Verdure+ i quant costa?",
+        "a": "La versió gratuïta ofereix 3 reconeixements al mes, 2 plantes amb els seus recordatoris de reg, totes les fitxes i, a l'hort, el calendari, les fitxes d'hortalisses i un bancal. Verdure+ costa 4,99 € al mes, amb 7 dies de prova gratuïta: reconeixements i plantes il·limitats, el metge de plantes, recordatoris d'adob, de trasplantament i de polvorització, diari fotogràfic i, a l'hort, bancals il·limitats, rotació de cultius i recordatoris de sembra i de collita."
+      },
+      {
+        "q": "Com puc cancel·lar o restaurar el meu abonament?",
+        "a": "L'abonament el ven i el gestiona Apple. Per cancel·lar-lo, obre Configuració › el teu nom › Subscripcions › Verdure, almenys 24 hores abans del final del període en curs. En un dispositiu nou, toca «Restore Purchases» a Settings de Verdure per recuperar un abonament ja pagat."
+      },
+      {
+        "q": "Les informacions de toxicitat són fiables?",
+        "a": "Són indicatives, basades en fonts públiques (principalment l'ASPCA per a gats i gossos). No substitueixen un consell mèdic o veterinari. Si el teu animal o un nen ha menjat una planta, truca immediatament al teu veterinari o a un centre antipoisons."
+      },
+      {
+        "q": "D'on provenen les fotos de les fitxes?",
+        "a": "Les fotos de referència provenen d'iNaturalist i Wikimedia Commons, sota llicències lliures, i estan integrades a l'aplicació. L'autor i la llicència de cada foto consten a Settings › Photo credits."
+      },
+      {
+        "q": "On s'emmagatzemen les meves plantes i les meves fotos?",
+        "a": "Només al teu dispositiu, a l'espai privat de Verdure. No hi ha cap compte ni cap servidor. Eliminar una planta n'esborra les dades; eliminar l'aplicació ho esborra tot. Poden figurar a les còpies de seguretat d'iCloud o d'iTunes del teu dispositiu, que gestiones a la configuració d'Apple."
+      }
+    ],
+    "privacy_summary": "Verdure no recull cap dada, no demana cap compte i no conté publicitat ni rastrejadors. La identificació de plantes es fa al teu dispositiu: les teves fotos no s'envien enlloc."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resum",
+        "blocks": [
+          {
+            "p": "Verdure no recull cap dada. Tot el que fas a l'aplicació queda al teu iPhone o iPad."
+          },
+          {
+            "ul": [
+              "Cap compte, cap publicitat, cap seguiment: Verdure no conté cap eina d'anàlisi ni de publicitat, i no t'identifica de cap manera."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Reconeixement de plantes al dispositiu",
+        "blocks": [
+          {
+            "p": "Les fotos que fas o trius s'analitzen mitjançant un model instal·lat a l'aplicació, sense connexió. No s'envien enlloc."
+          }
+        ]
+      },
+      {
+        "h": "Càmera i biblioteca de fotos",
+        "blocks": [
+          {
+            "p": "La càmera només serveix per enfocar una planta dins l'aplicació. La biblioteca de fotos només es llegeix per a les fotos que triïs tu mateix (reconeixement, diari fotogràfic). No es llegeix res en segon pla."
+          }
+        ]
+      },
+      {
+        "h": "Les teves plantes, el teu diari i les teves fotos",
+        "blocks": [
+          {
+            "p": "Es desen a l'espai privat de l'aplicació, al teu dispositiu. Si elimines una planta o l'aplicació, s'esborren. Poden formar part de les còpies de seguretat d'iCloud o d'iTunes del teu dispositiu, que gestiones tu mateix a la configuració d'Apple."
+          }
+        ]
+      },
+      {
+        "h": "Notificacions",
+        "blocks": [
+          {
+            "p": "Els recordatoris de reg i de cures es programen al dispositiu; no hi intervé cap servidor."
+          }
+        ]
+      },
+      {
+        "h": "Compres",
+        "blocks": [
+          {
+            "p": "L'abonament Verdure+ el ven i el gestiona Apple. Verdure no veu ni el teu mitjà de pagament ni la teva identitat; l'aplicació només comprova, a través de l'App Store, si hi ha un abonament actiu per desbloquejar les funcions."
+          }
+        ]
+      },
+      {
+        "h": "Fotos de referència",
+        "blocks": [
+          {
+            "p": "Les fotos de les fitxes provenen d'iNaturalist i Wikimedia Commons (llicències lliures) i estan integrades a l'aplicació; els crèdits són a Settings › Photo credits."
+          }
+        ]
+      },
+      {
+        "h": "Infants",
+        "blocks": [
+          {
+            "p": "Verdure no recull cap dada, tampoc la dels infants."
+          }
+        ]
+      },
+      {
+        "h": "Canvis",
+        "blocks": [
+          {
+            "p": "Si aquesta política canvia, la nova versió es publicarà en aquesta pàgina amb la data d'actualització."
+          }
+        ]
+      },
+      {
+        "h": "Contacte",
+        "blocks": [
+          {
+            "p": "Per qualsevol pregunta sobre aquesta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

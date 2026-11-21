@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Nhận diện cây của bạn, chăm sóc chúng và trồng vườn rau của riêng bạn",
+    "contact": "Có câu hỏi, ý tưởng hay vấn đề với ứng dụng? Hãy nhắn cho tôi:<br>{email}",
+    "faq": [
+      {
+        "q": "Verdure nhận diện cây của tôi mà không cần kết nối mạng như thế nào?",
+        "a": "Một mô hình nhận diện đã được tích hợp trong ứng dụng. Khi bạn chụp hoặc chọn ảnh, nó sẽ được phân tích ngay trên iPhone hoặc iPad của bạn: không có gì được gửi lên internet, và mọi thứ vẫn hoạt động ngay cả khi ở chế độ máy bay. Khi Verdure không chắc chắn, nó sẽ đề xuất nhiều lựa chọn thay vì khẳng định sai."
+      },
+      {
+        "q": "Verdure không nhận diện được cây của tôi, phải làm sao?",
+        "a": "Hãy chụp ảnh dưới ánh sáng tốt, thấy rõ một chiếc lá hoặc bông hoa, nền đơn giản, rồi thử lại. Tính năng nhận diện bao gồm khoảng 240 loại cây trong nhà và ban công: nếu cây của bạn không nằm trong số đó, hãy tìm theo tên trong tab Explore, nơi có 282 thẻ chăm sóc."
+      },
+      {
+        "q": "Nhắc nhở tưới nước của tôi không đến, tại sao?",
+        "a": "Trước tiên hãy kiểm tra xem thông báo đã được cho phép chưa: Cài đặt › Thông báo › Verdure, rồi bật \"Cho phép thông báo\". Hãy kiểm tra cả việc chế độ Tập trung hoặc Không làm phiền có đang bật vào giờ nhắc hay không. Verdure chỉ gửi một lời nhắc mỗi ngày, vào giờ bạn chọn trong Settings của ứng dụng, gồm tất cả việc chăm sóc trong ngày. Các lời nhắc được lên lịch ngay trên thiết bị của bạn, không cần máy chủ."
+      },
+      {
+        "q": "Verdure+ bao gồm những gì và giá bao nhiêu?",
+        "a": "Phiên bản miễn phí có 3 lần nhận diện mỗi tháng, theo dõi 2 cây với nhắc tưới nước, tất cả thẻ chăm sóc, và trong vườn rau có lịch, thẻ rau củ và một luống. Verdure+ có giá 4,99 € mỗi tháng, kèm 7 ngày dùng thử miễn phí: nhận diện và số cây không giới hạn, bác sĩ cây, nhắc bón phân, thay chậu và phun sương, nhật ký ảnh, và trong vườn rau có số luống không giới hạn, luân canh và nhắc gieo hạt, thu hoạch."
+      },
+      {
+        "q": "Làm thế nào để hủy hoặc khôi phục đăng ký của tôi?",
+        "a": "Gói đăng ký do Apple bán và quản lý. Để hủy, hãy mở Cài đặt › tên của bạn › Đăng ký › Verdure, ít nhất 24 giờ trước khi kỳ hiện tại kết thúc. Trên thiết bị mới, hãy nhấn \"Restore Purchases\" trong Settings của Verdure để lấy lại gói đăng ký đã thanh toán."
+      },
+      {
+        "q": "Thông tin về độc tính có đáng tin cậy không?",
+        "a": "Chúng chỉ mang tính tham khảo, dựa trên các nguồn công khai (đặc biệt là ASPCA cho mèo và chó). Chúng không thay thế lời khuyên y tế hoặc thú y. Nếu vật nuôi hay trẻ nhỏ đã ăn phải cây trồng, hãy gọi ngay cho bác sĩ thú y hoặc trung tâm chống độc."
+      },
+      {
+        "q": "Ảnh trên các thẻ chăm sóc đến từ đâu?",
+        "a": "Ảnh tham khảo đến từ iNaturalist và Wikimedia Commons theo giấy phép tự do, và được tích hợp vào ứng dụng. Tác giả và giấy phép của từng ảnh được ghi trong Settings › Photo credits."
+      },
+      {
+        "q": "Các cây trồng và ảnh của tôi được lưu ở đâu?",
+        "a": "Chỉ trên thiết bị của bạn, trong không gian riêng tư của Verdure. Không có tài khoản hay máy chủ nào cả. Xóa một cây sẽ xóa dữ liệu của nó; xóa ứng dụng sẽ xóa toàn bộ dữ liệu. Chúng có thể xuất hiện trong bản sao lưu iCloud hoặc iTunes của thiết bị, mà bạn quản lý trong cài đặt của Apple."
+      }
+    ],
+    "privacy_summary": "Verdure không thu thập bất kỳ dữ liệu nào, không yêu cầu tài khoản và không chứa quảng cáo hay công cụ theo dõi. Nhận dạng cây trồng được thực hiện trên thiết bị của bạn: ảnh của bạn sẽ không bao giờ được gửi đi đâu cả."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Tóm lại",
+        "blocks": [
+          {
+            "p": "Verdure không thu thập dữ liệu. Mọi thứ bạn làm trong ứng dụng đều ở lại trên iPhone hoặc iPad của bạn."
+          },
+          {
+            "ul": [
+              "Không cần tài khoản, không quảng cáo, không theo dõi: Verdure không chứa công cụ phân tích hay quảng cáo nào, và không xác định danh tính bạn theo bất kỳ cách nào."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Nhận dạng cây trồng trên thiết bị",
+        "blocks": [
+          {
+            "p": "Ảnh bạn chụp hoặc chọn sẽ được phân tích bởi một mô hình được cài đặt trong ứng dụng, mà không cần kết nối mạng. Chúng sẽ không bao giờ được gửi đi đâu cả."
+          }
+        ]
+      },
+      {
+        "h": "Camera và thư viện ảnh",
+        "blocks": [
+          {
+            "p": "Camera chỉ được dùng để ngắm vào một cây trong ứng dụng. Thư viện ảnh chỉ được đọc đối với những ảnh do chính bạn chọn (nhận diện, nhật ký ảnh). Không có gì được đọc ngầm ở chế độ nền."
+          }
+        ]
+      },
+      {
+        "h": "Cây trồng của bạn, nhật ký và ảnh của bạn",
+        "blocks": [
+          {
+            "p": "Chúng được lưu trong bộ nhớ riêng của ứng dụng trên thiết bị của bạn. Nếu bạn xóa một cây hoặc xóa ứng dụng, dữ liệu sẽ bị xóa. Chúng có thể nằm trong bản sao lưu iCloud hoặc iTunes của thiết bị, do chính bạn quản lý trong cài đặt của Apple."
+          }
+        ]
+      },
+      {
+        "h": "Thông báo",
+        "blocks": [
+          {
+            "p": "Nhắc nhở tưới nước và chăm sóc được lập lịch trên thiết bị; không có máy chủ nào tham gia."
+          }
+        ]
+      },
+      {
+        "h": "Mua hàng",
+        "blocks": [
+          {
+            "p": "Gói đăng ký Verdure+ được bán và quản lý bởi Apple. Verdure không thấy phương thức thanh toán hay thông tin cá nhân của bạn; ứng dụng chỉ đọc qua App Store để kiểm tra xem gói đăng ký có đang hoạt động hay không, nhằm mở khóa các tính năng."
+          }
+        ]
+      },
+      {
+        "h": "Ảnh tham khảo",
+        "blocks": [
+          {
+            "p": "Ảnh trên các thẻ chăm sóc đến từ iNaturalist và Wikimedia Commons (giấy phép tự do) và được tích hợp vào ứng dụng; thông tin ghi công nằm ở Settings › Photo credits."
+          }
+        ]
+      },
+      {
+        "h": "Trẻ em",
+        "blocks": [
+          {
+            "p": "Verdure không thu thập bất kỳ dữ liệu nào, kể cả từ trẻ em."
+          }
+        ]
+      },
+      {
+        "h": "Thay đổi",
+        "blocks": [
+          {
+            "p": "Nếu chính sách này thay đổi, phiên bản mới sẽ được đăng trên trang này cùng với ngày cập nhật."
+          }
+        ]
+      },
+      {
+        "h": "Liên hệ",
+        "blocks": [
+          {
+            "p": "Nếu bạn có bất kỳ câu hỏi nào về chính sách này: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

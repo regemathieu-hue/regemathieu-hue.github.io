@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Erkenne deine Pflanzen, pflege sie und kultiviere deinen Gemüsegarten",
+    "contact": "Eine Frage, eine Idee oder ein Problem mit der App? Schreib mir einfach:<br>{email}",
+    "faq": [
+      {
+        "q": "Wie erkennt Verdure meine Pflanzen ohne Internetverbindung?",
+        "a": "Ein Erkennungsmodell ist in der App integriert. Wenn du ein Foto aufnimmst oder auswählst, wird es direkt auf deinem iPhone oder iPad analysiert: nichts wird über das Internet gesendet, und alles funktioniert sogar im Flugzeugmodus. Wenn Verdure unsicher ist, bietet sie dir mehrere Möglichkeiten an, anstatt falsch zu raten."
+      },
+      {
+        "q": "Verdure erkennt meine Pflanze nicht, was soll ich tun?",
+        "a": "Mache das Foto bei gutem Licht, mit einem gut sichtbaren Blatt oder einer Blüte und einem einfachen Hintergrund, und versuche es erneut. Die Erkennung umfasst etwa 240 Zimmer- und Balkonpflanzen: Wenn deine Pflanze nicht dabei ist, suche sie im Tab Explore nach ihrem Namen – dort findest du 282 Pflegesteckbriefe."
+      },
+      {
+        "q": "Meine Gießerinnerungen kommen nicht an, warum?",
+        "a": "Überprüfe zunächst, ob Benachrichtigungen erlaubt sind: Einstellungen › Mitteilungen › Verdure, und aktiviere dann „Mitteilungen erlauben“. Stelle auch sicher, dass zur Erinnerungszeit kein Fokus oder „Nicht stören“ aktiv ist. Verdure sendet nur eine Erinnerung pro Tag zu der Uhrzeit, die du in den Settings der App wählst, mit allen Pflegeaufgaben des Tages. Die Erinnerungen werden auf deinem Gerät geplant, ohne Server."
+      },
+      {
+        "q": "Was beinhaltet Verdure+ und wie viel kostet es?",
+        "a": "Die kostenlose Version bietet 3 Erkennungen pro Monat, 2 verfolgte Pflanzen mit Gießerinnerungen, alle Pflegesteckbriefe und im Gemüsegarten den Kalender, die Gemüsesteckbriefe und ein Beet. Verdure+ kostet 4,99 € pro Monat, inklusive einer kostenlosen 7-Tage-Testphase: unbegrenzte Erkennungen und Pflanzen, der Pflanzendoktor, Erinnerungen für Düngen, Umtopfen und Besprühen, ein Fotojournal sowie im Gemüsegarten unbegrenzt viele Beete, Fruchtfolge und Erinnerungen für Aussaat und Ernte."
+      },
+      {
+        "q": "Wie kann ich mein Abonnement kündigen oder wiederherstellen?",
+        "a": "Das Abonnement wird von Apple verkauft und verwaltet. Um es zu kündigen, öffne Einstellungen › Dein Name › Abonnements › Verdure mindestens 24 Stunden vor Ablauf der aktuellen Laufzeit. Auf einem neuen Gerät tippe auf „Restore Purchases“ in den Einstellungen von Verdure, um ein bereits bezahltes Abonnement wiederherzustellen."
+      },
+      {
+        "q": "Sind die Toxizitätsangaben zuverlässig?",
+        "a": "Sie dienen lediglich als Anhaltspunkt und basieren auf öffentlichen Quellen (insbesondere der ASPCA für Katzen und Hunde). Sie ersetzen keinen medizinischen oder tierärztlichen Rat. Wenn dein Tier oder ein Kind eine Pflanze gefressen hat, rufe sofort deinen Tierarzt oder ein Giftinformationszentrum an."
+      },
+      {
+        "q": "Woher stammen die Fotos in den Pflegehinweisen?",
+        "a": "Die Referenzfotos stammen von iNaturalist und Wikimedia Commons unter freien Lizenzen und sind in die App integriert. Urheber und Lizenz jedes Fotos stehen unter Settings › Photo credits."
+      },
+      {
+        "q": "Wo werden meine Pflanzen und Fotos gespeichert?",
+        "a": "Nur auf deinem Gerät, im privaten Speicher von Verdure. Es gibt kein Konto und keinen Server. Wenn du eine Pflanze löscht, werden ihre Daten gelöscht; wenn du die App löscht, wird alles gelöscht. Sie können in den iCloud- oder iTunes-Sicherungen deines Geräts enthalten sein, die du in den Einstellungen von Apple verwaltest."
+      }
+    ],
+    "privacy_summary": "Verdure sammelt keine Daten, erfordert kein Konto und enthält weder Werbung noch Tracking-Tools. Die Pflanzenerkennung erfolgt auf deinem Gerät: Deine Fotos werden nirgendwohin gesendet."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kurz zusammengefasst",
+        "blocks": [
+          {
+            "p": "Verdure sammelt keine Daten. Alles, was du in der App tust, bleibt auf deinem iPhone oder iPad."
+          },
+          {
+            "ul": [
+              "Kein Konto, keine Werbung, kein Tracking: Verdure enthält weder Analyse- noch Werbeinstrumente und identifiziert dich auf keine Weise."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Pflanzenerkennung auf deinem Gerät",
+        "blocks": [
+          {
+            "p": "Die Fotos, die du aufnimmst oder auswählst, werden von einem Modell analysiert, das in der App installiert ist, ohne Internetverbindung. Sie werden nirgendwohin gesendet."
+          }
+        ]
+      },
+      {
+        "h": "Kamera und Fotobibliothek",
+        "blocks": [
+          {
+            "p": "Die Kamera wird nur verwendet, um eine Pflanze in der App anzuvisieren. Die Fotobibliothek wird nur für Fotos gelesen, die du selbst auswählst (Erkennung, Fotojournal). Im Hintergrund wird nichts gelesen."
+          }
+        ]
+      },
+      {
+        "h": "Deine Pflanzen, dein Tagebuch und deine Fotos",
+        "blocks": [
+          {
+            "p": "Sie werden im privaten Speicher der App auf deinem Gerät gespeichert. Wenn du eine Pflanze entfernst oder die App löschst, werden sie gelöscht. Sie können in den iCloud- oder iTunes-Sicherungen deines Geräts enthalten sein, die du selbst in den Einstellungen von Apple verwaltest."
+          }
+        ]
+      },
+      {
+        "h": "Benachrichtigungen",
+        "blocks": [
+          {
+            "p": "Erinnerungen an Bewässerung und Pflege werden auf dem Gerät geplant; es ist kein Server beteiligt."
+          }
+        ]
+      },
+      {
+        "h": "Käufe",
+        "blocks": [
+          {
+            "p": "Das Verdure+-Abonnement wird von Apple verkauft und verwaltet. Verdure sieht weder deine Zahlungsmethode noch deine Identität; die App prüft nur über den App Store, ob ein Abonnement aktiv ist, um Funktionen freizuschalten."
+          }
+        ]
+      },
+      {
+        "h": "Referenzfotos",
+        "blocks": [
+          {
+            "p": "Die Fotos auf den Pflegesteckbriefen stammen von iNaturalist und Wikimedia Commons (freie Lizenzen) und sind in die App integriert; die Urheberangaben findest du unter Settings › Photo credits."
+          }
+        ]
+      },
+      {
+        "h": "Kinder",
+        "blocks": [
+          {
+            "p": "Verdure sammelt keine Daten, auch nicht von Kindern."
+          }
+        ]
+      },
+      {
+        "h": "Änderungen",
+        "blocks": [
+          {
+            "p": "Falls sich diese Richtlinie ändert, wird die neue Version auf dieser Seite mit dem Aktualisierungsdatum veröffentlicht."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Für Fragen zu dieser Richtlinie: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

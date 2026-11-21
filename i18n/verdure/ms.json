@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Kenal pasti pokok-pokok anda, jaga mereka, tanam kebun sayur anda",
+    "contact": "Ada soalan, idea atau masalah dengan aplikasi ini? Tulis kepada saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Bagaimana Verdure mengenal pasti pokok saya tanpa sambungan internet?",
+        "a": "Model pengenalpastian telah dipasang dalam aplikasi. Apabila anda ambil atau pilih gambar, ia dianalisis terus di iPhone atau iPad anda: tiada apa-apa yang dihantar ke internet, dan semuanya berfungsi walaupun dalam mod kapal terbang. Apabila Verdure ragu-ragu, ia mencadangkan beberapa pilihan dan bukannya meneka dengan salah."
+      },
+      {
+        "q": "Verdure tidak mengenal pasti pokok saya, apa yang patut saya buat?",
+        "a": "Ambil gambar dalam cahaya terang, dengan daun atau bunga yang jelas kelihatan dan latar belakang yang mudah, kemudian cuba lagi. Pengenalpastian meliputi kira-kira 240 pokok dalam rumah dan balkoni: jika pokok anda tidak termasuk di antaranya, cari nama pokok tersebut dalam tab Explore, yang mengandungi 282 kad penjagaan."
+      },
+      {
+        "q": "Perperingatan menyiram saya tidak sampai, kenapa?",
+        "a": "Pertama sekali, pastikan notifikasi dibenarkan: Settings › Notifications › Verdure, kemudian aktifkan \"Allow Notifications\". Pastikan juga mod Focus atau Do Not Disturb tidak aktif pada masa peringatan. Verdure menghantar satu peringatan sehari, pada waktu yang anda pilih dalam Settings, termasuk semua penjagaan harian. Peringatan dijadualkan di peranti anda, tanpa server."
+      },
+      {
+        "q": "Apa yang termasuk dalam Verdure+ dan berapa harganya?",
+        "a": "Versi percuma memberikan 3 pengenal pasti setiap bulan, 2 tumbuhan yang dilacak dengan peringatan menyiram, semua petunjuk penjagaan, dan di kebun sayur, kalendar, petunjuk sayuran, serta satu batas tanaman. Verdure+ berharga 4,99 € sebulan, dengan percubaan percuma selama 7 hari: pengenal pasti dan tumbuhan tanpa had, doktor tumbuhan, peringatan baja, pindah tanam dan semburan, jurnal foto, serta di kebun batas tanaman tanpa had, rotasi tanaman, dan peringatan tanam serta penuaian."
+      },
+      {
+        "q": "Bagaimana saya membatalkan atau memulihkan langganan saya?",
+        "a": "Langganan dijual dan dikelola oleh Apple. Untuk membatalkan, buka Tetapan › nama anda › Langganan › Verdure, sekurang-kurangnya 24 jam sebelum tamat tempoh semasa. Di peranti baharu, sentuh \"Kembalikan Pembelian\" dalam Tetapan Verdure untuk mendapatkan semula langganan yang telah dibayar."
+      },
+      {
+        "q": "Adakah maklumat toksisiti boleh dipercayai?",
+        "a": "Ia diberi sebagai rujukan sahaja, berdasarkan sumber awam (terutama ASPCA untuk kucing dan anjing). Ia tidak menggantikan nasihat perubatan atau haiwan. Jika haiwan peliharaan atau kanak-kanak telah makan tumbuhan, segera hubungi doktor haiwan atau pusat toksisiti."
+      },
+      {
+        "q": "Dari mana foto-foto dalam petunjuk penjagaan ini datang?",
+        "a": "Foto rujukan diambil dari iNaturalist dan Wikimedia Commons di bawah lesen bebas, dan dimasukkan ke dalam aplikasi. Pencipta dan lesen setiap foto disenaraikan dalam Settings › Photo credits."
+      },
+      {
+        "q": "Di manakah tanaman dan gambar saya disimpan?",
+        "a": "Hanya pada peranti anda, dalam ruang peribadi Verdure. Tiada akaun atau pelayan. Memadam satu tanaman akan memadam data tersebut; menghapuskan aplikasi akan memadam semua data. Ia mungkin terdapat dalam sandaran iCloud atau iTunes peranti anda, yang boleh anda kawal dalam tetapan Apple."
+      }
+    ],
+    "privacy_summary": "Verdure tidak mengumpul sebarang data, tidak meminta akaun, dan tiada iklan atau penjejak. Pengenalpastian tanaman dilakukan pada peranti anda: gambar anda tidak akan dihantar ke mana-mana."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasan",
+        "blocks": [
+          {
+            "p": "Verdure tidak mengumpul data. Semua yang anda lakukan dalam aplikasi tetap pada iPhone atau iPad anda."
+          },
+          {
+            "ul": [
+              "Tiada akaun, tiada iklan, tiada penjejakan: Verdure tidak mempunyai alat analitik atau iklan, dan tidak mengenal pasti anda dalam sebarang cara."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Pengenalpastian tanaman pada peranti",
+        "blocks": [
+          {
+            "p": "Gambar yang anda ambil atau pilih akan dianalisis oleh model yang dipasang dalam aplikasi, tanpa sambungan. Ia tidak akan dihantar ke mana-mana."
+          }
+        ]
+      },
+      {
+        "h": "Kamera dan perpustakaan gambar",
+        "blocks": [
+          {
+            "p": "Kamera hanya digunakan untuk menentukan tumbuhan dalam aplikasi. Perpustakaan gambar hanya dibaca untuk gambar yang anda pilih sendiri (pengenalpastian, jurnal foto). Tiada apa-apa dibaca secara latar belakang."
+          }
+        ]
+      },
+      {
+        "h": "Tumbuhan anda, jurnal dan gambar",
+        "blocks": [
+          {
+            "p": "Semuanya disimpan dalam storan peribadi aplikasi di peranti anda. Menghapuskan (mengalih keluar tumbuhan, atau menghapuskan aplikasi) akan memadamkannya. Semuanya boleh dimasukkan ke dalam sandaran iCloud atau iTunes peranti anda, yang anda kawal sendiri dalam tetapan Apple."
+          }
+        ]
+      },
+      {
+        "h": "Notifikasi",
+        "blocks": [
+          {
+            "p": "Peringatan menyiram dan penjagaan dijadualkan pada peranti; tiada pelayan terlibat."
+          }
+        ]
+      },
+      {
+        "h": "Pembelian",
+        "blocks": [
+          {
+            "p": "Langganan Verdure+ dijual dan dikelolakan oleh Apple. Verdure tidak melihat kaedah pembayaran atau identiti anda; aplikasi hanya membaca, melalui App Store, sama ada langganan aktif untuk membuka ciri-ciri."
+          }
+        ]
+      },
+      {
+        "h": "Foto rujukan",
+        "blocks": [
+          {
+            "p": "Foto-foto dalam lembaran penjagaan diambil daripada iNaturalist dan Wikimedia Commons (lesen bebas) dan disertakan dalam aplikasi; kredit boleh dilihat di Settings › Photo credits."
+          }
+        ]
+      },
+      {
+        "h": "Kanak-kanak",
+        "blocks": [
+          {
+            "p": "Verdure tidak mengumpul sebarang data, termasuk daripada kanak-kanak."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika dasar ini berubah, versi baharu akan diterbitkan di halaman ini bersama tarikh kemaskini."
+          }
+        ]
+      },
+      {
+        "h": "Hubungi",
+        "blocks": [
+          {
+            "p": "Untuk sebarang pertanyaan mengenai dasar ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

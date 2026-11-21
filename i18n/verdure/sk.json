@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Spoznaj svoje rastliny, staraj sa o ne a pestuj si zeleninovú záhradu",
+    "contact": "Máš otázku, nápad alebo problém s aplikáciou? Napíš mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Ako rozpozná Verdure moje rastliny bez pripojenia k internetu?",
+        "a": "V aplikácii je zabudovaný model rozpoznávania. Keď odfotíš alebo vyberieš fotografiu, analyzuje sa priamo na tvojom iPhone alebo iPade: nič sa neposiela cez internet a všetko funguje aj v režime v lietadle. Ak si Verdure nie je istá, ponúkne ti viacero možností namiesto toho, aby sebavedomo hádala zle."
+      },
+      {
+        "q": "Verdure nevie rozpoznať moju rastlinu, čo mám robiť?",
+        "a": "Odfoť rastlinu pri dobrom svetle, tak aby bol dobre vidieť list alebo kvet, na jednoduchom pozadí, a skús to znova. Rozpoznávanie pokrýva približne 240 izbových a balkónových rastlín: ak tvoja rastlina medzi nimi nie je, vyhľadaj ju podľa názvu na karte Explore, kde je 282 kariet starostlivosti."
+      },
+      {
+        "q": "Moje pripomienky na polievanie nechodia, prečo?",
+        "a": "Najprv skontroluj, či sú povolené oznámenia: Nastavenia › Oznámenia › Verdure a zapni „Povoliť oznámenia“. Skontroluj aj to, či v čase pripomienky nie je aktívny režim Sústredenie alebo Nerušiť. Verdure posiela jednu pripomienku denne v čase, ktorý si vyberieš v Settings aplikácie, so všetkými úlohami starostlivosti na ten deň. Pripomienky sa plánujú priamo na tvojom zariadení, bez servera."
+      },
+      {
+        "q": "Čo obsahuje Verdure+ a koľko stojí?",
+        "a": "Bezplatná verzia ponúka 3 rozpoznania mesačne, 2 sledované rastliny s pripomienkami na polievanie, všetky karty starostlivosti a v zeleninovej záhrade kalendár, karty zeleniny a jednu záhonovú plochu. Verdure+ stojí 4,99 € mesačne so 7-dňovým bezplatným skúšobným obdobím: neobmedzené rozpoznávania a rastliny, lekár rastlín, pripomienky na hnojenie, presádzanie a rosenie, fotodenník a v zeleninovej záhrade neobmedzené záhony, striedanie plodín a pripomienky na siatie a zber."
+      },
+      {
+        "q": "Ako zrušiť alebo obnoviť svoje predplatné?",
+        "a": "Predplatné predáva a spravuje Apple. Ak ho chceš zrušiť, otvor Nastavenia › tvoje meno › Predplatné › Verdure, najneskôr 24 hodín pred koncom aktuálneho obdobia. Na novom zariadení ťukni na „Restore Purchases“ v Settings aplikácie Verdure a už zaplatené predplatné sa obnoví."
+      },
+      {
+        "q": "Sú informácie o toxicite spoľahlivé?",
+        "a": "Sú len orientačné a vychádzajú z verejných zdrojov (najmä ASPCA pre mačky a psy). Nenahrádzajú lekárske ani veterinárne odporúčanie. Ak tvoje zviera alebo dieťa zjedlo rastlinu, ihneď zavolaj veterinára alebo toxikologické informačné centrum."
+      },
+      {
+        "q": "Odkiaľ sú fotografie na kartách?",
+        "a": "Referenčné fotografie pochádzajú z iNaturalist a Wikimedia Commons pod voľnými licenciami a sú zabudované v aplikácii. Autor a licencia každej fotografie sú uvedené v Settings › Photo credits."
+      },
+      {
+        "q": "Kde sú uložené moje rastliny a fotky?",
+        "a": "Len na tvojom zariadení, v súkromnom úložisku aplikácie Verdure. Neexistuje žiadny účet ani server. Odstránením rastliny sa vymažú jej údaje; odstránením aplikácie sa vymaže všetko. Môžu byť súčasťou záloh iCloud alebo iTunes tvojho zariadenia, ktoré spravuješ v nastaveniach Apple."
+      }
+    ],
+    "privacy_summary": "Verdure nezhromažďuje žiadne údaje, nevyžaduje účet a neobsahuje reklamy ani sledovacie nástroje. Rozpoznávanie rastlín prebieha na tvojom zariadení: tvoje fotografie sa nikam neposielajú."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Krátko povedané",
+        "blocks": [
+          {
+            "p": "Verdure nezhromažďuje žiadne údaje. Všetko, čo v aplikácii robíš, zostáva na tvojom iPhone alebo iPade."
+          },
+          {
+            "ul": [
+              "Žiadny účet, žiadne reklamy, žiadne sledovanie: Verdure neobsahuje žiadne analytické ani reklamné nástroje a nijako ťa neidentifikuje."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Rozpoznávanie rastlín na zariadení",
+        "blocks": [
+          {
+            "p": "Fotky, ktoré si urobíš alebo vyberieš, sa analyzujú pomocou modelu nainštalovaného v aplikácii bez pripojenia. Nikam sa neodosielajú."
+          }
+        ]
+      },
+      {
+        "h": "Fotoaparát a knižnica fotografií",
+        "blocks": [
+          {
+            "p": "Fotoaparát sa používa iba na zacielenie na rastlinu v aplikácii. Knižnica fotografií sa číta len pre fotografie, ktoré si vyberieš sám (rozpoznávanie, fotodenník). Na pozadí sa nečíta nič."
+          }
+        ]
+      },
+      {
+        "h": "Tvoje rastliny, denník a fotky",
+        "blocks": [
+          {
+            "p": "Sú uložené v súkromnom úložisku aplikácie na tvom zariadení. Odstránením rastliny alebo odstránením aplikácie sa vymažú. Môžu byť súčasťou záloh iCloud alebo iTunes tvojho zariadenia, ktoré spravuješ sám v nastaveniach Apple."
+          }
+        ]
+      },
+      {
+        "h": "Oznámenia",
+        "blocks": [
+          {
+            "p": "Pripomienky na polievanie a starostlivosť sa plánujú na zariadení; nezapája sa žiadny server."
+          }
+        ]
+      },
+      {
+        "h": "Nákupy",
+        "blocks": [
+          {
+            "p": "Predplatné Verdure+ predáva a spravuje Apple. Verdure nevidí ani tvoj spôsob platby, ani tvoju identitu; aplikácia len cez App Store zisťuje, či je predplatné aktívne, aby odomkla funkcie."
+          }
+        ]
+      },
+      {
+        "h": "Referenčné fotografie",
+        "blocks": [
+          {
+            "p": "Fotografie na kartách starostlivosti pochádzajú z iNaturalist a Wikimedia Commons (voľné licencie) a sú súčasťou aplikácie; zdroje nájdeš v Settings › Photo credits."
+          }
+        ]
+      },
+      {
+        "h": "Deti",
+        "blocks": [
+          {
+            "p": "Verdure nezhromažďuje žiadne údaje, ani od detí."
+          }
+        ]
+      },
+      {
+        "h": "Zmeny",
+        "blocks": [
+          {
+            "p": "Ak sa táto politika zmení, nová verzia bude zverejnená na tejto stránke spolu s dátumom aktualizácie."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Ak máš akúkoľvek otázku k týmto zásadám: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

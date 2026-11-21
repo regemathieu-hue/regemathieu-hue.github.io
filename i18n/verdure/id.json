@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Kenali tanamanmu, rawatlah, kembangkan kebun sayurmu",
+    "contact": "Pertanyaan, ide, atau masalah dengan aplikasi? Tulis padaku:<br>{email}",
+    "faq": [
+      {
+        "q": "Bagaimana Verdure mengenali tanamanku tanpa koneksi internet?",
+        "a": "Model pengenalan telah diinstal dalam aplikasi. Saat kamu mengambil atau memilih foto, analisis dilakukan langsung di iPhone atau iPad-mu: tidak ada yang dikirim ke internet, dan semuanya tetap berfungsi bahkan dalam mode pesawat. Jika Verdure ragu, ia akan menawarkan beberapa pilihan alih-alih menebak salah dengan yakin."
+      },
+      {
+        "q": "Verdure tidak mengenali tanamanku, apa yang harus kulakukan?",
+        "a": "Ambil foto di tempat yang terang, dengan daun atau bunga yang terlihat jelas dan latar belakang polos, lalu coba lagi. Pengenalan mencakup sekitar 240 tanaman hias dalam ruangan dan balkon: jika tanamanmu tidak termasuk, cari namanya di tab Explore, yang berisi 282 kartu perawatan."
+      },
+      {
+        "q": "Pengingat siramanku tidak sampai, mengapa?",
+        "a": "Pertama, pastikan notifikasi diizinkan: Pengaturan › Notifikasi › Verdure, lalu aktifkan \"Izinkan Notifikasi\". Periksa juga apakah mode Fokus atau Jangan Ganggu tidak aktif saat waktu pengingat. Verdure mengirim satu pengingat per hari, pada waktu yang kamu pilih di Settings aplikasi, berisi semua perawatan hari itu. Pengingat dijadwalkan langsung di perangkatmu, tanpa server."
+      },
+      {
+        "q": "Verdure+ mencakup apa saja dan berapa harganya?",
+        "a": "Versi gratis memberimu 3 pengenalan per bulan, 2 tanaman dengan pengingat penyiraman, semua kartu perawatan, serta di kebun sayur kalender, kartu sayuran, dan satu bedengan. Verdure+ berharga €4,99 per bulan, dengan percobaan gratis 7 hari: pengenalan dan tanaman tanpa batas, dokter tanaman, pengingat pemupukan, penggantian pot, dan penyemprotan, jurnal foto, serta di kebun sayur bedengan tanpa batas, rotasi tanaman, dan pengingat penyemaian serta panen."
+      },
+      {
+        "q": "Bagaimana cara membatalkan atau memulihkan langgananku?",
+        "a": "Langganan dijual dan dikelola oleh Apple. Untuk menghentikan langganan, buka Pengaturan › namamu › Langganan › Verdure, setidaknya 24 jam sebelum akhir periode berjalan. Di perangkat baru, ketuk \"Restore Purchases\" di Pengaturan Verdure untuk memulihkan langganan yang sudah dibayar."
+      },
+      {
+        "q": "Apakah informasi toksisitasnya akurat?",
+        "a": "Informasinya hanya bersifat petunjuk berdasarkan sumber publik (terutama ASPCA untuk kucing dan anjing). Ini tidak menggantikan nasihat medis atau dokter hewan. Jika hewan peliharaanmu atau anak kecil memakan tanaman, segera hubungi dokter hewan atau pusat pengendalian racun."
+      },
+      {
+        "q": "Dari mana foto-foto pada petunjuk perawatan berasal?",
+        "a": "Foto referensi berasal dari iNaturalist dan Wikimedia Commons dengan lisensi bebas, dan sudah tertanam di aplikasi. Pembuat dan lisensi setiap foto tercantum di Settings › Photo credits."
+      },
+      {
+        "q": "Di mana tanaman dan fotoku disimpan?",
+        "a": "Hanya di perangkatmu, dalam ruang pribadi Verdure. Tidak ada akun atau server. Menghapus tanaman akan menghapus datanya; menghapus aplikasi akan menghapus semuanya. Itu bisa termasuk dalam cadangan iCloud atau iTunes perangkatmu, yang dapat kamu kelola di pengaturan Apple."
+      }
+    ],
+    "privacy_summary": "Verdure tidak mengumpulkan data apa pun, tidak meminta akun, dan tidak memiliki iklan atau pelacak. Pengenalan tanaman dilakukan di perangkatmu: foto kamu tidak dikirim ke mana pun."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Singkatnya",
+        "blocks": [
+          {
+            "p": "Verdure tidak mengumpulkan data. Semua yang kamu lakukan dalam aplikasi tetap di iPhone atau iPad kamu."
+          },
+          {
+            "ul": [
+              "Tidak ada akun, tidak ada iklan, tidak ada pelacakan: Verdure tidak memiliki alat analitik atau iklan, dan tidak mengidentifikasi kamu dengan cara apa pun."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Pengenalan tanaman di perangkat",
+        "blocks": [
+          {
+            "p": "Foto yang kamu ambil atau pilih dianalisis oleh model yang diinstal dalam aplikasi, tanpa koneksi. Foto tersebut tidak dikirim ke mana pun."
+          }
+        ]
+      },
+      {
+        "h": "Kamera dan perpustakaan foto",
+        "blocks": [
+          {
+            "p": "Kamera hanya digunakan untuk mengarahkan ke tanaman dalam aplikasi. Perpustakaan foto hanya dibaca untuk foto yang kamu pilih sendiri (pengenalan, jurnal foto). Tidak ada yang dibaca di latar belakang."
+          }
+        ]
+      },
+      {
+        "h": "Tanamanmu, jurnalmu, dan fotomu",
+        "blocks": [
+          {
+            "p": "Semuanya disimpan dalam penyimpanan pribadi aplikasi, di perangkatmu. Menghapusnya (menghilangkan tanaman atau menghapus aplikasi) akan menghapus data tersebut. Semuanya dapat termasuk dalam cadangan iCloud atau iTunes perangkatmu, yang kamu kelola sendiri di pengaturan Apple."
+          }
+        ]
+      },
+      {
+        "h": "Notifikasi",
+        "blocks": [
+          {
+            "p": "Pengingat penyiraman dan perawatan dijadwalkan langsung di perangkat; tidak ada server yang terlibat."
+          }
+        ]
+      },
+      {
+        "h": "Pembelian",
+        "blocks": [
+          {
+            "p": "Langganan Verdure+ dijual dan dikelola oleh Apple. Verdure tidak melihat metode pembayaran atau identitasmu; aplikasi hanya membaca, melalui App Store, apakah langganan aktif untuk membuka fitur-fitur tersebut."
+          }
+        ]
+      },
+      {
+        "h": "Foto referensi",
+        "blocks": [
+          {
+            "p": "Foto-foto pada lembar perawatan berasal dari iNaturalist dan Wikimedia Commons (lisensi bebas) dan disertakan dalam aplikasi; kredit foto dapat dilihat di Settings › Photo credits."
+          }
+        ]
+      },
+      {
+        "h": "Anak-anak",
+        "blocks": [
+          {
+            "p": "Verdure tidak mengumpulkan data apa pun, termasuk dari anak-anak."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika kebijakan ini berubah, versi terbaru akan diterbitkan di halaman ini beserta tanggal pembaruan."
+          }
+        ]
+      },
+      {
+        "h": "Kontak",
+        "blocks": [
+          {
+            "p": "Untuk pertanyaan apa pun mengenai kebijakan ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

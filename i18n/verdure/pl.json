@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Identyfikuj swoje rośliny, opiekuj się nimi, hoduj swój ogródek warzywny",
+    "contact": "Masz pytanie, pomysł lub problem z aplikacją? Napisz mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Jak Verdure rozpoznaje moje rośliny bez połączenia internetowego?",
+        "a": "W aplikacji jest wbudowany model rozpoznawania. Gdy robisz lub wybierasz zdjęcie, jest ono analizowane bezpośrednio na Twoim iPhonie lub iPadzie: nic nie jest wysyłane do internetu, a wszystko działa nawet w trybie samolotowym. Gdy Verdure nie jest pewna, proponuje kilka opcji zamiast pewnie się mylić."
+      },
+      {
+        "q": "Verdure nie rozpoznaje mojej rośliny, co mam zrobić?",
+        "a": "Zrób zdjęcie w dobrym świetle, tak aby wyraźnie widać było liść lub kwiat, na prostym tle, i spróbuj ponownie. Rozpoznawanie obejmuje około 240 roślin doniczkowych i balkonowych: jeśli Twojej rośliny nie ma wśród nich, wyszukaj ją po nazwie w zakładce Explore, w której jest 282 kart pielęgnacji."
+      },
+      {
+        "q": "Moje przypomnienia o podlewaniu nie przychodzą, dlaczego?",
+        "a": "Najpierw sprawdź, czy powiadomienia są dozwolone: Ustawienia › Powiadomienia › Verdure, a następnie włącz „Zezwalaj na powiadomienia”. Sprawdź też, czy w momencie przypomnienia nie jest aktywny tryb Skupienia ani Nie przeszkadzać. Verdure wysyła jedno przypomnienie dziennie, o godzinie wybranej w Settings aplikacji, ze wszystkimi zadaniami pielęgnacyjnymi na ten dzień. Przypomnienia są planowane na Twoim urządzeniu, bez serwera."
+      },
+      {
+        "q": "Co to jest Verdure+ i ile kosztuje?",
+        "a": "Wersja bezpłatna daje 3 rozpoznania miesięcznie, 2 rośliny z przypomnieniami o podlewaniu, wszystkie karty pielęgnacji oraz w ogrodzie warzywnym kalendarz, karty warzyw i jedną grządkę. Verdure+ kosztuje 4,99 € miesięcznie, z 7-dniowym bezpłatnym okresem próbnym: nieograniczone rozpoznania i rośliny, lekarz roślin, przypomnienia o nawożeniu, przesadzaniu i zraszaniu, dziennik zdjęć, a w ogrodzie warzywnym nieograniczona liczba grządek, płodozmian oraz przypomnienia o siewie i zbiorach."
+      },
+      {
+        "q": "Jak anulować lub przywrócić subskrypcję?",
+        "a": "Subskrypcję sprzedaje i zarządza nią Apple. Aby ją anulować, otwórz Ustawienia › Twoje imię i nazwisko › Subskrypcje › Verdure, co najmniej 24 godziny przed końcem bieżącego okresu. Na nowym urządzeniu dotknij „Restore Purchases” w Settings aplikacji Verdure, aby odzyskać już opłaconą subskrypcję."
+      },
+      {
+        "q": "Czy informacje o toksyczności są wiarygodne?",
+        "a": "Mają charakter orientacyjny i opierają się na publicznych źródłach (zwłaszcza ASPCA dla kotów i psów). Nie zastępują porady lekarskiej ani weterynaryjnej. Jeśli Twoje zwierzę lub dziecko zjadło roślinę, natychmiast zadzwoń do weterynarza lub do ośrodka zatruć."
+      },
+      {
+        "q": "Skąd pochodzą zdjęcia na kartach pielęgnacji?",
+        "a": "Zdjęcia referencyjne pochodzą z iNaturalist i Wikimedia Commons na wolnych licencjach i są wbudowane w aplikację. Autor i licencja każdego zdjęcia są podane w Settings › Photo credits."
+      },
+      {
+        "q": "Gdzie są przechowywane moje rośliny i zdjęcia?",
+        "a": "Tylko na Twoim urządzeniu, w prywatnym obszarze aplikacji Verdure. Nie ma konta ani serwera. Usunięcie rośliny kasuje jej dane; usunięcie aplikacji kasuje wszystko. Mogą one znajdować się w kopii zapasowej iCloud lub iTunes Twojego urządzenia, którą zarządzasz w ustawieniach Apple."
+      }
+    ],
+    "privacy_summary": "Verdure nie zbiera żadnych danych, nie wymaga konta i nie zawiera reklam ani śledzenia. Rozpoznawanie roślin odbywa się na Twoim urządzeniu: Twoje zdjęcia nie są nigdzie wysyłane."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Podsumowując",
+        "blocks": [
+          {
+            "p": "Verdure nie zbiera żadnych danych. Wszystko, co robisz w aplikacji, zostaje na Twoim iPhonie lub iPadzie."
+          },
+          {
+            "ul": [
+              "Brak konta, brak reklam, brak śledzenia: Verdure nie zawiera narzędzi analitycznych ani reklamowych i nie identyfikuje Ciebie w żaden sposób."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Rozpoznawanie roślin na urządzeniu",
+        "blocks": [
+          {
+            "p": "Zdjęcia, które robisz lub wybierasz, są analizowane przez model zainstalowany w aplikacji, bez połączenia internetowego. Nie są one nigdzie wysyłane."
+          }
+        ]
+      },
+      {
+        "h": "Aparat fotograficzny i biblioteka zdjęć",
+        "blocks": [
+          {
+            "p": "Aparat służy wyłącznie do skierowania na roślinę w aplikacji. Biblioteka zdjęć jest odczytywana tylko dla zdjęć, które sam wybierasz (rozpoznawanie, dziennik zdjęć). Nic nie jest odczytywane w tle."
+          }
+        ]
+      },
+      {
+        "h": "Twoje rośliny, dziennik i zdjęcia",
+        "blocks": [
+          {
+            "p": "Są przechowywane w prywatnej pamięci aplikacji na Twoim urządzeniu. Usunięcie rośliny lub aplikacji je kasuje. Mogą być zawarte w kopiach zapasowych iCloud lub iTunes Twojego urządzenia, którymi zarządzasz sam w ustawieniach Apple."
+          }
+        ]
+      },
+      {
+        "h": "Powiadomienia",
+        "blocks": [
+          {
+            "p": "Przypomnienia o podlewaniu i opiece są planowane na urządzeniu; żaden serwer nie jest zaangażowany."
+          }
+        ]
+      },
+      {
+        "h": "Zakupy",
+        "blocks": [
+          {
+            "p": "Subskrypcja Verdure+ jest sprzedawana i zarządzana przez Apple. Verdure nie widzi ani Twojego sposobu płatności, ani Twojej tożsamości; aplikacja tylko sprawdza poprzez App Store, czy subskrypcja jest aktywna, aby odblokować funkcje."
+          }
+        ]
+      },
+      {
+        "h": "Zdjęcia referencyjne",
+        "blocks": [
+          {
+            "p": "Zdjęcia na kartach pielęgnacji pochodzą z iNaturalist i Wikimedia Commons (wolne licencje) i są wbudowane w aplikację; informacje o autorach znajdują się w Settings › Photo credits."
+          }
+        ]
+      },
+      {
+        "h": "Dzieci",
+        "blocks": [
+          {
+            "p": "Verdure nie zbiera żadnych danych, w tym od dzieci."
+          }
+        ]
+      },
+      {
+        "h": "Zmiany",
+        "blocks": [
+          {
+            "p": "W przypadku zmiany tej polityki nowa wersja zostanie opublikowana na tej stronie z datą aktualizacji."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "W przypadku pytań dotyczących tej polityki: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "support": {
+    "subtitle": "Genkend dine planter, pas dem og dyrk din køkkenhave",
+    "contact": "Har du et spørgsmål, en idé eller et problem med appen? Skriv til mig:<br>{email}",
+    "faq": [
+      {
+        "q": "Hvordan genkender Verdure mine planter uden forbindelse?",
+        "a": "En genkendelsesmodel er indbygget i appen. Når du tager eller vælger et foto, analyseres det direkte på din iPhone eller iPad: intet sendes over internettet, og alt virker selv i flytilstand. Når Verdure er usikker, foreslår den flere muligheder i stedet for at gætte forkert."
+      },
+      {
+        "q": "Verdure genkender ikke min plante, hvad skal jeg gøre?",
+        "a": "Tag billedet i godt lys med et tydeligt blad eller en tydelig blomst og en enkel baggrund, og prøv igen. Genkendelsen dækker omkring 240 stue- og altanplanter: hvis din plante ikke er iblandt dem, så søg efter den med navn i fanen Explore, som indeholder 282 plejekort."
+      },
+      {
+        "q": "Mine vandingspåmindelser kommer ikke, hvorfor?",
+        "a": "Tjek først, at notifikationer er tilladt: Indstillinger › Notifikationer › Verdure, og slå \"Tillad notifikationer\" til. Tjek også, at en fokustilstand eller Forstyr ikke ikke er aktiv, når påmindelsen skal komme. Verdure sender én påmindelse om dagen på det tidspunkt, du vælger i appens Settings, med alle dagens plejeopgaver. Påmindelserne planlægges på din enhed uden server."
+      },
+      {
+        "q": "Hvad er medtaget i Verdure+ og hvor meget koster det?",
+        "a": "Den gratis version giver dig 3 genkendelser om måneden, 2 planter med vandingspåmindelser, alle plejekort og i køkkenhaven kalenderen, grøntsagskortene og ét bed. Verdure+ koster 4,99 € om måneden med 7 dages gratis prøveperiode: ubegrænset antal genkendelser og planter, plantedoktoren, påmindelser om gødning, omplantning og forstøvning, fotodagbog og i køkkenhaven ubegrænsede bede, sædskifte og påmindelser om såning og høst."
+      },
+      {
+        "q": "Hvordan opsiger eller gendanner jeg mit abonnement?",
+        "a": "Abonnementet sælges og administreres af Apple. For at opsige det skal du åbne Indstillinger › dit navn › Abonnementer › Verdure mindst 24 timer før udgangen af den aktuelle periode. På en ny enhed skal du trykke på \"Restore Purchases\" i Verdures Settings for at få et allerede betalt abonnement tilbage."
+      },
+      {
+        "q": "Er informationerne om giftighed pålidelige?",
+        "a": "De er kun vejledende og bygger på offentlige kilder (især ASPCA for katte og hunde). De erstatter ikke læge- eller dyrlægerådgivning. Hvis dit kæledyr eller et barn har spist en plante, så ring straks til din dyrlæge eller Giftlinjen."
+      },
+      {
+        "q": "Hvor kommer billederne på plejekortene fra?",
+        "a": "Referencebillederne kommer fra iNaturalist og Wikimedia Commons under frie licenser og er indbygget i appen. Fotograf og licens for hvert billede står i Settings › Photo credits."
+      },
+      {
+        "q": "Hvor er mine planter og billeder gemt?",
+        "a": "Kun på din enhed, i Verdures private lager. Der er ingen konto og ingen server. Når du sletter en plante, slettes dens data; når du sletter appen, slettes alt. De kan indgå i din enheds sikkerhedskopier i iCloud eller iTunes, som du styrer i Apples indstillinger."
+      }
+    ],
+    "privacy_summary": "Verdure samler ingen data, kræver ingen konto og indeholder hverken reklamer eller sporing. Planteigenkendelse foregår på din enhed: dine billeder sendes aldrig nogen steder hen."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort sagt",
+        "blocks": [
+          {
+            "p": "Verdure samler ingen data. Alt, du gør i app’en, forbliver på din iPhone eller iPad."
+          },
+          {
+            "ul": [
+              "Ingen konto, ingen reklamer, ingen sporing: Verdure indeholder hverken analysetools eller reklamer og identificerer dig ikke på nogen måde."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Planteigenkendelse på din enhed",
+        "blocks": [
+          {
+            "p": "Billeder, du tager eller vælger, analyseres af en model installeret i app’en, uden forbindelse. De sendes aldrig nogen steder hen."
+          }
+        ]
+      },
+      {
+        "h": "Kamera og fotobibliotek",
+        "blocks": [
+          {
+            "p": "Kameraet bruges kun til at fokusere på en plante i appen. Fotobiblioteket læses kun for de fotos, du selv vælger (genkendelse, fotojournal). Intet læses i baggrunden."
+          }
+        ]
+      },
+      {
+        "h": "Dine planter, dit journal og dine fotos",
+        "blocks": [
+          {
+            "p": "De gemmes i appens private lager på din enhed. Når du fjerner en plante eller sletter appen, slettes de. De kan indgå i din enheds sikkerhedskopier i iCloud eller iTunes, som du selv styrer i Apples indstillinger."
+          }
+        ]
+      },
+      {
+        "h": "Notifikationer",
+        "blocks": [
+          {
+            "p": "Påmindelser om vanding og pleje planlægges på enheden; ingen server er involveret."
+          }
+        ]
+      },
+      {
+        "h": "Køb",
+        "blocks": [
+          {
+            "p": "Abonnementet Verdure+ sælges og håndteres af Apple. Verdure ser hverken dit betalingsmiddel eller din identitet; appen læser kun via App Store, om et abonnement er aktivt, for at låse funktioner op."
+          }
+        ]
+      },
+      {
+        "h": "Referencebilleder",
+        "blocks": [
+          {
+            "p": "Billederne på plejekortene kommer fra iNaturalist og Wikimedia Commons (frie licenser) og er indbygget i appen; kreditering findes i Settings › Photo credits."
+          }
+        ]
+      },
+      {
+        "h": "Børn",
+        "blocks": [
+          {
+            "p": "Verdure samler ingen data, også ikke fra børn."
+          }
+        ]
+      },
+      {
+        "h": "Ændringer",
+        "blocks": [
+          {
+            "p": "Hvis denne politik ændres, vil den nye version blive offentliggjort på denne side med dens opdateringsdato."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Hvis du har spørgsmål om denne politik: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}
