@@ -1,0 +1,142 @@
+{
+  "support": {
+    "subtitle": "Zdravotný záznam vašich zvierat",
+    "contact": "Máte otázku, nápad alebo problém s aplikáciou? Napíšte mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Nahrádza Pattoune veterinára?",
+        "a": "Nie. Pattoune je záznamník: uchováva záznamy o očkovaniach, liečbe, váženiach a starostlivosti a pripomína blížiace sa termíny. Navrhované intervaly sú bežné odporúčania, ktoré je potrebné overiť u veterinára. Aplikácia neposkytuje žiadne lekárske rady."
+      },
+      {
+        "q": "Ako zdieľam záznamy so svojou domácnosťou?",
+        "a": "Otvorte kartu zvieraťa a potom ťuknite na „Share with My Household“. Pozvaná osoba vidí a dopĺňa ten istý záznam zo svojho iPhonu s vlastným účtom iCloud. Zdieľanie prebieha cez iCloud: na oboch zariadeniach musíte byť prihlásení do iCloudu."
+      },
+      {
+        "q": "Môžu dve osoby omylom podať tú istú tabletku?",
+        "a": "Pattoune vás upozorní: ak už niekto z domácnosti dávku zaznamenal, aplikácia zobrazí „Already given by…“ s časom a pred zaznamenaním ďalšej dávky vás požiada o potvrdenie. Pripomienky podania liekov sa predvolene ozvú na zariadení, ktoré liečbu vytvorilo."
+      },
+      {
+        "q": "Čo obsahuje Pattoune Premium?",
+        "a": "Bezplatná verzia umožňuje sledovať jedno zviera: zdravotný záznam, liečby a pripomienky, hmotnosť, stravu, bežnú starostlivosť, plagát „stratené zviera“ a Siri. Premium pridáva neobmedzený počet zvierat, zdieľanie s domácnosťou, prechádzky, zásoby, zdravotný denník, kartu pre opatrovateľa, výdavky, rast, export do PDF, dokumenty a widgety. Ak predplatné skončí, nič sa nevymaže: vaše údaje zostanú čitateľné."
+      },
+      {
+        "q": "Ako zruším alebo obnovím svoje predplatné?",
+        "a": "Predplatné spravujete v nastaveniach svojho účtu App Store: otvorte Pattoune › „Settings“ › „Manage My Subscription“. Na novom zariadení ťuknite v okne Premium na „Restore“, aby ste obnovili už zaplatené predplatné."
+      },
+      {
+        "q": "Prečo aplikácia žiada moju polohu?",
+        "a": "Iba na zaznamenanie prechádzky, ktorú sami spustíte. Poloha sa sleduje počas prechádzky, aj pri zamknutej obrazovke, a potom sa GPS vypne. Ak chcete uchovať iba trvanie a vzdialenosť, vypnite „Keep walk routes“ v „Settings“."
+      },
+      {
+        "q": "Moje zvieratko je stratené: čo mám robiť pomocou aplikácie?",
+        "a": "Na karte zvieraťa ťuknite na „My pet is lost“: Pattoune vytvorí plagát s fotografiou zvieraťa, číslom mikročipu, charakteristickými znakmi a vaším telefónnym číslom, pripravený na tlač alebo zdieľanie. Táto funkcia je bezplatná."
+      },
+      {
+        "q": "Ako prejdem na nový iPhone bez straty údajov?",
+        "a": "Vaše údaje sú v iCloude: prihláste sa na novom iPhone rovnakým účtom iCloud a nainštalujte Pattoune, záznam sa vráti sám. Záznam môžete exportovať aj ako text alebo PDF cez „Export record“."
+      },
+      {
+        "q": "Ako odstránim svoje údaje?",
+        "a": "Odstráňte zviera z jeho karty: všetko, čo sa ho týka, sa vymaže. Odstránenie aplikácie nestačí, pretože údaje zostávajú vo vašom iCloude: ak chcete vymazať všetko, otvorte Nastavenia › vaše meno › iCloud › Spravovať úložisko a potom Pattoune."
+      }
+    ],
+    "privacy_summary": "Pattoune nezbiera žiadne osobné údaje a neobsahuje reklamy ani sledovacie nástroje. Vaše údaje zostávajú na vašich zariadeniach a vo vašom iCloude; vývojár k nim nemá prístup."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Krátko povedané",
+        "blocks": [
+          {
+            "p": "Pattoune nezbiera žiadne osobné údaje. Aplikácia nemá server a nevyžaduje účet: vaše údaje sú uložené na vašich zariadeniach a vo vašom vlastnom iCloude a vývojár k nim nemá prístup."
+          }
+        ]
+      },
+      {
+        "h": "Vaše údaje",
+        "blocks": [
+          {
+            "p": "Aplikácia ukladá to, čo zadáte o svojich zvieratách: kartu (meno, fotografia, mikročip, veterinár, poistenie…), starostlivosť a očkovania, liečby a podania, hmotnosť, stravu, zásoby, zdravotný denník s jeho fotografiami, prechádzky, výdavky a dokumenty."
+          },
+          {
+            "p": "Tieto údaje sa medzi vašimi zariadeniami synchronizujú cez iCloud (súkromná databáza vášho účtu spravovaná spoločnosťou Apple). Nikdy neprechádzajú cez žiadny server vývojára."
+          }
+        ]
+      },
+      {
+        "h": "Zdieľanie s domácnosťou",
+        "blocks": [
+          {
+            "p": "Ak zdieľate zviera, pozvané osoby vidia a upravujú všetko, čo sa ho týka, vrátane trás prechádzok. Zdieľanie prebieha cez iCloud; môžete ho kedykoľvek zastaviť z karty zvieraťa a každý pozvaný ho môže opustiť."
+          }
+        ]
+      },
+      {
+        "h": "Poloha",
+        "blocks": [
+          {
+            "p": "Poloha sa používa iba počas prechádzky, ktorú spustíte, aj pri zamknutej obrazovke, a potom sa GPS vypne. Trasa sa ukladá spolu s prechádzkou vo vašom iCloude; nikdy sa neposiela vývojárovi."
+          },
+          {
+            "ul": [
+              "V „Settings“ aplikácie vám „Keep walk routes“ umožňuje uchovať iba trvanie a vzdialenosť.",
+              "Povolenie môžete kedykoľvek odvolať v Nastavenia › Súkromie a zabezpečenie › Polohové služby."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Fotky, fotoaparát a oznámenia",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fotky</strong>: importujú sa iba tie fotky, ktoré si vyberiete (fotka zvieratka, denník, dokumenty).",
+              "<strong>Fotoaparát</strong>: slúži na skenovanie vašich dokumentov na vašu žiadosť.",
+              "<strong>Oznámenia</strong>: pripomienky sa plánujú na vašom zariadení; nepoužíva sa žiadna externá služba oznámení."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Siri, widgety a exporty",
+        "blocks": [
+          {
+            "p": "Požiadavky pre Siri spracúva Apple podľa vlastných pravidiel. Widgety čítajú súhrn uložený vo vašom zariadení. Exporty (text, PDF, plagát „stratené zviera“, karta pre opatrovateľa) opustia aplikáciu iba vtedy, ak ich zdieľate cez nástroje iOS; vtedy sa na ne vzťahujú podmienky zvolenej služby."
+          }
+        ]
+      },
+      {
+        "h": "Nákupy, reklamy a sledovanie",
+        "blocks": [
+          {
+            "p": "Predplatné Pattoune Premium je predávané a spravované spoločnosťou Apple; vývojár nedostane žiadne údaje o platbe. Aplikácia neobsahuje žiadnu reklamu, žiadne sledovacie nástroje ani žiadne nástroje na analýzu alebo štatistiky používania."
+          }
+        ]
+      },
+      {
+        "h": "Deti",
+        "blocks": [
+          {
+            "p": "Aplikácia nezbiera žiadne údaje a je vhodná pre všetky vekové kategórie."
+          }
+        ]
+      },
+      {
+        "h": "Zmeny",
+        "blocks": [
+          {
+            "p": "Ak sa táto politika zmení, nová verzia bude zverejnená na tejto stránke spolu s dátumom aktualizácie."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Ak máte akékoľvek otázky k tejto politike: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

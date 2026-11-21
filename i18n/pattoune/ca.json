@@ -1,0 +1,142 @@
+{
+  "support": {
+    "subtitle": "El carnet de salut dels vostres animals",
+    "contact": "Una pregunta, una idea o un problema amb l'aplicació? Escriviu-me:<br>{email}",
+    "faq": [
+      {
+        "q": "Pattoune substitueix el veterinari?",
+        "a": "No. Pattoune és un carnet: guarda el registre de les vacunes, els tractaments, les pesades i les cures, i us recorda les properes dates. Els intervals proposats són suggeriments habituals, que cal confirmar amb el vostre veterinari. L'aplicació no ofereix cap consell mèdic."
+      },
+      {
+        "q": "Com comparteixo el carnet amb la meva llar?",
+        "a": "Obriu la fitxa de l'animal i, després, «Share with My Household». La persona convidada veu i completa el mateix carnet des del seu iPhone, amb el seu propi compte d'iCloud. La compartició passa per iCloud: cal tenir iCloud activat als dos dispositius."
+      },
+      {
+        "q": "Poden dues persones donar el mateix comprimit per error?",
+        "a": "Pattoune us ho adverteix: si algú de la llar ja ha registrat la presa, l'aplicació mostra «Already given by…» amb l'hora i us demana confirmació abans de registrar-ne una altra. Els recordatoris de presa sonen per defecte al dispositiu que va crear el tractament."
+      },
+      {
+        "q": "Què inclou Pattoune Premium?",
+        "a": "La versió gratuïta permet fer el seguiment d'un animal: carnet de salut, tractaments i recordatoris, pes, alimentació, cures de manteniment, fitxa «animal perdut» i Siri. Premium afegeix animals il·limitats, la compartició amb la llar, les passejades, els estocs, el diari de salut, la fitxa de cuidador, les despeses, el creixement, l'exportació en PDF, els documents i els ginys. Si l'abonament s'atura, no s'esborra res: les vostres dades continuen sent llegibles."
+      },
+      {
+        "q": "Com puc cancel·lar o restaurar el meu abonament?",
+        "a": "L'abonament es gestiona als ajustos del vostre compte de l'App Store: obriu Pattoune › «Settings» › «Manage My Subscription». En un dispositiu nou, toqueu «Restore» a la finestra de Premium per recuperar un abonament ja pagat."
+      },
+      {
+        "q": "Per què demana l'aplicació la meva posició?",
+        "a": "Només per registrar una passejada que inicieu vosaltres mateixos. La posició es fa servir durant la passejada, fins i tot amb la pantalla bloquejada, i després el GPS s'atura. Podeu conservar només la durada i la distància desactivant «Keep walk routes» a «Settings»."
+      },
+      {
+        "q": "El meu animal està perdut: què puc fer amb l'aplicació?",
+        "a": "A la fitxa de l'animal, toqueu «My pet is lost»: Pattoune crea un cartell amb la seva foto, el número de microxip, els signes distintius i el vostre telèfon, a punt per imprimir o compartir. Aquesta funció és gratuïta."
+      },
+      {
+        "q": "Com canvio d'iPhone sense perdre les meves dades?",
+        "a": "Les vostres dades són a l'iCloud: inicieu la sessió amb el mateix compte d'iCloud al nou iPhone i instal·leu Pattoune, i el carnet torna tot sol. També podeu exportar el carnet en text o en PDF des de «Export record»."
+      },
+      {
+        "q": "Com esborro les meves dades?",
+        "a": "Suprimiu un animal des de la seva fitxa: s'esborra tot el que li concerneix. No n'hi ha prou de suprimir l'aplicació, perquè les dades continuen a l'iCloud: per esborrar-ho tot, obriu Ajustos › el vostre nom › iCloud › Gestiona l'emmagatzematge i, després, Pattoune."
+      }
+    ],
+    "privacy_summary": "Pattoune no recull cap dada personal i no conté publicitat ni rastrejadors. Les vostres dades es queden als vostres dispositius i a l'iCloud; el desenvolupador no hi té accés."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resum",
+        "blocks": [
+          {
+            "p": "Pattoune no recull cap dada personal. L'aplicació no té servidor ni demana cap compte: les vostres dades es desen als vostres dispositius i al vostre propi iCloud, i el desenvolupador no hi té accés."
+          }
+        ]
+      },
+      {
+        "h": "Les vostres dades",
+        "blocks": [
+          {
+            "p": "L'aplicació desa el que introduïu sobre els vostres animals: fitxa (nom, foto, microxip, veterinari, assegurança…), cures i vacunes, tractaments i preses, pes, alimentació, estocs, diari de salut i les seves fotos, passejades, despeses i documents."
+          },
+          {
+            "p": "Aquestes dades se sincronitzen entre els vostres dispositius mitjançant iCloud (base de dades privada del vostre compte, gestionada per Apple). No passen per cap servidor del desenvolupador."
+          }
+        ]
+      },
+      {
+        "h": "Compartició amb la llar",
+        "blocks": [
+          {
+            "p": "Si compartiu un animal, les persones convidades veuen i modifiquen tot el que li concerneix, inclòs el traçat de les passejades. La compartició passa per iCloud; podeu aturar-la en qualsevol moment des de la fitxa de l'animal, i cada persona convidada pot sortir-ne."
+          }
+        ]
+      },
+      {
+        "h": "Localització",
+        "blocks": [
+          {
+            "p": "La localització només s'utilitza durant una passejada que inicieu, fins i tot amb la pantalla bloquejada, i després el GPS s'atura. El traçat es desa amb la passejada al vostre iCloud; mai no s'envia al desenvolupador."
+          },
+          {
+            "ul": [
+              "A «Settings» de l'aplicació, «Keep walk routes» permet conservar només la durada i la distància.",
+              "Podeu retirar l'autorització en qualsevol moment a Ajustos › Privadesa i seguretat › Serveis de localització."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Fotos, càmera i notificacions",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fotos</strong>: només s'importen les fotos que trieu (foto de l'animal, diari, documents).",
+              "<strong>Càmera</strong>: serveix per escanejar els vostres documents, quan ho demaneu.",
+              "<strong>Notificacions</strong>: els recordatoris es programen al vostre dispositiu; no s'utilitza cap servei de notificacions extern."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Siri, ginys i exportacions",
+        "blocks": [
+          {
+            "p": "Apple tracta les sol·licituds a Siri segons les seves pròpies normes. Els ginys llegeixen un resum desat al vostre dispositiu. Les exportacions (text, PDF, cartell «animal perdut», fitxa de cuidador) només surten de l'aplicació si les compartiu mitjançant les eines d'iOS; llavors queden sotmeses a les condicions del servei que trieu."
+          }
+        ]
+      },
+      {
+        "h": "Compres, publicitat i seguiment",
+        "blocks": [
+          {
+            "p": "L'abonament «Pattoune Premium» el ven i el gestiona Apple; el desenvolupador no rep cap dada de pagament. L'aplicació no conté publicitat, ni rastrejadors, ni cap eina d'anàlisi o d'estadístiques d'ús."
+          }
+        ]
+      },
+      {
+        "h": "Infants",
+        "blocks": [
+          {
+            "p": "L'aplicació no recopila cap dada i és adequada per a totes les edats."
+          }
+        ]
+      },
+      {
+        "h": "Canvis",
+        "blocks": [
+          {
+            "p": "Si aquesta política canvia, la nova versió es publicarà en aquesta pàgina amb la data d'actualització."
+          }
+        ]
+      },
+      {
+        "h": "Contacte",
+        "blocks": [
+          {
+            "p": "Per a qualsevol pregunta sobre aquesta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

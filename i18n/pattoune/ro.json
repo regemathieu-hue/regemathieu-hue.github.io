@@ -1,0 +1,142 @@
+{
+  "support": {
+    "subtitle": "Carnetul de sănătate al animalelor dumneavoastră",
+    "contact": "O întrebare, o idee sau o problemă cu aplicația? Scrieți-mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Pattoune înlocuiește medicul veterinar?",
+        "a": "Nu. Pattoune este un carnet: ține evidența vaccinurilor, tratamentelor, cântăririlor și îngrijirilor și vă reamintește scadențele. Intervalele propuse sunt sugestii uzuale, de confirmat cu medicul dumneavoastră veterinar. Aplicația nu oferă nicio recomandare medicală."
+      },
+      {
+        "q": "Cum împărtășesc carnetul cu gospodăria mea?",
+        "a": "Deschideți fișa animalului, apoi apăsați „Share with My Household”. Persoana invitată vede și completează același carnet de pe iPhone-ul ei, cu propriul cont iCloud. Partajarea se face prin iCloud: trebuie să fiți conectat la iCloud pe ambele dispozitive."
+      },
+      {
+        "q": "Două persoane pot da același comprimat din greșeală?",
+        "a": "Pattoune vă avertizează: dacă administrarea a fost deja înregistrată de cineva din gospodărie, aplicația afișează „Already given by…” împreună cu ora și vă cere confirmarea înainte de a înregistra una nouă. Mementourile de administrare sună implicit pe dispozitivul care a creat tratamentul."
+      },
+      {
+        "q": "Ce conține Pattoune Premium?",
+        "a": "Versiunea gratuită permite urmărirea unui singur animal: carnet de sănătate, tratamente și mementouri, greutate, alimentație, îngrijiri de întreținere, fișa „animal pierdut” și Siri. Premium adaugă animale fără limită, partajarea cu gospodăria, plimbările, stocurile, jurnalul de sănătate, fișa pentru îngrijitor, cheltuielile, creșterea, exportul PDF, documentele și widgeturile. Dacă abonamentul se oprește, nimic nu este șters: datele dumneavoastră rămân lizibile."
+      },
+      {
+        "q": "Cum pot anula sau restaura abonamentul meu?",
+        "a": "Abonamentul se gestionează în setările contului dumneavoastră App Store: deschideți Pattoune › „Settings” › „Manage My Subscription”. Pe un dispozitiv nou, apăsați „Restore” în fereastra Premium pentru a recupera un abonament deja plătit."
+      },
+      {
+        "q": "De ce îmi cere aplicația poziția?",
+        "a": "Numai pentru a înregistra o plimbare pe care o porniți dumneavoastră înșivă. Poziția este urmărită în timpul plimbării, inclusiv cu ecranul blocat, apoi GPS-ul se oprește. Puteți păstra doar durata și distanța dezactivând „Keep walk routes” în „Settings”."
+      },
+      {
+        "q": "Animalul meu este pierdut: ce pot face cu aplicația?",
+        "a": "Pe fișa animalului, apăsați „My pet is lost”: Pattoune creează un afiș cu fotografia animalului, numărul de microcip, semnele distinctive și numărul dumneavoastră de telefon, gata de imprimat sau de partajat. Această funcție este gratuită."
+      },
+      {
+        "q": "Cum schimb iPhone-ul fără să-mi pierd datele?",
+        "a": "Datele dumneavoastră sunt în iCloud: conectați-vă cu același cont iCloud pe noul iPhone și instalați Pattoune, iar carnetul revine singur. De asemenea, puteți exporta carnetul ca text sau PDF din „Export record”."
+      },
+      {
+        "q": "Cum șterg datele mele?",
+        "a": "Ștergeți un animal de pe fișa sa: tot ce îl privește este șters. Ștergerea aplicației nu este suficientă, deoarece datele rămân în iCloud: pentru a șterge totul, deschideți Setări › numele dumneavoastră › iCloud › Gestionați spațiul de stocare, apoi Pattoune."
+      }
+    ],
+    "privacy_summary": "Pattoune nu colectează nicio dată personală și nu conține reclame sau elemente de urmărire. Datele dumneavoastră rămân pe dispozitivele dumneavoastră și în iCloud; dezvoltatorul nu are acces la ele."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "În rezumat",
+        "blocks": [
+          {
+            "p": "Pattoune nu colectează nicio dată personală. Aplicația nu are un server și nu necesită un cont: datele dumneavoastră sunt stocate pe dispozitivele dumneavoastră și în iCloud-ul propriu, iar dezvoltatorul nu are acces la ele."
+          }
+        ]
+      },
+      {
+        "h": "Datele dumneavoastră",
+        "blocks": [
+          {
+            "p": "Aplicația salvează ce introduceți despre animalele dumneavoastră: fișa (nume, fotografie, microcip, medic veterinar, asigurare…), îngrijiri și vaccinuri, tratamente și administrări, greutate, alimentație, stocuri, jurnalul de sănătate și fotografiile sale, plimbări, cheltuieli și documente."
+          },
+          {
+            "p": "Aceste date sunt sincronizate între dispozitivele dumneavoastră prin iCloud (baza privată a contului dumneavoastră, gestionată de Apple). Ele nu trec niciodată prin niciun server al dezvoltatorului."
+          }
+        ]
+      },
+      {
+        "h": "Partajarea cu gospodăria",
+        "blocks": [
+          {
+            "p": "Dacă partajați un animal, persoanele invitate văd și modifică tot ce îl privește, inclusiv traseul plimbărilor. Partajarea se face prin iCloud; o puteți opri oricând din fișa animalului, iar fiecare invitat o poate părăsi."
+          }
+        ]
+      },
+      {
+        "h": "Poziția",
+        "blocks": [
+          {
+            "p": "Poziția este folosită doar în timpul unei plimbări pe care o porniți dumneavoastră, inclusiv cu ecranul blocat, apoi GPS-ul se oprește. Traseul este salvat împreună cu plimbarea în iCloud-ul dumneavoastră; nu este niciodată trimis dezvoltatorului."
+          },
+          {
+            "ul": [
+              "În „Settings” din aplicație, „Keep walk routes” vă permite să păstrați doar durata și distanța.",
+              "Puteți retrage autorizarea oricând din Setări › Confidențialitate și securitate › Servicii de localizare."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Fotografii, cameră și notificări",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fotografii</strong>: sunt importate doar fotografiile pe care le alegeți (fotografia animalului, jurnal, documente).",
+              "<strong>Cameră</strong>: este utilizată pentru scanarea documentelor, la cererea dumneavoastră.",
+              "<strong>Notificări</strong>: mementourile sunt programate pe dispozitivul dumneavoastră; nu se folosește niciun serviciu extern de notificări."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Siri, widget-uri și exporturi",
+        "blocks": [
+          {
+            "p": "Solicitările către Siri sunt tratate de Apple conform propriilor reguli. Widgeturile citesc un rezumat salvat pe dispozitivul dumneavoastră. Exporturile (text, PDF, afișul „animal pierdut”, fișa pentru îngrijitor) părăsesc aplicația doar dacă le partajați prin instrumentele iOS; în acest caz, ele sunt supuse condițiilor serviciului ales."
+          }
+        ]
+      },
+      {
+        "h": "Cumpărări, reclame și urmărire",
+        "blocks": [
+          {
+            "p": "Abonamentul Pattoune Premium este vândut și gestionat de Apple; dezvoltatorul nu primește nicio dată de plată. Aplicația nu conține nicio reclamă, niciun element de urmărire și niciun instrument de analiză sau de statistici de utilizare."
+          }
+        ]
+      },
+      {
+        "h": "Copii",
+        "blocks": [
+          {
+            "p": "Aplicația nu colectează nicio dată și este potrivită pentru toate vârstele."
+          }
+        ]
+      },
+      {
+        "h": "Modificări",
+        "blocks": [
+          {
+            "p": "Dacă această politică se modifică, versiunea actualizată va fi publicată pe această pagină împreună cu data de actualizare."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pentru orice întrebare legată de această politică: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

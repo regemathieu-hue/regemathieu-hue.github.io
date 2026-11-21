@@ -1,0 +1,142 @@
+{
+  "support": {
+    "subtitle": "Eläintesi terveysrekisteri",
+    "contact": "Kysymys, idea tai ongelma sovelluksen kanssa? Kirjoita minulle:<br>{email}",
+    "faq": [
+      {
+        "q": "Korvaako Pattoune eläinlääkärin?",
+        "a": "Ei. Pattoune on terveyskirja: se pitää kirjaa rokotteista, hoidoista, punnituksista ja hoitotoimenpiteistä sekä muistuttaa tulevista määräpäivistä. Ehdotetut välit ovat yleisiä suosituksia, jotka kannattaa vahvistaa eläinlääkärin kanssa. Sovellus ei anna lääketieteellisiä neuvoja."
+      },
+      {
+        "q": "Miten jaan kirjan kotitaloutemme kanssa?",
+        "a": "Avaa eläimen kortti ja valitse ”Share with My Household”. Kutsuttu henkilö näkee ja täydentää samaa kirjaa omalta iPhoneltaan omalla iCloud-tilillään. Jakaminen tapahtuu iCloudin kautta: molemmilla laitteilla on oltava kirjauduttuna iCloudiin."
+      },
+      {
+        "q": "Voivatko kaksi ihmistä antaa saman tabletin vahingossa?",
+        "a": "Pattoune varoittaa: jos joku kotitaloudesta on jo kirjannut annoksen, sovellus näyttää ”Already given by…” sekä kellonajan ja pyytää vahvistuksen ennen kuin uusi annos kirjataan. Annosmuistutukset soivat oletuksena laitteella, joka loi hoidon."
+      },
+      {
+        "q": "Mitä Pattoune Premium sisältää?",
+        "a": "Ilmaisella versiolla voi seurata yhtä eläintä: terveyskirja, hoidot ja muistutukset, paino, ruokinta, ylläpitohoito, ”eläin kadonnut” -ilmoitus ja Siri. Premium lisää rajattoman määrän eläimiä, jakamisen kotitalouden kanssa, kävelyretket, varastot, terveyspäiväkirjan, hoitajan kortin, kulut, kasvun, PDF-viennin, asiakirjat ja widgetit. Jos tilauksesi päättyy, mitään ei poisteta: tietosi pysyvät luettavissa."
+      },
+      {
+        "q": "Miten peruutan tai palautan tilaukseni?",
+        "a": "Tilausta hallitaan App Store -tilisi asetuksissa: avaa Pattoune › ”Settings” › ”Manage My Subscription”. Uudella laitteella napauta Premium-ikkunassa ”Restore” saadaksesi takaisin jo maksetun tilauksen."
+      },
+      {
+        "q": "Miksi sovellus pyytää sijaintiani?",
+        "a": "Vain kävelyretken tallentamiseen, jonka aloitat itse. Sijaintiasi seurataan kävelyretken aikana, myös näytön ollessa lukittuna, ja sen jälkeen GPS pysähtyy. Jos haluat säilyttää vain keston ja matkan, poista ”Keep walk routes” käytöstä kohdassa ”Settings”."
+      },
+      {
+        "q": "Eläimeni on kadonnut: mitä voin tehdä sovelluksella?",
+        "a": "Napauta eläimen kortissa ”My pet is lost”: Pattoune luo ilmoituksen, jossa on eläimen kuva, mikrosirun numero, tunnusmerkit ja puhelinnumerosi, valmiina tulostettavaksi tai jaettavaksi. Tämä toiminto on ilmainen."
+      },
+      {
+        "q": "Miten vaihdan iPhonea ilman tietojen menetystä?",
+        "a": "Tietosi ovat iCloudissa: kirjaudu uudella iPhonella samalla iCloud-tilillä ja asenna Pattoune, niin kirja palautuu itsestään. Voit myös viedä kirjan tekstinä tai PDF-tiedostona kohdasta ”Export record”."
+      },
+      {
+        "q": "Miten poistan tietoni?",
+        "a": "Poista eläin sen kortista: kaikki siihen liittyvä poistetaan. Sovelluksen poistaminen ei riitä, koska tiedot säilyvät iCloudissa: poistaaksesi kaiken avaa Asetukset › nimesi › iCloud › Hallitse tallennustilaa ja valitse sitten Pattoune."
+      }
+    ],
+    "privacy_summary": "Pattoune ei kerää henkilötietoja eikä sisällä mainoksia tai seurantatyökaluja. Tiedot säilyvät laitteillasi ja iCloudissa; kehittäjä ei pääse niihin."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Yhteenveto",
+        "blocks": [
+          {
+            "p": "Pattoune ei kerää henkilötietoja. Sovelluksella ei ole palvelinta eikä se vaadi tiliä: tietosi tallennetaan laitteillesi ja omaan iCloudiisi, eikä kehittäjä pääse niihin käsiksi."
+          }
+        ]
+      },
+      {
+        "h": "Tietosi",
+        "blocks": [
+          {
+            "p": "Sovellus tallentaa tiedot, jotka syötät eläimistäsi: kortti (nimi, kuva, mikrosiru, eläinlääkäri, vakuutus…), hoidot ja rokotukset, lääkitykset ja annokset, paino, ruokinta, varastot, terveyspäiväkirja kuvineen, kävelyretket, kulut ja asiakirjat."
+          },
+          {
+            "p": "Nämä tiedot synkronoidaan laitteidesi välillä iCloudin kautta (tilisi yksityinen tietokanta, jota Apple hallinnoi). Ne eivät kulje minkään kehittäjän palvelimen kautta."
+          }
+        ]
+      },
+      {
+        "h": "Jakaminen kotitalouden kanssa",
+        "blocks": [
+          {
+            "p": "Jos jaat eläimen, kutsutut henkilöt näkevät ja muokkaavat kaikkea siihen liittyvää, myös kävelyretkien reittejä. Jakaminen tapahtuu iCloudin kautta; voit lopettaa sen milloin tahansa eläimen kortista, ja jokainen kutsuttu voi poistua jaosta."
+          }
+        ]
+      },
+      {
+        "h": "Sijainti",
+        "blocks": [
+          {
+            "p": "Sijaintia käytetään vain kävelyretken aikana, jonka itse aloitat, myös näytön ollessa lukittuna, ja sen jälkeen GPS pysähtyy. Reitti tallennetaan kävelyretken mukana iCloudiisi; sitä ei koskaan lähetetä kehittäjälle."
+          },
+          {
+            "ul": [
+              "Sovelluksen kohdassa ”Settings” voit ”Keep walk routes” -asetuksella säilyttää vain keston ja matkan.",
+              "Voit peruuttaa luvan milloin tahansa kohdassa Asetukset › Tietosuoja ja turvallisuus › Paikannuspalvelut."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Kuvat, kamera ja ilmoitukset",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Kuvat</strong>: vain valitsemasi kuvat tuodaan sovellukseen (eläimen kuva, päiväkirja, asiakirjat).",
+              "<strong>Kamera</strong>: sitä käytetään asiakirjojesi skannaamiseen pyynnöstäsi.",
+              "<strong>Ilmoitukset</strong>: muistutukset suunnitellaan laitteellasi; ulkoista ilmoituspalvelua ei käytetä."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Siri, widgetit ja vienti",
+        "blocks": [
+          {
+            "p": "Apple käsittelee Siri-pyynnöt omien sääntöjensä mukaan. Widgetit lukevat laitteellesi tallennetun yhteenvedon. Viennit (teksti, PDF, ”eläin kadonnut” -ilmoitus, hoitajan kortti) poistuvat sovelluksesta vain, jos jaat ne iOS:n jakotyökaluilla; silloin niihin sovelletaan valitsemasi palvelun ehtoja."
+          }
+        ]
+      },
+      {
+        "h": "Ostot, mainonta ja seuranta",
+        "blocks": [
+          {
+            "p": "”Pattoune Premium” -tilauksen myy ja hallinnoi Apple; kehittäjä ei saa maksutietoja. Sovellus ei sisällä mainoksia, seurantatyökaluja eikä analytiikka- tai käyttötilastotyökaluja."
+          }
+        ]
+      },
+      {
+        "h": "Lapset",
+        "blocks": [
+          {
+            "p": "Sovellus ei kerää mitään tietoja ja soveltuu kaikille ikäryhmille."
+          }
+        ]
+      },
+      {
+        "h": "Muutokset",
+        "blocks": [
+          {
+            "p": "Jos tätä käytäntöä muutetaan, uusi versio julkaistaan tällä sivulla päivityspäivämäärineen."
+          }
+        ]
+      },
+      {
+        "h": "Yhteystiedot",
+        "blocks": [
+          {
+            "p": "Kysymyksissä tästä tietosuojakäytännöstä: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

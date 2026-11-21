@@ -1,0 +1,142 @@
+{
+  "support": {
+    "subtitle": "Záznam zdraví vašich zvířat",
+    "contact": "Máte dotaz, nápad nebo potíže s aplikací? Napište mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Nahrazuje Pattoune veterináře?",
+        "a": "Ne. Pattoune je zdravotní kniha: uchovává záznamy o očkování, léčbě, vážení a péči a připomíná blížící se termíny. Navrhované intervaly jsou běžná doporučení, která je třeba potvrdit u veterináře. Aplikace neposkytuje žádné lékařské rady."
+      },
+      {
+        "q": "Jak sdílet záznam se svou domácností?",
+        "a": "Otevřete kartu zvířete a poté „Share with My Household“. Pozvaná osoba vidí stejný záznam a může jej doplňovat ze svého iPhonu pod vlastním účtem iCloud. Sdílení probíhá přes iCloud: na obou zařízeních musíte být přihlášeni k iCloudu."
+      },
+      {
+        "q": "Mohou dvě osoby omylem podat stejnou tabletu?",
+        "a": "Pattoune vás upozorní: pokud už podání zaznamenal někdo z domácnosti, aplikace zobrazí „Already given by…“ s časem a před zapsáním dalšího podání vás požádá o potvrzení. Připomínky podání léku se ve výchozím nastavení ozývají na zařízení, které léčbu vytvořilo."
+      },
+      {
+        "q": "Co obsahuje Pattoune Premium?",
+        "a": "Bezplatná verze umožňuje sledovat jedno zvíře: zdravotní knihu, léčbu a připomínky, váhu, krmení, pravidelnou péči, plakát „ztracené zvíře“ a Siri. Premium přidává neomezený počet zvířat, sdílení s domácností, procházky, zásoby, zdravotní deník, kartu pro hlídání, výdaje, růst, export do PDF, dokumenty a widgety. Pokud předplatné skončí, nic se nesmaže: vaše data zůstanou čitelná."
+      },
+      {
+        "q": "Jak zruším nebo obnovím své předplatné?",
+        "a": "Předplatné se spravuje v nastavení vašeho účtu App Store: otevřete Pattoune › „Settings“ › „Manage My Subscription“. Na novém zařízení klepněte v okně Premium na „Restore“, abyste obnovili již zaplacené předplatné."
+      },
+      {
+        "q": "Proč aplikace požaduje mou polohu?",
+        "a": "Pouze pro zaznamenání procházky, kterou sami spustíte. Poloha se sleduje během procházky, i při zamknuté obrazovce, a poté se GPS vypne. Chcete-li uchovat jen dobu a vzdálenost, vypněte „Keep walk routes“ v „Settings“."
+      },
+      {
+        "q": "Mé zvíře se ztratilo: co mohu s aplikací dělat?",
+        "a": "Na kartě zvířete klepněte na „My pet is lost“: Pattoune vytvoří plakát s fotografií zvířete, číslem mikročipu, rozpoznávacími znaky a vaším telefonním číslem, připravený k tisku nebo sdílení. Tato funkce je zdarma."
+      },
+      {
+        "q": "Jak přejít na nový iPhone bez ztráty dat?",
+        "a": "Vaše data jsou ve vašem iCloudu: přihlaste se na novém iPhonu stejným účtem iCloud a nainstalujte Pattoune, záznam se vrátí sám. Záznam můžete také exportovat jako text nebo PDF pomocí „Export record“."
+      },
+      {
+        "q": "Jak smazat svá data?",
+        "a": "Smažte zvíře z jeho karty: vše, co se ho týká, se vymaže. Smazání aplikace nestačí, protože data zůstávají ve vašem iCloudu: chcete-li vše vymazat, otevřete Nastavení › vaše jméno › iCloud › Spravovat úložiště a poté Pattoune."
+      }
+    ],
+    "privacy_summary": "Pattoune neshromažďuje žádné osobní údaje a neobsahuje reklamy ani sledovače. Vaše data zůstávají na vašich zařízeních a ve vašem iCloudu; vývojář k nim nemá přístup."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Zkrátka",
+        "blocks": [
+          {
+            "p": "Pattoune neshromažďuje žádné osobní údaje. Aplikace nemá server a nevyžaduje účet: vaše data jsou uložena na vašich zařízeních a ve vašem vlastním iCloudu a vývojář k nim nemá přístup."
+          }
+        ]
+      },
+      {
+        "h": "Vaše data",
+        "blocks": [
+          {
+            "p": "Aplikace ukládá to, co zadáte o svých zvířatech: kartu (jméno, fotografie, čip, veterinář, pojištění…), péči a očkování, léčbu a podání, váhu, krmení, zásoby, zdravotní deník s fotografiemi, procházky, výdaje a dokumenty."
+          },
+          {
+            "p": "Tato data se mezi vašimi zařízeními synchronizují přes iCloud (soukromá databáze vašeho účtu, kterou spravuje Apple). Neprocházejí žádným serverem vývojáře."
+          }
+        ]
+      },
+      {
+        "h": "Sdílení s domácností",
+        "blocks": [
+          {
+            "p": "Pokud zvíře sdílíte, pozvané osoby vidí a mohou upravovat vše, co se ho týká, včetně trasy procházek. Sdílení probíhá přes iCloud; můžete ho kdykoli ukončit na kartě zvířete a každý pozvaný ho může opustit."
+          }
+        ]
+      },
+      {
+        "h": "Poloha",
+        "blocks": [
+          {
+            "p": "Poloha se používá pouze během procházky, kterou spustíte, i při zamknuté obrazovce, a poté se GPS vypne. Trasa se ukládá spolu s procházkou do vašeho iCloudu; nikdy se neodesílá vývojáři."
+          },
+          {
+            "ul": [
+              "V „Settings“ aplikace vám „Keep walk routes“ umožňuje uchovávat jen dobu a vzdálenost.",
+              "Oprávnění můžete kdykoli odebrat v Nastavení › Soukromí a zabezpečení › Polohové služby."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Fotografie, fotoaparát a oznámení",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fotografie</strong>: importují se pouze fotografie, které vyberete (fotografie zvířete, deník, dokumenty).",
+              "<strong>Fotoaparát</strong>: slouží ke skenování vašich dokumentů, a to na vaši žádost.",
+              "<strong>Oznámení</strong>: připomínky se plánují na vašem zařízení; nepoužívá se žádná externí oznamovací služba."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Siri, widgety a exporty",
+        "blocks": [
+          {
+            "p": "Požadavky Siri zpracovává Apple podle vlastních pravidel. Widgety čtou souhrn uložený ve vašem zařízení. Exporty (text, PDF, plakát „ztracené zvíře“, karta pro hlídání) opustí aplikaci, pouze pokud je sdílíte pomocí nástrojů iOS; poté se na ně vztahují podmínky vybrané služby."
+          }
+        ]
+      },
+      {
+        "h": "Nákupy, reklamy a sledování",
+        "blocks": [
+          {
+            "p": "Předplatné „Pattoune Premium“ prodává a spravuje Apple; vývojář nedostává žádné platební údaje. Aplikace neobsahuje žádné reklamy, žádné sledovače ani nástroje pro analýzu či statistiky používání."
+          }
+        ]
+      },
+      {
+        "h": "Děti",
+        "blocks": [
+          {
+            "p": "Aplikace neshromažďuje žádné údaje a je vhodná pro všechny věkové kategorie."
+          }
+        ]
+      },
+      {
+        "h": "Změny",
+        "blocks": [
+          {
+            "p": "V případě změny této politiky bude nová verze zveřejněna na této stránce spolu s datem aktualizace."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Pro jakékoli dotazy k této politice: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

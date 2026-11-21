@@ -1,0 +1,142 @@
+{
+  "support": {
+    "subtitle": "Het gezondheidsboekje van uw huisdieren",
+    "contact": "Een vraag, een idee of een probleem met de app? Schrijft u me:<br>{email}",
+    "faq": [
+      {
+        "q": "Vervangt Pattoune de dierenarts?",
+        "a": "Nee. Pattoune is een boekje: het houdt vaccinaties, behandelingen, wegingen en verzorging bij en herinnert u aan komende afspraken. De voorgestelde tussenpozen zijn gangbare richtlijnen, die u met uw dierenarts moet bevestigen. De app geeft geen medisch advies."
+      },
+      {
+        "q": "Hoe deel ik het boekje met mijn huishouden?",
+        "a": "Open de kaart van het dier en kies dan ‘Share with My Household’. De uitgenodigde persoon ziet en vult hetzelfde boekje aan vanaf de eigen iPhone, met het eigen iCloud-account. Delen verloopt via iCloud: u moet op beide apparaten bij iCloud zijn aangemeld."
+      },
+      {
+        "q": "Kunnen twee personen per ongeluk dezelfde pil geven?",
+        "a": "Pattoune waarschuwt u: als iemand in het huishouden de toediening al heeft genoteerd, toont de app ‘Already given by…’ met de tijd en vraagt om bevestiging voordat er nog een wordt genoteerd. Herinneringen voor toediening gaan standaard af op het apparaat waarop de behandeling is aangemaakt."
+      },
+      {
+        "q": "Wat bevat Pattoune Premium?",
+        "a": "Met de gratis versie volgt u één dier: gezondheidsboekje, behandelingen en herinneringen, gewicht, voeding, regelmatige verzorging, poster voor een vermist dier en Siri. Premium voegt toe: onbeperkt aantal dieren, delen met het huishouden, wandelingen, voorraden, gezondheidsdagboek, oppaskaart, uitgaven, groei, pdf-export, documenten en widgets. Als het abonnement stopt, wordt er niets gewist: uw gegevens blijven leesbaar."
+      },
+      {
+        "q": "Hoe zeg ik mijn abonnement op of herstel ik het?",
+        "a": "Het abonnement beheert u in de instellingen van uw App Store-account: open Pattoune › ‘Settings’ › ‘Manage My Subscription’. Tik op een nieuw apparaat in het Premium-venster op ‘Restore’ om een al betaald abonnement terug te halen."
+      },
+      {
+        "q": "Waarom vraagt de app om mijn locatie?",
+        "a": "Uitsluitend om een wandeling vast te leggen die u zelf start. De locatie wordt tijdens de wandeling gevolgd, ook als het scherm is vergrendeld, waarna de gps stopt. U kunt alleen de duur en de afstand bewaren door ‘Keep walk routes’ in ‘Settings’ uit te zetten."
+      },
+      {
+        "q": "Mijn dier is vermist: wat kan ik met de app doen?",
+        "a": "Tik op de kaart van het dier op ‘My pet is lost’: Pattoune maakt een poster met de foto van het dier, het chipnummer, de kenmerken en uw telefoonnummer, klaar om te printen of te delen. Deze functie is gratis."
+      },
+      {
+        "q": "Hoe stap ik over op een nieuwe iPhone zonder mijn gegevens te verliezen?",
+        "a": "Uw gegevens staan in uw iCloud: meld u op de nieuwe iPhone aan met hetzelfde iCloud-account en installeer Pattoune, dan komt het boekje vanzelf terug. U kunt het boekje ook als tekst of pdf exporteren via ‘Export record’."
+      },
+      {
+        "q": "Hoe wis ik mijn gegevens?",
+        "a": "Verwijder een dier via de kaart: alles wat erbij hoort, wordt gewist. De app verwijderen is niet genoeg, want de gegevens blijven in uw iCloud staan: om alles te wissen opent u Instellingen › uw naam › iCloud › Beheer opslag en kiest u daarna Pattoune."
+      }
+    ],
+    "privacy_summary": "Pattoune verzamelt geen persoonsgegevens en bevat geen advertenties of trackers. Uw gegevens blijven op uw apparaten en in uw iCloud; de ontwikkelaar heeft er geen toegang toe."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort samengevat",
+        "blocks": [
+          {
+            "p": "Pattoune verzamelt geen persoonsgegevens. De app heeft geen server en vraagt geen account: uw gegevens worden opgeslagen op uw apparaten en in uw eigen iCloud, en de ontwikkelaar heeft er geen toegang toe."
+          }
+        ]
+      },
+      {
+        "h": "Uw gegevens",
+        "blocks": [
+          {
+            "p": "De app slaat op wat u over uw dieren invoert: kaart (naam, foto, chip, dierenarts, verzekering…), verzorging en vaccinaties, behandelingen en toedieningen, gewicht, voeding, voorraden, gezondheidsdagboek en bijbehorende foto's, wandelingen, uitgaven en documenten."
+          },
+          {
+            "p": "Deze gegevens worden via iCloud gesynchroniseerd tussen uw apparaten (de privédatabase van uw account, beheerd door Apple). Ze lopen niet via een server van de ontwikkelaar."
+          }
+        ]
+      },
+      {
+        "h": "Delen met het huishouden",
+        "blocks": [
+          {
+            "p": "Als u een dier deelt, zien en wijzigen de uitgenodigde personen alles wat het dier betreft, ook de route van wandelingen. Delen verloopt via iCloud; u kunt het op elk moment stoppen via de kaart van het dier, en elke uitgenodigde kan het verlaten."
+          }
+        ]
+      },
+      {
+        "h": "Locatie",
+        "blocks": [
+          {
+            "p": "De locatie wordt alleen gebruikt tijdens een wandeling die u start, ook als het scherm is vergrendeld, waarna de gps stopt. De route wordt samen met de wandeling in uw iCloud opgeslagen; ze wordt nooit naar de ontwikkelaar gestuurd."
+          },
+          {
+            "ul": [
+              "In de instellingen van de app (‘Settings’) kunt u met ‘Keep walk routes’ alleen de duur en de afstand bewaren.",
+              "U kunt de toestemming op elk moment intrekken via Instellingen › Privacy en beveiliging › Locatievoorzieningen."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Foto's, camera en meldingen",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Foto's</strong>: alleen de foto's die u kiest worden geïmporteerd (foto van het dier, dagboek, documenten).",
+              "<strong>Camera</strong>: wordt gebruikt om uw documenten te scannen, op uw verzoek.",
+              "<strong>Meldingen</strong>: herinneringen worden op uw apparaat ingepland; er wordt geen externe meldingsdienst gebruikt."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Siri, widgets en exports",
+        "blocks": [
+          {
+            "p": "Verzoeken aan Siri worden door Apple verwerkt volgens de eigen regels. Widgets lezen een samenvatting die op uw apparaat is opgeslagen. Exports (tekst, pdf, poster voor een vermist dier, oppaskaart) verlaten de app alleen als u ze deelt met de hulpmiddelen van iOS; dan gelden de voorwaarden van de gekozen dienst."
+          }
+        ]
+      },
+      {
+        "h": "Aankopen, advertenties en tracking",
+        "blocks": [
+          {
+            "p": "Het abonnement Pattoune Premium wordt verkocht en beheerd door Apple; de ontwikkelaar ontvangt geen betaalgegevens. De app bevat geen advertenties, geen trackers en geen analyse- of gebruiksstatistiekentools."
+          }
+        ]
+      },
+      {
+        "h": "Kinderen",
+        "blocks": [
+          {
+            "p": "De app verzamelt geen gegevens en is geschikt voor alle leeftijden."
+          }
+        ]
+      },
+      {
+        "h": "Wijzigingen",
+        "blocks": [
+          {
+            "p": "Als dit beleid verandert, wordt de nieuwe versie met de datum van bijwerking op deze pagina gepubliceerd."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Voor vragen over dit beleid: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "support": {
+    "subtitle": "Hayvanlarınızın sağlık defteri",
+    "contact": "Uygulama ile ilgili bir sorun, fikir veya öneriniz var mı? Bana yazın:<br>{email}",
+    "faq": [
+      {
+        "q": "Pattoune veterinerin yerini alıyor mu?",
+        "a": "Hayır. Pattoune bir defterdir: aşıları, tedavileri, tartıları ve bakımları kaydeder, zamanı gelenleri size hatırlatır. Önerilen aralıklar yaygın uygulamalardır; veterinerinizle doğrulayın. Uygulama herhangi bir tıbbi tavsiye vermez."
+      },
+      {
+        "q": "Defteri evdekilerle nasıl paylaşırım?",
+        "a": "Hayvanın sayfasını açın, ardından “Share with My Household” seçeneğine dokunun. Davet edilen kişi, kendi iCloud hesabıyla ve kendi iPhone’undan aynı defteri görür ve tamamlar. Paylaşım iCloud üzerinden yapılır: iki cihazda da iCloud’da oturum açık olmalıdır."
+      },
+      {
+        "q": "İki kişi aynı hapı yanlışlıkla mı verebilir?",
+        "a": "Pattoune sizi uyarır: evden biri dozu zaten kaydettiyse uygulama saatiyle birlikte “Already given by…” yazısını gösterir ve bir doz daha kaydetmeden önce onayınızı ister. Doz hatırlatmaları varsayılan olarak tedaviyi oluşturan cihazda çalar."
+      },
+      {
+        "q": "Pattoune Premium neleri içerir?",
+        "a": "Ücretsiz sürümde tek bir hayvanı takip edebilirsiniz: sağlık defteri, tedaviler ve hatırlatmalar, kilo, beslenme, bakım, “kayıp hayvan” afişi ve Siri. Premium ise sınırsız hayvan, evdekilerle paylaşım, yürüyüşler, stoklar, sağlık günlüğü, bakıcı formu, harcamalar, büyüme, PDF dışa aktarma, belgeler ve widget’lar ekler. Abonelik sona ererse hiçbir şey silinmez: verileriniz okunabilir kalır."
+      },
+      {
+        "q": "Aboneliğimi nasıl iptal edebilirim veya geri yükleyebilirim?",
+        "a": "Abonelik, App Store hesabınızın ayarlarından yönetilir: Pattoune › “Settings” › “Manage My Subscription” yolunu izleyin. Yeni bir cihazda, daha önce ödediğiniz aboneliği geri almak için Premium penceresinde “Restore”a dokunun."
+      },
+      {
+        "q": "Uygulama neden konumumu istiyor?",
+        "a": "Yalnızca kendiniz başlattığınız bir yürüyüşü kaydetmek için. Konum, ekran kilitliyken bile yürüyüş boyunca izlenir, ardından GPS durur. Yalnızca süreyi ve mesafeyi saklamak için “Settings” içinde “Keep walk routes” seçeneğini kapatın."
+      },
+      {
+        "q": "Hayvanım kayıp: uygulama bana nasıl yardımcı olabilir?",
+        "a": "Hayvanın sayfasında “My pet is lost” seçeneğine dokunun: Pattoune; hayvanın fotoğrafı, çip numarası, ayırt edici özellikleri ve telefon numaranızla yazdırmaya veya paylaşmaya hazır bir afiş oluşturur. Bu özellik ücretsizdir."
+      },
+      {
+        "q": "Verilerimi kaybetmeden yeni bir iPhone’a nasıl geçerim?",
+        "a": "Verileriniz iCloud’unuzdadır: yeni iPhone’da aynı iCloud hesabıyla oturum açın ve Pattoune’u yükleyin, defter kendiliğinden geri gelir. Defteri “Export record” ile metin veya PDF olarak da dışa aktarabilirsiniz."
+      },
+      {
+        "q": "Verilerimi nasıl silebilirim?",
+        "a": "Bir hayvanı sayfasından silin: onunla ilgili her şey silinir. Uygulamayı silmek yetmez, çünkü veriler iCloud’unuzda kalır; hepsini silmek için Ayarlar › adınız › iCloud › Depolamayı Yönet’i açın, ardından Pattoune’u seçin."
+      }
+    ],
+    "privacy_summary": "Pattoune hiçbir kişisel veri toplamaz ve reklam veya izleyici içermez. Verileriniz cihazlarınızda ve iCloud’ınızda kalır; geliştirici bunlara erişemez."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Özetle",
+        "blocks": [
+          {
+            "p": "Pattoune hiçbir kişisel veri toplamaz. Uygulama sunucu gerektirmez ve herhangi bir hesap istemez: verileriniz cihazlarınızda ve kendi iCloud’ınızda saklanır ve geliştirici bunlara erişemez."
+          }
+        ]
+      },
+      {
+        "h": "Verileriniz",
+        "blocks": [
+          {
+            "p": "Uygulama, hayvanlarınız için girdiğiniz bilgileri kaydeder: profil (isim, fotoğraf, mikroçip, veteriner, sigorta vb.), bakım ve aşılar, tedaviler ve dozlar, ağırlık, beslenme, stoklar, sağlık günlüğü ve fotoğrafları, yürüyüşler, harcamalar ve belgeler."
+          },
+          {
+            "p": "Bu veriler, iCloud üzerinden (Apple tarafından yönetilen, hesabınıza özel veritabanı) cihazlarınız arasında senkronize edilir. Geliştiricinin hiçbir sunucusundan geçmez."
+          }
+        ]
+      },
+      {
+        "h": "Evdekilerle paylaşım",
+        "blocks": [
+          {
+            "p": "Bir hayvanı paylaşırsanız, davet edilen kişiler yürüyüş rotaları dahil onunla ilgili her şeyi görebilir ve değiştirebilir. Paylaşım iCloud üzerinden yapılır; istediğiniz zaman hayvanın sayfasından durdurabilirsiniz ve her davetli de paylaşımdan ayrılabilir."
+          }
+        ]
+      },
+      {
+        "h": "Konum",
+        "blocks": [
+          {
+            "p": "Konum yalnızca başlattığınız bir yürüyüş sırasında, ekran kilitliyken bile kullanılır, ardından GPS durur. Rota, yürüyüşle birlikte iCloud’unuza kaydedilir; geliştiriciye asla gönderilmez."
+          },
+          {
+            "ul": [
+              "Uygulamanın “Settings” bölümünde “Keep walk routes” seçeneği yalnızca süreyi ve mesafeyi saklamanızı sağlar.",
+              "İzni istediğiniz zaman Ayarlar › Gizlilik ve Güvenlik › Konum Servisleri bölümünden geri çekebilirsiniz."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Fotoğraflar, kamera ve bildirimler",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fotoğraflar</strong>: yalnızca seçtiğiniz fotoğraflar içe aktarılır (hayvanın fotoğrafı, günlük, belgeler).",
+              "<strong>Kamera</strong>: isteğinize göre belgelerinizi taramak için kullanılır.",
+              "<strong>Bildirimler</strong>: hatırlatmalar cihazınızda planlanır; dış bir bildirim hizmeti kullanılmaz."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Siri, widget'lar ve dışa aktarmalar",
+        "blocks": [
+          {
+            "p": "Siri’ye yapılan istekler Apple tarafından kendi kurallarına göre işlenir. Widget’lar cihazınıza kaydedilmiş bir özeti okur. Dışa aktarmalar (metin, PDF, “kayıp hayvan” afişi, bakıcı formu) yalnızca iOS paylaşım araçlarıyla paylaşırsanız uygulamadan çıkar; bu durumda seçtiğiniz hizmetin koşullarına tabi olur."
+          }
+        ]
+      },
+      {
+        "h": "Alışverişler, reklamlar ve izleme",
+        "blocks": [
+          {
+            "p": "Pattoune Premium aboneliği Apple tarafından satılır ve yönetilir; geliştirici hiçbir ödeme verisi almaz. Uygulama reklam, izleyici ya da kullanım analizi veya istatistik aracı içermez."
+          }
+        ]
+      },
+      {
+        "h": "Çocuklar",
+        "blocks": [
+          {
+            "p": "Uygulama herhangi bir veri toplamaz ve tüm yaş grupları için uygundur."
+          }
+        ]
+      },
+      {
+        "h": "Değişiklikler",
+        "blocks": [
+          {
+            "p": "Bu politika değişirse, yeni versiyon bu sayfada güncelleme tarihiyle birlikte yayınlanacaktır."
+          }
+        ]
+      },
+      {
+        "h": "İletişim",
+        "blocks": [
+          {
+            "p": "Bu politika ile ilgili herhangi bir sorunuz varsa: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

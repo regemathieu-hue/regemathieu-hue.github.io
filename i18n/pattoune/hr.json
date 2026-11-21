@@ -1,0 +1,142 @@
+{
+  "support": {
+    "subtitle": "Zdravstveni karton vaših ljubimaca",
+    "contact": "Imate pitanje, ideju ili problem s aplikacijom? Pišite mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Zamjenjuje li Pattoune veterinara?",
+        "a": "Ne. Pattoune je zdravstveni karton: bilježi cijepljenja, terapije, vaganja i njegu te vas podsjeća na rokove. Predloženi razmaci uobičajene su preporuke koje treba potvrditi kod veterinara. Aplikacija ne daje nikakve medicinske savjete."
+      },
+      {
+        "q": "Kako podijeliti karton s kućanstvom?",
+        "a": "Otvorite karticu životinje, a zatim „Share with My Household”. Pozvana osoba vidi i dopunjuje isti karton na svom iPhoneu, sa svojim iCloud računom. Dijeljenje ide preko usluge iCloud: na oba uređaja morate biti prijavljeni u iCloud."
+      },
+      {
+        "q": "Mogu li dvije osobe slučajno dati istu tabletu?",
+        "a": "Pattoune vas upozorava: ako je netko iz kućanstva već zabilježio davanje, aplikacija prikazuje „Already given by…” s vremenom i traži potvrdu prije nego što zabilježite novo. Podsjetnici za davanje prema zadanim postavkama zvone na uređaju koji je izradio terapiju."
+      },
+      {
+        "q": "Što sadrži Pattoune Premium?",
+        "a": "Besplatna inačica omogućuje praćenje jedne životinje: zdravstveni karton, terapije i podsjetnike, težinu, prehranu, redovitu njegu, plakat za izgubljenu životinju i Siri. Premium dodaje neograničen broj životinja, dijeljenje s kućanstvom, šetnje, zalihe, zdravstveni dnevnik, list za čuvanje, troškove, rast, izvoz u PDF, dokumente i widgete. Ako se pretplata prekine, ništa se ne briše: vaši podaci ostaju čitljivi."
+      },
+      {
+        "q": "Kako otkazati ili vratiti pretplatu?",
+        "a": "Pretplatom se upravlja u postavkama vašeg App Store računa: otvorite Pattoune › „Settings” › „Manage My Subscription”. Na novom uređaju dodirnite „Restore” u prozoru Premium kako biste vratili već plaćenu pretplatu."
+      },
+      {
+        "q": "Zašto aplikacija traži moju lokaciju?",
+        "a": "Isključivo za bilježenje šetnje koju sami pokrenete. Lokacija se prati tijekom šetnje, i kad je zaslon zaključan, a zatim se GPS zaustavlja. Možete zadržati samo trajanje i udaljenost ako u „Settings” isključite „Keep walk routes”."
+      },
+      {
+        "q": "Moja je životinja izgubljena: što mogu učiniti pomoću aplikacije?",
+        "a": "Na kartici životinje dodirnite „My pet is lost”: Pattoune izrađuje plakat s njezinom fotografijom, brojem mikročipa, posebnim obilježjima i vašim telefonskim brojem, spreman za ispis ili dijeljenje. Ta je funkcija besplatna."
+      },
+      {
+        "q": "Kako promijeniti iPhone bez gubitka podataka?",
+        "a": "Vaši su podaci u vašem iCloudu: prijavite se istim iCloud računom na novom iPhoneu i instalirajte Pattoune, karton se vraća sam. Karton možete izvesti i kao tekst ili PDF putem „Export record”."
+      },
+      {
+        "q": "Kako izbrisati svoje podatke?",
+        "a": "Izbrišite životinju s njezine kartice: briše se sve što se na nju odnosi. Brisanje aplikacije nije dovoljno jer podaci ostaju u vašem iCloudu: da biste sve obrisali, otvorite Postavke › vaše ime › iCloud › Upravljanje pohranom, a zatim Pattoune."
+      }
+    ],
+    "privacy_summary": "Pattoune ne prikuplja nikakve osobne podatke te ne sadrži reklame ni alate za praćenje. Vaši podaci ostaju na vašim uređajima i u vašem iCloudu; programer im nema pristup."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ukratko",
+        "blocks": [
+          {
+            "p": "Pattoune ne prikuplja nikakve osobne podatke. Aplikacija nema poslužitelj i ne traži račun: vaši se podaci pohranjuju na vašim uređajima i u vašem iCloudu, a programer im nema pristup."
+          }
+        ]
+      },
+      {
+        "h": "Vaši podaci",
+        "blocks": [
+          {
+            "p": "Aplikacija pohranjuje ono što unesete o svojim životinjama: karticu (ime, fotografiju, mikročip, veterinara, osiguranje…), njegu i cijepljenja, terapije i davanja, težinu, prehranu, zalihe, zdravstveni dnevnik i njegove fotografije, šetnje, troškove i dokumente."
+          },
+          {
+            "p": "Ti se podaci sinkroniziraju među vašim uređajima putem usluge iCloud (privatna baza podataka vašeg računa, kojom upravlja Apple). Ne prolaze ni kroz jedan poslužitelj programera."
+          }
+        ]
+      },
+      {
+        "h": "Dijeljenje s kućanstvom",
+        "blocks": [
+          {
+            "p": "Ako podijelite životinju, pozvane osobe vide i mijenjaju sve što se na nju odnosi, uključujući trase šetnji. Dijeljenje ide preko usluge iCloud; možete ga prekinuti u bilo kojem trenutku s kartice životinje, a svaka pozvana osoba može ga napustiti."
+          }
+        ]
+      },
+      {
+        "h": "Lokacija",
+        "blocks": [
+          {
+            "p": "Lokacija se koristi samo tijekom šetnje koju pokrenete, i kad je zaslon zaključan, a zatim se GPS zaustavlja. Trasa se sprema sa šetnjom u vaš iCloud; nikada se ne šalje programeru."
+          },
+          {
+            "ul": [
+              "U postavkama aplikacije opcija „Keep walk routes” omogućuje zadržavanje samo trajanja i udaljenosti.",
+              "Dopuštenje možete povući u bilo kojem trenutku u Postavke › Privatnost i sigurnost › Usluge lokacije."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Fotografije, kamera i obavijesti",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fotografije</strong>: uvoze se samo fotografije koje odaberete (fotografija životinje, dnevnik, dokumenti).",
+              "<strong>Kamera</strong>: služi za skeniranje vaših dokumenata, na vaš zahtjev.",
+              "<strong>Obavijesti</strong>: podsjetnici se zakazuju na vašem uređaju; ne koristi se nikakva vanjska usluga obavijesti."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Siri, widgeti i izvozi",
+        "blocks": [
+          {
+            "p": "Zahtjeve prema Siriju obrađuje Apple prema vlastitim pravilima. Widgeti čitaju sažetak spremljen na vašem uređaju. Izvozi (tekst, PDF, plakat za izgubljenu životinju, list za čuvanje) napuštaju aplikaciju samo ako ih podijelite putem alata sustava iOS; tada podliježu uvjetima odabrane usluge."
+          }
+        ]
+      },
+      {
+        "h": "Kupnje, reklame i praćenje",
+        "blocks": [
+          {
+            "p": "Pretplatu Pattoune Premium prodaje i njome upravlja Apple; programer ne prima nikakve podatke o plaćanju. Aplikacija ne sadrži reklame, alate za praćenje ni alate za analitiku ili statistiku korištenja."
+          }
+        ]
+      },
+      {
+        "h": "Djeca",
+        "blocks": [
+          {
+            "p": "Aplikacija ne prikuplja nikakve podatke i prikladna je za sve dobi."
+          }
+        ]
+      },
+      {
+        "h": "Izmjene",
+        "blocks": [
+          {
+            "p": "Ako se ova politika promijeni, nova će verzija biti objavljena na ovoj stranici s datumom ažuriranja."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Za sva pitanja o ovoj politici: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

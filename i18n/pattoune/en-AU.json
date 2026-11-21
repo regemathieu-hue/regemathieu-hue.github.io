@@ -1,0 +1,142 @@
+{
+  "support": {
+    "subtitle": "Your pets' health record",
+    "contact": "A question, an idea, or a problem with the app? Write to me:<br>{email}",
+    "faq": [
+      {
+        "q": "Does Pattoune replace the vet?",
+        "a": "No. Pattoune is a record book: it keeps track of vaccines, treatments, weigh-ins and care, and reminds you of what is due. The suggested intervals are common practice, to be confirmed with your vet. The app gives no medical advice."
+      },
+      {
+        "q": "How do I share the record with my household?",
+        "a": "Open your pet's page, then “Share with My Household”. The person you invite sees and updates the same record from their own iPhone, with their own iCloud account. Sharing goes through iCloud: both devices must be signed in to iCloud."
+      },
+      {
+        "q": "Can two people give the same pill by mistake?",
+        "a": "Pattoune warns you: if someone in the household has already logged the dose, the app shows “Already given by…” with the time and asks before logging another one. Dose reminders ring by default on the device that created the treatment."
+      },
+      {
+        "q": "What does Pattoune Premium include?",
+        "a": "The free version lets you follow one pet: health record, treatments and reminders, weight, food, grooming care, the “lost pet” poster and Siri. Premium adds unlimited pets, household sharing, walks, stocks, the health journal, the pet-sitter sheet, expenses, growth, PDF export, documents and widgets. If your subscription ends, nothing is deleted: your data stays readable."
+      },
+      {
+        "q": "How do I cancel or restore my subscription?",
+        "a": "Your subscription is managed in your App Store account settings: open Pattoune › Settings › “Manage My Subscription”. On a new device, tap “Restore” in the Premium screen to get back a subscription you already paid for."
+      },
+      {
+        "q": "Why does the app ask for my location?",
+        "a": "Only to record a walk that you start yourself. Your location is tracked during the walk, including with the screen locked, and then GPS stops. To keep only the duration and distance, turn off “Keep walk routes” in Settings."
+      },
+      {
+        "q": "My pet is lost: how can the app help?",
+        "a": "On your pet's page, tap “My pet is lost”: Pattoune creates a poster with the pet's photo, microchip number, distinctive marks and your phone number, ready to print or share. This feature is free."
+      },
+      {
+        "q": "How do I switch iPhones without losing my data?",
+        "a": "Your data is in your iCloud: sign in with the same iCloud account on the new iPhone and install Pattoune, and the record comes back on its own. You can also export the record as text or PDF from “Export record”."
+      },
+      {
+        "q": "How do I delete my data?",
+        "a": "Delete a pet from its page: everything about it is erased. Deleting the app is not enough, because the data stays in your iCloud: to erase everything, open Settings › your name › iCloud › Manage Storage, then Pattoune."
+      }
+    ],
+    "privacy_summary": "Pattoune collects no personal data and contains no ads and no trackers. Your data stays on your devices and in your iCloud; the developer has no access to it."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In short",
+        "blocks": [
+          {
+            "p": "Pattoune collects no personal data. The app has no server and requires no account: your data is stored on your devices and in your own iCloud, and the developer has no access to it."
+          }
+        ]
+      },
+      {
+        "h": "Your data",
+        "blocks": [
+          {
+            "p": "The app stores what you enter for your pets: profile (name, photo, microchip, vet, insurance…), care and vaccines, treatments and doses, weight, food, stocks, the health journal and its photos, walks, expenses and documents."
+          },
+          {
+            "p": "This data is synced between your devices through iCloud (your account's private database, run by Apple). It never goes through any server of the developer."
+          }
+        ]
+      },
+      {
+        "h": "Sharing with your household",
+        "blocks": [
+          {
+            "p": "If you share a pet, the people you invite see and edit everything about it, including walk routes. Sharing goes through iCloud; you can stop it at any time from the pet's page, and each guest can leave it."
+          }
+        ]
+      },
+      {
+        "h": "Location",
+        "blocks": [
+          {
+            "p": "Your location is used only during a walk that you start, including with the screen locked, and then GPS stops. The route is saved with the walk in your iCloud; it is never sent to the developer."
+          },
+          {
+            "ul": [
+              "In the app's Settings, “Keep walk routes” lets you keep only the duration and distance.",
+              "You can withdraw permission at any time in Settings › Privacy & Security › Location Services."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Photos, camera and notifications",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Photos</strong>: only the photos you choose are imported (pet photo, journal, documents).",
+              "<strong>Camera</strong>: it is used to scan your documents, when you ask for it.",
+              "<strong>Notifications</strong>: reminders are scheduled on your device; no outside notification service is used."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Siri, widgets and exports",
+        "blocks": [
+          {
+            "p": "Requests to Siri are handled by Apple under its own rules. Widgets read a summary stored on your device. Exports (text, PDF, “lost pet” poster, pet-sitter sheet) leave the app only if you share them, through iOS sharing tools; they are then subject to the terms of the service you choose."
+          }
+        ]
+      },
+      {
+        "h": "Purchases, ads and tracking",
+        "blocks": [
+          {
+            "p": "The Pattoune Premium subscription is sold and managed by Apple; the developer receives no payment data. The app contains no ads, no trackers and no analytics or usage statistics tools."
+          }
+        ]
+      },
+      {
+        "h": "Children",
+        "blocks": [
+          {
+            "p": "The app collects no data and is suitable for all ages."
+          }
+        ]
+      },
+      {
+        "h": "Changes",
+        "blocks": [
+          {
+            "p": "If this policy changes, the new version will be published on this page with its update date."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "For any question about this policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

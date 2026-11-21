@@ -53,6 +53,7 @@ ar-SA, ca, cs, da, de-DE, el, en-AU, en-CA, en-GB, en-US, es-ES, es-MX, fi, fr-C
 | Convert Everything | https://regemathieu-hue.github.io/convert-everything/ | https://regemathieu-hue.github.io/convert-everything/privacy.html |
 | Flashbooth | https://regemathieu-hue.github.io/flashbooth/ | https://regemathieu-hue.github.io/flashbooth/privacy.html |
 | Nuit Claire | https://regemathieu-hue.github.io/nuitclaire/ | https://regemathieu-hue.github.io/nuitclaire/privacy.html |
+| Pattoune | https://regemathieu-hue.github.io/pattoune/ | https://regemathieu-hue.github.io/pattoune/privacy.html |
 | Tablée | https://regemathieu-hue.github.io/tablee/ | https://regemathieu-hue.github.io/tablee/privacy.html |
 
 Une langue précise : `https://regemathieu-hue.github.io/<appli>/<langue>/` et `.../<langue>/privacy.html`.

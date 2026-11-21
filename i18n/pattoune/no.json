@@ -1,0 +1,142 @@
+{
+  "support": {
+    "subtitle": "Helsejournalen til kjæledyrene dine",
+    "contact": "Et spørsmål, en idé eller et problem med appen? Skriv til meg:<br>{email}",
+    "faq": [
+      {
+        "q": "Erstatter Pattoune veterinæren?",
+        "a": "Nei. Pattoune er en journal: den holder oversikt over vaksiner, behandlinger, veiinger og stell, og minner deg på frister som nærmer seg. Intervallene som foreslås, er vanlige anbefalinger som må bekreftes med veterinæren din. Appen gir ingen medisinske råd."
+      },
+      {
+        "q": "Hvordan deler jeg journalen med husstanden min?",
+        "a": "Åpne kortet til dyret, og velg «Share with My Household». Personen som blir invitert, ser og fyller ut den samme journalen fra sin egen iPhone, med sin egen iCloud-konto. Delingen går via iCloud: du må være logget inn på iCloud på begge enhetene."
+      },
+      {
+        "q": "Kan to personer komme til å gi den samme tabletten ved en feil?",
+        "a": "Pattoune advarer deg: hvis noen i husstanden allerede har registrert doseringen, viser appen «Already given by…» med klokkeslett og ber om bekreftelse før en ny dose registreres. Påminnelser om dosering ringer som standard på enheten som opprettet behandlingen."
+      },
+      {
+        "q": "Hva inngår i Pattoune Premium?",
+        "a": "Med gratisversjonen kan du følge ett dyr: helsejournal, behandlinger og påminnelser, vekt, fôring, vanlig stell, plakat for savnet dyr og Siri. Premium legger til et ubegrenset antall dyr, deling med husstanden, turer, lager, helsedagbok, oppsynskort, utgifter, vekst, PDF-eksport, dokumenter og widgeter. Hvis abonnementet opphører, slettes ingenting: dataene dine forblir lesbare."
+      },
+      {
+        "q": "Hvordan sier jeg opp eller gjenoppretter abonnementet mitt?",
+        "a": "Abonnementet administreres i innstillingene for App Store-kontoen din: åpne Pattoune › «Settings» › «Manage My Subscription». På en ny enhet trykker du på «Restore» i Premium-vinduet for å hente tilbake et abonnement du allerede har betalt for."
+      },
+      {
+        "q": "Hvorfor ber appen om posisjonen min?",
+        "a": "Bare for å registrere en tur som du starter selv. Posisjonen følges under turen, også når skjermen er låst, og deretter stopper GPS-en. Du kan beholde bare varighet og distanse ved å slå av «Keep walk routes» i «Settings»."
+      },
+      {
+        "q": "Dyret mitt er savnet: hva kan jeg gjøre med appen?",
+        "a": "På kortet til dyret trykker du på «My pet is lost»: Pattoune lager en plakat med bilde av dyret, ID-chipnummer, kjennetegn og telefonnummeret ditt, klar til å skrives ut eller deles. Denne funksjonen er gratis."
+      },
+      {
+        "q": "Hvordan bytter jeg iPhone uten å miste dataene mine?",
+        "a": "Dataene dine ligger i iCloud: logg inn med den samme iCloud-kontoen på den nye iPhonen og installer Pattoune, så kommer journalen tilbake av seg selv. Du kan også eksportere journalen som tekst eller PDF fra «Export record»."
+      },
+      {
+        "q": "Hvordan sletter jeg dataene mine?",
+        "a": "Slett et dyr fra kortet: alt som gjelder dyret, blir slettet. Det er ikke nok å slette appen, for dataene blir liggende i iCloud: for å slette alt åpner du Innstillinger › navnet ditt › iCloud › Administrer lagring, og velger deretter Pattoune."
+      }
+    ],
+    "privacy_summary": "Pattoune samler ikke inn personopplysninger og inneholder verken reklame eller sporere. Dataene dine blir på enhetene dine og i iCloud; utvikleren har ikke tilgang til dem."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort fortalt",
+        "blocks": [
+          {
+            "p": "Pattoune samler ikke inn personopplysninger. Appen har ingen server og krever ingen konto: dataene dine lagres på enhetene dine og i din egen iCloud, og utvikleren har ikke tilgang til dem."
+          }
+        ]
+      },
+      {
+        "h": "Dataene dine",
+        "blocks": [
+          {
+            "p": "Appen lagrer det du legger inn om dyrene dine: kort (navn, bilde, ID-chip, veterinær, forsikring …), stell og vaksiner, behandlinger og doseringer, vekt, fôring, lager, helsedagbok med bilder, turer, utgifter og dokumenter."
+          },
+          {
+            "p": "Disse dataene synkroniseres mellom enhetene dine via iCloud (den private databasen til kontoen din, som administreres av Apple). De går ikke via noen av utviklerens servere."
+          }
+        ]
+      },
+      {
+        "h": "Deling med husstanden",
+        "blocks": [
+          {
+            "p": "Hvis du deler et dyr, kan de inviterte se og endre alt som gjelder dyret, inkludert rutene for turene. Delingen går via iCloud; du kan stoppe den når som helst fra kortet til dyret, og hver inviterte kan forlate den."
+          }
+        ]
+      },
+      {
+        "h": "Posisjon",
+        "blocks": [
+          {
+            "p": "Posisjonen brukes bare under en tur som du starter, også når skjermen er låst, og deretter stopper GPS-en. Ruten lagres sammen med turen i iCloud; den sendes aldri til utvikleren."
+          },
+          {
+            "ul": [
+              "I innstillingene i appen («Settings») kan du bruke «Keep walk routes» til å beholde bare varighet og distanse.",
+              "Du kan når som helst trekke tilbake tillatelsen i Innstillinger › Personvern og sikkerhet › Stedstjenester."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Bilder, kamera og varsler",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Bilder</strong>: bare bildene du velger, blir importert (bilde av dyret, dagbok, dokumenter).",
+              "<strong>Kamera</strong>: brukes til å skanne dokumentene dine, på din forespørsel.",
+              "<strong>Varsler</strong>: påminnelsene planlegges på enheten din; ingen ekstern varslingstjeneste brukes."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Siri, widgeter og eksporter",
+        "blocks": [
+          {
+            "p": "Forespørsler til Siri behandles av Apple etter Apples egne regler. Widgetene leser en oppsummering som er lagret på enheten din. Eksporter (tekst, PDF, plakat for savnet dyr, oppsynskort) forlater bare appen hvis du deler dem via verktøyene i iOS; da gjelder vilkårene til tjenesten du har valgt."
+          }
+        ]
+      },
+      {
+        "h": "Kjøp, reklame og sporing",
+        "blocks": [
+          {
+            "p": "Abonnementet Pattoune Premium selges og administreres av Apple; utvikleren mottar ingen betalingsopplysninger. Appen inneholder ingen reklame, ingen sporere og ingen verktøy for analyse eller bruksstatistikk."
+          }
+        ]
+      },
+      {
+        "h": "Barn",
+        "blocks": [
+          {
+            "p": "Appen samler ikke inn noen data og passer for alle aldre."
+          }
+        ]
+      },
+      {
+        "h": "Endringer",
+        "blocks": [
+          {
+            "p": "Hvis denne personvernerklæringen endres, publiseres den nye versjonen på denne siden med oppdateringsdato."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Har du spørsmål om denne personvernerklæringen: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

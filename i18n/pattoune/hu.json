@@ -1,0 +1,142 @@
+{
+  "support": {
+    "subtitle": "Háziállatai egészségügyi naplója",
+    "contact": "Kérdése, ötlete van, vagy problémába ütközött az alkalmazással? Írjon nekem:<br>{email}",
+    "faq": [
+      {
+        "q": "A Pattoune helyettesíti az állatorvost?",
+        "a": "Nem. A Pattoune egy napló: nyilvántartja az oltásokat, kezeléseket, méréseket és ápolási teendőket, és emlékezteti az esedékes időpontokra. A javasolt időközök általános ajánlások, amelyeket állatorvosával kell megerősíttetnie. Az alkalmazás nem ad orvosi tanácsot."
+      },
+      {
+        "q": "Hogyan oszthatom meg a naplót a háztartásommal?",
+        "a": "Nyissa meg az állat lapját, majd válassza a „Share with My Household” lehetőséget. A meghívott személy ugyanazt a naplót látja és egészíti ki a saját iPhone-járól, a saját iCloud-fiókjával. A megosztás az iCloudon keresztül történik: mindkét eszközön be kell jelentkezni az iCloudba."
+      },
+      {
+        "q": "Előfordulhat, hogy ketten véletlenül ugyanazt a tablettát adják be?",
+        "a": "A Pattoune figyelmeztet: ha a háztartás valamelyik tagja már rögzítette a beadást, az alkalmazás kiírja az „Already given by…” szöveget az időponttal együtt, és megerősítést kér, mielőtt újabb beadást rögzítene. A gyógyszerbeadási emlékeztetők alapértelmezés szerint azon az eszközön szólalnak meg, amelyen a kezelést létrehozták."
+      },
+      {
+        "q": "Mit tartalmaz a Pattoune Premium?",
+        "a": "Az ingyenes verzióval egy állatot követhet nyomon: egészségügyi napló, kezelések és emlékeztetők, súly, táplálás, rendszeres ápolás, elveszett állat plakát és Siri. A Premium korlátlan számú állatot, a háztartással való megosztást, sétákat, készleteket, egészségnaplót, gondozói lapot, kiadásokat, növekedést, PDF-exportot, dokumentumokat és widgeteket tesz hozzá. Ha az előfizetés megszűnik, semmi sem törlődik: az adatai továbbra is olvashatók maradnak."
+      },
+      {
+        "q": "Hogyan mondhatom le vagy állíthatom vissza az előfizetésemet?",
+        "a": "Az előfizetést az App Store-fiók beállításaiban kezelheti: nyissa meg a Pattoune › „Settings” › „Manage My Subscription” menüpontot. Új eszközön érintse meg a „Restore” gombot a Premium ablakban, hogy visszakapja a már kifizetett előfizetést."
+      },
+      {
+        "q": "Miért kéri az alkalmazás a tartózkodási helyemet?",
+        "a": "Kizárólag az Ön által elindított séta rögzítéséhez. A helyzetét a séta alatt követi, zárolt képernyő mellett is, majd a GPS leáll. Ha csak az időtartamot és a távolságot szeretné megtartani, kapcsolja ki a „Keep walk routes” beállítást a „Settings” alatt."
+      },
+      {
+        "q": "Az állatom elveszett: mit tehetek az alkalmazással?",
+        "a": "Az állat lapján érintse meg a „My pet is lost” gombot: a Pattoune plakátot készít az állat fényképével, mikrochipszámával, megkülönböztető jegyeivel és az Ön telefonszámával, nyomtatásra vagy megosztásra készen. Ez a funkció ingyenes."
+      },
+      {
+        "q": "Hogyan válthatok iPhone-t az adataim elvesztése nélkül?",
+        "a": "Az adatai az Ön iCloudjában vannak: jelentkezzen be ugyanazzal az iCloud-fiókkal az új iPhone-on, és telepítse a Pattoune-t, a napló magától visszatér. A naplót szövegként vagy PDF-ként is exportálhatja az „Export record” funkcióval."
+      },
+      {
+        "q": "Hogyan törölhetem az adataimat?",
+        "a": "Töröljön egy állatot a lapjáról: minden, ami hozzá tartozik, törlődik. Az alkalmazás törlése nem elég, mert az adatok az iCloudban megmaradnak: mindennek a törléséhez nyissa meg a Beállítások › az Ön neve › iCloud › Tárhely kezelése menüpontot, majd válassza a Pattoune-t."
+      }
+    ],
+    "privacy_summary": "A Pattoune nem gyűjt személyes adatokat, és nem tartalmaz sem hirdetést, sem nyomkövetőt. Az adatai az eszközein és az iCloudjában maradnak; a fejlesztőnek nincs hozzáférése hozzájuk."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Röviden",
+        "blocks": [
+          {
+            "p": "A Pattoune nem gyűjt személyes adatokat. Az alkalmazásnak nincs szervere, és nem kér fiókot: az adatait az eszközein és a saját iCloudjában tárolja, a fejlesztőnek pedig nincs hozzáférése hozzájuk."
+          }
+        ]
+      },
+      {
+        "h": "Az Ön adatai",
+        "blocks": [
+          {
+            "p": "Az alkalmazás azt tárolja, amit az állataihoz beír: lap (név, fénykép, mikrochip, állatorvos, biztosítás…), ápolás és oltások, kezelések és beadások, súly, táplálás, készletek, egészségnapló és annak fényképei, séták, kiadások és dokumentumok."
+          },
+          {
+            "p": "Ezeket az adatokat az iCloud szinkronizálja az eszközei között (a fiókja privát adatbázisa, amelyet az Apple kezel). Egyetlen, a fejlesztőhöz tartozó szerveren sem haladnak át."
+          }
+        ]
+      },
+      {
+        "h": "Megosztás a háztartással",
+        "blocks": [
+          {
+            "p": "Ha megoszt egy állatot, a meghívott személyek látnak és módosíthatnak mindent, ami az állatra vonatkozik, a séták útvonalát is beleértve. A megosztás az iCloudon keresztül történik; bármikor leállíthatja az állat lapjáról, és minden meghívott kiléphet belőle."
+          }
+        ]
+      },
+      {
+        "h": "Tartózkodási hely",
+        "blocks": [
+          {
+            "p": "A tartózkodási helyet csak az Ön által elindított séta alatt használja az alkalmazás, zárolt képernyő mellett is, majd a GPS leáll. Az útvonal a sétával együtt az iCloudjában tárolódik; a fejlesztőnek soha nem küldi el."
+          },
+          {
+            "ul": [
+              "Az alkalmazás beállításaiban a „Keep walk routes” lehetővé teszi, hogy csak az időtartam és a távolság maradjon meg.",
+              "Az engedélyt bármikor visszavonhatja a Beállítások › Adatvédelem és biztonság › Helymeghatározási szolgáltatások menüpontban."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Fényképek, kamera és értesítések",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fényképek</strong>: csak az Ön által kiválasztott fényképek kerülnek importálásra (az állat fényképe, napló, dokumentumok).",
+              "<strong>Kamera</strong>: a dokumentumok beolvasására szolgál, az Ön kérésére.",
+              "<strong>Értesítések</strong>: az emlékeztetők az eszközén kerülnek ütemezésre; külső értesítési szolgáltatást nem használ az alkalmazás."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Siri, widgetek és exportok",
+        "blocks": [
+          {
+            "p": "A Siri-kéréseket az Apple dolgozza fel a saját szabályai szerint. A widgetek az eszközén tárolt összegzést olvassák. Az exportok (szöveg, PDF, elveszett állat plakát, gondozói lap) csak akkor hagyják el az alkalmazást, ha Ön az iOS eszközeivel megosztja őket; ilyenkor a választott szolgáltatás feltételei vonatkoznak rájuk."
+          }
+        ]
+      },
+      {
+        "h": "Vásárlások, hirdetések és nyomkövetés",
+        "blocks": [
+          {
+            "p": "A Pattoune Premium előfizetést az Apple értékesíti és kezeli; a fejlesztő semmilyen fizetési adatot nem kap. Az alkalmazás nem tartalmaz hirdetést, nyomkövetőt, sem használati elemzési vagy statisztikai eszközt."
+          }
+        ]
+      },
+      {
+        "h": "Gyermekek",
+        "blocks": [
+          {
+            "p": "Az alkalmazás nem gyűjt semmilyen adatot, és minden korosztály számára alkalmas."
+          }
+        ]
+      },
+      {
+        "h": "Módosítások",
+        "blocks": [
+          {
+            "p": "Ha ez a szabályzat megváltozik, az új verzió ezen az oldalon kerül közzétételre a frissítés dátumával."
+          }
+        ]
+      },
+      {
+        "h": "Kapcsolat",
+        "blocks": [
+          {
+            "p": "A szabályzattal kapcsolatos bármilyen kérdéssel forduljon hozzánk: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

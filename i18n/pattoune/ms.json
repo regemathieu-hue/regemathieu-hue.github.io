@@ -1,0 +1,142 @@
+{
+  "support": {
+    "subtitle": "Buku kesihatan haiwan peliharaan anda",
+    "contact": "Ada soalan, idea atau masalah dengan aplikasi ini? Tulis kepada saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Adakah Pattoune menggantikan doktor haiwan?",
+        "a": "Tidak. Pattoune ialah sebuah buku rekod: ia menyimpan jejak vaksin, rawatan, penimbangan dan penjagaan, serta mengingatkan anda tentang tarikh akan datang. Selang masa yang dicadangkan ialah cadangan lazim yang perlu disahkan dengan doktor haiwan anda. Aplikasi ini tidak memberikan sebarang nasihat perubatan."
+      },
+      {
+        "q": "Bagaimanakah cara berkongsi buku rekod dengan isi rumah saya?",
+        "a": "Buka profil haiwan, kemudian “Share with My Household”. Orang yang dijemput melihat dan melengkapkan buku rekod yang sama daripada iPhone mereka, dengan akaun iCloud mereka sendiri. Perkongsian dibuat melalui iCloud: kedua-dua peranti mesti log masuk ke iCloud."
+      },
+      {
+        "q": "Bolehkah dua orang memberikan pil yang sama secara tidak sengaja?",
+        "a": "Pattoune memberi amaran kepada anda: jika pemberian ubat sudah direkodkan oleh seseorang dalam isi rumah, aplikasi memaparkan “Already given by…” bersama waktunya, dan meminta pengesahan sebelum merekodkan satu lagi. Peringatan pemberian ubat berbunyi secara lalai pada peranti yang mencipta rawatan itu."
+      },
+      {
+        "q": "Apakah yang terkandung dalam Pattoune Premium?",
+        "a": "Versi percuma membolehkan anda menjejaki satu haiwan: buku kesihatan, rawatan dan peringatan, berat, pemakanan, penjagaan rutin, poster haiwan hilang dan Siri. Premium menambah bilangan haiwan tanpa had, perkongsian dengan isi rumah, berjalan-jalan, stok, jurnal kesihatan, helaian penjagaan, perbelanjaan, pertumbuhan, eksport PDF, dokumen dan widget. Jika langganan berhenti, tiada apa-apa yang dipadamkan: data anda kekal boleh dibaca."
+      },
+      {
+        "q": "Bagaimanakah cara membatalkan atau memulihkan langganan saya?",
+        "a": "Langganan diuruskan dalam tetapan akaun App Store anda: buka Pattoune › “Settings” › “Manage My Subscription”. Pada peranti baharu, ketik “Restore” dalam tetingkap Premium untuk mendapatkan semula langganan yang sudah dibayar."
+      },
+      {
+        "q": "Mengapakah aplikasi meminta lokasi saya?",
+        "a": "Hanya untuk merekodkan jalan-jalan yang anda mulakan sendiri. Lokasi dijejaki semasa jalan-jalan, termasuk ketika skrin dikunci, kemudian GPS berhenti. Anda boleh menyimpan tempoh dan jarak sahaja dengan melumpuhkan “Keep walk routes” dalam “Settings”."
+      },
+      {
+        "q": "Haiwan saya hilang: apakah yang boleh saya lakukan dengan aplikasi ini?",
+        "a": "Dalam profil haiwan, ketik “My pet is lost”: Pattoune mencipta poster dengan gambar haiwan, nombor cip mikro, tanda pengenalan dan nombor telefon anda, sedia untuk dicetak atau dikongsi. Ciri ini percuma."
+      },
+      {
+        "q": "Bagaimanakah cara menukar iPhone tanpa kehilangan data saya?",
+        "a": "Data anda berada dalam iCloud anda: log masuk dengan akaun iCloud yang sama pada iPhone baharu dan pasang Pattoune, buku rekod akan kembali dengan sendirinya. Anda juga boleh mengeksport buku rekod sebagai teks atau PDF daripada “Export record”."
+      },
+      {
+        "q": "Bagaimanakah cara memadamkan data saya?",
+        "a": "Padamkan haiwan daripada profilnya: semua yang berkaitan dengannya dipadamkan. Memadamkan aplikasi tidak mencukupi, kerana data kekal dalam iCloud anda: untuk memadamkan semuanya, buka Tetapan › nama anda › iCloud › Urus Storan, kemudian Pattoune."
+      }
+    ],
+    "privacy_summary": "Pattoune tidak mengumpul sebarang data peribadi dan tidak mengandungi iklan atau penjejak. Data anda kekal pada peranti anda dan dalam iCloud anda; pembangun tidak mempunyai akses kepadanya."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasan",
+        "blocks": [
+          {
+            "p": "Pattoune tidak mengumpul sebarang data peribadi. Aplikasi ini tidak mempunyai pelayan dan tidak meminta akaun: data anda disimpan pada peranti anda dan dalam iCloud anda sendiri, dan pembangun tidak mempunyai akses kepadanya."
+          }
+        ]
+      },
+      {
+        "h": "Data anda",
+        "blocks": [
+          {
+            "p": "Aplikasi menyimpan apa yang anda masukkan untuk haiwan anda: profil (nama, gambar, cip mikro, doktor haiwan, insurans…), penjagaan dan vaksin, rawatan dan pemberian ubat, berat, pemakanan, stok, jurnal kesihatan dan gambarnya, jalan-jalan, perbelanjaan dan dokumen."
+          },
+          {
+            "p": "Data ini disegerakkan antara peranti anda melalui iCloud (pangkalan data peribadi akaun anda, diuruskan oleh Apple). Data tidak melalui sebarang pelayan pembangun."
+          }
+        ]
+      },
+      {
+        "h": "Perkongsian dengan isi rumah",
+        "blocks": [
+          {
+            "p": "Jika anda berkongsi seekor haiwan, orang yang dijemput melihat dan mengubah semua yang berkaitan dengannya, termasuk laluan jalan-jalan. Perkongsian dibuat melalui iCloud; anda boleh menghentikannya pada bila-bila masa daripada profil haiwan, dan setiap orang yang dijemput boleh keluar daripadanya."
+          }
+        ]
+      },
+      {
+        "h": "Lokasi",
+        "blocks": [
+          {
+            "p": "Lokasi hanya digunakan semasa jalan-jalan yang anda mulakan, termasuk ketika skrin dikunci, kemudian GPS berhenti. Laluan disimpan bersama jalan-jalan itu dalam iCloud anda; ia tidak pernah dihantar kepada pembangun."
+          },
+          {
+            "ul": [
+              "Dalam tetapan aplikasi (“Settings”), pilihan “Keep walk routes” membolehkan anda menyimpan tempoh dan jarak sahaja.",
+              "Anda boleh menarik balik kebenaran pada bila-bila masa dalam Tetapan › Privasi & Keselamatan › Perkhidmatan Lokasi."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Foto, kamera dan pemberitahuan",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Foto</strong>: hanya foto yang anda pilih diimport (foto haiwan, jurnal, dokumen).",
+              "<strong>Kamera</strong>: digunakan untuk mengimbas dokumen anda, atas permintaan anda.",
+              "<strong>Pemberitahuan</strong>: peringatan dijadualkan pada peranti anda; tiada perkhidmatan pemberitahuan luaran digunakan."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Siri, widget dan eksport",
+        "blocks": [
+          {
+            "p": "Permintaan kepada Siri diproses oleh Apple mengikut peraturannya sendiri. Widget membaca ringkasan yang disimpan pada peranti anda. Eksport (teks, PDF, poster haiwan hilang, helaian penjagaan) hanya keluar daripada aplikasi jika anda berkongsinya melalui alat iOS; ia kemudian tertakluk kepada syarat perkhidmatan yang dipilih."
+          }
+        ]
+      },
+      {
+        "h": "Pembelian, iklan dan penjejakan",
+        "blocks": [
+          {
+            "p": "Langganan Pattoune Premium dijual dan diuruskan oleh Apple; pembangun tidak menerima sebarang data pembayaran. Aplikasi ini tidak mengandungi iklan, penjejak atau alat analisis dan statistik penggunaan."
+          }
+        ]
+      },
+      {
+        "h": "Kanak-kanak",
+        "blocks": [
+          {
+            "p": "Aplikasi ini tidak mengumpul sebarang data dan sesuai untuk semua peringkat umur."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika dasar ini berubah, versi baharu akan diterbitkan di halaman ini bersama tarikh kemas kininya."
+          }
+        ]
+      },
+      {
+        "h": "Hubungi",
+        "blocks": [
+          {
+            "p": "Untuk sebarang soalan tentang dasar ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

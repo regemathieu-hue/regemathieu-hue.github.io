@@ -1,0 +1,142 @@
+{
+  "support": {
+    "subtitle": "Sổ sức khỏe cho thú cưng của bạn",
+    "contact": "Có câu hỏi, ý tưởng hay vấn đề với ứng dụng? Hãy viết cho tôi:<br>{email}",
+    "faq": [
+      {
+        "q": "Pattoune có thay thế bác sĩ thú y không?",
+        "a": "Không. Pattoune là một cuốn sổ: ứng dụng ghi lại việc tiêm phòng, điều trị, cân nặng và chăm sóc, đồng thời nhắc bạn khi đến hạn. Các khoảng thời gian được đề xuất chỉ là gợi ý thông thường, bạn cần xác nhận lại với bác sĩ thú y. Ứng dụng không đưa ra lời khuyên y tế nào."
+      },
+      {
+        "q": "Làm thế nào để chia sẻ sổ với các thành viên trong gia đình?",
+        "a": "Mở trang thông tin của thú cưng, rồi chạm vào “Share with My Household”. Người được mời sẽ xem và bổ sung cùng một cuốn sổ từ iPhone của họ, bằng tài khoản iCloud riêng của họ. Việc chia sẻ diễn ra qua iCloud: cả hai thiết bị đều phải đăng nhập iCloud."
+      },
+      {
+        "q": "Hai người có thể vô tình cho cùng một viên thuốc không?",
+        "a": "Pattoune sẽ cảnh báo bạn: nếu một thành viên trong gia đình đã ghi nhận liều thuốc, ứng dụng sẽ hiển thị “Already given by…” kèm giờ và yêu cầu xác nhận trước khi ghi thêm một liều khác. Lời nhắc dùng thuốc mặc định sẽ báo trên thiết bị đã tạo liệu trình."
+      },
+      {
+        "q": "Pattoune Premium bao gồm những gì?",
+        "a": "Phiên bản miễn phí cho phép theo dõi một thú cưng: sổ sức khỏe, điều trị và lời nhắc, cân nặng, ăn uống, chăm sóc thường xuyên, tờ thông báo “thú cưng bị lạc” và Siri. Premium bổ sung số lượng thú cưng không giới hạn, chia sẻ với gia đình, các buổi đi dạo, kho dự trữ, nhật ký sức khỏe, phiếu dành cho người trông thú, chi phí, tăng trưởng, xuất PDF, tài liệu và widget. Nếu gói đăng ký kết thúc, không có gì bị xóa: dữ liệu của bạn vẫn đọc được."
+      },
+      {
+        "q": "Làm thế nào để hủy hoặc khôi phục đăng ký của tôi?",
+        "a": "Bạn quản lý gói đăng ký trong phần cài đặt tài khoản App Store: mở Pattoune › “Settings” › “Manage My Subscription”. Trên thiết bị mới, chạm vào “Restore” trong cửa sổ Premium để lấy lại gói đã thanh toán."
+      },
+      {
+        "q": "Tại sao ứng dụng lại yêu cầu vị trí của tôi?",
+        "a": "Chỉ để ghi lại buổi đi dạo mà chính bạn bắt đầu. Vị trí được theo dõi trong suốt buổi đi dạo, kể cả khi khóa màn hình, sau đó GPS sẽ dừng. Bạn có thể chỉ giữ thời lượng và quãng đường bằng cách tắt “Keep walk routes” trong “Settings”."
+      },
+      {
+        "q": "Vật nuôi của tôi bị mất: tôi nên làm gì với ứng dụng?",
+        "a": "Trong trang thông tin của thú cưng, chạm vào “My pet is lost”: Pattoune sẽ tạo một tờ thông báo gồm ảnh thú cưng, số vi mạch, đặc điểm nhận dạng và số điện thoại của bạn, sẵn sàng để in hoặc chia sẻ. Tính năng này miễn phí."
+      },
+      {
+        "q": "Làm thế nào để chuyển sang iPhone khác mà không mất dữ liệu?",
+        "a": "Dữ liệu của bạn nằm trong iCloud của bạn: đăng nhập bằng cùng tài khoản iCloud trên iPhone mới và cài đặt Pattoune, cuốn sổ sẽ tự động trở lại. Bạn cũng có thể xuất sổ dưới dạng văn bản hoặc PDF từ “Export record”."
+      },
+      {
+        "q": "Làm thế nào để xóa dữ liệu của tôi?",
+        "a": "Xóa một thú cưng từ trang thông tin của nó: mọi thứ liên quan đến nó sẽ bị xóa. Chỉ gỡ ứng dụng là chưa đủ, vì dữ liệu vẫn còn trong iCloud của bạn: để xóa tất cả, hãy mở Cài đặt › tên của bạn › iCloud › Quản lý dung lượng, rồi chọn Pattoune."
+      }
+    ],
+    "privacy_summary": "Pattoune không thu thập bất kỳ dữ liệu cá nhân nào và không chứa quảng cáo hay công cụ theo dõi. Dữ liệu của bạn luôn được lưu trên thiết bị của bạn và trong iCloud của bạn; nhà phát triển không thể truy cập vào đó."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Tóm lại",
+        "blocks": [
+          {
+            "p": "Pattoune không thu thập dữ liệu cá nhân. Ứng dụng không có máy chủ và không yêu cầu tài khoản: dữ liệu của bạn được lưu trên thiết bị của bạn và trong iCloud riêng của bạn, và nhà phát triển không thể truy cập vào đó."
+          }
+        ]
+      },
+      {
+        "h": "Dữ liệu của bạn",
+        "blocks": [
+          {
+            "p": "Ứng dụng lưu những gì bạn nhập cho thú cưng của mình: hồ sơ (tên, ảnh, vi mạch, bác sĩ thú y, bảo hiểm…), chăm sóc và tiêm phòng, điều trị và các lần dùng thuốc, cân nặng, ăn uống, kho dự trữ, nhật ký sức khỏe cùng ảnh đính kèm, các buổi đi dạo, chi phí và tài liệu."
+          },
+          {
+            "p": "Dữ liệu này được đồng bộ giữa các thiết bị của bạn thông qua iCloud (cơ sở dữ liệu riêng tư của tài khoản bạn, do Apple quản lý). Dữ liệu không bao giờ đi qua máy chủ nào của nhà phát triển."
+          }
+        ]
+      },
+      {
+        "h": "Chia sẻ với gia đình",
+        "blocks": [
+          {
+            "p": "Nếu bạn chia sẻ một thú cưng, những người được mời sẽ thấy và chỉnh sửa mọi thứ liên quan đến thú cưng đó, kể cả lộ trình đi dạo. Việc chia sẻ diễn ra qua iCloud; bạn có thể dừng bất kỳ lúc nào từ trang thông tin của thú cưng, và mỗi người được mời cũng có thể tự rời khỏi."
+          }
+        ]
+      },
+      {
+        "h": "Vị trí",
+        "blocks": [
+          {
+            "p": "Vị trí chỉ được dùng trong buổi đi dạo mà bạn bắt đầu, kể cả khi khóa màn hình, sau đó GPS sẽ dừng. Lộ trình được lưu cùng buổi đi dạo trong iCloud của bạn; lộ trình không bao giờ được gửi cho nhà phát triển."
+          },
+          {
+            "ul": [
+              "Trong “Settings” của ứng dụng, “Keep walk routes” cho phép bạn chỉ giữ lại thời lượng và quãng đường.",
+              "Bạn có thể thu hồi quyền bất kỳ lúc nào tại Cài đặt › Quyền riêng tư & Bảo mật › Dịch vụ định vị."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Ảnh, máy ảnh và thông báo",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Ảnh</strong>: chỉ những hình ảnh bạn chọn mới được nhập vào (hình thú cưng, nhật ký, tài liệu).",
+              "<strong>Máy ảnh</strong>: được dùng để quét tài liệu của bạn khi bạn yêu cầu.",
+              "<strong>Thông báo</strong>: các lời nhắc được lập lịch trên thiết bị của bạn; không có dịch vụ thông báo bên ngoài nào được sử dụng."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Siri, widget và xuất dữ liệu",
+        "blocks": [
+          {
+            "p": "Các yêu cầu gửi tới Siri được Apple xử lý theo quy định riêng của họ. Widget đọc một bản tóm tắt được lưu trên thiết bị của bạn. Các bản xuất (văn bản, PDF, tờ thông báo “thú cưng bị lạc”, phiếu dành cho người trông thú) chỉ rời khỏi ứng dụng nếu bạn chia sẻ chúng qua các công cụ của iOS; khi đó chúng chịu sự điều chỉnh của điều khoản dịch vụ bạn chọn."
+          }
+        ]
+      },
+      {
+        "h": "Mua sắm, quảng cáo và theo dõi",
+        "blocks": [
+          {
+            "p": "Gói đăng ký Pattoune Premium được bán và quản lý bởi Apple; nhà phát triển không nhận bất kỳ dữ liệu thanh toán nào. Ứng dụng không chứa quảng cáo, không có công cụ theo dõi hay công cụ phân tích hoặc thống kê sử dụng."
+          }
+        ]
+      },
+      {
+        "h": "Trẻ em",
+        "blocks": [
+          {
+            "p": "Ứng dụng không thu thập bất kỳ dữ liệu nào và phù hợp với mọi độ tuổi."
+          }
+        ]
+      },
+      {
+        "h": "Thay đổi",
+        "blocks": [
+          {
+            "p": "Nếu chính sách này thay đổi, phiên bản mới sẽ được đăng trên trang này cùng với ngày cập nhật."
+          }
+        ]
+      },
+      {
+        "h": "Liên hệ",
+        "blocks": [
+          {
+            "p": "Nếu có bất kỳ câu hỏi nào về chính sách này: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "support": {
+    "subtitle": "Der Gesundheitspass Ihrer Haustiere",
+    "contact": "Eine Frage, eine Idee oder ein Problem mit der App? Schreiben Sie mir:<br>{email}",
+    "faq": [
+      {
+        "q": "Ersetzt Pattoune den Tierarzt?",
+        "a": "Nein. Pattoune ist ein Gesundheitspass: Die App hält Impfungen, Behandlungen, Wiegungen und Pflege fest und erinnert Sie an bevorstehende Termine. Die vorgeschlagenen Intervalle sind gängige Richtwerte, die Sie mit Ihrem Tierarzt abstimmen sollten. Die App gibt keine medizinischen Ratschläge."
+      },
+      {
+        "q": "Wie teile ich den Gesundheitspass mit meinem Haushalt?",
+        "a": "Öffnen Sie die Seite des Tiers und tippen Sie auf „Share with My Household“. Die eingeladene Person sieht und ergänzt denselben Gesundheitspass auf ihrem iPhone, mit ihrer eigenen iCloud-Kennung. Das Teilen läuft über iCloud: Sie müssen auf beiden Geräten bei iCloud angemeldet sein."
+      },
+      {
+        "q": "Können zwei Personen versehentlich die gleiche Tablette verabreichen?",
+        "a": "Pattoune warnt Sie: Wurde die Gabe bereits von jemandem im Haushalt eingetragen, zeigt die App „Already given by…“ mit der Uhrzeit an und bittet um Bestätigung, bevor eine weitere eingetragen wird. Die Erinnerungen an die Gabe ertönen standardmäßig auf dem Gerät, das die Behandlung angelegt hat."
+      },
+      {
+        "q": "Was beinhaltet Pattoune Premium?",
+        "a": "Die kostenlose Version ermöglicht es, ein Tier zu begleiten: Gesundheitspass, Behandlungen und Erinnerungen, Gewicht, Fütterung, Pflege, das Plakat „Tier verloren“ und Siri. Premium bietet zusätzlich unbegrenzt viele Tiere, das Teilen mit dem Haushalt, Spaziergänge, Vorräte, das Gesundheitsjournal, das Betreuungsblatt, Ausgaben, Wachstum, den PDF-Export, Dokumente und Widgets. Wenn Ihr Abonnement endet, wird nichts gelöscht: Ihre Daten bleiben lesbar."
+      },
+      {
+        "q": "Wie kann ich mein Abonnement kündigen oder wiederherstellen?",
+        "a": "Das Abonnement wird in den Einstellungen Ihres App-Store-Kontos verwaltet: Öffnen Sie Pattoune › „Settings“ › „Manage My Subscription“. Tippen Sie auf einem neuen Gerät im Premium-Fenster auf „Restore“, um ein bereits bezahltes Abonnement wiederherzustellen."
+      },
+      {
+        "q": "Warum bittet die App um meine Position?",
+        "a": "Nur um einen Spaziergang aufzuzeichnen, den Sie selbst starten. Ihr Standort wird während des Spaziergangs verfolgt, auch bei gesperrtem Bildschirm, danach wird das GPS beendet. Um nur Dauer und Entfernung zu behalten, deaktivieren Sie „Keep walk routes“ in „Settings“."
+      },
+      {
+        "q": "Mein Tier ist verloren: Was kann ich mit der App tun?",
+        "a": "Tippen Sie auf der Seite des Tiers auf „My pet is lost“: Pattoune erstellt ein Plakat mit dem Foto des Tiers, der Chipnummer, den besonderen Merkmalen und Ihrer Telefonnummer – bereit zum Drucken oder Teilen. Diese Funktion ist kostenlos."
+      },
+      {
+        "q": "Wie wechsle ich zu einem neuen iPhone, ohne Daten zu verlieren?",
+        "a": "Ihre Daten liegen in Ihrer iCloud: Melden Sie sich auf dem neuen iPhone mit derselben iCloud-Kennung an und installieren Sie Pattoune, dann kehrt der Gesundheitspass von selbst zurück. Sie können ihn auch über „Export record“ als Text oder PDF exportieren."
+      },
+      {
+        "q": "Wie lösche ich meine Daten?",
+        "a": "Löschen Sie ein Tier auf dessen Seite: Alles, was es betrifft, wird gelöscht. Das Löschen der App reicht nicht aus, da die Daten weiterhin in Ihrer iCloud liegen. Um alles zu löschen, öffnen Sie Einstellungen › [Ihr Name] › iCloud › Speicher verwalten und wählen Sie dann Pattoune."
+      }
+    ],
+    "privacy_summary": "Pattoune sammelt keine persönlichen Daten und enthält weder Werbung noch Tracking-Elemente. Ihre Daten bleiben auf Ihren Geräten und in Ihrer iCloud; der Entwickler hat keinen Zugriff darauf."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Zusammenfassung",
+        "blocks": [
+          {
+            "p": "Pattoune sammelt keine persönlichen Daten. Die App verfügt über keinen Server und erfordert kein Konto: Ihre Daten werden auf Ihren Geräten und in Ihrer eigenen iCloud gespeichert, und der Entwickler hat keinen Zugriff darauf."
+          }
+        ]
+      },
+      {
+        "h": "Ihre Daten",
+        "blocks": [
+          {
+            "p": "Die App speichert, was Sie für Ihre Haustiere eingeben: Profil (Name, Foto, Chip, Tierarzt, Versicherung…), Pflege und Impfungen, Behandlungen und Dosen, Gewicht, Futter, Vorräte, Gesundheitsjournal mit Fotos, Spaziergänge, Ausgaben und Dokumente."
+          },
+          {
+            "p": "Diese Daten werden über iCloud zwischen Ihren Geräten synchronisiert (private Datenbank Ihres Kontos, von Apple betrieben). Sie laufen nie über einen Server des Entwicklers."
+          }
+        ]
+      },
+      {
+        "h": "Mit dem Haushalt teilen",
+        "blocks": [
+          {
+            "p": "Wenn Sie ein Tier teilen, sehen und bearbeiten die eingeladenen Personen alles, was es betrifft, einschließlich der Spaziergangsrouten. Das Teilen läuft über iCloud; Sie können es jederzeit auf der Seite des Tiers beenden, und jede eingeladene Person kann es verlassen."
+          }
+        ]
+      },
+      {
+        "h": "Standort",
+        "blocks": [
+          {
+            "p": "Der Standort wird nur während eines Spaziergangs verwendet, den Sie starten, auch bei gesperrtem Bildschirm, danach wird das GPS beendet. Die Route wird zusammen mit dem Spaziergang in Ihrer iCloud gespeichert; sie wird niemals an den Entwickler gesendet."
+          },
+          {
+            "ul": [
+              "In den „Settings“ der App können Sie mit „Keep walk routes“ nur Dauer und Entfernung speichern.",
+              "Sie können die Berechtigung jederzeit unter Einstellungen › Datenschutz & Sicherheit › Ortungsdienste widerrufen."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Fotos, Kamera und Mitteilungen",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fotos</strong>: Nur die von Ihnen ausgewählten Fotos werden importiert (Tierfoto, Journal, Dokumente).",
+              "<strong>Kamera</strong>: Sie dient zum Scannen Ihrer Dokumente, wenn Sie dies wünschen.",
+              "<strong>Mitteilungen</strong>: Erinnerungen werden auf Ihrem Gerät geplant; es wird kein externer Mitteilungsdienst verwendet."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Siri, Widgets und Exporte",
+        "blocks": [
+          {
+            "p": "Anfragen an Siri werden von Apple nach deren eigenen Richtlinien verarbeitet. Widgets lesen eine Zusammenfassung, die auf Ihrem Gerät gespeichert ist. Exporte (Text, PDF, Plakat „Tier verloren“, Betreuungsblatt) verlassen die App nur, wenn Sie sie über die Teilen-Funktionen von iOS weitergeben; dann gelten die Bedingungen des gewählten Dienstes."
+          }
+        ]
+      },
+      {
+        "h": "Käufe, Werbung und Tracking",
+        "blocks": [
+          {
+            "p": "Das Abonnement „Pattoune Premium“ wird von Apple verkauft und verwaltet; der Entwickler erhält keine Zahlungsdaten. Die App enthält weder Werbung noch Tracker noch Analyse- oder Nutzungsstatistik-Tools."
+          }
+        ]
+      },
+      {
+        "h": "Kinder",
+        "blocks": [
+          {
+            "p": "Die App erhebt keine Daten und eignet sich für alle Altersgruppen."
+          }
+        ]
+      },
+      {
+        "h": "Änderungen",
+        "blocks": [
+          {
+            "p": "Sollte diese Richtlinie geändert werden, wird die neue Version auf dieser Seite mit dem Aktualisierungsdatum veröffentlicht."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Für Fragen zu dieser Richtlinie: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

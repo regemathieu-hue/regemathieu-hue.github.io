@@ -1,0 +1,142 @@
+{
+  "support": {
+    "subtitle": "O caderno de saúde dos seus animais",
+    "contact": "Tem uma questão, uma ideia ou um problema com a aplicação? Escreva-me:<br>{email}",
+    "faq": [
+      {
+        "q": "Substitui a Pattoune o veterinário?",
+        "a": "Não. A Pattoune é um caderno: regista as vacinas, os tratamentos, as pesagens e os cuidados, e lembra-o dos prazos. Os intervalos sugeridos são indicações habituais, a confirmar com o seu veterinário. A aplicação não dá qualquer aconselhamento médico."
+      },
+      {
+        "q": "Como partilho o caderno com o meu agregado familiar?",
+        "a": "Abra a ficha do animal e toque em «Share with My Household». A pessoa convidada vê e completa o mesmo caderno no seu iPhone, com a sua própria conta iCloud. A partilha faz-se através do iCloud: é necessário ter sessão iniciada no iCloud nos dois dispositivos."
+      },
+      {
+        "q": "Duas pessoas podem dar o mesmo comprimido por engano?",
+        "a": "A Pattoune avisa-o: se a toma já tiver sido registada por alguém do agregado, a aplicação mostra «Already given by…» com a hora e pede confirmação antes de registar outra. Os lembretes de toma tocam, por predefinição, no dispositivo que criou o tratamento."
+      },
+      {
+        "q": "O que inclui a Pattoune Premium?",
+        "a": "A versão gratuita permite acompanhar um animal: caderno de saúde, tratamentos e lembretes, peso, alimentação, cuidados de manutenção, ficha «animal perdido» e Siri. O Premium acrescenta animais ilimitados, partilha com o agregado familiar, passeios, stocks, diário de saúde, ficha do cuidador, despesas, crescimento, exportação em PDF, documentos e widgets. Se a subscrição terminar, nada é apagado: os seus dados continuam legíveis."
+      },
+      {
+        "q": "Como posso cancelar ou restaurar a minha subscrição?",
+        "a": "A subscrição é gerida nas definições da sua conta App Store: abra Pattoune › «Settings» › «Manage My Subscription». Num novo dispositivo, toque em «Restore» na janela Premium para recuperar uma subscrição já paga."
+      },
+      {
+        "q": "Porque é que a aplicação pede a minha localização?",
+        "a": "Apenas para registar um passeio que inicia você mesmo. A localização é seguida durante o passeio, mesmo com o ecrã bloqueado, e depois o GPS para. Pode guardar só a duração e a distância desativando «Keep walk routes» em «Settings»."
+      },
+      {
+        "q": "O meu animal está perdido: o que posso fazer com a aplicação?",
+        "a": "Na ficha do animal, toque em «My pet is lost»: a Pattoune cria um cartaz com a foto do animal, o número do microchip, os sinais particulares e o seu telefone, pronto a imprimir ou a partilhar. Esta função é gratuita."
+      },
+      {
+        "q": "Como mudar de iPhone sem perder os meus dados?",
+        "a": "Os seus dados estão no seu iCloud: inicie sessão com a mesma conta iCloud no novo iPhone e instale a Pattoune; o caderno volta sozinho. Pode também exportar o caderno em texto ou PDF a partir de «Export record»."
+      },
+      {
+        "q": "Como eliminar os meus dados?",
+        "a": "Elimine um animal a partir da sua ficha: tudo o que lhe diz respeito é apagado. Eliminar a aplicação não chega, porque os dados permanecem no seu iCloud: para apagar tudo, abra Definições › o seu nome › iCloud › Gerir Armazenamento e, depois, Pattoune."
+      }
+    ],
+    "privacy_summary": "A Pattoune não recolhe quaisquer dados pessoais e não contém publicidade nem rastreadores. Os seus dados ficam nos seus dispositivos e no seu iCloud; o programador não tem acesso a eles."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Em resumo",
+        "blocks": [
+          {
+            "p": "A Pattoune não recolhe quaisquer dados pessoais. A aplicação não tem servidor e não pede conta: os seus dados são guardados nos seus dispositivos e no seu próprio iCloud, e o programador não tem acesso a eles."
+          }
+        ]
+      },
+      {
+        "h": "Os seus dados",
+        "blocks": [
+          {
+            "p": "A aplicação guarda o que introduz sobre os seus animais: ficha (nome, foto, microchip, veterinário, seguro…), cuidados e vacinas, tratamentos e tomas, peso, alimentação, stocks, diário de saúde e respetivas fotos, passeios, despesas e documentos."
+          },
+          {
+            "p": "Estes dados são sincronizados entre os seus dispositivos através do iCloud (base de dados privada da sua conta, gerida pela Apple). Não passam por nenhum servidor do programador."
+          }
+        ]
+      },
+      {
+        "h": "Partilha com o agregado familiar",
+        "blocks": [
+          {
+            "p": "Se partilhar um animal, as pessoas convidadas veem e modificam tudo o que lhe diz respeito, incluindo o trajeto dos passeios. A partilha faz-se através do iCloud; pode terminá-la a qualquer momento a partir da ficha do animal, e cada convidado pode sair."
+          }
+        ]
+      },
+      {
+        "h": "Localização",
+        "blocks": [
+          {
+            "p": "A localização só é utilizada durante um passeio que inicie, mesmo com o ecrã bloqueado, e depois o GPS para. O trajeto é guardado com o passeio no seu iCloud; nunca é enviado ao programador."
+          },
+          {
+            "ul": [
+              "Nas «Settings» da aplicação, «Keep walk routes» permite guardar apenas a duração e a distância.",
+              "Pode retirar a autorização a qualquer momento em Definições › Privacidade e Segurança › Serviços de Localização."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Fotos, câmara e notificações",
+        "blocks": [
+          {
+            "ul": [
+              "<strong>Fotos</strong>: apenas as fotos que escolher são importadas (foto do animal, diário, documentos).",
+              "<strong>Câmara</strong>: serve para digitalizar os seus documentos, a seu pedido.",
+              "<strong>Notificações</strong>: os lembretes são programados no seu dispositivo; não é utilizado nenhum serviço de notificação externo."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Siri, widgets e exportações",
+        "blocks": [
+          {
+            "p": "Os pedidos à Siri são tratados pela Apple segundo as suas próprias regras. Os widgets leem um resumo guardado no seu dispositivo. As exportações (texto, PDF, cartaz «animal perdido», ficha do cuidador) só saem da aplicação se as partilhar através das ferramentas do iOS; ficam então sujeitas às condições do serviço escolhido."
+          }
+        ]
+      },
+      {
+        "h": "Compras, publicidade e rastreio",
+        "blocks": [
+          {
+            "p": "A subscrição Pattoune Premium é vendida e gerida pela Apple; o programador não recebe quaisquer dados de pagamento. A aplicação não contém publicidade, rastreadores nem ferramentas de análise ou de estatísticas de utilização."
+          }
+        ]
+      },
+      {
+        "h": "Crianças",
+        "blocks": [
+          {
+            "p": "A aplicação não recolhe quaisquer dados e é adequada para todas as idades."
+          }
+        ]
+      },
+      {
+        "h": "Alterações",
+        "blocks": [
+          {
+            "p": "Se esta política mudar, a nova versão será publicada nesta página com a sua data de atualização."
+          }
+        ]
+      },
+      {
+        "h": "Contacto",
+        "blocks": [
+          {
+            "p": "Para qualquer questão sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}
