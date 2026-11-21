@@ -1,0 +1,116 @@
+{
+  "support": {
+    "subtitle": "Permainan kartu untuk semua pesta Anda: Truth or Dare, tantangan, dan kuis",
+    "contact": "Ada pertanyaan, ide kartu, atau masalah pembelian? Tulis kepada saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Bagaimana cara bermain?",
+        "a": "Ketuk \"Play\", masukkan nama pemain (2 hingga 16 orang), pilih satu atau beberapa paket, lalu oper ponsel secara bergiliran. Di paket Truth or Dare, setiap pemain memilih \"Dare\", \"Truth\", atau \"Random\"; sesekali, kartu untuk seluruh kelompok muncul sebagai gantinya."
+      },
+      {
+        "q": "Apa yang gratis?",
+        "a": "Paket Classic gratis tanpa batas waktu. Ke-10 paket lainnya (Teens, Family, Grown-ups, Couples, Quiz, Party Challenges, Christmas, Deep Questions, Road Trip, dan Film & TV Quiz) dapat dibeli satu per satu, atau sekaligus dengan penawaran \"All Packs\", yang juga mencakup paket yang ditambahkan nanti."
+      },
+      {
+        "q": "Apakah ini berlangganan?",
+        "a": "Tidak. Setiap pembelian dibayar sekali dan tetap menjadi milik Anda. Tidak ada langganan dan tidak ada iklan."
+      },
+      {
+        "q": "Saya ganti iPhone atau memasang ulang aplikasi: bagaimana cara mendapatkan kembali paket saya?",
+        "a": "Buka toko atau pengaturan, lalu ketuk \"Restore purchases\", dengan Akun Apple yang sama seperti saat pembelian. Paket juga dibagikan kepada anggota grup Keluarga Berbagi Anda."
+      },
+      {
+        "q": "Permainan ini untuk usia berapa?",
+        "a": "Your Turn! dirancang untuk usia 12 tahun ke atas. Permainan ini tidak mengandung konten seksual maupun permainan minum. Paket Family ditulis untuk dimainkan bersama anak usia 7 tahun ke atas, dan paket Teens untuk usia 12 hingga 17 tahun."
+      },
+      {
+        "q": "Ada kartu yang tidak cocok: apa yang harus dilakukan?",
+        "a": "Ketuk \"Skip\": kartu lain dengan jenis yang sama akan menggantikannya, tanpa penalti. Kartu yang membutuhkan lebih banyak pemain daripada yang ada tidak akan pernah muncul."
+      },
+      {
+        "q": "Bagaimana cara bermain kuis?",
+        "a": "Pilih paket Quiz dan jumlah ronde. Pada setiap ronde, setiap pemain menjawab satu pertanyaan dengan empat pilihan jawaban; jawaban benar mendapat 1 hingga 3 poin tergantung tingkat kesulitan. Permainan diakhiri dengan podium."
+      },
+      {
+        "q": "Apakah kartu yang sama sering muncul lagi?",
+        "a": "Tidak. Kartu yang sudah dimainkan akan muncul paling akhir pada permainan berikutnya. Setelah semua kartu dalam satu paket terlihat, paket itu dimulai dari awal lagi. Anda juga dapat memasukkan kembali semua kartu ke dalam permainan lewat pengaturan, dengan \"Bring back all cards\"."
+      },
+      {
+        "q": "Apakah saya memerlukan koneksi internet?",
+        "a": "Tidak untuk bermain: semua kartu ada di dalam aplikasi. Koneksi hanya diperlukan untuk membeli paket atau memulihkan pembelian Anda."
+      }
+    ],
+    "privacy_summary": "Your Turn! tidak mengumpulkan data pribadi apa pun, tidak terhubung ke server mana pun, dan tidak berisi iklan maupun pelacak. Nama pemain tetap berada di perangkat Anda."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasnya",
+        "blocks": [
+          {
+            "p": "Your Turn! tidak mengumpulkan data pribadi apa pun. Aplikasi ini berjalan secara offline, tidak terhubung ke server mana pun, dan tidak meminta akun."
+          }
+        ]
+      },
+      {
+        "h": "Data Anda",
+        "blocks": [
+          {
+            "p": "Aplikasi menyimpan di perangkat Anda nama pemain, daftar kartu yang sudah dimainkan (untuk menghindari pengulangan), dan pengaturan Anda (suara, getaran). Nama bisa berupa apa pun yang Anda inginkan: hanya berguna bagi Anda."
+          },
+          {
+            "p": "Data ini tidak pernah keluar dari perangkat Anda dan pengembang tidak memiliki akses ke data tersebut. Seperti data aplikasi lain, data ini dapat termasuk dalam cadangan perangkat Anda jika Anda telah mengaktifkannya. Menghapus aplikasi akan menghapus data ini."
+          }
+        ]
+      },
+      {
+        "h": "Pembelian dalam Aplikasi",
+        "blocks": [
+          {
+            "p": "Paket dibeli melalui App Store. Pembayaran sepenuhnya diproses oleh Apple: pengembang tidak pernah menerima nama, alamat email, maupun detail pembayaran Anda. Aplikasi hanya memeriksa ke App Store paket mana yang telah Anda beli."
+          }
+        ]
+      },
+      {
+        "h": "Izin yang Diminta",
+        "blocks": [
+          {
+            "p": "Your Turn! tidak meminta izin apa pun: tanpa kamera, mikrofon, lokasi, kontak, atau foto."
+          }
+        ]
+      },
+      {
+        "h": "Iklan dan Pelacakan",
+        "blocks": [
+          {
+            "p": "Your Turn! tidak berisi iklan, pelacak, maupun alat analitik atau statistik penggunaan."
+          }
+        ]
+      },
+      {
+        "h": "Anak-anak",
+        "blocks": [
+          {
+            "p": "Permainan ini dirancang untuk usia 12 tahun ke atas; paket Family dimainkan bersama anak-anak yang didampingi orang dewasa. Aplikasi ini tidak mengumpulkan data apa pun, termasuk data tentang anak-anak."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika kebijakan ini berubah, versi baru akan diterbitkan di halaman ini beserta tanggal pembaruannya."
+          }
+        ]
+      },
+      {
+        "h": "Kontak",
+        "blocks": [
+          {
+            "p": "Untuk pertanyaan apa pun mengenai kebijakan ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

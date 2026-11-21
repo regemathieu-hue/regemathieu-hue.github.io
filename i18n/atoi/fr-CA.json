@@ -1,0 +1,116 @@
+{
+  "support": {
+    "subtitle": "Le jeu de cartes pour toutes vos soirées : action ou vérité, défis et quiz",
+    "contact": "Une question, une idée de carte ou un souci d'achat ? Écrivez-moi :<br>{email}",
+    "faq": [
+      {
+        "q": "Comment jouer ?",
+        "a": "Touchez « Jouer », entrez les prénoms (de 2 à 16 joueurs), choisissez un ou plusieurs packs, puis passez-vous le téléphone. Dans les packs action ou vérité, chaque joueur choisit « Action », « Vérité » ou « Au hasard » ; de temps en temps, une carte pour tout le groupe arrive à la place."
+      },
+      {
+        "q": "Qu'est-ce qui est gratuit ?",
+        "a": "Le pack Classique est offert, sans limite de temps. Les 10 autres packs (Ados, Famille, Entre adultes, Couple, Quiz, Défis de soirée, Noël, Questions profondes, Road trip et Quiz Cinéma et séries) s'achètent un par un, ou tous ensemble avec l'offre « Tous les packs », qui comprend aussi les packs ajoutés plus tard."
+      },
+      {
+        "q": "Est-ce un abonnement ?",
+        "a": "Non. Chaque achat est payé une seule fois et reste à vous. Il n'y a ni abonnement, ni publicité."
+      },
+      {
+        "q": "J'ai changé d'iPhone ou réinstallé l'app : comment retrouver mes packs ?",
+        "a": "Ouvrez la boutique ou les réglages, puis touchez « Restaurer mes achats », avec le même compte Apple que celui de l'achat. Les packs sont aussi partagés avec les membres de votre partage familial."
+      },
+      {
+        "q": "Pour quel âge est le jeu ?",
+        "a": "À toi ! est prévu pour les 12 ans et plus. Il ne contient ni contenu sexuel, ni jeu à boire. Le pack Famille est écrit pour jouer avec des enfants dès 7 ans, et le pack Ados pour les 12-17 ans."
+      },
+      {
+        "q": "Une carte ne convient pas : que faire ?",
+        "a": "Touchez « Passer » : une autre carte du même type la remplace, sans pénalité. Les cartes qui demandent plus de joueurs qu'il n'y en a ne sortent jamais."
+      },
+      {
+        "q": "Comment se joue le quiz ?",
+        "a": "Choisissez un pack Quiz et le nombre de manches. À chaque manche, chaque joueur répond à une question à 4 réponses ; une bonne réponse rapporte de 1 à 3 points selon la difficulté. Un podium termine la partie."
+      },
+      {
+        "q": "Les mêmes cartes reviennent-elles souvent ?",
+        "a": "Non. Les cartes déjà jouées passent en dernier lors des soirées suivantes. Quand toutes les cartes d'un pack ont été vues, le pack repart de zéro. Vous pouvez aussi tout remettre en jeu dans les réglages, avec « Revoir toutes les cartes »."
+      },
+      {
+        "q": "Faut-il une connexion internet ?",
+        "a": "Non pour jouer : toutes les cartes sont dans l'app. Une connexion n'est utile que pour acheter un pack ou restaurer vos achats."
+      }
+    ],
+    "privacy_summary": "À toi ! ne collecte aucune donnée personnelle, ne se connecte à aucun serveur et ne contient ni publicité ni traceur. Les prénoms des joueurs restent sur votre appareil."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En résumé",
+        "blocks": [
+          {
+            "p": "À toi ! ne collecte aucune donnée personnelle. L'application fonctionne hors ligne, ne se connecte à aucun serveur et ne demande aucun compte."
+          }
+        ]
+      },
+      {
+        "h": "Vos données",
+        "blocks": [
+          {
+            "p": "L'application enregistre sur votre appareil les prénoms des joueurs, la liste des cartes déjà jouées (pour éviter les répétitions) et vos réglages (sons, vibrations). Un prénom peut être celui que vous voulez : il n'est utile qu'à vous."
+          },
+          {
+            "p": "Ces données ne quittent pas votre appareil et le développeur n'y a pas accès. Comme les données des autres applis, elles peuvent figurer dans les sauvegardes de votre appareil si vous les avez activées. La suppression de l'application les efface."
+          }
+        ]
+      },
+      {
+        "h": "Achats intégrés",
+        "blocks": [
+          {
+            "p": "Les packs s'achètent par l'App Store. Le paiement est entièrement traité par Apple : le développeur ne reçoit ni votre nom, ni votre adresse e-mail, ni vos informations de paiement. L'application vérifie seulement auprès de l'App Store quels packs vous avez achetés."
+          }
+        ]
+      },
+      {
+        "h": "Autorisations demandées",
+        "blocks": [
+          {
+            "p": "À toi ! ne demande aucune autorisation : ni caméra, ni micro, ni position, ni contacts, ni photos."
+          }
+        ]
+      },
+      {
+        "h": "Publicité et suivi",
+        "blocks": [
+          {
+            "p": "À toi ! ne contient aucune publicité, aucun traceur et aucun outil d'analyse ou de statistiques d'utilisation."
+          }
+        ]
+      },
+      {
+        "h": "Enfants",
+        "blocks": [
+          {
+            "p": "Le jeu est prévu pour les 12 ans et plus ; le pack Famille se joue avec des enfants accompagnés d'adultes. L'application ne collecte aucune donnée, y compris sur les enfants."
+          }
+        ]
+      },
+      {
+        "h": "Modifications",
+        "blocks": [
+          {
+            "p": "Si cette politique change, la nouvelle version sera publiée sur cette page avec sa date de mise à jour."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pour toute question concernant cette politique : {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "support": {
+    "subtitle": "O jogo de cartas para todas as suas festas: verdade ou desafio, desafios e quizzes",
+    "contact": "Tem uma questão, uma ideia para uma carta ou um problema com uma compra? Escreva-me:<br>{email}",
+    "faq": [
+      {
+        "q": "Como jogar?",
+        "a": "Toque em «Play», introduza os nomes (de 2 a 16 jogadores), escolha um ou mais packs e passem o telemóvel de mão em mão. Nos packs de verdade ou desafio, cada jogador escolhe «Dare», «Truth» ou «Random»; de tempos a tempos, surge em seu lugar uma carta para todo o grupo."
+      },
+      {
+        "q": "O que é gratuito?",
+        "a": "O pack Classic é gratuito, sem limite de tempo. Os outros 10 packs (Teens, Family, Grown-ups, Couples, Quiz, Party Challenges, Christmas, Deep Questions, Road Trip e Film & TV Quiz) podem ser comprados individualmente ou todos juntos com a oferta «All Packs», que inclui também os packs adicionados mais tarde."
+      },
+      {
+        "q": "É uma subscrição?",
+        "a": "Não. Cada compra é paga apenas uma vez e fica sua. Não existe subscrição nem publicidade."
+      },
+      {
+        "q": "Mudei de iPhone ou reinstalei a app: como recupero os meus packs?",
+        "a": "Abra a loja ou as definições e toque em «Restore purchases», utilizando a mesma conta Apple com que efetuou a compra. Os packs também são partilhados com os membros do seu grupo de Partilha em Família."
+      },
+      {
+        "q": "Para que idade é o jogo?",
+        "a": "Your Turn! destina-se a maiores de 12 anos. Não contém conteúdo sexual nem jogos de bebida. O pack Family foi escrito para jogar com crianças a partir dos 7 anos e o pack Teens para jovens dos 12 aos 17 anos."
+      },
+      {
+        "q": "Uma carta não é adequada: o que fazer?",
+        "a": "Toque em «Skip»: outra carta do mesmo tipo substitui-a, sem penalização. As cartas que exigem mais jogadores do que os presentes nunca aparecem."
+      },
+      {
+        "q": "Como se joga o quiz?",
+        "a": "Escolha um pack Quiz e o número de rondas. Em cada ronda, cada jogador responde a uma pergunta com 4 respostas; uma resposta certa vale de 1 a 3 pontos, consoante a dificuldade. O jogo termina com um pódio."
+      },
+      {
+        "q": "As mesmas cartas voltam frequentemente?",
+        "a": "Não. As cartas já jogadas aparecem em último lugar nos jogos seguintes. Quando todas as cartas de um pack tiverem sido vistas, o pack recomeça do zero. Pode também voltar a pôr tudo em jogo nas definições, com «Bring back all cards»."
+      },
+      {
+        "q": "É necessária ligação à internet?",
+        "a": "Não para jogar: todas as cartas estão na app. A ligação só é necessária para comprar um pack ou restaurar as suas compras."
+      }
+    ],
+    "privacy_summary": "Your Turn! não recolhe quaisquer dados pessoais, não se liga a nenhum servidor e não contém publicidade nem rastreadores. Os nomes dos jogadores ficam no seu dispositivo."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Em resumo",
+        "blocks": [
+          {
+            "p": "Your Turn! não recolhe quaisquer dados pessoais. A app funciona offline, não se liga a nenhum servidor e não pede conta."
+          }
+        ]
+      },
+      {
+        "h": "Os seus dados",
+        "blocks": [
+          {
+            "p": "A app guarda no seu dispositivo os nomes dos jogadores, a lista das cartas já jogadas (para evitar repetições) e as suas definições (sons, vibrações). Um nome pode ser o que quiser: só tem utilidade para si."
+          },
+          {
+            "p": "Estes dados nunca saem do seu dispositivo e o programador não tem acesso a eles. Tal como os dados de outras apps, podem estar incluídos nas cópias de segurança do seu dispositivo, se as tiver ativado. Eliminar a app apaga-os."
+          }
+        ]
+      },
+      {
+        "h": "Compras na app",
+        "blocks": [
+          {
+            "p": "Os packs são comprados através da App Store. O pagamento é totalmente tratado pela Apple: o programador não recebe o seu nome, o seu endereço de e-mail nem os seus dados de pagamento. A app verifica apenas junto da App Store quais os packs que comprou."
+          }
+        ]
+      },
+      {
+        "h": "Permissões solicitadas",
+        "blocks": [
+          {
+            "p": "Your Turn! não solicita qualquer permissão: nem câmara, nem microfone, nem localização, nem contactos, nem fotografias."
+          }
+        ]
+      },
+      {
+        "h": "Publicidade e rastreio",
+        "blocks": [
+          {
+            "p": "Your Turn! não contém qualquer publicidade, nenhum rastreador e nenhuma ferramenta de análise ou de estatísticas de utilização."
+          }
+        ]
+      },
+      {
+        "h": "Crianças",
+        "blocks": [
+          {
+            "p": "O jogo destina-se a maiores de 12 anos; o pack Family joga-se com crianças acompanhadas por adultos. A app não recolhe quaisquer dados, incluindo sobre crianças."
+          }
+        ]
+      },
+      {
+        "h": "Alterações",
+        "blocks": [
+          {
+            "p": "Se esta política for alterada, a nova versão será publicada nesta página com a data de atualização."
+          }
+        ]
+      },
+      {
+        "h": "Contacto",
+        "blocks": [
+          {
+            "p": "Para qualquer questão sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "support": {
+    "subtitle": "Kartová hra pre každú párty: pravda alebo odvaha, výzvy a kvízy",
+    "contact": "Máte otázku, nápad na kartu alebo problém s nákupom? Napíšte mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Ako sa hrá?",
+        "a": "Klepnite na „Play“, zadajte mená (2 až 16 hráčov), vyberte jeden alebo viac balíčkov a potom si posúvajte telefón. V balíčkoch pravdy alebo odvahy si každý hráč vyberie „Dare“, „Truth“ alebo „Random“; občas sa namiesto toho objaví karta pre celú skupinu."
+      },
+      {
+        "q": "Čo je zadarmo?",
+        "a": "Balíček „Classic“ je zadarmo a bez časového obmedzenia. Ďalších 10 balíčkov („Teens“, „Family“, „Grown-ups“, „Couples“, „Quiz“, „Party Challenges“, „Christmas“, „Deep Questions“, „Road Trip“ a „Film & TV Quiz“) si môžete kúpiť jednotlivo alebo všetky naraz s ponukou „All Packs“, ktorá zahŕňa aj balíčky pridané neskôr."
+      },
+      {
+        "q": "Je to predplatné?",
+        "a": "Nie. Každý nákup sa platí jednorazovo a zostáva vám navždy. Nie je tu žiadne predplatné ani reklama."
+      },
+      {
+        "q": "Po výmene iPhonu alebo preinštalovaní aplikácie: ako získam svoje balíčky späť?",
+        "a": "Otvorte obchod alebo nastavenia a klepnite na „Restore purchases“. Použite rovnaký účet Apple, akým ste nákup uskutočnili. Balíčky sa zdieľajú aj s členmi vašej skupiny Zdieľania v rodine."
+      },
+      {
+        "q": "Pre aký vek je hra určená?",
+        "a": "Your Turn! je určená osobám od 12 rokov. Neobsahuje sexuálny obsah ani pitné hry. Balíček „Family“ je napísaný na hranie s deťmi od 7 rokov a balíček „Teens“ pre vek 12 až 17 rokov."
+      },
+      {
+        "q": "Karta nám nevyhovuje: čo robiť?",
+        "a": "Klepnite na „Skip“: nahradí ju iná karta rovnakého druhu, bez akejkoľvek penalizácie. Karty, ktoré vyžadujú viac hráčov, než máte, sa nikdy neobjavia."
+      },
+      {
+        "q": "Ako sa hraje kvíz?",
+        "a": "Vyberte balíček „Quiz“ a počet kôl. V každom kole odpovedá každý hráč na otázku so štyrmi možnosťami; správna odpoveď prináša 1 až 3 body podľa náročnosti. Hru ukončí pódium."
+      },
+      {
+        "q": "Opakujú sa stále tie isté karty?",
+        "a": "Nie. Karty, ktoré ste už hrali, sa v nasledujúcich hrách objavia ako posledné. Keď sa zobrazia všetky karty balíčka, balíček sa začne odznova. V nastaveniach môžete všetko vrátiť do hry aj pomocou „Bring back all cards“."
+      },
+      {
+        "q": "Je potrebné pripojenie k internetu?",
+        "a": "Na hranie nie: všetky karty sú v aplikácii. Pripojenie potrebujete iba na kúpu balíčka alebo obnovenie nákupov."
+      }
+    ],
+    "privacy_summary": "Your Turn! nezhromažďuje žiadne osobné údaje, nepripája sa k žiadnemu serveru a neobsahuje reklamy ani sledovacie nástroje. Mená hráčov zostávajú vo vašom zariadení."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Stručne",
+        "blocks": [
+          {
+            "p": "Your Turn! nezhromažďuje žiadne osobné údaje. Aplikácia funguje offline, nepripája sa k žiadnemu serveru a nevyžaduje účet."
+          }
+        ]
+      },
+      {
+        "h": "Vaše údaje",
+        "blocks": [
+          {
+            "p": "Aplikácia ukladá vo vašom zariadení mená hráčov, zoznam už zahratých kariet (aby sa neopakovali) a vaše nastavenia (zvuky, vibrácie). Meno môže byť akékoľvek: slúži len vám."
+          },
+          {
+            "p": "Tieto údaje nikdy neopustia vaše zariadenie a vývojár k nim nemá prístup. Ako údaje iných aplikácií môžu byť súčasťou záloh vášho zariadenia, ak ste ich zapli. Odstránením aplikácie sa vymažú."
+          }
+        ]
+      },
+      {
+        "h": "Nákupy v aplikácii",
+        "blocks": [
+          {
+            "p": "Balíčky sa kupujú cez App Store. Platbu spracúva výlučne Apple: vývojár nikdy nedostane vaše meno, e-mailovú adresu ani platobné údaje. Aplikácia len v App Store overuje, ktoré balíčky ste kúpili."
+          }
+        ]
+      },
+      {
+        "h": "Oprávnenia",
+        "blocks": [
+          {
+            "p": "Your Turn! nežiada žiadne oprávnenia: ani fotoaparát, mikrofón, polohu, kontakty či fotky."
+          }
+        ]
+      },
+      {
+        "h": "Reklama a sledovanie",
+        "blocks": [
+          {
+            "p": "Your Turn! neobsahuje reklamu, sledovacie nástroje ani nástroje na analýzu či štatistiky používania."
+          }
+        ]
+      },
+      {
+        "h": "Deti",
+        "blocks": [
+          {
+            "p": "Hra je určená osobám od 12 rokov; balíček „Family“ hrajú deti spolu s dospelými. Aplikácia nezhromažďuje žiadne údaje, ani o deťoch."
+          }
+        ]
+      },
+      {
+        "h": "Zmeny",
+        "blocks": [
+          {
+            "p": "Ak sa tieto zásady zmenia, nová verzia bude zverejnená na tejto stránke s dátumom aktualizácie."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "V prípade otázok k týmto zásadám: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

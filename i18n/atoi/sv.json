@@ -1,0 +1,116 @@
+{
+  "support": {
+    "subtitle": "Kortspelet för alla dina fester: sanning eller konsekvens, utmaningar och quiz",
+    "contact": "Har du en fråga, en idé till ett kort eller ett problem med ett köp? Skriv till mig:<br>{email}",
+    "faq": [
+      {
+        "q": "Hur spelar man?",
+        "a": "Tryck på ”Play”, skriv in namnen (2 till 16 spelare), välj ett eller flera paket och skicka sedan telefonen runt. I paketen med sanning eller konsekvens väljer varje spelare ”Dare”, ”Truth” eller ”Random”; då och då dyker det i stället upp ett kort för hela gruppen."
+      },
+      {
+        "q": "Vad är gratis?",
+        "a": "Paketet ”Classic” är gratis, utan tidsbegränsning. De andra 10 paketen (”Teens”, ”Family”, ”Grown-ups”, ”Couples”, ”Quiz”, ”Party Challenges”, ”Christmas”, ”Deep Questions”, ”Road Trip” och ”Film & TV Quiz”) kan köpas ett i taget eller alla på en gång med erbjudandet ”All Packs”, som också omfattar paket som läggs till senare."
+      },
+      {
+        "q": "Är det en prenumeration?",
+        "a": "Nej. Varje köp betalas en enda gång och är ditt för alltid. Det finns varken prenumeration eller reklam."
+      },
+      {
+        "q": "Jag har bytt iPhone eller installerat om appen: hur får jag tillbaka mina paket?",
+        "a": "Öppna butiken eller inställningarna och tryck på ”Restore purchases”. Använd samma Apple-konto som du gjorde köpet med. Paketen delas också med medlemmarna i din Familjedelning."
+      },
+      {
+        "q": "För vilken ålder är spelet?",
+        "a": "Your Turn! är gjort för personer från 12 år. Det innehåller inget sexuellt innehåll och inga dryckesspel. Paketet ”Family” är skrivet för att spelas med barn från 7 år och paketet ”Teens” för 12–17 år."
+      },
+      {
+        "q": "Ett kort passar inte oss: vad gör vi?",
+        "a": "Tryck på ”Skip”: ett annat kort av samma slag ersätter det, utan straff. Kort som kräver fler spelare än ni är kommer aldrig upp."
+      },
+      {
+        "q": "Hur spelar man quizet?",
+        "a": "Välj ett ”Quiz”-paket och antal omgångar. I varje omgång svarar varje spelare på en fråga med fyra svarsalternativ; ett rätt svar ger 1 till 3 poäng beroende på svårighetsgrad. Spelet avslutas med en prispall."
+      },
+      {
+        "q": "Kommer samma kort tillbaka hela tiden?",
+        "a": "Nej. Kort som redan har spelats kommer upp sist i följande spel. När alla kort i ett paket har setts börjar paketet om. Du kan också lägga tillbaka alla kort i spelet i inställningarna med ”Bring back all cards”."
+      },
+      {
+        "q": "Behöver jag en internetanslutning?",
+        "a": "Inte för att spela: alla kort finns i appen. Du behöver bara en anslutning för att köpa ett paket eller återställa dina köp."
+      }
+    ],
+    "privacy_summary": "Your Turn! samlar inte in några personuppgifter, ansluter inte till någon server och innehåller varken reklam eller spårare. Spelarnas namn stannar på din enhet."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort sammanfattat",
+        "blocks": [
+          {
+            "p": "Your Turn! samlar inte in några personuppgifter. Appen fungerar offline, ansluter inte till någon server och kräver inget konto."
+          }
+        ]
+      },
+      {
+        "h": "Dina uppgifter",
+        "blocks": [
+          {
+            "p": "Appen sparar på din enhet spelarnas namn, listan över redan spelade kort (för att undvika upprepningar) och dina inställningar (ljud, vibrationer). Ett namn kan vara vad du vill: det är bara till nytta för dig."
+          },
+          {
+            "p": "Dessa uppgifter lämnar aldrig din enhet och utvecklaren har ingen åtkomst till dem. Precis som andra appars data kan de ingå i säkerhetskopior av din enhet om du har aktiverat sådana. Om du raderar appen raderas de."
+          }
+        ]
+      },
+      {
+        "h": "Köp i appen",
+        "blocks": [
+          {
+            "p": "Paketen köps via App Store. Betalningen hanteras helt av Apple: utvecklaren får aldrig ditt namn, din e-postadress eller dina betalningsuppgifter. Appen kontrollerar bara hos App Store vilka paket du har köpt."
+          }
+        ]
+      },
+      {
+        "h": "Behörigheter",
+        "blocks": [
+          {
+            "p": "Your Turn! begär inga behörigheter: ingen kamera, mikrofon, plats, kontakter eller bilder."
+          }
+        ]
+      },
+      {
+        "h": "Reklam och spårning",
+        "blocks": [
+          {
+            "p": "Your Turn! innehåller ingen reklam, inga spårare och inga verktyg för analys eller användningsstatistik."
+          }
+        ]
+      },
+      {
+        "h": "Barn",
+        "blocks": [
+          {
+            "p": "Spelet är avsett för personer från 12 år; paketet ”Family” spelas av barn tillsammans med vuxna. Appen samlar inte in några uppgifter, inte heller om barn."
+          }
+        ]
+      },
+      {
+        "h": "Ändringar",
+        "blocks": [
+          {
+            "p": "Om denna policy ändras publiceras den nya versionen på den här sidan med uppdateringsdatum."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "För frågor om denna policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

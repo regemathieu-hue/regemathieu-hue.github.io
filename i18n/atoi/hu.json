@@ -1,0 +1,116 @@
+{
+  "support": {
+    "subtitle": "A kártyajáték minden bulijához: igazság vagy merés, kihívások és kvízek",
+    "contact": "Kérdése, kártyaötlete vagy gondja van egy vásárlással? Írjon nekem:<br>{email}",
+    "faq": [
+      {
+        "q": "Hogyan kell játszani?",
+        "a": "Érintse meg a „Play” gombot, adja meg a neveket (2–16 játékos), válasszon egy vagy több csomagot, majd adogassák egymásnak a telefont. Az igazság vagy merés csomagokban minden játékos a „Dare”, a „Truth” vagy a „Random” lehetőséget választja; időnként helyette egy az egész csoportnak szóló kártya érkezik."
+      },
+      {
+        "q": "Mi ingyenes?",
+        "a": "A Classic csomag időkorlát nélkül ingyenes. A másik 10 csomag (Teens, Family, Grown-ups, Couples, Quiz, Party Challenges, Christmas, Deep Questions, Road Trip és Film & TV Quiz) egyenként, vagy az „All Packs” ajánlattal együtt megvásárolható; ez a később hozzáadott csomagokat is tartalmazza."
+      },
+      {
+        "q": "Előfizetés ez?",
+        "a": "Nem. Minden vásárlás egyszeri fizetés, és az Öné marad. Nincs előfizetés, és nincsenek hirdetések."
+      },
+      {
+        "q": "Másik iPhone-ra váltottam, vagy újratelepítettem az alkalmazást: hogyan kaphatom vissza a csomagjaimat?",
+        "a": "Nyissa meg az áruházat vagy a beállításokat, majd érintse meg a „Restore purchases” gombot, ugyanazzal az Apple-fiókkal, amellyel a vásárlást végezte. A csomagok a Családi megosztás tagjaival is megosztásra kerülnek."
+      },
+      {
+        "q": "Milyen korosztálynak szól a játék?",
+        "a": "A Your Turn! 12 éves és idősebb játékosoknak készült. Nem tartalmaz szexuális tartalmat, sem ivós játékokat. A Family csomag 7 éves kortól gyerekekkel való játékra készült, a Teens csomag pedig 12–17 évesek számára."
+      },
+      {
+        "q": "Egy kártya nem megfelelő: mit tehetünk?",
+        "a": "Érintse meg a „Skip” gombot: egy másik, azonos típusú kártya váltja fel, büntetés nélkül. Azok a kártyák, amelyekhez több játékos kellene, mint ahányan vannak, soha nem jönnek elő."
+      },
+      {
+        "q": "Hogyan működik a kvíz?",
+        "a": "Válasszon egy Quiz csomagot és a fordulók számát. Minden fordulóban minden játékos egy négy válaszlehetőséges kérdésre válaszol; a helyes válasz a nehézségtől függően 1–3 pontot ér. A játék dobogóval ér véget."
+      },
+      {
+        "q": "Gyakran ismétlődnek ugyanazok a kártyák?",
+        "a": "Nem. A már lejátszott kártyák a következő játékokban legutoljára kerülnek elő. Amikor egy csomag összes kártyája előkerült, a csomag elölről kezdődik. A beállításokban a „Bring back all cards” gombbal mindent újra játékba hozhat."
+      },
+      {
+        "q": "Szükség van internetkapcsolatra?",
+        "a": "Játszani nem: az összes kártya az alkalmazásban van. Csak csomag vásárlásához vagy a vásárlások visszaállításához kell kapcsolat."
+      }
+    ],
+    "privacy_summary": "A Your Turn! nem gyűjt személyes adatokat, nem csatlakozik semmilyen szerverhez, és nem tartalmaz hirdetést vagy nyomkövetőt. A játékosok nevei az Ön eszközén maradnak."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Röviden",
+        "blocks": [
+          {
+            "p": "A Your Turn! nem gyűjt személyes adatokat. Az alkalmazás offline működik, nem csatlakozik szerverhez, és nem kér fiókot."
+          }
+        ]
+      },
+      {
+        "h": "Az Ön adatai",
+        "blocks": [
+          {
+            "p": "Az alkalmazás az Ön eszközén tárolja a játékosok nevét, a már lejátszott kártyák listáját (az ismétlések elkerülése végett) és a beállításait (hangok, rezgés). A név bármi lehet: csak Önnek van rá szüksége."
+          },
+          {
+            "p": "Ezek az adatok nem hagyják el az eszközt, és a fejlesztő nem fér hozzájuk. Más alkalmazások adataihoz hasonlóan szerepelhetnek az eszköz biztonsági mentéseiben, ha bekapcsolta azokat. Az alkalmazás törlése letörli őket."
+          }
+        ]
+      },
+      {
+        "h": "Alkalmazáson belüli vásárlások",
+        "blocks": [
+          {
+            "p": "A csomagokat az App Store-on keresztül lehet megvásárolni. A fizetést teljes egészében az Apple kezeli: a fejlesztő nem kapja meg sem az Ön nevét, sem e-mail-címét, sem fizetési adatait. Az alkalmazás csak az App Store-nál ellenőrzi, hogy mely csomagokat vásárolta meg."
+          }
+        ]
+      },
+      {
+        "h": "Kért engedélyek",
+        "blocks": [
+          {
+            "p": "A Your Turn! nem kér semmilyen engedélyt: sem kamerát, sem mikrofont, sem helymeghatározást, sem névjegyeket, sem fotókat."
+          }
+        ]
+      },
+      {
+        "h": "Hirdetések és nyomon követés",
+        "blocks": [
+          {
+            "p": "A Your Turn! nem tartalmaz hirdetést, nyomkövetőt, sem elemzési vagy használati statisztikai eszközt."
+          }
+        ]
+      },
+      {
+        "h": "Gyerekek",
+        "blocks": [
+          {
+            "p": "A játék 12 éves kor felettieknek készült; a Family csomagot gyerekekkel, felnőttek kíséretében játsszák. Az alkalmazás semmilyen adatot nem gyűjt, a gyerekekről sem."
+          }
+        ]
+      },
+      {
+        "h": "Módosítások",
+        "blocks": [
+          {
+            "p": "Ha ez a szabályzat megváltozik, az új verziót a frissítés dátumával együtt ezen az oldalon tesszük közzé."
+          }
+        ]
+      },
+      {
+        "h": "Kapcsolat",
+        "blocks": [
+          {
+            "p": "A szabályzattal kapcsolatos bármilyen kérdéssel forduljon hozzánk: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

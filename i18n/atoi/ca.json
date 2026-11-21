@@ -1,0 +1,116 @@
+{
+  "support": {
+    "subtitle": "El joc de cartes per a totes les vostres festes: acció o veritat, reptes i quiz",
+    "contact": "Una pregunta, una idea de carta o un problema amb una compra? Escriviu-me:<br>{email}",
+    "faq": [
+      {
+        "q": "Com es juga?",
+        "a": "Toqueu «Play», introduïu els noms (de 2 a 16 jugadors), trieu un o més paquets i passeu-vos el telèfon. En els paquets d’acció o veritat, cada jugador tria «Dare», «Truth» o «Random»; de tant en tant, en lloc d’això apareix una carta per a tot el grup."
+      },
+      {
+        "q": "Què és gratuït?",
+        "a": "El paquet Classic és gratuït, sense límit de temps. Els altres 10 paquets (Teens, Family, Grown-ups, Couples, Quiz, Party Challenges, Christmas, Deep Questions, Road Trip i Film & TV Quiz) es poden comprar un per un, o tots junts amb l’oferta «All Packs», que inclou també els paquets que s’afegeixin més endavant."
+      },
+      {
+        "q": "És una subscripció?",
+        "a": "No. Cada compra es paga una sola vegada i és vostra per sempre. No hi ha cap subscripció ni publicitat."
+      },
+      {
+        "q": "He canviat d'iPhone o he reinstallat l'aplicació: com puc recuperar els meus paquets?",
+        "a": "Obriu la botiga o els ajustaments i toqueu «Restore purchases», amb el mateix compte d’Apple amb què vau fer la compra. Els paquets també es comparteixen amb els membres del vostre grup de Compartició en família."
+      },
+      {
+        "q": "Per a quina edat està pensat el joc?",
+        "a": "Your Turn! està pensat per a persones a partir de 12 anys. No conté contingut sexual ni jocs de beure. El paquet Family està escrit per jugar amb nens a partir de 7 anys, i el paquet Teens, per a joves de 12 a 17 anys."
+      },
+      {
+        "q": "Una carta no ens sembla adequada: què podem fer?",
+        "a": "Toqueu «Skip»: una altra carta del mateix tipus la substitueix, sense cap penalització. Les cartes que requereixen més jugadors dels que hi ha no surten mai."
+      },
+      {
+        "q": "Com es juga al quiz?",
+        "a": "Trieu un paquet Quiz i el nombre de rondes. A cada ronda, cada jugador respon una pregunta amb 4 respostes possibles; una resposta correcta val d’1 a 3 punts segons la dificultat. La partida acaba amb un podi."
+      },
+      {
+        "q": "Les mateixes cartes tornen a aparèixer sovint?",
+        "a": "No. Les cartes que ja heu jugat apareixen al final en les partides següents. Quan s’han vist totes les cartes d’un paquet, aquest torna a començar des de zero. També podeu tornar a posar-ho tot en joc des dels ajustaments, amb «Bring back all cards»."
+      },
+      {
+        "q": "Cal una connexió a Internet?",
+        "a": "No per jugar: totes les cartes són a l’aplicació. Només cal connexió per comprar un paquet o restaurar les compres."
+      }
+    ],
+    "privacy_summary": "Your Turn! no recull cap dada personal, no es connecta a cap servidor i no conté publicitat ni rastrejadors. Els noms dels jugadors romanen al vostre dispositiu."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resum",
+        "blocks": [
+          {
+            "p": "Your Turn! no recull cap dada personal. L’aplicació funciona sense connexió, no es connecta a cap servidor i no demana cap compte."
+          }
+        ]
+      },
+      {
+        "h": "Les vostres dades",
+        "blocks": [
+          {
+            "p": "L’aplicació desa al vostre dispositiu els noms dels jugadors, la llista de cartes ja jugades (per evitar repeticions) i els vostres ajustaments (sons, vibracions). Un nom pot ser el que vulgueu: només us serveix a vosaltres."
+          },
+          {
+            "p": "Aquestes dades no surten mai del vostre dispositiu i el desenvolupador no hi té accés. Com les dades d’altres aplicacions, poden figurar a les còpies de seguretat del dispositiu si les heu activades. Si suprimiu l’aplicació, s’esborren."
+          }
+        ]
+      },
+      {
+        "h": "Compres dins de l’aplicació",
+        "blocks": [
+          {
+            "p": "Els paquets es compren mitjançant l’App Store. El pagament el gestiona íntegrament Apple: el desenvolupador no rep ni el vostre nom, ni l’adreça electrònica, ni les dades de pagament. L’aplicació només comprova amb l’App Store quins paquets heu comprat."
+          }
+        ]
+      },
+      {
+        "h": "Permisos sol·licitats",
+        "blocks": [
+          {
+            "p": "Your Turn! no demana cap permís: ni càmera, ni micròfon, ni ubicació, ni contactes, ni fotos."
+          }
+        ]
+      },
+      {
+        "h": "Publicitat i seguiment",
+        "blocks": [
+          {
+            "p": "Your Turn! no conté cap publicitat, cap rastrejador ni cap eina d’anàlisi o d’estadístiques d’ús."
+          }
+        ]
+      },
+      {
+        "h": "Infants",
+        "blocks": [
+          {
+            "p": "El joc està pensat per a persones a partir de 12 anys; el paquet Family es juga amb nens acompanyats d’adults. L’aplicació no recull cap dada, tampoc dels nens."
+          }
+        ]
+      },
+      {
+        "h": "Canvis",
+        "blocks": [
+          {
+            "p": "Si aquesta política canvia, la nova versió es publicarà en aquesta pàgina amb la data d’actualització."
+          }
+        ]
+      },
+      {
+        "h": "Contacte",
+        "blocks": [
+          {
+            "p": "Per a qualsevol pregunta sobre aquesta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

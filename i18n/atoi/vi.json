@@ -1,0 +1,116 @@
+{
+  "support": {
+    "subtitle": "Trò chơi thẻ bài cho mọi buổi tiệc: Thật hay Thách, thử thách và câu đố",
+    "contact": "Bạn có câu hỏi, ý tưởng cho một thẻ bài hay vấn đề khi mua hàng? Hãy viết thư cho tôi:<br>{email}",
+    "faq": [
+      {
+        "q": "Chơi như thế nào?",
+        "a": "Chạm vào “Play”, nhập tên người chơi (từ 2 đến 16 người), chọn một hoặc nhiều gói, rồi chuyền tay nhau chiếc điện thoại. Trong các gói Thật hay Thách, mỗi người chọn “Dare”, “Truth” hoặc “Random”; thỉnh thoảng sẽ xuất hiện một thẻ dành cho cả nhóm."
+      },
+      {
+        "q": "Những gì được dùng miễn phí?",
+        "a": "Gói “Classic” miễn phí và không giới hạn thời gian. 10 gói còn lại (“Teens”, “Family”, “Grown-ups”, “Couples”, “Quiz”, “Party Challenges”, “Christmas”, “Deep Questions”, “Road Trip” và “Film & TV Quiz”) có thể mua riêng lẻ hoặc mua tất cả cùng lúc với ưu đãi “All Packs”, bao gồm cả các gói được bổ sung sau này."
+      },
+      {
+        "q": "Đây có phải là gói đăng ký không?",
+        "a": "Không. Mỗi lần mua chỉ thanh toán một lần và bạn được sở hữu vĩnh viễn. Không có gói đăng ký và không có quảng cáo."
+      },
+      {
+        "q": "Tôi đã đổi iPhone hoặc cài lại ứng dụng: làm sao để lấy lại các gói của mình?",
+        "a": "Mở cửa hàng hoặc phần cài đặt, rồi chạm vào “Restore purchases”, sử dụng cùng tài khoản Apple đã dùng khi mua. Các gói cũng được chia sẻ với các thành viên trong nhóm Chia sẻ trong gia đình của bạn."
+      },
+      {
+        "q": "Trò chơi dành cho độ tuổi nào?",
+        "a": "Your Turn! được thiết kế cho người từ 12 tuổi trở lên. Trò chơi không có nội dung tình dục hay trò chơi uống rượu bia. Gói “Family” được viết để chơi cùng trẻ em từ 7 tuổi, còn gói “Teens” dành cho độ tuổi 12–17."
+      },
+      {
+        "q": "Một thẻ bài không phù hợp: phải làm sao?",
+        "a": "Chạm vào “Skip”: một thẻ khác cùng loại sẽ thay thế, không bị phạt. Những thẻ cần nhiều người chơi hơn số người hiện có sẽ không bao giờ xuất hiện."
+      },
+      {
+        "q": "Phần câu đố được chơi như thế nào?",
+        "a": "Chọn một gói “Quiz” và số vòng chơi. Ở mỗi vòng, mỗi người chơi trả lời một câu hỏi có 4 đáp án; trả lời đúng được từ 1 đến 3 điểm tùy độ khó. Trò chơi kết thúc bằng bục xếp hạng."
+      },
+      {
+        "q": "Các thẻ bài có hay lặp lại không?",
+        "a": "Không. Những thẻ đã chơi sẽ được xếp xuống cuối ở các ván sau. Khi đã xem hết các thẻ của một gói, gói đó sẽ bắt đầu lại từ đầu. Bạn cũng có thể đưa tất cả thẻ trở lại trò chơi trong phần cài đặt bằng “Bring back all cards”."
+      },
+      {
+        "q": "Có cần kết nối internet không?",
+        "a": "Không cần để chơi: tất cả thẻ bài đều có sẵn trong ứng dụng. Bạn chỉ cần kết nối để mua một gói hoặc khôi phục các giao dịch mua."
+      }
+    ],
+    "privacy_summary": "Your Turn! không thu thập bất kỳ dữ liệu cá nhân nào, không kết nối với máy chủ nào và không chứa quảng cáo hay công cụ theo dõi. Tên người chơi chỉ được lưu trên thiết bị của bạn."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Tóm tắt",
+        "blocks": [
+          {
+            "p": "Your Turn! không thu thập bất kỳ dữ liệu cá nhân nào. Ứng dụng hoạt động ngoại tuyến, không kết nối với máy chủ nào và không yêu cầu tài khoản."
+          }
+        ]
+      },
+      {
+        "h": "Dữ liệu của bạn",
+        "blocks": [
+          {
+            "p": "Ứng dụng lưu trên thiết bị của bạn tên người chơi, danh sách các thẻ bài đã chơi (để tránh lặp lại) và các cài đặt của bạn (âm thanh, rung). Tên có thể là bất cứ gì bạn muốn: nó chỉ có ích cho riêng bạn."
+          },
+          {
+            "p": "Những dữ liệu này không bao giờ rời khỏi thiết bị của bạn và nhà phát triển không thể truy cập. Cũng như dữ liệu của các ứng dụng khác, chúng có thể nằm trong bản sao lưu của thiết bị nếu bạn đã bật sao lưu. Xóa ứng dụng sẽ xóa các dữ liệu này."
+          }
+        ]
+      },
+      {
+        "h": "Mua hàng trong ứng dụng",
+        "blocks": [
+          {
+            "p": "Các gói được mua qua App Store. Apple xử lý hoàn toàn việc thanh toán: nhà phát triển không bao giờ nhận được tên, địa chỉ email hay thông tin thanh toán của bạn. Ứng dụng chỉ kiểm tra với App Store xem bạn đã mua những gói nào."
+          }
+        ]
+      },
+      {
+        "h": "Quyền được yêu cầu",
+        "blocks": [
+          {
+            "p": "Your Turn! không yêu cầu bất kỳ quyền nào: không camera, micro, vị trí, danh bạ hay ảnh."
+          }
+        ]
+      },
+      {
+        "h": "Quảng cáo và theo dõi",
+        "blocks": [
+          {
+            "p": "Your Turn! không chứa quảng cáo, công cụ theo dõi, cũng như bất kỳ công cụ phân tích hay thống kê sử dụng nào."
+          }
+        ]
+      },
+      {
+        "h": "Trẻ em",
+        "blocks": [
+          {
+            "p": "Trò chơi được thiết kế cho người từ 12 tuổi trở lên; gói “Family” dành cho trẻ em chơi cùng người lớn. Ứng dụng không thu thập bất kỳ dữ liệu nào, kể cả về trẻ em."
+          }
+        ]
+      },
+      {
+        "h": "Thay đổi",
+        "blocks": [
+          {
+            "p": "Nếu chính sách này thay đổi, phiên bản mới sẽ được đăng trên trang này cùng với ngày cập nhật."
+          }
+        ]
+      },
+      {
+        "h": "Liên hệ",
+        "blocks": [
+          {
+            "p": "Nếu có bất kỳ câu hỏi nào về chính sách này: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

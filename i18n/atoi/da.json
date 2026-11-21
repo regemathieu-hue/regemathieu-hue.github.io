@@ -1,0 +1,116 @@
+{
+  "support": {
+    "subtitle": "Kortspillet til alle fester: sandhed eller konsekvens, udfordringer og quiz",
+    "contact": "Et spørgsmål, en idé til et kort eller et problem med et køb? Skriv til mig:<br>{email}",
+    "faq": [
+      {
+        "q": "Hvordan spiller man?",
+        "a": "Tryk på \"Play\", indtast navnene (2 til 16 spillere), vælg en eller flere pakker, og send så telefonen videre. I pakkerne med sandhed eller konsekvens vælger hver spiller \"Dare\", \"Truth\" eller \"Random\"; en gang imellem dukker der i stedet et kort op til hele gruppen."
+      },
+      {
+        "q": "Hvad er gratis?",
+        "a": "Pakken Classic er gratis og uden tidsbegrænsning. De 10 andre pakker (Teens, Family, Grown-ups, Couples, Quiz, Party Challenges, Christmas, Deep Questions, Road Trip og Film & TV Quiz) kan købes enkeltvis eller samlet med tilbuddet \"All Packs\", som også omfatter pakker, der tilføjes senere."
+      },
+      {
+        "q": "Er det et abonnement?",
+        "a": "Nej. Hvert køb betales én gang, og du beholder det. Der er hverken abonnement eller reklamer."
+      },
+      {
+        "q": "Jeg har skiftet iPhone eller geninstalleret appen: hvordan får jeg mine pakker tilbage?",
+        "a": "Åbn butikken eller indstillingerne, og tryk på \"Restore purchases\" med den samme Apple-konto, som du købte med. Pakkerne deles også med medlemmerne af din Familiedeling."
+      },
+      {
+        "q": "Hvad er spillets aldersgrænse?",
+        "a": "Your Turn! er beregnet til personer fra 12 år. Det indeholder hverken seksuelt indhold eller drikkelege. Pakken Family er skrevet til at blive spillet med børn fra 7 år, og pakken Teens til aldersgruppen 12-17 år."
+      },
+      {
+        "q": "Et kort passer ikke: hvad gør vi?",
+        "a": "Tryk på \"Skip\": Et andet kort af samme slags erstatter det uden straf. Kort, der kræver flere spillere, end I er, dukker aldrig op."
+      },
+      {
+        "q": "Hvordan spiller man quizzen?",
+        "a": "Vælg en Quiz-pakke og antal runder. I hver runde svarer hver spiller på ét spørgsmål med 4 svarmuligheder; et rigtigt svar giver 1 til 3 point afhængigt af sværhedsgraden. Spillet slutter med en sejrsskammel."
+      },
+      {
+        "q": "Kommer de samme kort ofte igen?",
+        "a": "Nej. De kort, I allerede har spillet, kommer sidst i de næste spil. Når alle kort i en pakke er set, starter pakken forfra. Du kan også sætte alle kort i spil igen i indstillingerne med \"Bring back all cards\"."
+      },
+      {
+        "q": "Har jeg brug for en internetforbindelse?",
+        "a": "Nej, ikke for at spille: Alle kort ligger i appen. Du skal kun have forbindelse for at købe en pakke eller gendanne dine køb."
+      }
+    ],
+    "privacy_summary": "Your Turn! indsamler ingen personlige oplysninger, opretter ikke forbindelse til nogen server og indeholder hverken reklamer eller sporing. Spillernes navne bliver på din enhed."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort sagt",
+        "blocks": [
+          {
+            "p": "Your Turn! indsamler ingen personlige oplysninger. Appen fungerer offline, opretter ikke forbindelse til nogen server og kræver ingen konto."
+          }
+        ]
+      },
+      {
+        "h": "Dine data",
+        "blocks": [
+          {
+            "p": "Appen gemmer på din enhed spillernes navne, listen over allerede spillede kort (for at undgå gentagelser) og dine indstillinger (lyd, vibration). Et navn kan være, hvad du vil: Det er kun til gavn for dig."
+          },
+          {
+            "p": "Disse data forlader aldrig din enhed, og udvikleren har ikke adgang til dem. Ligesom andre apps' data kan de indgå i sikkerhedskopier af din enhed, hvis du har slået dem til. Hvis du sletter appen, slettes de også."
+          }
+        ]
+      },
+      {
+        "h": "Køb i appen",
+        "blocks": [
+          {
+            "p": "Pakkerne købes via App Store. Betalingen håndteres fuldstændigt af Apple: Udvikleren modtager hverken dit navn, din e-mailadresse eller dine betalingsoplysninger. Appen kontrollerer kun hos App Store, hvilke pakker du har købt."
+          }
+        ]
+      },
+      {
+        "h": "Anmodede tilladelser",
+        "blocks": [
+          {
+            "p": "Your Turn! beder ikke om nogen tilladelser: hverken kamera, mikrofon, placering, kontakter eller billeder."
+          }
+        ]
+      },
+      {
+        "h": "Reklame og sporing",
+        "blocks": [
+          {
+            "p": "Your Turn! indeholder ingen reklamer, ingen sporere og ingen analyseværktøjer eller brugsstatistik."
+          }
+        ]
+      },
+      {
+        "h": "Børn",
+        "blocks": [
+          {
+            "p": "Spillet er beregnet til personer fra 12 år; pakken Family spilles af børn sammen med voksne. Appen indsamler ingen data, heller ikke om børn."
+          }
+        ]
+      },
+      {
+        "h": "Ændringer",
+        "blocks": [
+          {
+            "p": "Hvis denne politik ændres, bliver den nye version offentliggjort på denne side med datoen for opdateringen."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Hvis du har spørgsmål til denne politik: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "support": {
+    "subtitle": "Igra karata za sve vaše večeri: istina ili izazov, izazovi i kvizovi",
+    "contact": "Imate pitanje, ideju za kartu ili problem s kupnjom? Pišite mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Kako se igra?",
+        "a": "Dodirnite „Play“, unesite imena (od 2 do 16 igrača), odaberite jedan ili više paketa, a zatim dodavajte telefon jedni drugima. U paketima istine ili izazova svaki igrač bira „Dare“, „Truth“ ili „Random“; povremeno se umjesto toga pojavi karta za cijelu grupu."
+      },
+      {
+        "q": "Što je besplatno?",
+        "a": "Paket Classic besplatan je, bez vremenskog ograničenja. Ostalih 10 paketa (Teens, Family, Grown-ups, Couples, Quiz, Party Challenges, Christmas, Deep Questions, Road Trip i Film & TV Quiz) možete kupiti pojedinačno ili sve zajedno uz ponudu „All Packs“, koja uključuje i pakete dodane kasnije."
+      },
+      {
+        "q": "Je li riječ o pretplati?",
+        "a": "Ne. Svaka se kupnja plaća jednom i ostaje vaša. Nema ni pretplate ni reklama."
+      },
+      {
+        "q": "Promijenio/la sam iPhone ili ponovno instalirao/la aplikaciju: kako vratiti svoje pakete?",
+        "a": "Otvorite trgovinu ili postavke, a zatim dodirnite „Restore purchases“, s istim Apple računom kojim ste obavili kupnju. Paketi se dijele i s članovima vaše grupe Dijeljenja s obitelji."
+      },
+      {
+        "q": "Za koju je dob igra namijenjena?",
+        "a": "Your Turn! namijenjena je osobama od 12 godina nadalje. Ne sadrži seksualni sadržaj ni igre s pićem. Paket Family napisan je za igru s djecom od 7 godina nadalje, a paket Teens za osobe od 12 do 17 godina."
+      },
+      {
+        "q": "Karta nam ne odgovara: što učiniti?",
+        "a": "Dodirnite „Skip“: zamijenit će je druga karta iste vrste, bez kazne. Karte koje zahtijevaju više igrača nego što ih ima nikada se ne pojavljuju."
+      },
+      {
+        "q": "Kako se igra kviz?",
+        "a": "Odaberite paket Quiz i broj rundi. U svakoj rundi svaki igrač odgovara na jedno pitanje s četiri ponuđena odgovora; točan odgovor donosi od 1 do 3 boda, ovisno o težini. Igra završava postoljem pobjednika."
+      },
+      {
+        "q": "Vraćaju li se iste karte često?",
+        "a": "Ne. Karte koje su već odigrane u sljedećim se igrama pojavljuju posljednje. Kad se vide sve karte jednog paketa, paket kreće ispočetka. U postavkama možete i sve karte vratiti u igru opcijom „Bring back all cards“."
+      },
+      {
+        "q": "Treba li internetska veza?",
+        "a": "Za igru ne: sve su karte u aplikaciji. Veza je potrebna samo za kupnju paketa ili vraćanje vaših kupnji."
+      }
+    ],
+    "privacy_summary": "Your Turn! ne prikuplja nikakve osobne podatke, ne povezuje se ni s jednim poslužiteljem i ne sadrži reklame ni alate za praćenje. Imena igrača ostaju na vašem uređaju."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ukratko",
+        "blocks": [
+          {
+            "p": "Your Turn! ne prikuplja nikakve osobne podatke. Aplikacija radi izvan mreže, ne povezuje se ni s jednim poslužiteljem i ne traži korisnički račun."
+          }
+        ]
+      },
+      {
+        "h": "Vaši podaci",
+        "blocks": [
+          {
+            "p": "Aplikacija na vašem uređaju sprema imena igrača, popis već odigranih karata (kako bi se izbjeglo ponavljanje) i vaše postavke (zvukovi, vibracije). Ime može biti bilo koje: korisno je samo vama."
+          },
+          {
+            "p": "Ti podaci ne napuštaju vaš uređaj, a programer nema pristup njima. Kao i podaci drugih aplikacija, mogu se nalaziti u sigurnosnim kopijama vašeg uređaja ako ste ih uključili. Brisanjem aplikacije oni se brišu."
+          }
+        ]
+      },
+      {
+        "h": "Kupnje u aplikaciji",
+        "blocks": [
+          {
+            "p": "Paketi se kupuju putem App Storea. Plaćanje u potpunosti obrađuje Apple: programer ne prima ni vaše ime, ni vašu adresu e-pošte, ni podatke o plaćanju. Aplikacija samo provjerava u App Storeu koje ste pakete kupili."
+          }
+        ]
+      },
+      {
+        "h": "Zatražena dopuštenja",
+        "blocks": [
+          {
+            "p": "Your Turn! ne traži nikakva dopuštenja: ni kameru, ni mikrofon, ni lokaciju, ni kontakte, ni fotografije."
+          }
+        ]
+      },
+      {
+        "h": "Reklame i praćenje",
+        "blocks": [
+          {
+            "p": "Your Turn! ne sadrži reklame, alate za praćenje ni alate za analitiku ili statistiku korištenja."
+          }
+        ]
+      },
+      {
+        "h": "Djeca",
+        "blocks": [
+          {
+            "p": "Igra je namijenjena osobama od 12 godina nadalje; paket Family igra se s djecom uz odrasle. Aplikacija ne prikuplja nikakve podatke, pa ni o djeci."
+          }
+        ]
+      },
+      {
+        "h": "Izmjene",
+        "blocks": [
+          {
+            "p": "Ako se ova politika promijeni, nova će verzija biti objavljena na ovoj stranici s datumom ažuriranja."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Za sva pitanja u vezi s ovom politikom: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

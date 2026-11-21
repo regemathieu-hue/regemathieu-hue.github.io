@@ -1,0 +1,116 @@
+{
+  "support": {
+    "subtitle": "Jocul de cărți pentru toate petrecerile dumneavoastră: adevăr sau provocare, provocări și quiz-uri",
+    "contact": "O întrebare, o idee de carte sau o problemă cu o achiziție? Scrieți-mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Cum se joacă?",
+        "a": "Atingeți „Play”, introduceți prenumele (de la 2 la 16 jucători), alegeți unul sau mai multe pachete, apoi dați telefonul mai departe. În pachetele de adevăr sau provocare, fiecare jucător alege „Dare”, „Truth” sau „Random”; din când în când, apare în loc o carte pentru întregul grup."
+      },
+      {
+        "q": "Ce este gratuit?",
+        "a": "Pachetul Classic este gratuit, fără limită de timp. Celelalte 10 pachete (Teens, Family, Grown-ups, Couples, Quiz, Party Challenges, Christmas, Deep Questions, Road Trip și Film & TV Quiz) se cumpără pe rând sau toate împreună prin oferta „All Packs”, care include și pachetele adăugate ulterior."
+      },
+      {
+        "q": "Este un abonament?",
+        "a": "Nu. Fiecare achiziție se plătește o singură dată și rămâne a dumneavoastră. Nu există abonament și nici reclame."
+      },
+      {
+        "q": "Am schimbat iPhone-ul sau am reinstalat aplicația: cum îmi recuperez pachetele?",
+        "a": "Deschideți magazinul sau setările, apoi atingeți „Restore purchases”, folosind același cont Apple cu care ați făcut achiziția. Pachetele sunt partajate și cu membrii grupului dumneavoastră Partajare în familie."
+      },
+      {
+        "q": "Pentru ce vârstă este jocul?",
+        "a": "Your Turn! este destinat persoanelor de peste 12 ani. Nu conține conținut sexual și nici jocuri cu băutură. Pachetul Family este scris pentru a fi jucat cu copii de la 7 ani în sus, iar pachetul Teens pentru cei între 12 și 17 ani."
+      },
+      {
+        "q": "O carte nu se potrivește: ce să fac?",
+        "a": "Atingeți „Skip”: o altă carte de același tip o înlocuiește, fără penalizare. Cărțile care cer mai mulți jucători decât sunt prezenți nu apar niciodată."
+      },
+      {
+        "q": "Cum se joacă quiz-ul?",
+        "a": "Alegeți un pachet Quiz și numărul de runde. La fiecare rundă, fiecare jucător răspunde la o întrebare cu 4 variante de răspuns; un răspuns corect aduce de la 1 la 3 puncte, în funcție de dificultate. Jocul se încheie cu un podium."
+      },
+      {
+        "q": "Se repetă des aceleași cărți?",
+        "a": "Nu. Cărțile deja jucate apar la urmă în serile următoare. Când toate cărțile unui pachet au fost văzute, pachetul reîncepe de la zero. Puteți, de asemenea, să puneți totul înapoi în joc din setări, cu „Bring back all cards”."
+      },
+      {
+        "q": "Este nevoie de conexiune la internet?",
+        "a": "Nu pentru a juca: toate cărțile se află în aplicație. O conexiune este necesară doar pentru a cumpăra un pachet sau a restaura achizițiile."
+      }
+    ],
+    "privacy_summary": "Your Turn! nu colectează nicio dată personală, nu se conectează la niciun server și nu conține reclame sau elemente de urmărire. Prenumele jucătorilor rămân pe dispozitivul dumneavoastră."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Pe scurt",
+        "blocks": [
+          {
+            "p": "Your Turn! nu colectează nicio dată personală. Aplicația funcționează offline, nu se conectează la niciun server și nu cere un cont."
+          }
+        ]
+      },
+      {
+        "h": "Datele dumneavoastră",
+        "blocks": [
+          {
+            "p": "Aplicația stochează pe dispozitivul dumneavoastră prenumele jucătorilor, lista cărților deja jucate (pentru a evita repetițiile) și setările (sunete, vibrații). Prenumele poate fi oricare doriți: este util doar dumneavoastră."
+          },
+          {
+            "p": "Aceste date nu părăsesc dispozitivul dumneavoastră, iar dezvoltatorul nu are acces la ele. Ca datele altor aplicații, pot fi incluse în copiile de rezervă ale dispozitivului, dacă le-ați activat. Ștergerea aplicației le șterge."
+          }
+        ]
+      },
+      {
+        "h": "Achiziții în aplicație",
+        "blocks": [
+          {
+            "p": "Pachetele se cumpără prin App Store. Plata este gestionată integral de Apple: dezvoltatorul nu primește nici numele dumneavoastră, nici adresa de e-mail, nici datele de plată. Aplicația verifică doar în App Store ce pachete ați cumpărat."
+          }
+        ]
+      },
+      {
+        "h": "Permisiuni solicitate",
+        "blocks": [
+          {
+            "p": "Your Turn! nu solicită nicio permisiune: nici cameră, nici microfon, nici locație, nici contacte, nici fotografii."
+          }
+        ]
+      },
+      {
+        "h": "Publicitate și urmărire",
+        "blocks": [
+          {
+            "p": "Your Turn! nu conține nicio reclamă, niciun element de urmărire și niciun instrument de analiză sau de statistici de utilizare."
+          }
+        ]
+      },
+      {
+        "h": "Copii",
+        "blocks": [
+          {
+            "p": "Jocul este destinat persoanelor de peste 12 ani; pachetul Family se joacă cu copii însoțiți de adulți. Aplicația nu colectează nicio dată, inclusiv despre copii."
+          }
+        ]
+      },
+      {
+        "h": "Modificări",
+        "blocks": [
+          {
+            "p": "Dacă această politică se modifică, noua versiune va fi publicată pe această pagină, împreună cu data actualizării."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pentru orice întrebare privind această politică: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

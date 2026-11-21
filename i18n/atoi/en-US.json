@@ -1,0 +1,116 @@
+{
+  "support": {
+    "subtitle": "The card game for every party: truth or dare, challenges and quizzes",
+    "contact": "A question, an idea for a card or a problem with a purchase? Write to me:<br>{email}",
+    "faq": [
+      {
+        "q": "How do I play?",
+        "a": "Tap \"Play\", enter the names (2 to 16 players), choose one or more packs, then pass the phone around. In the truth-or-dare packs, each player picks \"Dare\", \"Truth\" or \"Random\"; every now and then, a card for the whole group comes up instead."
+      },
+      {
+        "q": "What's free?",
+        "a": "The Classic pack is free, with no time limit. The 10 other packs (Teens, Family, Grown-ups, Couples, Quiz, Party Challenges, Christmas, Deep Questions, Road Trip and Film & TV Quiz) can be bought one at a time, or all together with the \"All Packs\" offer, which also includes packs added later."
+      },
+      {
+        "q": "Is it a subscription?",
+        "a": "No. Each purchase is paid once and is yours to keep. There is no subscription and no advertising."
+      },
+      {
+        "q": "I changed iPhone or reinstalled the app: how do I get my packs back?",
+        "a": "Open the shop or the settings, then tap \"Restore purchases\", using the same Apple Account you bought them with. Packs are also shared with the members of your Family Sharing group."
+      },
+      {
+        "q": "What age is the game for?",
+        "a": "Your Turn! is designed for ages 12 and up. It contains no sexual content and no drinking games. The Family pack is written for playing with children aged 7 and up, and the Teens pack for ages 12 to 17."
+      },
+      {
+        "q": "A card doesn't suit us: what can we do?",
+        "a": "Tap \"Skip\": another card of the same kind replaces it, with no penalty. Cards that need more players than you have never come up."
+      },
+      {
+        "q": "How does the quiz work?",
+        "a": "Choose a Quiz pack and the number of rounds. In each round, every player answers one multiple-choice question; a correct answer earns 1 to 3 points depending on how hard it is. The game ends with a podium."
+      },
+      {
+        "q": "Do the same cards keep coming back?",
+        "a": "No. Cards you've already played come up last in the following games. Once every card in a pack has been seen, the pack starts over. You can also put everything back into play in the settings, with \"Bring back all cards\"."
+      },
+      {
+        "q": "Do I need an internet connection?",
+        "a": "Not to play: all the cards are in the app. You only need a connection to buy a pack or restore your purchases."
+      }
+    ],
+    "privacy_summary": "Your Turn! collects no personal data, connects to no server and contains no advertising or trackers. Players' names stay on your device."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In short",
+        "blocks": [
+          {
+            "p": "Your Turn! collects no personal data. The app works offline, connects to no server and asks for no account."
+          }
+        ]
+      },
+      {
+        "h": "Your data",
+        "blocks": [
+          {
+            "p": "The app stores on your device the players' names, the list of cards already played (to avoid repeats) and your settings (sounds, vibrations). A name can be anything you like: it is only useful to you."
+          },
+          {
+            "p": "This data never leaves your device and the developer has no access to it. Like other apps' data, it may be included in your device backups if you have turned them on. Deleting the app erases it."
+          }
+        ]
+      },
+      {
+        "h": "In-app purchases",
+        "blocks": [
+          {
+            "p": "Packs are bought through the App Store. Payment is handled entirely by Apple: the developer never receives your name, your email address or your payment details. The app only checks with the App Store which packs you have bought."
+          }
+        ]
+      },
+      {
+        "h": "Permissions",
+        "blocks": [
+          {
+            "p": "Your Turn! asks for no permissions: no camera, microphone, location, contacts or photos."
+          }
+        ]
+      },
+      {
+        "h": "Advertising and tracking",
+        "blocks": [
+          {
+            "p": "Your Turn! contains no advertising, no trackers and no analytics or usage statistics tools."
+          }
+        ]
+      },
+      {
+        "h": "Children",
+        "blocks": [
+          {
+            "p": "The game is designed for ages 12 and up; the Family pack is played by children together with adults. The app collects no data, including about children."
+          }
+        ]
+      },
+      {
+        "h": "Changes",
+        "blocks": [
+          {
+            "p": "If this policy changes, the new version will be published on this page with its update date."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "For any question about this policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

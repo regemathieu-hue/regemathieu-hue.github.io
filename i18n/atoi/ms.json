@@ -1,0 +1,116 @@
+{
+  "support": {
+    "subtitle": "Permainan kad untuk setiap majlis: benar atau cabaran, cabaran parti dan kuiz",
+    "contact": "Ada soalan, idea kad atau masalah pembelian? Hubungi saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Bagaimana cara bermain?",
+        "a": "Ketik \"Play\", masukkan nama (2 hingga 16 pemain), pilih satu atau lebih pek, kemudian edarkan telefon antara satu sama lain. Dalam pek benar atau cabaran, setiap pemain memilih \"Dare\", \"Truth\" atau \"Random\"; dari semasa ke semasa, kad untuk seluruh kumpulan akan muncul sebagai gantinya."
+      },
+      {
+        "q": "Apa yang percuma?",
+        "a": "Pek \"Classic\" percuma tanpa had masa. 10 pek lain (\"Teens\", \"Family\", \"Grown-ups\", \"Couples\", \"Quiz\", \"Party Challenges\", \"Christmas\", \"Deep Questions\", \"Road Trip\" dan \"Film & TV Quiz\") boleh dibeli satu demi satu, atau sekali gus dengan tawaran \"All Packs\", yang turut merangkumi pek yang ditambah kemudian."
+      },
+      {
+        "q": "Adakah ini langganan?",
+        "a": "Tidak. Setiap pembelian dibayar sekali sahaja dan kekal milik anda. Tiada langganan dan tiada iklan."
+      },
+      {
+        "q": "Saya menukar iPhone atau memasang semula aplikasi: bagaimana untuk mendapatkan semula pek saya?",
+        "a": "Buka kedai atau tetapan, kemudian ketik \"Restore purchases\", menggunakan Akaun Apple yang sama dengan yang digunakan semasa pembelian. Pek juga dikongsi dengan ahli Perkongsian Keluarga anda."
+      },
+      {
+        "q": "Permainan ini sesuai untuk umur berapa?",
+        "a": "Your Turn! direka untuk usia 12 tahun ke atas. Ia tidak mengandungi kandungan seksual atau permainan minum. Pek \"Family\" ditulis untuk dimainkan bersama kanak-kanak berusia 7 tahun ke atas, dan pek \"Teens\" untuk usia 12 hingga 17 tahun."
+      },
+      {
+        "q": "Sesuatu kad tidak sesuai: apa yang boleh dilakukan?",
+        "a": "Ketik \"Skip\": kad lain daripada jenis yang sama akan menggantikannya, tanpa penalti. Kad yang memerlukan lebih ramai pemain daripada yang ada tidak akan muncul."
+      },
+      {
+        "q": "Bagaimanakah kuiz dimainkan?",
+        "a": "Pilih pek \"Quiz\" dan bilangan pusingan. Dalam setiap pusingan, setiap pemain menjawab satu soalan aneka pilihan; jawapan yang betul memperoleh 1 hingga 3 mata bergantung pada tahap kesukaran. Permainan berakhir dengan podium."
+      },
+      {
+        "q": "Adakah kad yang sama kerap muncul semula?",
+        "a": "Tidak. Kad yang telah dimainkan akan muncul paling akhir dalam permainan berikutnya. Setelah semua kad dalam sesuatu pek telah dilihat, pek itu bermula semula dari awal. Anda juga boleh memulangkan semua kad ke dalam permainan melalui tetapan, dengan \"Bring back all cards\"."
+      },
+      {
+        "q": "Adakah saya memerlukan sambungan internet?",
+        "a": "Tidak untuk bermain: semua kad ada di dalam aplikasi. Sambungan hanya diperlukan untuk membeli pek atau memulihkan pembelian anda."
+      }
+    ],
+    "privacy_summary": "Your Turn! tidak mengumpul sebarang data peribadi, tidak bersambung ke mana-mana pelayan dan tidak mengandungi iklan atau penjejak. Nama pemain kekal pada peranti anda."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasan",
+        "blocks": [
+          {
+            "p": "Your Turn! tidak mengumpul sebarang data peribadi. Aplikasi ini berfungsi secara luar talian, tidak bersambung ke mana-mana pelayan dan tidak meminta akaun."
+          }
+        ]
+      },
+      {
+        "h": "Data anda",
+        "blocks": [
+          {
+            "p": "Aplikasi ini menyimpan pada peranti anda nama pemain, senarai kad yang telah dimainkan (untuk mengelakkan pengulangan) dan tetapan anda (bunyi, getaran). Nama boleh apa sahaja yang anda mahu: ia hanya berguna kepada anda."
+          },
+          {
+            "p": "Data ini tidak pernah keluar daripada peranti anda dan pembangun tidak mempunyai akses kepadanya. Seperti data aplikasi lain, data ini mungkin disertakan dalam sandaran peranti anda jika anda telah mengaktifkannya. Memadamkan aplikasi akan memadamkan data tersebut."
+          }
+        ]
+      },
+      {
+        "h": "Pembelian Dalam Aplikasi",
+        "blocks": [
+          {
+            "p": "Pek dibeli melalui App Store. Pembayaran diuruskan sepenuhnya oleh Apple: pembangun tidak menerima nama, alamat e-mel atau butiran pembayaran anda. Aplikasi hanya menyemak dengan App Store pek yang telah anda beli."
+          }
+        ]
+      },
+      {
+        "h": "Kebenaran yang Diminta",
+        "blocks": [
+          {
+            "p": "Your Turn! tidak meminta sebarang kebenaran: tiada kamera, mikrofon, lokasi, kenalan atau foto."
+          }
+        ]
+      },
+      {
+        "h": "Iklan dan Penjejakan",
+        "blocks": [
+          {
+            "p": "Your Turn! tidak mengandungi iklan, penjejak atau alat analitik mahupun statistik penggunaan."
+          }
+        ]
+      },
+      {
+        "h": "Kanak-kanak",
+        "blocks": [
+          {
+            "p": "Permainan ini direka untuk usia 12 tahun ke atas; pek \"Family\" dimainkan oleh kanak-kanak bersama orang dewasa. Aplikasi ini tidak mengumpul sebarang data, termasuk data tentang kanak-kanak."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika dasar ini berubah, versi baharu akan diterbitkan di halaman ini bersama tarikh kemas kini."
+          }
+        ]
+      },
+      {
+        "h": "Hubungi Kami",
+        "blocks": [
+          {
+            "p": "Untuk sebarang pertanyaan tentang dasar ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}
