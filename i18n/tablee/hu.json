@@ -9,7 +9,7 @@
       },
       {
         "q": "Milyen játékokat támogat?",
-        "a": "A belote-ot, a coinche-t, a tarokkot, a Scrabble-t és az Uno-t. Az összes többi pontozós játékhoz (yams, römi, Skyjo…) használja a szabad játékot: a legmagasabb vagy a legalacsonyabb pontszám nyer, az Ön választása szerint."
+        "a": "A belote-ot, a coinche-t, a tarokkot, a Scrabble-t, az Uno-t, a Skyjo-t, a 6 nimmt! játékot, a Yams-t (teljes pontozólappal) és a Mölkkyt. Az összes többi pontozós játékhoz (römi, Scattergories…) használja a szabad játékot: a legmagasabb vagy a legalacsonyabb pontszám nyer, az Ön választása szerint."
       },
       {
         "q": "Nálunk mások a szabályok: megváltoztathatom őket?",
@@ -25,11 +25,11 @@
       },
       {
         "q": "Hogyan válthatok eszközt a játszmáim elvesztése nélkül?",
-        "a": "A régi eszközön nyissa meg a Beállítások › „Összes exportálása (JSON)” menüpontot, és mentse el a fájlt. Az újon válassza a „Fájl importálása” lehetőséget: a játszmák és a játékosok a már meglévők mellé kerülnek, semmit sem írnak felül."
+        "a": "Ha a két eszköz ugyanazt az iCloud-fiókot használja, hagyja bekapcsolva az iCloud-szinkronizálást (alapértelmezés szerint be van kapcsolva): a játszmái és a játékosai maguktól megjelennek. Minden más esetben a régi eszközön nyissa meg a Beállítások › „Összes exportálása (JSON)” menüpontot, és mentse el a fájlt. Az újon válassza a „Fájl importálása” lehetőséget: a játszmák és a játékosok a már meglévők mellé kerülnek, semmit sem írnak felül."
       },
       {
         "q": "A játszmáim szinkronizálva vannak, vagy van róluk biztonsági mentés?",
-        "a": "Minden módosítás az Ön eszközén mentődik, és a játszmát ott folytathatja, ahol abbahagyta. A Tablée semmit sem szinkronizál az eszközei között, és az adatai eltűnnek, ha törli az alkalmazást: ne felejtsen el időnként biztonsági mentést exportálni."
+        "a": "Igen. Minden módosítás az Ön eszközén mentődik, és a játszmát ott folytathatja, ahol abbahagyta. Az alapértelmezés szerint bekapcsolt iCloud-szinkronizálás a játszmáit és a játékosait az iCloudjába is átmásolja, így ugyanahhoz a fiókhoz kapcsolódó többi iPhone-ján és iPadjén is megtalálja őket; a Beállításokban kikapcsolhatja. Nélküle, vagy iCloud-fiók nélkül minden ezen az eszközön marad, és eltűnik, ha törli az alkalmazást. Mindenesetre időnként biztonsági mentést exportálni továbbra is jó ötlet."
       },
       {
         "q": "Hogyan oszthatok meg egy eredményt?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "Hogyan törölhetek mindent?",
-        "a": "A Beállítások › „Minden adat törlése” menüpontban. Ez a művelet végleges: ha meg szeretné őrizni a játszmáit, előbb exportáljon egy biztonsági mentést."
+        "a": "A Beállítások › „Minden adat törlése” menüpontban. Ha az iCloud-szinkronizálás be van kapcsolva, a Tablée adatai a többi szinkronizált eszközéről is törlődnek. Ez a művelet végleges: ha meg szeretné őrizni a játszmáit, előbb exportáljon egy biztonsági mentést."
       }
     ],
-    "privacy_summary": "A Tablée semmilyen személyes adatot nem gyűjt, nem csatlakozik semmilyen szerverhez, és nincs benne reklám, vásárlás vagy nyomkövető. A játszmái az Ön eszközén maradnak."
+    "privacy_summary": "A Tablée semmilyen személyes adatot nem gyűjt, nem csatlakozik a fejlesztő egyetlen szerveréhez sem, és nincs benne reklám, vásárlás vagy nyomkövető. A játszmái az Ön eszközein maradnak, és ha a szinkronizálás be van kapcsolva, az iCloudjában."
   },
   "privacy": {
     "sections": [
@@ -48,7 +48,7 @@
         "h": "Röviden",
         "blocks": [
           {
-            "p": "A Tablée semmilyen személyes adatot nem gyűjt. Az alkalmazás kapcsolat nélkül működik, nem csatlakozik semmilyen szerverhez, és nem kér fiókot. Minden, amit megad, az Ön eszközén marad, hacsak nem dönt a megosztása vagy exportálása mellett."
+            "p": "A Tablée semmilyen személyes adatot nem gyűjt. Az alkalmazás kapcsolat nélkül működik, nem csatlakozik a fejlesztő egyetlen szerveréhez sem, és nem kér fiókot. Minden, amit megad, az Ön eszközein marad, és ha az iCloud-szinkronizálás be van kapcsolva, az iCloudjában, hacsak nem dönt a megosztása vagy exportálása mellett."
           }
         ]
       },
@@ -59,7 +59,7 @@
             "p": "Az alkalmazás elmenti a játszmáit, azok pontjait és szabályait, a játékosnévsorát (név, emoji, szín), az ezekből a játszmákból számolt statisztikákat és a beállításait. A játékos neve bármi lehet, amit szeretne: csak Önnek hasznos."
           },
           {
-            "p": "Ezek az adatok az Ön eszközén tárolódnak, és a fejlesztő nem fér hozzájuk. Más alkalmazások adataihoz hasonlóan szerepelhetnek az eszköze biztonsági mentéseiben, ha bekapcsolta őket. A beállításokban mindent törölhet; az alkalmazás törlése is törli őket."
+            "p": "Ezek az adatok az Ön eszközén tárolódnak, és a fejlesztő nem fér hozzájuk. Ha az iCloud-szinkronizálás be van kapcsolva (ez az alapértelmezés, és a beállításokban kikapcsolhatja), az adatok a saját iCloud-fiókjába is átmásolódnak, egy az alkalmazás számára fenntartott, az Apple által titkosított területre, hogy ugyanahhoz a fiókhoz kapcsolódó többi iPhone-ján és iPadjén is megtalálja őket; ebben a fejlesztő egyetlen szervere sem vesz részt. Más alkalmazások adataihoz hasonlóan szerepelhetnek az eszköze biztonsági mentéseiben, ha bekapcsolta őket. A beállításokban mindent törölhet, ami a többi szinkronizált eszközéről is törli őket; az alkalmazás törlése erről az eszközről törli őket."
           }
         ]
       },
@@ -67,7 +67,7 @@
         "h": "Megosztás, exportálás és importálás",
         "blocks": [
           {
-            "p": "Semmi nem hagyja el az alkalmazást az Ön közreműködése nélkül."
+            "p": "A fent leírt iCloud-szinkronizálást leszámítva semmi nem hagyja el az alkalmazást az Ön közreműködése nélkül."
           },
           {
             "ul": [

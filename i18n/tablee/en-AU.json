@@ -9,7 +9,7 @@
       },
       {
         "q": "Which games are supported?",
-        "a": "Belote, coinche, French tarot, Scrabble and Uno. For any other points game (Yahtzee, rummy, Skyjo…), use free play: the highest or lowest score wins, as you choose."
+        "a": "Belote, coinche, French tarot, Scrabble, Uno, Skyjo, Take 6!, Yams (full score sheet) and Mölkky. For any other points game (rummy, Scattergories…), use free play: the highest or lowest score wins, as you choose."
       },
       {
         "q": "My rules are different. Can I change them?",
@@ -25,11 +25,11 @@
       },
       {
         "q": "How do I switch devices without losing my games?",
-        "a": "On the old device, open Settings › “Export all (JSON)” and save the file. On the new one, choose “Import a file”: the games and players are added to those already there, without overwriting anything."
+        "a": "If both devices use the same iCloud account, leave iCloud sync turned on (it is by default): your games and players show up there on their own. Otherwise, on the old device, open Settings › “Export all (JSON)” and save the file. On the new one, choose “Import a file”: the games and players are added to those already there, without overwriting anything."
       },
       {
         "q": "Are my games synced or backed up?",
-        "a": "Every change is saved on your device, and you pick up the game where you left off. Tablée doesn't sync anything between your devices, and its data disappears if you delete the app: remember to export a backup from time to time."
+        "a": "Yes. Every change is saved on your device, and you pick up the game where you left off. iCloud sync, turned on by default, also copies your games and players to your iCloud, so you find them on your other iPhones and iPads signed in to the same account; you can turn it off in Settings. Without it, or without an iCloud account, everything stays on this device and disappears if you delete the app. Either way, exporting a backup from time to time is still a good idea."
       },
       {
         "q": "How do I share a result?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "How do I erase everything?",
-        "a": "In Settings › “Erase all data”. This can't be undone: export a backup first if you want to keep your games."
+        "a": "In Settings › “Erase all data”. If iCloud sync is on, Tablée's data is also erased on your other synced devices. This can't be undone: export a backup first if you want to keep your games."
       }
     ],
-    "privacy_summary": "Tablée doesn't collect any personal data, doesn't connect to any server and has no ads, purchases or trackers. Your games stay on your device."
+    "privacy_summary": "Tablée doesn't collect any personal data, doesn't connect to any server of the developer's and has no ads, purchases or trackers. Your games stay on your devices and, if sync is turned on, in your iCloud."
   },
   "privacy": {
     "sections": [
@@ -48,7 +48,7 @@
         "h": "In short",
         "blocks": [
           {
-            "p": "Tablée doesn't collect any personal data. The app works offline, doesn't connect to any server and requires no account. Everything you enter stays on your device, unless you choose to share or export it."
+            "p": "Tablée doesn't collect any personal data. The app works offline, doesn't connect to any server of the developer's and requires no account. Everything you enter stays on your devices and, if iCloud sync is turned on, in your iCloud, unless you choose to share or export it."
           }
         ]
       },
@@ -59,7 +59,7 @@
             "p": "The app saves your games, their scores and rules, your list of players (name, emoji, colour), the statistics calculated from these games and your settings. A player's name can be anything you like: it's only useful to you."
           },
           {
-            "p": "This data is saved on your device, and the developer has no access to it. Like other apps' data, it may be included in your device backups if you've turned them on. You can erase everything in the settings; deleting the app erases it too."
+            "p": "This data is saved on your device, and the developer has no access to it. If iCloud sync is turned on (it is by default, and you can turn it off in the settings), it is also copied to your own iCloud account, in a space reserved for the app and encrypted by Apple, so that you find it on your other iPhones and iPads signed in to the same account; no server of the developer's is involved. Like other apps' data, it may be included in your device backups if you've turned them on. You can erase everything in the settings, which also erases it on your other synced devices; deleting the app erases the data on this device."
           }
         ]
       },
@@ -67,7 +67,7 @@
         "h": "Sharing, export and import",
         "blocks": [
           {
-            "p": "Nothing leaves the app without action on your part."
+            "p": "Apart from the iCloud sync described above, nothing leaves the app without action on your part."
           },
           {
             "ul": [

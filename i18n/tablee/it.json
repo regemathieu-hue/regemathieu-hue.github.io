@@ -9,7 +9,7 @@
       },
       {
         "q": "Quali giochi sono supportati?",
-        "a": "La belote, la coinche, i tarocchi, lo Scrabble e l'Uno. Per tutti gli altri giochi a punti (yahtzee, ramino, Skyjo…), usi il gioco libero: vince il punteggio più alto o quello più basso, a sua scelta."
+        "a": "La belote, la coinche, i tarocchi, lo Scrabble, l'Uno, lo Skyjo, il 6 nimmt!, lo Yams (con il foglio dei punti completo) e il Mölkky. Per tutti gli altri giochi a punti (ramino, Nomi cose città…), usi il gioco libero: vince il punteggio più alto o quello più basso, a sua scelta."
       },
       {
         "q": "Le mie regole sono diverse: posso cambiarle?",
@@ -25,11 +25,11 @@
       },
       {
         "q": "Come cambio dispositivo senza perdere le mie partite?",
-        "a": "Sul vecchio dispositivo, apra Impostazioni › “Esporta tutto (JSON)” e salvi il file. Sul nuovo, scelga “Importa un file”: le partite e i giocatori vengono aggiunti a quelli già presenti, senza sovrascrivere nulla."
+        "a": "Se i suoi due dispositivi usano lo stesso account iCloud, lasci attiva la sincronizzazione iCloud (lo è per impostazione predefinita): le sue partite e i suoi giocatori vi compariranno da soli. Negli altri casi, sul vecchio dispositivo, apra Impostazioni › “Esporta tutto (JSON)” e salvi il file. Sul nuovo, scelga “Importa un file”: le partite e i giocatori vengono aggiunti a quelli già presenti, senza sovrascrivere nulla."
       },
       {
         "q": "Le mie partite vengono sincronizzate o salvate in un backup?",
-        "a": "Ogni modifica viene salvata sul suo dispositivo, e riprende la partita dal punto in cui l'aveva lasciata. Tablée non sincronizza nulla tra i suoi dispositivi, e i suoi dati scompaiono se elimina l'app: si ricordi di esportare ogni tanto un backup."
+        "a": "Sì. Ogni modifica viene salvata sul suo dispositivo, e riprende la partita dal punto in cui l'aveva lasciata. La sincronizzazione iCloud, attiva per impostazione predefinita, copia anche le sue partite e i suoi giocatori nel suo iCloud, e li ritrova sugli altri iPhone e iPad collegati allo stesso account; può disattivarla in Impostazioni. Senza di essa, o senza un account iCloud, tutto resta su questo dispositivo e scompare se elimina l'app. In ogni caso, esportare ogni tanto un backup resta una buona idea."
       },
       {
         "q": "Come condivido un risultato?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "Come cancello tutto?",
-        "a": "In Impostazioni › “Cancella tutti i dati”. Quest'azione è definitiva: esporti prima un backup se vuole conservare le sue partite."
+        "a": "In Impostazioni › “Cancella tutti i dati”. Se la sincronizzazione iCloud è attiva, i dati di Tablée vengono cancellati anche sugli altri dispositivi sincronizzati. Quest'azione è definitiva: esporti prima un backup se vuole conservare le sue partite."
       }
     ],
-    "privacy_summary": "Tablée non raccoglie alcun dato personale, non si connette ad alcun server e non contiene pubblicità, acquisti né tracker. Le sue partite restano sul suo dispositivo."
+    "privacy_summary": "Tablée non raccoglie alcun dato personale, non si connette ad alcun server dello sviluppatore e non contiene pubblicità, acquisti né tracker. Le sue partite restano sui suoi dispositivi e, se la sincronizzazione è attiva, nel suo iCloud."
   },
   "privacy": {
     "sections": [
@@ -48,7 +48,7 @@
         "h": "In breve",
         "blocks": [
           {
-            "p": "Tablée non raccoglie alcun dato personale. L'app funziona offline, non si connette ad alcun server e non richiede alcun account. Tutto ciò che inserisce resta sul suo dispositivo, a meno che non scelga di condividerlo o di esportarlo."
+            "p": "Tablée non raccoglie alcun dato personale. L'app funziona offline, non si connette ad alcun server dello sviluppatore e non richiede alcun account. Tutto ciò che inserisce resta sui suoi dispositivi e, se la sincronizzazione iCloud è attiva, nel suo iCloud, a meno che non scelga di condividerlo o di esportarlo."
           }
         ]
       },
@@ -59,7 +59,7 @@
             "p": "L'app salva le sue partite, i loro punti e le loro regole, la sua rubrica di giocatori (nome, emoji, colore), le statistiche calcolate a partire da queste partite e le sue impostazioni. Il nome di un giocatore può essere quello che vuole: serve solo a lei."
           },
           {
-            "p": "Questi dati vengono salvati sul suo dispositivo, e lo sviluppatore non vi ha accesso. Come i dati delle altre app, possono essere inclusi nei backup del suo dispositivo se li ha attivati. Può cancellare tutto dalle impostazioni; anche eliminando l'app vengono cancellati."
+            "p": "Questi dati vengono salvati sul suo dispositivo, e lo sviluppatore non vi ha accesso. Se la sincronizzazione iCloud è attiva (lo è per impostazione predefinita, e può disattivarla dalle impostazioni), vengono anche copiati nel suo account iCloud, in uno spazio riservato all'app e cifrato da Apple, così da ritrovarli sugli altri iPhone e iPad collegati allo stesso account; non interviene alcun server dello sviluppatore. Come i dati delle altre app, possono essere inclusi nei backup del suo dispositivo se li ha attivati. Può cancellare tutto dalle impostazioni, e i dati vengono cancellati anche sugli altri dispositivi sincronizzati; eliminando l'app vengono cancellati quelli di questo dispositivo."
           }
         ]
       },
@@ -67,7 +67,7 @@
         "h": "Condivisione, esportazione e importazione",
         "blocks": [
           {
-            "p": "Nulla esce dall'app senza un'azione da parte sua."
+            "p": "A parte la sincronizzazione iCloud descritta sopra, nulla esce dall'app senza un'azione da parte sua."
           },
           {
             "ul": [

@@ -9,7 +9,7 @@
       },
       {
         "q": "Ce jocuri sunt acceptate?",
-        "a": "Belote, coinche, tarot, Scrabble și Uno. Pentru toate celelalte jocuri cu puncte (yams, remi, Skyjo…), folosiți jocul liber: câștigă scorul cel mai mare sau cel mai mic, după alegerea dumneavoastră."
+        "a": "Belote, coinche, tarot, Scrabble, Uno, Skyjo, 6 nimmt!, Yams (cu foaia de scor completă) și Mölkky. Pentru toate celelalte jocuri cu puncte (remi, Petit bac…), folosiți jocul liber: câștigă scorul cel mai mare sau cel mai mic, după alegerea dumneavoastră."
       },
       {
         "q": "Regulile mele sunt diferite: le pot schimba?",
@@ -25,11 +25,11 @@
       },
       {
         "q": "Cum schimb dispozitivul fără să-mi pierd partidele?",
-        "a": "Pe dispozitivul vechi, deschideți Setări › „Exportă tot (JSON)” și salvați fișierul. Pe cel nou, alegeți „Importă un fișier”: partidele și jucătorii se adaugă la cei existenți, fără a suprascrie nimic."
+        "a": "Dacă cele două dispozitive folosesc același cont iCloud, lăsați activată sincronizarea iCloud (este activată implicit): partidele și jucătorii dumneavoastră apar pe ele de la sine. În celelalte cazuri, pe dispozitivul vechi, deschideți Setări › „Exportă tot (JSON)” și salvați fișierul. Pe cel nou, alegeți „Importă un fișier”: partidele și jucătorii se adaugă la cei existenți, fără a suprascrie nimic."
       },
       {
         "q": "Partidele mele sunt sincronizate sau salvate în copii de rezervă?",
-        "a": "Fiecare modificare este salvată pe dispozitivul dumneavoastră, iar partida se reia exact de unde ați lăsat-o. Tablée nu sincronizează nimic între dispozitivele dumneavoastră, iar datele ei dispar dacă ștergeți aplicația: gândiți-vă să exportați din când în când o copie de rezervă."
+        "a": "Da. Fiecare modificare este salvată pe dispozitivul dumneavoastră, iar partida se reia exact de unde ați lăsat-o. Sincronizarea iCloud, activată implicit, copiază și partidele și jucătorii în iCloud-ul dumneavoastră, astfel că îi regăsiți pe celelalte iPhone și iPad conectate la același cont; o puteți dezactiva din Setări. Fără ea sau fără cont iCloud, totul rămâne pe acest dispozitiv și dispare dacă ștergeți aplicația. În orice caz, exportul din când în când al unei copii de rezervă rămâne o idee bună."
       },
       {
         "q": "Cum partajez un rezultat?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "Cum șterg tot?",
-        "a": "În Setări › „Șterge toate datele”. Această acțiune este definitivă: exportați mai întâi o copie de rezervă dacă doriți să vă păstrați partidele."
+        "a": "În Setări › „Șterge toate datele”. Dacă sincronizarea iCloud este activată, datele Tablée sunt șterse și pe celelalte dispozitive sincronizate. Această acțiune este definitivă: exportați mai întâi o copie de rezervă dacă doriți să vă păstrați partidele."
       }
     ],
-    "privacy_summary": "Tablée nu colectează nicio dată personală, nu se conectează la niciun server și nu conține reclame, achiziții sau instrumente de urmărire. Partidele dumneavoastră rămân pe dispozitivul dumneavoastră."
+    "privacy_summary": "Tablée nu colectează nicio dată personală, nu se conectează la niciun server al dezvoltatorului și nu conține reclame, achiziții sau instrumente de urmărire. Partidele dumneavoastră rămân pe dispozitivele dumneavoastră și, dacă sincronizarea este activată, în iCloud-ul dumneavoastră."
   },
   "privacy": {
     "sections": [
@@ -48,7 +48,7 @@
         "h": "Pe scurt",
         "blocks": [
           {
-            "p": "Tablée nu colectează nicio dată personală. Aplicația funcționează offline, nu se conectează la niciun server și nu cere niciun cont. Tot ce introduceți rămâne pe dispozitivul dumneavoastră, cu excepția cazului în care alegeți să partajați sau să exportați."
+            "p": "Tablée nu colectează nicio dată personală. Aplicația funcționează offline, nu se conectează la niciun server al dezvoltatorului și nu cere niciun cont. Tot ce introduceți rămâne pe dispozitivele dumneavoastră și, dacă sincronizarea iCloud este activată, în iCloud-ul dumneavoastră, cu excepția cazului în care alegeți să partajați sau să exportați."
           }
         ]
       },
@@ -59,7 +59,7 @@
             "p": "Aplicația salvează partidele dumneavoastră, punctele și regulile lor, carnetul de jucători (nume, emoji, culoare), statisticile calculate pe baza acestor partide și setările dumneavoastră. Numele unui jucător poate fi oricare doriți: este util doar dumneavoastră."
           },
           {
-            "p": "Aceste date sunt salvate pe dispozitivul dumneavoastră, iar dezvoltatorul nu are acces la ele. Ca datele altor aplicații, pot fi incluse în copiile de rezervă ale dispozitivului dumneavoastră, dacă le-ați activat. Puteți șterge tot din setări; ștergerea aplicației le elimină, de asemenea."
+            "p": "Aceste date sunt salvate pe dispozitivul dumneavoastră, iar dezvoltatorul nu are acces la ele. Dacă sincronizarea iCloud este activată (este implicit, iar o puteți dezactiva din setări), ele sunt copiate și în propriul cont iCloud, într-un spațiu rezervat aplicației și criptat de Apple, ca să le regăsiți pe celelalte iPhone și iPad conectate la același cont; niciun server al dezvoltatorului nu intervine. Ca datele altor aplicații, pot fi incluse în copiile de rezervă ale dispozitivului dumneavoastră, dacă le-ați activat. Puteți șterge tot din setări, ceea ce le șterge și pe celelalte dispozitive sincronizate; ștergerea aplicației le elimină pe cele de pe acest dispozitiv."
           }
         ]
       },
@@ -67,7 +67,7 @@
         "h": "Partajare, export și import",
         "blocks": [
           {
-            "p": "Nimic nu părăsește aplicația fără o acțiune din partea dumneavoastră."
+            "p": "În afara sincronizării iCloud descrise mai sus, nimic nu părăsește aplicația fără o acțiune din partea dumneavoastră."
           },
           {
             "ul": [

@@ -9,7 +9,7 @@
       },
       {
         "q": "Mitä pelejä tuetaan?",
-        "a": "Belote, coinche, tarokki, Scrabble ja Uno. Kaikille muille pistepeleille (yams, rommi, Skyjo…) käyttäkää vapaata peliä: voittaja on joko korkeimman tai matalimman pistemäärän saanut, valintanne mukaan."
+        "a": "Belote, coinche, tarokki, Scrabble, Uno, Skyjo, 6 nimmt!, Yatzy (täysi pistetaulukko) ja Mölkky. Kaikille muille pistepeleille (rommi, Scattergories…) käyttäkää vapaata peliä: voittaja on joko korkeimman tai matalimman pistemäärän saanut, valintanne mukaan."
       },
       {
         "q": "Säännöt ovat meillä erilaiset: voinko muuttaa niitä?",
@@ -25,11 +25,11 @@
       },
       {
         "q": "Miten vaihdan laitetta menettämättä pelejäni?",
-        "a": "Avatkaa vanhalla laitteella Asetukset › ”Vie kaikki (JSON)” ja tallentakaa tiedosto. Valitkaa uudella laitteella ”Tuo tiedosto”: pelit ja pelaajat lisätään jo olemassa olevien joukkoon mitään korvaamatta."
+        "a": "Jos molemmat laitteenne käyttävät samaa iCloud-tiliä, pitäkää iCloud-synkronointi päällä (se on oletuksena päällä): pelinne ja pelaajanne siirtyvät sinne itsestään. Muissa tapauksissa avatkaa vanhalla laitteella Asetukset › ”Vie kaikki (JSON)” ja tallentakaa tiedosto. Valitkaa uudella laitteella ”Tuo tiedosto”: pelit ja pelaajat lisätään jo olemassa olevien joukkoon mitään korvaamatta."
       },
       {
         "q": "Synkronoidaanko tai varmuuskopioidaanko pelini?",
-        "a": "Jokainen muutos tallennetaan laitteellenne, ja jatkatte peliä siitä, mihin jäitte. Tablée ei synkronoi mitään laitteidenne välillä, ja sen tiedot katoavat, jos poistatte sovelluksen: muistakaa viedä varmuuskopio silloin tällöin."
+        "a": "Kyllä. Jokainen muutos tallennetaan laitteellenne, ja jatkatte peliä siitä, mihin jäitte. Oletuksena päällä oleva iCloud-synkronointi kopioi pelinne ja pelaajanne myös iCloudiinne, ja löydätte ne muilta samalla tilillä kirjautuneilta iPhoneiltanne ja iPadeiltanne; voitte poistaa sen käytöstä Asetuksissa. Ilman sitä tai ilman iCloud-tiliä kaikki pysyy tällä laitteella ja katoaa, jos poistatte sovelluksen. Joka tapauksessa varmuuskopion vieminen silloin tällöin on edelleen hyvä ajatus."
       },
       {
         "q": "Miten jaan tuloksen?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "Miten poistan kaiken?",
-        "a": "Kohdassa Asetukset › ”Poista kaikki tiedot”. Toimintoa ei voi perua: viekää ensin varmuuskopio, jos haluatte säilyttää pelinne."
+        "a": "Kohdassa Asetukset › ”Poista kaikki tiedot”. Jos iCloud-synkronointi on päällä, Tabléen tiedot poistetaan myös muilta synkronoiduilta laitteiltanne. Toimintoa ei voi perua: viekää ensin varmuuskopio, jos haluatte säilyttää pelinne."
       }
     ],
-    "privacy_summary": "Tablée ei kerää henkilötietoja, ei ota yhteyttä mihinkään palvelimeen eikä sisällä mainoksia, ostoksia tai seurantaa. Pelinne pysyvät laitteellanne."
+    "privacy_summary": "Tablée ei kerää henkilötietoja, ei ota yhteyttä mihinkään kehittäjän palvelimeen eikä sisällä mainoksia, ostoksia tai seurantaa. Pelinne pysyvät laitteillanne ja, jos synkronointi on päällä, iCloudissanne."
   },
   "privacy": {
     "sections": [
@@ -48,7 +48,7 @@
         "h": "Lyhyesti",
         "blocks": [
           {
-            "p": "Tablée ei kerää henkilötietoja. Sovellus toimii ilman verkkoyhteyttä, ei ota yhteyttä mihinkään palvelimeen eikä vaadi tiliä. Kaikki syöttämänne pysyy laitteellanne, ellette itse valitse jakaa tai viedä sitä."
+            "p": "Tablée ei kerää henkilötietoja. Sovellus toimii ilman verkkoyhteyttä, ei ota yhteyttä mihinkään kehittäjän palvelimeen eikä vaadi tiliä. Kaikki syöttämänne pysyy laitteillanne ja, jos iCloud-synkronointi on päällä, iCloudissanne, ellette itse valitse jakaa tai viedä sitä."
           }
         ]
       },
@@ -59,7 +59,7 @@
             "p": "Sovellus tallentaa pelinne, niiden pisteet ja säännöt, pelaajaluettelonne (nimi, emoji, väri), näistä peleistä lasketut tilastot sekä asetuksenne. Pelaajan nimi voi olla mikä tahansa haluatte: se on hyödyllinen vain teille."
           },
           {
-            "p": "Nämä tiedot tallennetaan laitteellenne, eikä kehittäjä pääse niihin käsiksi. Kuten muidenkin sovellusten tiedot, ne voivat sisältyä laitteenne varmuuskopioihin, jos olette ottaneet ne käyttöön. Voitte poistaa kaiken asetuksista; myös sovelluksen poistaminen poistaa ne."
+            "p": "Nämä tiedot tallennetaan laitteellenne, eikä kehittäjä pääse niihin käsiksi. Jos iCloud-synkronointi on päällä (se on oletusasetus, ja voitte poistaa sen käytöstä asetuksista), tiedot kopioidaan myös omalle iCloud-tilillenne sovellukselle varattuun, Applen salaamaan tilaan, jotta löydätte ne muilta samalla tilillä kirjautuneilta iPhoneiltanne ja iPadeiltanne; mikään kehittäjän palvelin ei ole mukana. Kuten muidenkin sovellusten tiedot, ne voivat sisältyä laitteenne varmuuskopioihin, jos olette ottaneet ne käyttöön. Voitte poistaa kaiken asetuksista, jolloin ne poistuvat myös muilta synkronoiduilta laitteiltanne; sovelluksen poistaminen poistaa ne tältä laitteelta."
           }
         ]
       },
@@ -67,7 +67,7 @@
         "h": "Jakaminen, vienti ja tuonti",
         "blocks": [
           {
-            "p": "Mikään ei poistu sovelluksesta ilman omaa toimintaanne."
+            "p": "Yllä kuvattua iCloud-synkronointia lukuun ottamatta mikään ei poistu sovelluksesta ilman omaa toimintaanne."
           },
           {
             "ul": [

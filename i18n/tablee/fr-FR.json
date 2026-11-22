@@ -9,7 +9,7 @@
       },
       {
         "q": "Quels jeux sont pris en charge ?",
-        "a": "La belote, la coinche, le tarot, le Scrabble et le Uno. Pour tous les autres jeux à points (yams, rami, Skyjo…), utilisez le jeu libre : le plus haut ou le plus bas score gagne, selon votre choix."
+        "a": "La belote, la coinche, le tarot, le Scrabble, le Uno, le Skyjo, le 6 qui prend, le Yams (grille complète) et le Mölkky. Pour tous les autres jeux à points (rami, petits bacs…), utilisez le jeu libre : le plus haut ou le plus bas score gagne, selon votre choix."
       },
       {
         "q": "Mes règles sont différentes : puis-je les changer ?",
@@ -25,11 +25,11 @@
       },
       {
         "q": "Comment changer d'appareil sans perdre mes parties ?",
-        "a": "Sur l'ancien appareil, ouvrez Réglages › « Exporter tout (JSON) » et enregistrez le fichier. Sur le nouveau, choisissez « Importer un fichier » : les parties et les joueurs s'ajoutent à ceux déjà présents, sans rien écraser."
+        "a": "Si vos deux appareils utilisent le même compte iCloud, laissez la synchronisation iCloud activée (elle l'est par défaut) : vos parties et vos joueurs s'y retrouvent d'eux-mêmes. Dans les autres cas, sur l'ancien appareil, ouvrez Réglages › « Exporter tout (JSON) » et enregistrez le fichier. Sur le nouveau, choisissez « Importer un fichier » : les parties et les joueurs s'ajoutent à ceux déjà présents, sans rien écraser."
       },
       {
         "q": "Mes parties sont-elles synchronisées ou sauvegardées ?",
-        "a": "Chaque modification est enregistrée sur votre appareil, et vous reprenez la partie là où vous l'avez laissée. Tablée ne synchronise rien entre vos appareils, et ses données disparaissent si vous supprimez l'application : pensez à exporter une sauvegarde de temps en temps."
+        "a": "Oui. Chaque modification est enregistrée sur votre appareil, et vous reprenez la partie là où vous l'avez laissée. La synchronisation iCloud, activée par défaut, copie aussi vos parties et vos joueurs dans votre iCloud, et vous les retrouvez sur vos autres iPhone et iPad connectés au même compte ; vous pouvez la désactiver dans Réglages. Sans elle, ou sans compte iCloud, tout reste sur cet appareil et disparaît si vous supprimez l'application. Dans tous les cas, exporter une sauvegarde de temps en temps reste une bonne idée."
       },
       {
         "q": "Comment partager un résultat ?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "Comment tout effacer ?",
-        "a": "Dans Réglages › « Effacer toutes les données ». Cette action est définitive : exportez d'abord une sauvegarde si vous voulez garder vos parties."
+        "a": "Dans Réglages › « Effacer toutes les données ». Si la synchronisation iCloud est activée, les données de Tablée sont aussi effacées sur vos autres appareils synchronisés. Cette action est définitive : exportez d'abord une sauvegarde si vous voulez garder vos parties."
       }
     ],
-    "privacy_summary": "Tablée ne collecte aucune donnée personnelle, ne se connecte à aucun serveur et ne contient ni publicité, ni achat, ni traceur. Vos parties restent sur votre appareil."
+    "privacy_summary": "Tablée ne collecte aucune donnée personnelle, ne se connecte à aucun serveur du développeur et ne contient ni publicité, ni achat, ni traceur. Vos parties restent sur vos appareils et, si la synchronisation est activée, dans votre iCloud."
   },
   "privacy": {
     "sections": [
@@ -48,7 +48,7 @@
         "h": "En résumé",
         "blocks": [
           {
-            "p": "Tablée ne collecte aucune donnée personnelle. L'application fonctionne hors ligne, ne se connecte à aucun serveur et ne demande aucun compte. Tout ce que vous saisissez reste sur votre appareil, sauf si vous choisissez de le partager ou de l'exporter."
+            "p": "Tablée ne collecte aucune donnée personnelle. L'application fonctionne hors ligne, ne se connecte à aucun serveur du développeur et ne demande aucun compte. Tout ce que vous saisissez reste sur vos appareils et, si la synchronisation iCloud est activée, dans votre iCloud, sauf si vous choisissez de le partager ou de l'exporter."
           }
         ]
       },
@@ -59,7 +59,7 @@
             "p": "L'application enregistre vos parties, leurs points et leurs règles, votre carnet de joueurs (nom, emoji, couleur), les statistiques calculées à partir de ces parties et vos réglages. Un nom de joueur peut être celui que vous voulez : il n'est utile qu'à vous."
           },
           {
-            "p": "Ces données sont enregistrées sur votre appareil, et le développeur n'y a pas accès. Comme les données des autres applis, elles peuvent figurer dans les sauvegardes de votre appareil si vous les avez activées. Vous pouvez tout effacer dans les réglages ; la suppression de l'application les efface également."
+            "p": "Ces données sont enregistrées sur votre appareil, et le développeur n'y a pas accès. Si la synchronisation iCloud est activée (c'est le cas par défaut, et vous pouvez la désactiver dans les réglages), elles sont aussi copiées dans votre propre compte iCloud, dans un espace réservé à l'application et chiffré par Apple, pour que vous les retrouviez sur vos autres iPhone et iPad connectés au même compte ; aucun serveur du développeur n'intervient. Comme les données des autres applis, elles peuvent figurer dans les sauvegardes de votre appareil si vous les avez activées. Vous pouvez tout effacer dans les réglages, ce qui les efface aussi sur vos autres appareils synchronisés ; la suppression de l'application efface celles de cet appareil."
           }
         ]
       },
@@ -67,7 +67,7 @@
         "h": "Partage, export et import",
         "blocks": [
           {
-            "p": "Rien ne quitte l'application sans action de votre part."
+            "p": "En dehors de la synchronisation iCloud décrite ci-dessus, rien ne quitte l'application sans action de votre part."
           },
           {
             "ul": [

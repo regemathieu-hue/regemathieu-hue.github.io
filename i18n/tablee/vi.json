@@ -9,7 +9,7 @@
       },
       {
         "q": "Những trò chơi nào được hỗ trợ?",
-        "a": "Belote, coinche, tarot, Scrabble và Uno. Với mọi trò chơi tính điểm khác (Yahtzee, rummy, Skyjo…), hãy dùng chơi tự do: điểm cao nhất hoặc thấp nhất thắng, tùy bạn chọn."
+        "a": "Belote, coinche, tarot, Scrabble, Uno, Skyjo, 6 nimmt!, Yams (bảng điểm đầy đủ) và Mölkky. Với mọi trò chơi tính điểm khác (rummy, Petit bac…), hãy dùng chơi tự do: điểm cao nhất hoặc thấp nhất thắng, tùy bạn chọn."
       },
       {
         "q": "Luật của tôi khác: tôi có thể thay đổi không?",
@@ -25,11 +25,11 @@
       },
       {
         "q": "Làm sao để đổi thiết bị mà không mất các ván chơi?",
-        "a": "Trên thiết bị cũ, mở Cài đặt › “Xuất tất cả (JSON)” và lưu tệp. Trên thiết bị mới, chọn “Nhập tệp”: các ván chơi và người chơi được thêm vào những gì đã có, không ghi đè lên bất cứ thứ gì."
+        "a": "Nếu hai thiết bị của bạn dùng cùng một tài khoản iCloud, hãy để đồng bộ iCloud bật (mặc định đã bật): các ván chơi và người chơi của bạn sẽ tự xuất hiện trên đó. Trong các trường hợp khác, trên thiết bị cũ, mở Cài đặt › “Xuất tất cả (JSON)” và lưu tệp. Trên thiết bị mới, chọn “Nhập tệp”: các ván chơi và người chơi được thêm vào những gì đã có, không ghi đè lên bất cứ thứ gì."
       },
       {
         "q": "Các ván chơi của tôi có được đồng bộ hay sao lưu không?",
-        "a": "Mỗi thay đổi đều được lưu trên thiết bị của bạn, và bạn tiếp tục ván chơi từ chỗ đã dừng. Tablée không đồng bộ gì giữa các thiết bị của bạn, và dữ liệu sẽ mất nếu bạn xóa ứng dụng: hãy nhớ xuất một bản sao lưu thỉnh thoảng."
+        "a": "Có. Mỗi thay đổi đều được lưu trên thiết bị của bạn, và bạn tiếp tục ván chơi từ chỗ đã dừng. Đồng bộ iCloud, được bật theo mặc định, còn sao chép các ván chơi và người chơi của bạn vào iCloud của bạn, để bạn thấy chúng trên các iPhone và iPad khác đăng nhập cùng tài khoản; bạn có thể tắt nó trong Cài đặt. Nếu không đồng bộ, hoặc không có tài khoản iCloud, mọi thứ nằm lại trên thiết bị này và sẽ mất nếu bạn xóa ứng dụng. Dù thế nào, thỉnh thoảng xuất một bản sao lưu vẫn là ý hay."
       },
       {
         "q": "Làm sao để chia sẻ một kết quả?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "Làm sao để xóa tất cả?",
-        "a": "Trong Cài đặt › “Xóa toàn bộ dữ liệu”. Thao tác này không thể hoàn lại: hãy xuất bản sao lưu trước nếu bạn muốn giữ các ván chơi."
+        "a": "Trong Cài đặt › “Xóa toàn bộ dữ liệu”. Nếu đồng bộ iCloud đang bật, dữ liệu của Tablée cũng bị xóa trên các thiết bị khác đã đồng bộ của bạn. Thao tác này không thể hoàn lại: hãy xuất bản sao lưu trước nếu bạn muốn giữ các ván chơi."
       }
     ],
-    "privacy_summary": "Tablée không thu thập bất kỳ dữ liệu cá nhân nào, không kết nối với máy chủ nào và không có quảng cáo, mua hàng hay trình theo dõi. Các ván chơi của bạn nằm lại trên thiết bị của bạn."
+    "privacy_summary": "Tablée không thu thập bất kỳ dữ liệu cá nhân nào, không kết nối với máy chủ nào của nhà phát triển và không có quảng cáo, mua hàng hay trình theo dõi. Các ván chơi của bạn nằm lại trên các thiết bị của bạn và, nếu bật đồng bộ, trong iCloud của bạn."
   },
   "privacy": {
     "sections": [
@@ -48,7 +48,7 @@
         "h": "Tóm tắt",
         "blocks": [
           {
-            "p": "Tablée không thu thập bất kỳ dữ liệu cá nhân nào. Ứng dụng hoạt động ngoại tuyến, không kết nối với máy chủ nào và không yêu cầu tài khoản. Mọi thứ bạn nhập vẫn nằm trên thiết bị của bạn, trừ khi bạn chọn chia sẻ hoặc xuất ra."
+            "p": "Tablée không thu thập bất kỳ dữ liệu cá nhân nào. Ứng dụng hoạt động ngoại tuyến, không kết nối với máy chủ nào của nhà phát triển và không yêu cầu tài khoản. Mọi thứ bạn nhập vẫn nằm trên các thiết bị của bạn và, nếu bật đồng bộ iCloud, trong iCloud của bạn, trừ khi bạn chọn chia sẻ hoặc xuất ra."
           }
         ]
       },
@@ -59,7 +59,7 @@
             "p": "Ứng dụng lưu các ván chơi, điểm số và luật của chúng, danh sách người chơi của bạn (tên, emoji, màu), các thống kê tính từ những ván chơi này và cài đặt của bạn. Tên người chơi có thể là bất cứ gì bạn muốn: nó chỉ có ích cho bạn."
           },
           {
-            "p": "Những dữ liệu này được lưu trên thiết bị của bạn, và nhà phát triển không thể truy cập. Cũng như dữ liệu của các ứng dụng khác, chúng có thể nằm trong bản sao lưu của thiết bị nếu bạn đã bật sao lưu. Bạn có thể xóa tất cả trong phần cài đặt; xóa ứng dụng cũng xóa chúng."
+            "p": "Những dữ liệu này được lưu trên thiết bị của bạn, và nhà phát triển không thể truy cập. Nếu đồng bộ iCloud đang bật (mặc định là bật, và bạn có thể tắt trong phần cài đặt), chúng còn được sao chép vào chính tài khoản iCloud của bạn, trong một vùng dành riêng cho ứng dụng và được Apple mã hóa, để bạn thấy chúng trên các iPhone và iPad khác đăng nhập cùng tài khoản; không có máy chủ nào của nhà phát triển tham gia. Cũng như dữ liệu của các ứng dụng khác, chúng có thể nằm trong bản sao lưu của thiết bị nếu bạn đã bật sao lưu. Bạn có thể xóa tất cả trong phần cài đặt, việc này cũng xóa chúng trên các thiết bị khác đã đồng bộ của bạn; xóa ứng dụng sẽ xóa dữ liệu trên thiết bị này."
           }
         ]
       },
@@ -67,7 +67,7 @@
         "h": "Chia sẻ, xuất và nhập",
         "blocks": [
           {
-            "p": "Không có gì rời khỏi ứng dụng nếu bạn không thực hiện thao tác."
+            "p": "Ngoài đồng bộ iCloud nêu ở trên, không có gì rời khỏi ứng dụng nếu bạn không thực hiện thao tác."
           },
           {
             "ul": [
