@@ -8,6 +8,7 @@
   "apps": [
     { "id": "atelier-fichiers", "name": "Atelier Fichiers", "updated": "2026-10-22" },
     { "id": "atoi", "name": "Your Turn!", "names": { "fr-FR": "À toi !", "fr-CA": "À toi !" }, "updated": "2026-11-21" },
+    { "id": "carnet-de-ruches", "name": "Carnet de ruches", "locales": ["fr-FR"], "updated": "2026-11-24" },
     { "id": "convert-everything", "name": "Convert Everything", "updated": "2026-05-02" },
     { "id": "flashbooth", "name": "Flashbooth", "updated": "2026-10-22" },
     { "id": "lilune", "name": "Lilune", "updated": "2026-11-21" },

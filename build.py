@@ -4,7 +4,7 @@
 Usage : python3 build.py
 
 Entrées :
-  apps.json                   applis (id, name, date de mise à jour), auteur, e-mail
+  apps.json                   applis (id, name, date de mise à jour, langues facultatives), auteur, e-mail
   i18n/common/<locale>.json   chaînes communes (titres, liens, nom de la langue)
   i18n/<appli>/<locale>.json  contenu de l'appli (FAQ, sections de la politique)
   templates/*.html            gabarits
@@ -14,6 +14,10 @@ Sorties (commitées, servies par GitHub Pages) :
   <appli>/privacy.html           politique en français + redirection vers la langue du navigateur
   <appli>/<locale>/index.html    page de support traduite
   <appli>/<locale>/privacy.html  politique traduite
+
+Une appli peut limiter ses langues avec « locales » dans apps.json (ex. "locales": ["fr-FR"] pour une appli vendue
+dans une seule langue). Avec une seule langue, seules les deux pages racine sont générées, sans redirection ni liste
+de langues.
 """
 import html
 import json
@@ -52,7 +56,7 @@ def load_locales(cfg):
     data, errors = {}, []
     for loc in locales:
         data[loc] = {}
-        for folder in ["common"] + [a["id"] for a in cfg["apps"]]:
+        for folder in ["common"] + [a["id"] for a in cfg["apps"] if loc in a.get("locales", [loc])]:
             path = os.path.join(I18N, folder, f"{loc}.json")
             if not os.path.exists(path):
                 errors.append(f"{folder}/{loc}.json manquant")
@@ -68,6 +72,34 @@ def load_locales(cfg):
     return data
 
 
+def app_locales(app, locales):
+    """Langues d'une appli : toutes, ou celles de « locales » dans apps.json."""
+    if "locales" not in app:
+        return locales
+    missing = [loc for loc in app["locales"] if loc not in locales]
+    if missing and not os.environ.get("BUILD_LOCALES"):
+        sys.exit(f'{app["id"]} : langue(s) inconnue(s) dans apps.json : {", ".join(missing)}')
+    return {loc: strings for loc, strings in locales.items() if loc in app["locales"]}
+
+
+def single_language(page):
+    """Retire d'une page le lien « Autres langues » et la liste des langues (appli dans une seule langue)."""
+    lines, out, skipping = page.split("\n"), [], False
+    for line in lines:
+        if 'class="lang-switch"' in line:
+            continue
+        if '<h2 id="languages">' in line:
+            skipping = True
+        if not skipping:
+            out.append(line)
+        elif line.strip() == "</ul>":
+            skipping = False
+    text = "\n".join(out)
+    while "\n\n\n" in text:
+        text = text.replace("\n\n\n", "\n\n")
+    return text
+
+
 def app_name(app, loc):
     """Nom de l'appli dans une langue : « names » (facultatif) dans apps.json, sinon « name »."""
     return app.get("names", {}).get(loc, app["name"])
@@ -79,6 +111,8 @@ def fill(text, cfg):
 
 
 def alternates(cfg, app, page, locales):
+    if len(locales) < 2:
+        return ""
     base = f'{cfg["base_url"]}/{app["id"]}'
     lines = [f'  <link rel="alternate" hreflang="{loc}" href="{base}/{loc}/{page}">' for loc in locales]
     lines.append(f'  <link rel="alternate" hreflang="x-default" href="{base}/{page}">')
@@ -120,10 +154,13 @@ REDIRECT = """  <script>
 
 
 def redirect_script(cfg, locales, page):
+    if len(locales) < 2:
+        return ""
+    fallback = cfg["fallback_locale"] if cfg["fallback_locale"] in locales else cfg["default_locale"]
     return REDIRECT % (
         json.dumps(list(locales)),
         json.dumps([cfg["default_locale"]]),
-        json.dumps(cfg["fallback_locale"]),
+        json.dumps(fallback),
         page,
     )
 
@@ -188,13 +225,25 @@ def main():
     count = 0
     for app in cfg["apps"]:
         app_dir = os.path.join(ROOT, app["id"])
-        for loc in locales:
-            write(os.path.join(app_dir, loc, "index.html"), render_support(cfg, app, loc, locales, support_tpl, False))
-            write(os.path.join(app_dir, loc, "privacy.html"), render_privacy(cfg, app, loc, locales, privacy_tpl, False))
+        own = app_locales(app, locales)
+        if not own:
+            continue  # essai partiel (BUILD_LOCALES) sans aucune langue de cette appli
+        if len(own) == 1:
+            # Une seule langue : les deux pages racine suffisent.
+            loc = next(iter(own))
+            write(os.path.join(app_dir, "index.html"),
+                  single_language(render_support(cfg, app, loc, own, support_tpl, True)))
+            write(os.path.join(app_dir, "privacy.html"),
+                  single_language(render_privacy(cfg, app, loc, own, privacy_tpl, True)))
             count += 2
-        loc = cfg["default_locale"]
-        write(os.path.join(app_dir, "index.html"), render_support(cfg, app, loc, locales, support_tpl, True))
-        write(os.path.join(app_dir, "privacy.html"), render_privacy(cfg, app, loc, locales, privacy_tpl, True))
+            continue
+        for loc in own:
+            write(os.path.join(app_dir, loc, "index.html"), render_support(cfg, app, loc, own, support_tpl, False))
+            write(os.path.join(app_dir, loc, "privacy.html"), render_privacy(cfg, app, loc, own, privacy_tpl, False))
+            count += 2
+        loc = cfg["default_locale"] if cfg["default_locale"] in own else next(iter(own))
+        write(os.path.join(app_dir, "index.html"), render_support(cfg, app, loc, own, support_tpl, True))
+        write(os.path.join(app_dir, "privacy.html"), render_privacy(cfg, app, loc, own, privacy_tpl, True))
         count += 2
     print(f"{count} pages générées pour {len(cfg['apps'])} applis et {len(locales)} langues.")
 

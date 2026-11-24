@@ -2,7 +2,7 @@
 
 Pages de support et politiques de confidentialité de mes applications iOS, publiées avec GitHub Pages sur https://regemathieu-hue.github.io/
 
-Chaque page existe en 39 langues. Les textes sont dans `i18n/`, les pages HTML sont générées par `build.py`.
+Chaque page existe en 39 langues, sauf pour une appli vendue dans une seule langue (Carnet de ruches, en français). Les textes sont dans `i18n/`, les pages HTML sont générées par `build.py`.
 
 ## Structure
 
@@ -37,7 +37,7 @@ ar-SA, ca, cs, da, de-DE, el, en-AU, en-CA, en-GB, en-US, es-ES, es-MX, fi, fr-C
 
 ## Ajouter une appli
 
-1. Ajouter l'appli dans `apps.json` (`id` en minuscules avec tirets = dossier et URL). Si son nom change selon la langue, ajouter `"names": { "<langue>": "<nom>" }` ; les autres langues prennent `name`.
+1. Ajouter l'appli dans `apps.json` (`id` en minuscules avec tirets = dossier et URL). Si son nom change selon la langue, ajouter `"names": { "<langue>": "<nom>" }` ; les autres langues prennent `name`. Si l'appli n'existe que dans certaines langues, ajouter `"locales": ["fr-FR"]` : seules ces langues sont exigées et générées (avec une seule langue, seulement `<appli>/index.html` et `<appli>/privacy.html`, sans redirection ni liste de langues).
 2. Créer `i18n/<appli>/fr-FR.json` sur le modèle d'une appli existante, puis les autres langues.
 3. Lancer `python3 build.py`, ajouter l'appli dans `index.html`, commiter.
 4. Renseigner dans App Store Connect :
@@ -50,6 +50,7 @@ ar-SA, ca, cs, da, de-DE, el, en-AU, en-CA, en-GB, en-US, es-ES, es-MX, fi, fr-C
 |---|---|---|
 | À toi ! (Your Turn!) | https://regemathieu-hue.github.io/atoi/ | https://regemathieu-hue.github.io/atoi/privacy.html |
 | Atelier Fichiers | https://regemathieu-hue.github.io/atelier-fichiers/ | https://regemathieu-hue.github.io/atelier-fichiers/privacy.html |
+| Carnet de ruches (français seulement) | https://regemathieu-hue.github.io/carnet-de-ruches/ | https://regemathieu-hue.github.io/carnet-de-ruches/privacy.html |
 | Convert Everything | https://regemathieu-hue.github.io/convert-everything/ | https://regemathieu-hue.github.io/convert-everything/privacy.html |
 | Flashbooth | https://regemathieu-hue.github.io/flashbooth/ | https://regemathieu-hue.github.io/flashbooth/privacy.html |
 | Lilune | https://regemathieu-hue.github.io/lilune/ | https://regemathieu-hue.github.io/lilune/privacy.html |
