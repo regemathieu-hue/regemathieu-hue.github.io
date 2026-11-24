@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="fr-FR" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carnet de plongée – Politique de confidentialité</title>
+  <link rel="stylesheet" href="../assets/style.css">
+  <link rel="alternate" hreflang="en-AU" href="https://regemathieu-hue.github.io/carnet-de-plongee/en-AU/privacy.html">
+  <link rel="alternate" hreflang="en-CA" href="https://regemathieu-hue.github.io/carnet-de-plongee/en-CA/privacy.html">
+  <link rel="alternate" hreflang="en-GB" href="https://regemathieu-hue.github.io/carnet-de-plongee/en-GB/privacy.html">
+  <link rel="alternate" hreflang="en-US" href="https://regemathieu-hue.github.io/carnet-de-plongee/en-US/privacy.html">
+  <link rel="alternate" hreflang="fr-CA" href="https://regemathieu-hue.github.io/carnet-de-plongee/fr-CA/privacy.html">
+  <link rel="alternate" hreflang="fr-FR" href="https://regemathieu-hue.github.io/carnet-de-plongee/fr-FR/privacy.html">
+  <link rel="alternate" hreflang="x-default" href="https://regemathieu-hue.github.io/carnet-de-plongee/privacy.html">
+  <script>
+  (function () {
+    var available = ["en-AU", "en-CA", "en-GB", "en-US", "fr-CA", "fr-FR"], skip = ["fr-FR"], fallback = "en-US";
+    var langs = (navigator.languages || [navigator.language || ""]).map(String);
+    var target = null;
+    for (var i = 0; i < langs.length && !target; i++) {
+      var l = langs[i], base = l.split("-")[0].toLowerCase();
+      if (available.indexOf(l) >= 0) { target = l; break; }
+      if (base === "zh") {
+        var zh = /hant|tw|hk|mo/i.test(l) ? "zh-Hant" : "zh-Hans";
+        if (available.indexOf(zh) >= 0) { target = zh; break; }
+      }
+      for (var j = 0; j < available.length; j++) {
+        if (available[j].split("-")[0].toLowerCase() === base) { target = available[j]; break; }
+      }
+    }
+    target = target || fallback;
+    if (target && skip.indexOf(target) < 0) { location.replace(target + "/privacy.html"); }
+  })();
+  </script>
+</head>
+<body>
+
+  <p class="back"><a href="./">← Retour au support</a></p>
+
+  <h1>Politique de confidentialité</h1>
+  <p class="subtitle">Carnet de plongée · Dernière mise à jour : 2026-11-24</p>
+  <p class="lang-switch"><a href="#languages">Autres langues ↓</a></p>
+
+  <h2>En résumé</h2>
+  <p>Carnet de plongée ne collecte aucune donnée. Tout ce que vous faites dans l'application reste sur votre iPhone ou votre iPad.</p>
+  <ul>
+    <li>Pas de compte, pas de publicité, pas de suivi : l'application ne contient aucun outil d'analyse ni de publicité, et ne vous identifie d'aucune manière.</li>
+    <li>Aucun serveur : l'application ne se connecte à internet que pour l'achat de Pro, géré par Apple.</li>
+  </ul>
+
+  <h2>Données de Santé</h2>
+  <p>Avec votre autorisation, l'application lit dans l'app Santé deux mesures enregistrées par votre Apple Watch : la profondeur sous l'eau et la température de l'eau. Elle s'en sert uniquement pour retrouver vos plongées et tracer leur courbe.</p>
+  <ul>
+    <li>Ces mesures sont traitées sur votre appareil et ne sont envoyées nulle part.</li>
+    <li>Elles ne servent ni à la publicité, ni au profilage, et ne sont transmises à personne.</li>
+    <li>L'application n'écrit rien dans Santé et ne lit aucune autre donnée de santé.</li>
+    <li>Vous pouvez retirer l'autorisation à tout moment dans Réglages › Santé › Accès aux données et appareils.</li>
+  </ul>
+
+  <h2>Votre carnet</h2>
+  <p>Vos plongées, vos notes et vos certifications sont enregistrées dans le stockage privé de l'application, sur votre appareil. Les supprimer (effacer une plongée, ou supprimer l'application) les efface. Elles peuvent être incluses dans les sauvegardes iCloud ou sur ordinateur de votre appareil, que vous gérez vous-même dans les réglages d'Apple.</p>
+
+  <h2>Photos des cartes</h2>
+  <p>Si vous ajoutez la photo d'une carte de certification, l'application ne reçoit que la photo que vous choisissez vous-même ; elle n'a pas accès au reste de votre photothèque. Cette photo est gardée sur votre appareil, avec le carnet.</p>
+
+  <h2>Exports</h2>
+  <p>Les fichiers PDF, CSV et UDDF sont créés sur votre appareil. C'est vous qui choisissez où les envoyer ou les enregistrer ; l'application ne les transmet à personne.</p>
+
+  <h2>Achats</h2>
+  <p>L'achat de Pro est vendu et géré par Apple. L'application ne voit ni votre moyen de paiement ni votre identité ; elle lit seulement, via l'App Store, si l'achat a été fait pour débloquer les fonctions.</p>
+
+  <h2>Enfants</h2>
+  <p>Carnet de plongée ne collecte aucune donnée, y compris auprès des enfants.</p>
+
+  <h2>Modifications</h2>
+  <p>Si cette politique change, la nouvelle version sera publiée sur cette page avec sa date de mise à jour.</p>
+
+  <h2>Contact</h2>
+  <p>Pour toute question concernant cette politique : <a href="mailto:rege.mathieu@icloud.com">rege.mathieu@icloud.com</a></p>
+
+  <h2 id="languages">Cette page dans d'autres langues</h2>
+  <ul class="languages">
+    <li><a href="en-AU/privacy.html" hreflang="en-AU" lang="en-AU">English (Australia)</a></li>
+    <li><a href="en-CA/privacy.html" hreflang="en-CA" lang="en-CA">English (Canada)</a></li>
+    <li><a href="en-GB/privacy.html" hreflang="en-GB" lang="en-GB">English (UK)</a></li>
+    <li><a href="en-US/privacy.html" hreflang="en-US" lang="en-US">English (US)</a></li>
+    <li><a href="fr-CA/privacy.html" hreflang="fr-CA" lang="fr-CA">Français (Canada)</a></li>
+    <li><a href="fr-FR/privacy.html" hreflang="fr-FR" lang="fr-FR">Français (France)</a></li>
+  </ul>
+
+  <footer>© 2026 Mathieu REGE · <a href="../">Toutes mes applications</a></footer>
+
+</body>
+</html>

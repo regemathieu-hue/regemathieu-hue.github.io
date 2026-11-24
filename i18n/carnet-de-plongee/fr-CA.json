@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "Le journal de vos plongées, avec la profondeur mesurée par l'Apple Watch Ultra",
+    "contact": "Une question, une idée ou un souci avec l'application ? Écrivez-moi :<br>{email}",
+    "faq": [
+      {
+        "q": "Comment importer les plongées de mon Apple Watch Ultra ?",
+        "a": "Il n'y a rien à installer sur la montre. Sous l'eau, l'Apple Watch Ultra enregistre toute seule la profondeur (jusqu'à 40 mètres) et la température de l'eau dans l'app Santé de l'iPhone. Dans Carnet de plongée, ouvrez l'onglet Journal, touchez « + » puis « Importer de l'Apple Watch », et enfin « Chercher mes plongées ». La première fois, iOS vous demande l'autorisation de lire ces deux mesures. L'application retrouve alors chaque plongée avec sa date, sa durée, sa profondeur et sa courbe ; vous n'avez plus qu'à ajouter le site, le binôme ou la pression du bloc."
+      },
+      {
+        "q": "L'import ne trouve aucune plongée, que faire ?",
+        "a": "Vérifiez d'abord que la plongée a été faite avec une Apple Watch Ultra et que la montre a eu le temps de se synchroniser avec l'iPhone (gardez-les proches quelques minutes, app Santé ouverte). Vérifiez ensuite l'autorisation : Réglages › Santé › Accès aux données et appareils, choisissez l'application, et activez « Profondeur sous l'eau » et « Température de l'eau ». Essayez aussi une période plus longue (« Tout l'historique »). Les immersions de moins de 2 minutes ou de moins de 1,5 mètre ne sont pas retenues."
+      },
+      {
+        "q": "Puis-je tenir mon carnet sans Apple Watch ?",
+        "a": "Oui. Touchez « + » puis « Saisir une plongée » et notez ce que vous voulez : date, durée, profondeur, site, binôme, températures, visibilité, gaz, pressions du bloc, lestage, combinaison, type de plongée, note et commentaires. Rien n'est obligatoire. Si vous importez plus tard la même plongée depuis la montre, l'application complète votre saisie avec la courbe au lieu de créer un doublon."
+      },
+      {
+        "q": "J'avais déjà plongé avant d'utiliser ce carnet, comment garder ma numérotation ?",
+        "a": "Dans Réglages, indiquez le nombre de « Plongées avant ce carnet ». La numérotation et le total en tiennent compte : avec 120 plongées déjà faites, la première du carnet porte le numéro 121. Les plongées sont toujours numérotées par date, même si vous en ajoutez une ancienne après coup."
+      },
+      {
+        "q": "Que contient Pro et combien ça coûte ?",
+        "a": "Le journal, la saisie, la courbe et l'import depuis l'Apple Watch sont gratuits et sans limite. Pro est un achat unique, sans abonnement, dont le prix est affiché dans l'application avant l'achat. Il ajoute les statistiques (records, plongées par année et par saison, profondeurs, sites et binômes préférés, consommation d'air), les exports (carnet à imprimer en PDF avec une case pour le tampon du club, tableur CSV, format UDDF des logiciels de plongée) et les certifications (niveaux, spécialités, certificat médical, avec la photo des cartes et une alerte avant l'expiration)."
+      },
+      {
+        "q": "Comment retrouver mon achat sur un nouvel appareil ?",
+        "a": "Ouvrez Réglages › « Découvrir Pro » et touchez « Restaurer mon achat », avec le compte App Store qui a servi à l'achat. Vous ne payez pas une seconde fois."
+      },
+      {
+        "q": "Puis-je changer d'unités ?",
+        "a": "Oui : dans Réglages › Unités, choisissez mètres, °C et bars, ou pieds, °F et psi. Vos plongées ne sont pas modifiées : seul l'affichage change, y compris dans les exports."
+      },
+      {
+        "q": "Où sont enregistrées mes plongées ? Comment les sauvegarder ?",
+        "a": "Uniquement sur votre appareil, dans l'espace privé de l'application. Il n'y a ni compte ni serveur, et le carnet n'est pas synchronisé entre vos appareils. Il fait partie de la sauvegarde iCloud ou de la sauvegarde sur ordinateur de votre iPhone, que vous gérez dans les réglages d'Apple. Avec Pro, vous pouvez aussi garder une copie en exportant le carnet (Réglages › « Exporter le carnet »). Supprimer l'application efface le carnet de l'appareil."
+      },
+      {
+        "q": "Puis-je me servir de l'application pour planifier ou sécuriser une plongée ?",
+        "a": "Non. Carnet de plongée garde la trace de vos plongées après coup. Ce n'est ni un ordinateur de plongée ni un outil de planification : ne vous en servez jamais pour décider d'une profondeur, d'une durée ou d'un palier. Plongez toujours avec le matériel et dans les limites de votre formation."
+      }
+    ],
+    "privacy_summary": "Carnet de plongée ne collecte aucune donnée, ne demande aucun compte et ne contient ni publicité ni traceur. Les mesures lues dans Santé restent sur votre appareil."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En résumé",
+        "blocks": [
+          {
+            "p": "Carnet de plongée ne collecte aucune donnée. Tout ce que vous faites dans l'application reste sur votre iPhone ou votre iPad."
+          },
+          {
+            "ul": [
+              "Pas de compte, pas de publicité, pas de suivi : l'application ne contient aucun outil d'analyse ni de publicité, et ne vous identifie d'aucune manière.",
+              "Aucun serveur : l'application ne se connecte à internet que pour l'achat de Pro, géré par Apple."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Données de Santé",
+        "blocks": [
+          {
+            "p": "Avec votre autorisation, l'application lit dans l'app Santé deux mesures enregistrées par votre Apple Watch : la profondeur sous l'eau et la température de l'eau. Elle s'en sert uniquement pour retrouver vos plongées et tracer leur courbe."
+          },
+          {
+            "ul": [
+              "Ces mesures sont traitées sur votre appareil et ne sont envoyées nulle part.",
+              "Elles ne servent ni à la publicité, ni au profilage, et ne sont transmises à personne.",
+              "L'application n'écrit rien dans Santé et ne lit aucune autre donnée de santé.",
+              "Vous pouvez retirer l'autorisation à tout moment dans Réglages › Santé › Accès aux données et appareils."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Votre carnet",
+        "blocks": [
+          {
+            "p": "Vos plongées, vos notes et vos certifications sont enregistrées dans le stockage privé de l'application, sur votre appareil. Les supprimer (effacer une plongée, ou supprimer l'application) les efface. Elles peuvent être incluses dans les sauvegardes iCloud ou sur ordinateur de votre appareil, que vous gérez vous-même dans les réglages d'Apple."
+          }
+        ]
+      },
+      {
+        "h": "Photos des cartes",
+        "blocks": [
+          {
+            "p": "Si vous ajoutez la photo d'une carte de certification, l'application ne reçoit que la photo que vous choisissez vous-même ; elle n'a pas accès au reste de votre photothèque. Cette photo est gardée sur votre appareil, avec le carnet."
+          }
+        ]
+      },
+      {
+        "h": "Exports",
+        "blocks": [
+          {
+            "p": "Les fichiers PDF, CSV et UDDF sont créés sur votre appareil. C'est vous qui choisissez où les envoyer ou les enregistrer ; l'application ne les transmet à personne."
+          }
+        ]
+      },
+      {
+        "h": "Achats",
+        "blocks": [
+          {
+            "p": "L'achat de Pro est vendu et géré par Apple. L'application ne voit ni votre moyen de paiement ni votre identité ; elle lit seulement, via l'App Store, si l'achat a été fait pour débloquer les fonctions."
+          }
+        ]
+      },
+      {
+        "h": "Enfants",
+        "blocks": [
+          {
+            "p": "Carnet de plongée ne collecte aucune donnée, y compris auprès des enfants."
+          }
+        ]
+      },
+      {
+        "h": "Modifications",
+        "blocks": [
+          {
+            "p": "Si cette politique change, la nouvelle version sera publiée sur cette page avec sa date de mise à jour."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pour toute question concernant cette politique : {email}"
+          }
+        ]
+      }
+    ]
+  }
+}
