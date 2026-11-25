@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "Apple Watch Ultra'nun derinlik ölçümüyle birlikte dalış günlüğünüz",
+    "contact": "Uygulama ile ilgili bir soru, fikir veya problem var mı? Bana yazın:<br>{email}",
+    "faq": [
+      {
+        "q": "Apple Watch Ultra'mdan dalışları nasıl aktarabilirim?",
+        "a": "Saate herhangi bir şey yüklemeniz gerekmiyor. Su altındayken Apple Watch Ultra, derinliği (40 metre, 130 feet'e kadar) ve su sıcaklığını kendisi iPhone'daki Sağlık uygulamasında kaydeder. Dive Log'da \"Dalış Günlüğü\" sekmesini açın, \"+\" işaretine dokunun, ardından \"Apple Watch’tan aktar\" seçeneğine tıklayın ve son olarak \"Dalışlarımı bul\" seçeneğini seçin. İlk kez bu işlemi yaparken iOS, bu iki ölçümü okuma izni isteyecektir. Uygulama, her dalışın tarihini, süresini, derinliğini ve profilini bulur; sadece yer, dalış eşi veya tüp basıncı gibi bilgileri eklemeniz gerekir."
+      },
+      {
+        "q": "Aktarım sırasında dalış bulunamadı. Ne yapmalıyım?",
+        "a": "Önce dalışın Apple Watch Ultra ile yapıldığından ve saatin iPhone ile senkronize olma süresinin geçtiğinden emin olun (saatle birlikte birkaç dakika yakın durun, Sağlık uygulaması açıkken). Daha sonra izni kontrol edin: Ayarlar › Sağlık › Veri Erişimi ve Cihazlar, uygulamayı seçin ve \"Suya Dalmış Derinlik\" ile \"Su Sıcaklığı\" seçeneklerini etkinleştirin. Ayrıca daha uzun bir dönem seçin (\"Tüm geçmişi\"). 2 dakikadan kısa veya 1,5 metre (5 feet)’den daha az derinlikteki dalışlar dışlanır."
+      },
+      {
+        "q": "Apple Watch olmadan günlüğümü koruyabilir miyim?",
+        "a": "Evet. \"+\" işaretine dokunun, ardından \"Dalışı Gir\" seçeneğine tıklayın ve tarih, süre, derinlik, yer, dalış eşi, sıcaklık, görüş, gaz, tüp basıncı, ağırlık, kıyafet, dalış türü, puan ve notlar gibi istediğiniz her şeyi yazın. Herhangi bir bilgi girmek zorunda değilsiniz. Daha sonra aynı dalışı saatten aktarırsanız, uygulama girişinizi profil ile tamamlar ve çakışan bir kopya oluşturmak yerine mevcut girişi günceller."
+      },
+      {
+        "q": "Bu günlüğü kullanmadan önce zaten dalış yapmıştım. Numaralandırmamı nasıl koruyabilirim?",
+        "a": "Ayarlar'da \"Bu günlüğe başlamadan önce yapılan dalışlar\" sayısını girin. Numaralandırma ve toplamlar bu değeri dikkate alır: zaten 120 dalış yaptıysanız, günlükteki ilk dalış numarası 121 olur. Dalışlar her zaman tarihe göre numaralanır, hatta daha önce yapılan bir dalışı sonradan eklediğinizde bile."
+      },
+      {
+        "q": "Pro neyi içeriyor ve ne kadar bedeli?",
+        "a": "Günlük, manuel giriş, dalış profili ve Apple Watch’tan aktarım ücretsiz ve sınırsızdır. Pro tek seferlik bir satın alımdır; abonelik yoktur; fiyatı satın almadan önce uygulamada gösterilir. İstatistikler (kayıtlar, yıllara ve mevsimlere göre dalışlar, derinlikler, favori yerler ve eşler, hava tüketimi), dışa aktarım (dalış merkezinin imzası için kutulu yazdırılabilir PDF günlüğe, CSV elektronik tablosu, dalış yazılımları tarafından kullanılan UDDF formatı) ve sertifikalar (seviyeler, uzmanlık alanları, tıbbi belge, her bir kartın fotoğrafı ve sona erme tarihinden önce uyarı) ekler."
+      },
+      {
+        "q": "Yeni bir cihazda satın alımımı nasıl geri yükleyebilirim?",
+        "a": "Ayarlar › \"Pro’yu Keşfet\" açın ve App Store hesabınızla satın aldığınız hesapla \"Satın Alımı Geri Yükle\" butonuna dokunun. İkinci bir ödeme yapmazsınız."
+      },
+      {
+        "q": "Birimleri değiştirebilir miyim?",
+        "a": "Evet: Ayarlar › Birimler'de metre, °C ve bar veya fit, °F ve psi seçin. Dalışlarınız değişmez: sadece görüntü değişir, dışa aktarımlarda da aynı şekilde görünür."
+      },
+      {
+        "q": "Dalışlarım nerede saklanıyor? Nasıl yedekliyorum?",
+        "a": "Sadece cihazınızda, uygulamanın özel depolamasında. Hesap veya sunucu yoktur ve günlük cihazlarınız arasında eşitlenmez. iCloud yedeklemesi veya bilgisayar yedeklemenizle yönettiğiniz bir parçasıdır. Pro ile günlükten bir kopya da dışa aktararak saklayabilirsiniz (Ayarlar › \"Günlüğü Dışa Aktar\"). Uygulamayı silmek, cihazdan günlüğü siler."
+      },
+      {
+        "q": "Uygulamayı bir dalışı planlamak veya güvenli dalış yapmak için kullanabilir miyim?",
+        "a": "Hayır. Dive Log, dalışlarınızı daha sonra kaydeder. Hem dalış bilgisayarı hem de planlama aracı değildir: derinlik, süre veya dekompresyon duraklaması belirlemek için asla kullanmayın. Her zaman uygun ekipmanla ve eğitimlerinizin sınırları içinde dalış yapın."
+      }
+    ],
+    "privacy_summary": "Dive Log hiçbir veri toplamaz, hesap gerektirmez ve reklam veya izleyici araçlar içermez. Sağlık uygulamasından okunan ölçümler cihazınızda kalır."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kısaca",
+        "blocks": [
+          {
+            "p": "Dive Log hiçbir veri toplamaz. Uygulamada yaptığınız her şey iPhone veya iPad’ınızda kalır."
+          },
+          {
+            "ul": [
+              "Hesap yok, reklam yok, izleme yok: uygulama hiçbir analitik veya reklam aracı içermiyor ve sizin kimliğinizi hiçbir şekilde belirlemiyor.",
+              "Sunucu yok: uygulama yalnızca Pro satın alımı için internete bağlanır ve bu işlem Apple tarafından yönetilir."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Sağlık verileri",
+        "blocks": [
+          {
+            "p": "İzininizle, uygulama Apple Watch’ınızın Sağlık uygulamasında kaydettiği iki ölçümü okur: su altı derinliği ve su sıcaklığı. Bunları yalnızca dalışlarınızı bulmak ve profilini çizmek için kullanır."
+          },
+          {
+            "ul": [
+              "Bu ölçümler cihazınızda işlenir ve hiçbir yere gönderilmez.",
+              "Reklam veya profilleme amacıyla kullanılmazlar ve kimseyle paylaşılmazlar.",
+              "Uygulama Sağlık’a hiçbir şey yazmaz ve başka sağlık verilerini okumaz.",
+              "İstediğiniz zaman Ayarlar › Sağlık › Veri Erişimi ve Cihazlar menüsünden izni geri çekebilirsiniz."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Dalış günlüğünüz",
+        "blocks": [
+          {
+            "p": "Dalışlarınız, notlarınız ve sertifikalarınız uygulamanın özel depolamasında, cihazınızda saklanır. Bunları silmek (bir dalışı kaldırma veya uygulamayı silme) onları kalıcı olarak siler. Bu veriler, Apple ayarlarında kendiniz yönettiğiniz cihazınızın iCloud veya bilgisayar yedeklemelerine dahil olabilir."
+          }
+        ]
+      },
+      {
+        "h": "Sertifika fotoğrafları",
+        "blocks": [
+          {
+            "p": "Eğer bir sertifika kartına ait bir fotoğraf eklerseniz, uygulama yalnızca kendiniz seçtiğiniz resmi alır; diğer fotoğraflarınıza erişimi yoktur. Bu resim, günlüğünüzle birlikte cihazınızda saklanır."
+          }
+        ]
+      },
+      {
+        "h": "Dışa Aktarım",
+        "blocks": [
+          {
+            "p": "PDF, CSV ve UDDF dosyaları cihazınızda oluşturulur. Dosyaları nereye göndermek veya kaydetmek istediğinizi kendiniz seçersiniz; uygulama bunları başkalarıyla paylaşmaz."
+          }
+        ]
+      },
+      {
+        "h": "Satın Alımlar",
+        "blocks": [
+          {
+            "p": "Pro’nun satın alınması Apple tarafından satılır ve yönetilir. Uygulama ödeme yönteminiz veya kimlik bilgileriniz hakkında hiçbir bilgiye sahip değildir; yalnızca App Store üzerinden satın alım yapıldığını okuyarak özellikleri açmak için kullanır."
+          }
+        ]
+      },
+      {
+        "h": "Çocuklar",
+        "blocks": [
+          {
+            "p": "Dalış Günlüğü, çocuklardan da dahil olmak üzere hiçbir veri toplamaz."
+          }
+        ]
+      },
+      {
+        "h": "Değişiklikler",
+        "blocks": [
+          {
+            "p": "Bu politika değişirse, yeni versiyon bu sayfada güncelleme tarihiyle birlikte yayınlanır."
+          }
+        ]
+      },
+      {
+        "h": "İletişim",
+        "blocks": [
+          {
+            "p": "Bu politika ile ilgili herhangi bir sorunuz varsa: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

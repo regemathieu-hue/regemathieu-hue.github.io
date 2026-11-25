@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "Jurnalul tău de scufundări, cu adâncimea măsurată de Apple Watch Ultra",
+    "contact": "O întrebare, o idee sau o problemă cu aplicația? Scrie-mi la:<br>{email}",
+    "faq": [
+      {
+        "q": "Cum import scufundările din Apple Watch Ultra?",
+        "a": "Nu este nevoie de instalare pe ceas. Sub apă, Apple Watch Ultra înregistrează automat adâncimea (până la 40 m, 130 ft) și temperatura apei în aplicația Health de pe iPhone-ul tău. În Dive Log, deschide fila Jurnal, apasă pe \"+\" apoi \"Importă din Apple Watch\", apoi \"Găsește-mi scufundările\". La prima utilizare, iOS îți cere permisiunea de a citi aceste două măsurători. Aplicația găsește apoi fiecare scufundare cu data, durata, adâncimea și profilul; trebuie doar să adaugi locul, partenerul sau presiunea buteliei."
+      },
+      {
+        "q": "Importul nu a găsit nicio scufundare. Ce ar trebui să fac?",
+        "a": "Verifică întâi dacă scufundarea a fost făcută cu un Apple Watch Ultra și dacă ceasul a avut timp să se sincronizeze cu iPhone-ul (ține-le aproape câteva minute, cu aplicația Health deschisă). Apoi verifică permisiunile: Setări › Health › Acces la date și dispozitive, selectează aplicația și activează \"Adâncime sub apă\" și \"Temperatura apei\". Încearcă și o perioadă mai lungă (\"Toată istoria\"). Scufundările mai scurte de 2 minute sau mai puțin adânci de 1,5 m (5 ft) sunt ignorate."
+      },
+      {
+        "q": "Pot păstra jurnalul meu fără un Apple Watch?",
+        "a": "Da. Apasă pe \"+\" apoi \"Introdu o scufundare\" și înregistrează orice dorești: dată, durată, adâncime, loc, partener, temperaturi, vizibilitate, gaz, presiunea buteliei, lest, costum, tip de scufundare, notă și evaluare. Nimic nu este obligatoriu. Dacă mai târziu importi aceeași scufundare din ceas, aplicația completează înregistrarea ta cu profilul, fără a crea o duplicare."
+      },
+      {
+        "q": "Am făcut deja scufundări înainte de a utiliza acest jurnal. Cum păstrez numerotarea?",
+        "a": "În Setări, introduceți numărul de „Scufundări înainte de acest jurnal”. Numerotarea și totalurile iau în considerare această valoare: cu 120 de scufundări deja efectuate, prima din jurnal este numărul 121. Scufundările sunt întotdeauna numerotate după dată, chiar dacă adăugați ulterior o scufundare veche."
+      },
+      {
+        "q": "Ce include Pro și cât costă?",
+        "a": "Jurnalul, introducerea manuală, profilul scufundării și importul din Apple Watch sunt gratuite și nelimitate. Pro este o achiziție unică, fără abonament; prețul este afișat în aplicație înainte de cumpărare. Include statistici (recorduri, scufundări pe an și sezon, adâncimi, locuri și parteneri preferați, consumul de aer), exporturi (un jurnal de scufundări PDF tipăribil cu un spațiu pentru timbru al centrului de scufundări, un fișier CSV, formatul UDDF folosit de programele de scufundări) și certificări (niveluri, specialități, certificat medical, cu o imagine a fiecărei carduri și o avertizare înainte de expirare)."
+      },
+      {
+        "q": "Cum recuperez achiziția pe un dispozitiv nou?",
+        "a": "Deschideți Setări › „Descoperă Pro” și apăsați „Restaurează cumpărarea mea”, folosind contul App Store utilizat pentru achiziție. Nu plătiți a doua oară."
+      },
+      {
+        "q": "Pot schimba unitățile?",
+        "a": "Da: în Setări › Unități, alegeți metri, °C și bar, sau picioare, °F și psi. Scufundările nu sunt modificate: se modifică doar afișarea, inclusiv în exporturi."
+      },
+      {
+        "q": "Unde sunt stocate scufundările mele? Cum le pot face copie de siguranță?",
+        "a": "Doar pe dispozitivul tău, în stocarea privată a aplicației. Nu există cont și nu există server, iar jurnalul nu este sincronizat între dispozitivele tale. Este parte din backup-ul iCloud al iPhone-ului tău sau din backup-ul de pe calculator, pe care îl gestionezi în setările Apple. Cu Pro, poți face și o copie salvând jurnalul (Setări › \"Exportă jurnalul\"). Ștergerea aplicației șterge jurnalul de pe dispozitiv."
+      },
+      {
+        "q": "Pot folosi aplicația pentru a planifica o scufundare sau pentru a scufunda în siguranță?",
+        "a": "Nu. Dive Log păstrează un jurnal al scufundărilor tale după ce acestea au fost efectuate. Nu este niciun computer de scufundare, niciun instrument de planificare: nu folosi niciodată aplicația pentru a decide adâncimea, durata sau o oprire de decomprimare. Întotdeauna scufundă-te cu echipamentul potrivit și în limitele formării tale."
+      }
+    ],
+    "privacy_summary": "Dive Log nu colectează date, nu necesită cont și nu conține reclame sau urmăritori. Măsurătorile citite din Health rămân pe dispozitivul tău."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "În scurt",
+        "blocks": [
+          {
+            "p": "Dive Log nu colectează date. Tot ce faci în aplicație rămâne pe iPhone-ul sau iPad-ul tău."
+          },
+          {
+            "ul": [
+              "Fără cont, fără reclame, fără urmărire: aplicația nu conține instrumente de analitică sau publicitate și nu te identifică în niciun fel.",
+              "Fără server: aplicația se conectează la internet doar pentru achiziționarea versiunii Pro, care este gestionată de Apple."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Datele din Health",
+        "blocks": [
+          {
+            "p": "Cu permisiunea dumneavoastră, aplicația citește două măsurători înregistrate de Apple Watch-ul dumneavoastră în aplicația Health: adâncimea subacvatică și temperatura apei. Acestea sunt folosite doar pentru a identifica scufundările și a desena profilul lor."
+          },
+          {
+            "ul": [
+              "Aceste măsurători sunt procesate pe dispozitivul dumneavoastră și nu sunt trimise nicăieri.",
+              "Nu sunt folosite pentru publicitate sau profilare și nu sunt împărțite cu nimeni.",
+              "Aplicația nu scrie nimic în Health și nu citește alte date de sănătate.",
+              "Puteți retrage permisiunea oricând în Setări › Health › Acces la date și dispozitive."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Jurnalul dumneavoastră",
+        "blocks": [
+          {
+            "p": "Scufundările tale, notele și certificările sunt stocate în spațiul privat al aplicației, pe dispozitivul tău. Ștergerea lor (eliminarea unei scufundări sau ștergerea aplicației) le șterge definitiv. Acestea pot fi incluse în backup-urile iCloud sau de pe calculator, pe care le gestionezi tu în setările Apple."
+          }
+        ]
+      },
+      {
+        "h": "Pozele cardurilor",
+        "blocks": [
+          {
+            "p": "Dacă adaugi o imagine a unui card de certificare, aplicația primește doar poza pe care o alegi tu; nu are acces la restul bibliotecii tale de imagini. Această imagine este păstrată pe dispozitivul tău, împreună cu jurnalul."
+          }
+        ]
+      },
+      {
+        "h": "Exporturi",
+        "blocks": [
+          {
+            "p": "Fișierele PDF, CSV și UDDF sunt create pe dispozitivul tău. Tu alegi unde să le trimiți sau să le salvezi; aplicația nu le împarte cu nimeni."
+          }
+        ]
+      },
+      {
+        "h": "Cumpărări",
+        "blocks": [
+          {
+            "p": "Cumpărarea versiunii Pro este vândută și gestionată de Apple. Aplicația nu vede metoda ta de plată sau identitatea ta; ea citește doar, prin App Store, dacă cumpărarea a fost efectuată, pentru a debloca funcțiile."
+          }
+        ]
+      },
+      {
+        "h": "Copii",
+        "blocks": [
+          {
+            "p": "Dive Log nu colectează nicio dată, inclusiv din partea copiilor."
+          }
+        ]
+      },
+      {
+        "h": "Modificări",
+        "blocks": [
+          {
+            "p": "În cazul în care această politică se modifică, versiunea actualizată va fi publicată pe această pagină cu data actualizării."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pentru orice întrebare despre această politică: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

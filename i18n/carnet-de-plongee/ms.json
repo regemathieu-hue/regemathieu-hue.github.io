@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "Log selaman anda, dengan kedalaman yang direkodkan oleh Apple Watch Ultra",
+    "contact": "Ada soalan, idea atau masalah berkaitan aplikasi ini? Tulis kepada saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Bagaimana cara saya mengimport selaman daripada Apple Watch Ultra saya?",
+        "a": "Tiada apa-apa yang perlu dipasang pada jam tangan. Di bawah air, Apple Watch Ultra merekod kedalaman (hingga 40 meter, 130 kaki) dan suhu air secara automatik dalam aplikasi Kesihatan di iPhone anda. Dalam Dive Log, buka tab Log, ketuk \" + \" kemudian \"Import daripada Apple Watch\", seterusnya \"Cari selaman saya\". Kali pertama, iOS akan meminta kebenaran untuk membaca kedua-dua ukuran ini. Aplikasi kemudian akan mengesan setiap selaman bersama tarikh, tempoh, kedalaman dan profil; anda hanya perlu menambah lokasi, rakan selam atau tekanan tangki."
+      },
+      {
+        "q": "Import tidak mendapati sebarang selaman. Apa yang patut saya lakukan?",
+        "a": "Pertama sekali, pastikan selaman dilakukan menggunakan Apple Watch Ultra dan jam tangan telah mempunyai masa untuk menyegerakkan dengan iPhone (jaga kedua-duanya berdekatan selama beberapa minit, dengan aplikasi Kesihatan terbuka). Kemudian, semak kebenaran: Tetapan › Kesihatan › Akses Data & Peranti, pilih aplikasi tersebut, dan aktifkan \"Kedalaman Bawah Air\" serta \"Suhu Air\". Cuba juga tempoh yang lebih panjang (\"Semua Sejarah\"). Imersi yang kurang daripada 2 minit atau lebih dangkal daripada 1.5 meter (5 kaki) akan ditinggalkan."
+      },
+      {
+        "q": "Bolehkah saya menyimpan log tanpa Apple Watch?",
+        "a": "Ya. Ketuk \" + \" kemudian \"Masukkan selaman secara manual\" dan tulis apa sahaja yang anda mahu: tarikh, tempoh, kedalaman, lokasi, rakan selam, suhu, kejernihan, gas, tekanan tangki, pemberat, pakaian selam, jenis selam, penilaian dan nota. Tiada maklumat yang diperlukan. Jika kemudian anda mengimport selaman yang sama daripada jam tangan, aplikasi akan melengkapkan entri anda dengan profil tanpa mencipta salinan berganda."
+      },
+      {
+        "q": "Saya sudah melakukan selaman sebelum menggunakan log ini. Bagaimana saya mengekalkan penomboran?",
+        "a": "Di Tetapan, masukkan nombor \"Selaman sebelum log ini\". Penomboran dan jumlah akan mengambil kira nilai tersebut: dengan 120 selaman yang telah dilakukan, selaman pertama dalam log adalah nombor 121. Selaman sentiasa diberi nombor berdasarkan tarikh, walaupun anda menambah satu selaman lama kemudian."
+      },
+      {
+        "q": "Apa yang termasuk dalam Pro dan berapa harganya?",
+        "a": "Log, pemasukan manual, profil selaman dan import daripada Apple Watch adalah percuma dan tanpa had. Pro merupakan pembelian sekaligus, tiada langganan; harga ditunjukkan dalam aplikasi sebelum anda membeli. Ia menambah statistik (rekod, selaman mengikut tahun dan musim, kedalaman, tapak dan rakan selam kegemaran, penggunaan udara), eksport (logbook PDF yang boleh dicetak dengan kotak untuk cap dari pusat selaman, hamparan CSV, format UDDF yang digunakan oleh perisian selaman) dan sijil (peringkat, khas, sijil perubatan, dengan foto setiap kad dan amaran sebelum tamat tempoh)."
+      },
+      {
+        "q": "Bagaimana saya mendapatkan pembelian saya semula di peranti baharu?",
+        "a": "Buka Tetapan › \"Kenali Pro\" dan ketuk \"Kembalikan pembelian saya\", menggunakan akaun App Store yang digunakan untuk membeli. Anda tidak perlu membayar sekali lagi."
+      },
+      {
+        "q": "Bolehkah saya menukar unit?",
+        "a": "Ya: di Tetapan › Unit, pilih meter, °C dan bar, atau kaki, °F dan psi. Selaman anda tidak berubah: hanya paparan yang berubah, termasuk dalam eksport."
+      },
+      {
+        "q": "Di manakah selaman saya disimpan? Bagaimana saya membuat sandaran?",
+        "a": "Hanya pada peranti anda, dalam storan peribadi aplikasi. Tiada akaun atau pelayan, dan log tidak diselaraskan antara peranti anda. Ia merupakan sebahagian daripada sandaran iCloud iPhone anda atau sandaran komputer, yang boleh anda kelolakan melalui tetapan Apple. Dengan Pro, anda juga boleh menyimpan salinan dengan meneruskan log (Tetapan › \"Eksport log\"). Menghapus aplikasi akan menghapus log dari peranti."
+      },
+      {
+        "q": "Bolehkah saya menggunakan aplikasi ini untuk merancang selaman atau menyelam dengan selamat?",
+        "a": "Tidak. Log Selaman merekodkan selaman anda selepas itu. Ia bukan komputer selaman atau alat perancangan: jangan gunakannya untuk menentukan kedalaman, tempoh atau henti dekompresi. Sentiasa menyelam dengan peralatan yang sesuai dan dalam had latihan anda."
+      }
+    ],
+    "privacy_summary": "Log Selaman tidak mengumpul data, tidak memerlukan akaun, dan tiada iklan atau penjejak. Ukuran yang dibaca daripada Health tetap pada peranti anda."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasnya",
+        "blocks": [
+          {
+            "p": "Log Selaman tidak mengumpul data. Semua yang anda lakukan dalam aplikasi tetap pada iPhone atau iPad anda."
+          },
+          {
+            "ul": [
+              "Tiada akaun, tiada iklan, tiada penjejakan: aplikasi ini tidak mengandungi alat analitik atau iklan, dan tidak mengenal pasti anda dalam sebarang cara.",
+              "Tiada pelayan: aplikasi hanya bersambung ke internet untuk pembelian Pro, yang ditangani oleh Apple."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Data Kesihatan",
+        "blocks": [
+          {
+            "p": "Dengan kebenaran anda, aplikasi membaca dua ukuran yang direkodkan oleh jam tangan Apple anda dalam aplikasi Kesihatan: kedalaman di bawah air dan suhu air. Ia hanya menggunakan data ini untuk mengesan selaman anda dan melukis profil selaman anda."
+          },
+          {
+            "ul": [
+              "Ukuran ini diproses pada peranti anda dan tidak dikirim ke mana-mana.",
+              "Ia tidak digunakan untuk pengiklanan atau profil, dan tidak dikongsi dengan sesiapa pun.",
+              "Aplikasi tidak menulis apa-apa ke dalam Kesihatan dan tidak membaca data kesihatan lain.",
+              "Anda boleh menarik balik kebenaran ini kapan saja di Tetapan › Kesihatan › Akses Data & Peranti."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Log anda",
+        "blocks": [
+          {
+            "p": "Selaman, nota dan sijil anda disimpan dalam storan peribadi aplikasi, di peranti anda. Menghapuskan mereka (mengalih keluar selaman atau menghapuskan aplikasi) akan memadamkannya. Mereka mungkin termasuk dalam sandaran iCloud atau komputer peranti anda, yang dikendalikan sendiri melalui tetapan Apple."
+          }
+        ]
+      },
+      {
+        "h": "Gambar kad",
+        "blocks": [
+          {
+            "p": "Jika anda menambah gambar sijil, aplikasi hanya menerima gambar yang anda pilih sendiri; ia tidak mempunyai akses kepada perpustakaan gambar anda yang lain. Gambar ini disimpan di peranti anda, bersama log."
+          }
+        ]
+      },
+      {
+        "h": "Eksport",
+        "blocks": [
+          {
+            "p": "Fail PDF, CSV dan UDDF dicipta di peranti anda. Anda memilih tempat untuk menghantar atau menyimpannya; aplikasi tidak berkongsi fail tersebut dengan sesiapa pun."
+          }
+        ]
+      },
+      {
+        "h": "Pembelian",
+        "blocks": [
+          {
+            "p": "Pembelian Pro dijual dan ditangani oleh Apple. Aplikasi tidak melihat kaedah pembayaran atau identiti anda; ia hanya membaca, melalui App Store, sama ada pembelian telah dibuat, untuk membuka ciri-ciri tersebut."
+          }
+        ]
+      },
+      {
+        "h": "Kanak-kanak",
+        "blocks": [
+          {
+            "p": "Log selaman tidak mengumpul sebarang data, termasuk daripada kanak-kanak."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika dasar ini berubah, versi baharu akan diterbitkan di halaman ini bersama tarikh kemaskini."
+          }
+        ]
+      },
+      {
+        "h": "Hubungi",
+        "blocks": [
+          {
+            "p": "Bagi sebarang soalan mengenai dasar ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "Din dykloggbok, med djup mätt av Apple Watch Ultra",
+    "contact": "Har du en fråga, en idé eller ett problem med appen? Skriv till mig:<br>{email}",
+    "faq": [
+      {
+        "q": "Hur importerar jag dyk från min Apple Watch Ultra?",
+        "a": "Det behövs inget att installera på klockan. Under vatten sparar Apple Watch Ultra djup (ned till 40 meter, 130 fot) och vattentemperatur automatiskt i Health-appen på din iPhone. I Dive Log öppnar du fliken Logg, trycker på \"+\" och väljer sedan \"Importera från Apple Watch\", följt av \"Hitta mina dyk\". Första gången frågar iOS om tillstånd att läsa dessa två mätningar. Appen hittar då varje dyk med datum, varaktighet, djup och profil; du behöver bara lägga till plats, parkamrat eller flaskastryck."
+      },
+      {
+        "q": "Importen hittar inga dyk. Vad ska jag göra?",
+        "a": "Kontrollera först att dyket gjordes med en Apple Watch Ultra och att klockan haft tid att synkronisera med iPhone (håll dem nära varandra i några minuter med Health-appen öppen). Kontrollera sedan tillståndet: Inställningar › Health › Dataåtkomst & enheter, välj appen och aktivera \"Under vatten\" och \"Vattentemperatur\". Prova också ett längre tidsintervall (\"All historia\"). Dyk kortare än 2 minuter eller yngre än 1,5 meter (5 fot) utesluts."
+      },
+      {
+        "q": "Kan jag behålla min logg utan en Apple Watch?",
+        "a": "Ja. Tryck på \"+\" och välj \"Skriv in ett dyk\", och skriv vad du vill: datum, varaktighet, djup, plats, parkamrat, temperaturer, synlighet, gas, flaskastryck, vikter, dräkt, dyktyp, betyg och anteckningar. Inget krävs. Om du senare importerar samma dyk från klockan fyller appen i din inmatning med profilen istället för att skapa en dublett."
+      },
+      {
+        "q": "Jag hade redan gjort ett dyk innan jag började använda denna logg. Hur håller jag koll på min numrering?",
+        "a": "I Inställningar anger du antalet \"Antal dyk innan denna logg\". Numrering och totals ifrågasätts: med 120 redan gjorda dyk blir det första dyket i loggen nummer 121. Dyk numreras alltid efter datum, även om du lägger till ett gammalt dyk senare."
+      },
+      {
+        "q": "Vad ingår i Pro och vad kostar det?",
+        "a": "Loggen, manuell inmatning, dykprofilen och import från Apple Watch är gratis och obegränsat. Pro är en engångsköp utan prenumeration; priset visas i appen innan du köper. Det lägger till statistik (rekord, dyk per år och säsong, djup, favoritplatser och parkamrater, luftförbrukning), export (en skrivbar PDF-dykloggbok med ruta för dykcentrums stämpel, en CSV-kalkylblad, UDDF-formatet som används av dykprogramvara) och certifikat (nivåer, specialiteter, medicinsk intyg, med foto på varje kort och varning innan det löper ut)."
+      },
+      {
+        "q": "Hur får jag tillbaka mitt köp på en ny enhet?",
+        "a": "Öppna Inställningar › \"Upptäck Pro\" och tryck på \"Återställ mitt köp\", med App Store-kontot du använde för att köpa det. Du betalar inte en andra gång."
+      },
+      {
+        "q": "Kan jag ändra enheter?",
+        "a": "Ja: i Inställningar › Enheter väljer du meter, °C och bar eller fot, °F och psi. Dina dyk ändras inte: endast visningen ändras, även i exporter."
+      },
+      {
+        "q": "Var lagras mina dyk? Hur gör jag säkerhetskopior?",
+        "a": "Endast på din enhet, i appens privata lagring. Det finns ingen konto eller server, och loggen synkas inte mellan dina enheter. Den ingår i din iPhone:s iCloud-säkerhetskopia eller datorns säkerhetskopia, som du hanterar i Apple-inställningarna. Med Pro kan du också spara en kopia genom att exportera loggen (Inställningar › \"Exportera logg\"). Att ta bort appen raderar loggen från enheten."
+      },
+      {
+        "q": "Kan jag använda appen för att planera ett dyk eller dyka säkert?",
+        "a": "Nej. Dive Log sparar en protokoll av dina dyk efteråt. Den är varken en dykdatormaskin eller ett plansystem: använd den aldrig för att bestämma djup, varaktighet eller en dekompressionspaus. Dyk alltid med rätt utrustning och inom gränserna för din utbildning."
+      }
+    ],
+    "privacy_summary": "Dive Log samlar inte in några data, kräver inget konto och innehåller inga annonser eller spårningsverktyg. Mätvärdena från Health förblir på din enhet."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort sagt",
+        "blocks": [
+          {
+            "p": "Dive Log samlar inte in några data. Allt du gör i appen finns kvar på din iPhone eller iPad."
+          },
+          {
+            "ul": [
+              "Inget konto, inga annonser, inget spårning: appen innehåller inga analysverktyg eller reklamverktyg och identifierar dig inte på något sätt.",
+              "Ingen server: appen ansluter endast till internet för köpet av Pro, som hanteras av Apple."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Hälsoinformation",
+        "blocks": [
+          {
+            "p": "Med din tillåtelse läser appen två mätningar som sparats i Health-appen på din Apple Watch Ultra: under vatten djup och vattentemperatur. De används endast för att hitta dina dyk och rita upp deras profil."
+          },
+          {
+            "ul": [
+              "Dessa mätningar bearbetas på din enhet och skickas inte någonstans.",
+              "De används inte till reklam eller profileringsändamål, och delas inte med någon annan.",
+              "Appen skriver inget till Health och läser ingen annan hälsoinformation.",
+              "Du kan återkalla tillståndet när som helst i Inställningar › Hälsoinformation › Dataåtkomst & enheter."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Din logg",
+        "blocks": [
+          {
+            "p": "Dina dyk, anteckningar och certifikat lagras i appens privata lagring på din enhet. Att ta bort dem (ta bort ett dyk eller ta bort appen) raderar dem. De kan ingå i dina iCloud- eller datorbackupar, som du själv hanterar i Apple:s inställningar."
+          }
+        ]
+      },
+      {
+        "h": "Kortbilder",
+        "blocks": [
+          {
+            "p": "Om du lägger till en bild av ett certifikat så får appen endast tillgång till bilden du själv väljer; den har ingen åtkomst till resten av din bildbibliotek. Den här bilden sparas på din enhet tillsammans med loggen."
+          }
+        ]
+      },
+      {
+        "h": "Export",
+        "blocks": [
+          {
+            "p": "PDF-, CSV- och UDDF-filer skapas på din enhet. Du bestämmer var du vill skicka eller spara dem; appen delar inte filerna med någon."
+          }
+        ]
+      },
+      {
+        "h": "Köp",
+        "blocks": [
+          {
+            "p": "Köpet av Pro hanteras av Apple. Appen ser varken din betalningsmetod eller din identitet; den läser endast genom App Store om köpet gjorts, för att aktivera funktionerna."
+          }
+        ]
+      },
+      {
+        "h": "Barn",
+        "blocks": [
+          {
+            "p": "Dive Log samlar inte in någon data, inklusive från barn."
+          }
+        ]
+      },
+      {
+        "h": "Ändringar",
+        "blocks": [
+          {
+            "p": "Om denna policy ändras kommer den nya versionen att publiceras på denna sida med dess uppdateringsdatum."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "För frågor om denna policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

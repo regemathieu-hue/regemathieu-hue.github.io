@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "Tu cuaderno de buceo, con la profundidad medida por Apple Watch Ultra",
+    "contact": "¿Una pregunta, una idea o un problema con la aplicación? Escríbeme:<br>{email}",
+    "faq": [
+      {
+        "q": "¿Cómo importo las inmersiones desde mi Apple Watch Ultra?",
+        "a": "No es necesario instalar nada en la pulsera. Bajo el agua, Apple Watch Ultra registra automáticamente la profundidad (hasta 40 m, 130 pies) y la temperatura del agua en la aplicación Salud de tu iPhone. En Dive Log, abre la pestaña Cuaderno de buceo, toca \"+\" y luego \"Importar desde Apple Watch\", y finalmente \"Buscar mis inmersiones\". La primera vez, iOS te pedirá permiso para leer estas dos mediciones. La aplicación encontrará cada inmersión con su fecha, duración, profundidad y perfil; solo tendrás que añadir el lugar, tu compañero o la presión de la botella."
+      },
+      {
+        "q": "La importación no encuentra inmersiones. ¿Qué debo hacer?",
+        "a": "Primero comprueba que la inmersión se realizó con un Apple Watch Ultra y que la pulsera ha tenido tiempo de sincronizarse con el iPhone (mantén ambos cerca unos minutos, con la aplicación Salud abierta). A continuación, verifica los permisos: Configuración › Salud › Acceso a datos y dispositivos, selecciona la aplicación y activa \"Profundidad bajo el agua\" y \"Temperatura del agua\". También prueba con un período más largo (\"Toda la historia\"). Se omiten las inmersiones de menos de 2 minutos o de una profundidad inferior a 1,5 metros (5 pies)."
+      },
+      {
+        "q": "¿Puedo mantener mi cuaderno sin Apple Watch?",
+        "a": "Sí. Toca \"+\" y luego \"Introducir una inmersión\" y escribe lo que quieras: fecha, duración, profundidad, lugar, compañero, temperaturas, visibilidad, gas, presiones de la botella, lastre, traje, tipo de inmersión, valoración y notas. Nada es obligatorio. Si más adelante importas la misma inmersión desde la pulsera, la aplicación completará tu entrada con el perfil sin crear una duplicada."
+      },
+      {
+        "q": "Ya había realizado inmersiones antes de usar este cuaderno. ¿Cómo conservo mi numeración?",
+        "a": "En Ajustes, introduce el número de \"Inmersiones anteriores a este cuaderno\". La numeración y los totales lo tienen en cuenta: con 120 inmersiones ya realizadas, la primera del cuaderno será la número 121. Las inmersiones siempre se numeran por fecha, incluso si añades una antigua después."
+      },
+      {
+        "q": "¿Qué incluye Pro y cuánto cuesta?",
+        "a": "El cuaderno de buceo, la entrada manual, el perfil de inmersión y la importación desde Apple Watch son gratuitos e ilimitados. Pro es una compra única, sin suscripción; su precio se muestra en la app antes de comprarlo. Añade estadísticas (récord, inmersiones por año y por temporada, profundidades, sitios y compañeros favoritos, consumo de aire), exportaciones (un cuaderno de buceo imprimible con casilla para el sello del centro de buceo, una hoja de cálculo CSV y el formato UDDF usado por programas de buceo) y certificaciones (niveles, especialidades, certificado médico, con foto de cada tarjeta y una alerta antes de que caduque)."
+      },
+      {
+        "q": "¿Cómo recupero mi compra en un dispositivo nuevo?",
+        "a": "Abre Ajustes › \"Descubrir Pro\" y toca \"Restaurar mi compra\", con la cuenta de App Store que usaste para comprarlo. No tienes que pagar una segunda vez."
+      },
+      {
+        "q": "¿Puedo cambiar las unidades?",
+        "a": "Sí: en Ajustes › Unidades, elige metros, °C y bar, o pies, °F y psi. Tus inmersiones no cambian: solo se modifica la visualización, incluida en las exportaciones."
+      },
+      {
+        "q": "¿Dónde se almacenan mis inmersiones? ¿Cómo las puedo respaldar?",
+        "a": "Solo en tu dispositivo, en el almacenamiento privado de la aplicación. No hay cuenta ni servidor, y el cuaderno de buceo no se sincroniza entre tus dispositivos. Forma parte de la copia de seguridad de iCloud de tu iPhone o de la copia de seguridad de tu ordenador, que gestionas en la configuración de Apple. Con Pro, también puedes guardar una copia exportando el cuaderno de buceo (Ajustes › \"Exportar el cuaderno de buceo\"). Eliminar la aplicación borra el cuaderno de buceo del dispositivo."
+      },
+      {
+        "q": "¿Puedo usar la aplicación para planificar una inmersión o bucear con seguridad?",
+        "a": "No. Dive Log guarda un registro de tus inmersiones después de que las hayas realizado. No es ni un ordenador de buceo ni una herramienta de planificación: nunca la uses para decidir la profundidad, la duración o una parada de descompresión. Siempre bucea con el equipo adecuado y dentro de los límites de tu formación."
+      }
+    ],
+    "privacy_summary": "Dive Log no recopila ningún dato, no requiere cuenta y no contiene anuncios ni rastreadores. Las mediciones leídas desde Health permanecen en tu dispositivo."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resumen",
+        "blocks": [
+          {
+            "p": "Dive Log no recopila ningún dato. Todo lo que haces en la aplicación permanece en tu iPhone o iPad."
+          },
+          {
+            "ul": [
+              "Sin cuenta, sin anuncios, sin seguimiento: la aplicación no contiene herramientas de análisis ni publicidad, y no te identifica de ninguna manera.",
+              "Sin servidor: la aplicación solo se conecta a internet para la compra de Pro, que se gestiona mediante Apple."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Datos de Salud",
+        "blocks": [
+          {
+            "p": "Con su permiso, la aplicación lee dos mediciones registradas por su Apple Watch en la app Salud: profundidad bajo el agua y temperatura del agua. Las utiliza únicamente para localizar sus inmersiones y dibujar su perfil."
+          },
+          {
+            "ul": [
+              "Estas mediciones se procesan en su dispositivo y no se envían a ningún sitio.",
+              "No se utilizan para publicidad ni para perfiles, y no se comparten con nadie.",
+              "La aplicación no escribe nada en Salud y no lee otros datos de salud.",
+              "Puede retirar el permiso en cualquier momento en Ajustes › Salud › Acceso a datos y dispositivos."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Su cuaderno de buceo",
+        "blocks": [
+          {
+            "p": "Sus inmersiones, notas y certificaciones se almacenan en el almacenamiento privado de la aplicación, en su dispositivo. Eliminarlas (quitar una inmersión o desinstalar la aplicación) las borra definitivamente. Pueden incluirse en las copias de seguridad de iCloud o de su ordenador, que usted gestiona desde la configuración de Apple."
+          }
+        ]
+      },
+      {
+        "h": "Fotos de las certificaciones",
+        "blocks": [
+          {
+            "p": "Si añade una foto de una certificación, la aplicación solo recibe la foto que usted elige; no tiene acceso al resto de su biblioteca de fotos. Esa foto se conserva en su dispositivo, junto con el cuaderno de buceo."
+          }
+        ]
+      },
+      {
+        "h": "Exportaciones",
+        "blocks": [
+          {
+            "p": "Los archivos PDF, CSV y UDDF se crean en su dispositivo. Usted decide dónde enviarlos o guardarlos; la aplicación no los comparte con nadie."
+          }
+        ]
+      },
+      {
+        "h": "Compras",
+        "blocks": [
+          {
+            "p": "La compra de Pro se realiza y gestiona a través de Apple. La aplicación no ve ni su método de pago ni su identidad; solo comprueba, mediante la App Store, si la compra se ha realizado para desbloquear las funciones."
+          }
+        ]
+      },
+      {
+        "h": "Niños",
+        "blocks": [
+          {
+            "p": "Dive Log no recopila ningún dato, ni siquiera de menores."
+          }
+        ]
+      },
+      {
+        "h": "Cambios",
+        "blocks": [
+          {
+            "p": "Si esta política cambia, la nueva versión se publicará en esta página con su fecha de actualización."
+          }
+        ]
+      },
+      {
+        "h": "Contacto",
+        "blocks": [
+          {
+            "p": "Para cualquier pregunta sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "Ihr Tauchlogbuch mit der Tiefe, die von Apple Watch Ultra gemessen wurde",
+    "contact": "Haben Sie eine Frage, eine Idee oder ein Problem mit der App? Schreiben Sie mir:<br>{email}",
+    "faq": [
+      {
+        "q": "Wie importiere ich die Tauchgänge von meiner Apple Watch Ultra?",
+        "a": "Auf der Uhr muss nichts installiert werden. Unter Wasser erfasst Apple Watch Ultra die Tiefe (bis zu 40 m, 130 ft) und die Wassertemperatur selbstständig in der App Health auf Ihrem iPhone. Öffnen Sie im Dive Log den Tab „Tauchlogbuch“, tippen Sie auf „+“ und dann auf „Aus Apple Watch importieren“, danach auf „Meine Tauchgänge finden“. Beim ersten Mal fragt iOS um Erlaubnis, diese beiden Messwerte zu lesen. Die App findet dann jeden Tauchgang mit Datum, Dauer, Tiefe und Profil; Sie müssen nur noch Ort, Ihren Buddy oder den Flaschendruck hinzufügen."
+      },
+      {
+        "q": "Der Import findet keine Tauchgänge. Was soll ich tun?",
+        "a": "Überprüfen Sie zunächst, ob der Tauchgang mit einer Apple Watch Ultra durchgeführt wurde und ob die Uhr genügend Zeit hatte, sich mit dem iPhone zu synchronisieren (halten Sie sie einige Minuten nah beieinander, mit geöffneter Health-App). Überprüfen Sie dann die Berechtigung: Einstellungen › Health › Datenzugriff & Geräte, wählen Sie die App aus und aktivieren Sie „Unterwasser-Tiefe“ und „Wassertemperatur“. Versuchen Sie auch einen längeren Zeitraum („Gesamte Historie“). Tauchgänge unter zwei Minuten oder weniger als 1,5 m Tiefe werden ausgelassen."
+      },
+      {
+        "q": "Kann ich mein Logbuch ohne Apple Watch nutzen?",
+        "a": "Ja. Tippen Sie auf „+“ und dann auf „Tauchgang eingeben“ und notieren Sie, was Sie möchten: Datum, Dauer, Tiefe, Ort, Buddy, Temperaturen, Sichtweite, Gas, Flaschendruck, Blei, Anzug, Tauchart, Bewertung und Notizen. Nichts ist erforderlich. Wenn Sie später denselben Tauchgang von der Uhr importieren, vervollständigt die App Ihre Eingabe mit dem Profil, ohne einen Doppelten zu erstellen."
+      },
+      {
+        "q": "Ich hatte bereits Tauchgänge vor dem Einsatz dieses Logbuchs absolviert. Wie behalte ich meine Nummerierung bei?",
+        "a": "Geben Sie in den Einstellungen die Anzahl der „Tauchgänge vor diesem Logbuch“ ein. Die Nummerierung und Summen berücksichtigen dies: Bei bereits 120 Tauchgängen ist der erste Eintrag im Logbuch Nummer 121. Tauchgänge werden immer nach Datum nummeriert, auch wenn Sie später einen älteren hinzufügen."
+      },
+      {
+        "q": "Was beinhaltet Pro und wie viel kostet es?",
+        "a": "Das Tauchlogbuch, die manuelle Eingabe, der Tauchprofil-Import und der Import aus der Apple Watch sind kostenlos und unbegrenzt. Pro ist ein einmaliger Kauf ohne Abo; der Preis wird Ihnen im App vor dem Kauf angezeigt. Es fügt Statistiken (Rekorde, Tauchgänge nach Jahr und Jahreszeit, Tiefen, Lieblingsorte und Buddies, Luftverbrauch), Exporte (ein druckbares PDF-Tauchlogbuch mit Feld für den Stempel des Tauchzentrums, eine CSV-Datei, das UDDF-Format, das von Tauchsoftware verwendet wird) und Zertifikate (Stufen, Spezialitäten, medizinisches Attest, mit einem Foto jedes Zertifikats und einer Warnung vor dem Ablauf) hinzu."
+      },
+      {
+        "q": "Wie erhalte ich meinen Kauf auf einem neuen Gerät wieder?",
+        "a": "Öffnen Sie Einstellungen › „Pro entdecken“ und tippen Sie auf „Meinen Kauf wiederherstellen“, mit dem App Store-Konto, das Sie zum Kauf verwendet haben. Sie zahlen nicht erneut."
+      },
+      {
+        "q": "Kann ich die Einheiten ändern?",
+        "a": "Ja: Gehen Sie in Einstellungen › Einheiten und wählen Sie Meter, °C und bar oder Fuß, °F und psi. Ihre Tauchgänge werden nicht verändert: Es ändert sich nur die Anzeige, auch bei Exporten."
+      },
+      {
+        "q": "Wo werden meine Tauchgänge gespeichert? Wie kann ich sie sichern?",
+        "a": "Nur auf Ihrem Gerät im privaten Speicher der App. Es gibt kein Konto und keinen Server, und das Tauchlogbuch wird nicht zwischen Ihren Geräten synchronisiert. Es ist Teil Ihrer iCloud-Sicherung oder einer Sicherung über Ihren Computer, die Sie in den Einstellungen von Apple verwalten. Mit Pro können Sie zusätzlich eine Kopie durch Exportieren des Logbuchs erstellen (Einstellungen › „Tauchlogbuch exportieren“). Das Löschen der App löscht das Logbuch vom Gerät."
+      },
+      {
+        "q": "Kann ich die App nutzen, um einen Tauchgang zu planen oder sicher zu tauchen?",
+        "a": "Nein. Dive Log führt nach dem Tauchen eine Aufzeichnung Ihrer Tauchgänge. Es ist weder ein Tauchcomputer noch ein Planungstool: Verwenden Sie es niemals, um Tiefe, Dauer oder einen Dekompressionsstopp zu bestimmen. Tauchen Sie stets mit der richtigen Ausrüstung und innerhalb Ihrer Ausbildungsbeschränkungen."
+      }
+    ],
+    "privacy_summary": "Dive Log sammelt keine Daten, erfordert kein Konto und enthält keine Werbung oder Tracker. Die Messwerte aus Health bleiben auf Ihrem Gerät."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kurz gesagt",
+        "blocks": [
+          {
+            "p": "Dive Log sammelt keine Daten. Alles, was Sie in der App tun, bleibt auf Ihrem iPhone oder iPad."
+          },
+          {
+            "ul": [
+              "Kein Konto, keine Werbung, kein Tracking: Die App enthält weder Analyse- noch Werbeinstrumente und identifiziert Sie auf keine Weise.",
+              "Kein Server: Die App verbindet sich nur mit dem Internet, um Pro zu kaufen, was von Apple verwaltet wird."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Gesundheitsdaten",
+        "blocks": [
+          {
+            "p": "Mit Ihrer Erlaubnis liest die App zwei Messwerte, die Ihre Apple Watch in der App Gesundheit aufzeichnet: Unterwasser-Tiefe und Wasser-Temperatur. Sie verwendet sie nur, um Ihre Tauchgänge zu finden und ihr Profil darzustellen."
+          },
+          {
+            "ul": [
+              "Diese Messwerte werden auf Ihrem Gerät verarbeitet und nirgendwohin gesendet.",
+              "Sie werden nicht für Werbung oder Profilierung genutzt und mit niemandem geteilt.",
+              "Die App schreibt nichts in die Gesundheit-App und liest keine anderen Gesundheitsdaten.",
+              "Sie können die Erlaubnis jederzeit in Einstellungen › Gesundheit › Datenzugriff & Geräte widerrufen."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Ihr Tauchlogbuch",
+        "blocks": [
+          {
+            "p": "Ihre Tauchgänge, Notizen und Zertifikate werden im privaten Speicher der App auf Ihrem Gerät gespeichert. Das Löschen (Entfernen eines Tauchgangs oder Deinstallieren der App) löscht sie unwiderruflich. Sie können in den iCloud- oder Computervorräten Ihres Geräts enthalten sein, die Sie selbst über die Einstellungen von Apple verwalten."
+          }
+        ]
+      },
+      {
+        "h": "Kartenfotos",
+        "blocks": [
+          {
+            "p": "Wenn Sie ein Foto eines Zertifikats hinzufügen, erhält die App nur das von Ihnen selbst ausgewählte Foto; sie hat keinen Zugriff auf den Rest Ihrer Fotobibliothek. Dieses Foto wird auf Ihrem Gerät zusammen mit dem Tauchlogbuch gespeichert."
+          }
+        ]
+      },
+      {
+        "h": "Exporte",
+        "blocks": [
+          {
+            "p": "PDF-, CSV- und UDDF-Dateien werden auf Ihrem Gerät erstellt. Sie entscheiden selbst, wohin Sie sie senden oder speichern; die App teilt sie mit niemandem."
+          }
+        ]
+      },
+      {
+        "h": "Käufe",
+        "blocks": [
+          {
+            "p": "Der Kauf von Pro wird von Apple verkauft und verwaltet. Die App sieht weder Ihre Zahlungsmethode noch Ihre Identität; sie liest lediglich über den App Store, ob der Kauf erfolgt ist, um die Funktionen freizuschalten."
+          }
+        ]
+      },
+      {
+        "h": "Kinder",
+        "blocks": [
+          {
+            "p": "Dive Log erhebt keine Daten, auch nicht von Kindern."
+          }
+        ]
+      },
+      {
+        "h": "Änderungen",
+        "blocks": [
+          {
+            "p": "Sollte sich diese Datenschutzrichtlinie ändern, wird die neue Version auf dieser Seite mit dem Aktualisierungsdatum veröffentlicht."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Für Fragen zu dieser Richtlinie: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

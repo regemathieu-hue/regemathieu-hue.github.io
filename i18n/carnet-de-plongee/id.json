@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "Log selam Anda, dengan kedalaman yang diukur oleh Apple Watch Ultra",
+    "contact": "Pertanyaan, ide, atau masalah dengan aplikasi ini? Kirim pesan ke saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Bagaimana cara mengimpor penyelaman dari Apple Watch Ultra saya?",
+        "a": "Tidak perlu menginstal apa pun di jam tangan. Di bawah air, Apple Watch Ultra mencatat kedalaman (hingga 40 meter, 130 kaki) dan suhu air secara otomatis di aplikasi Kesehatan di iPhone Anda. Di Dive Log, buka tab Log, ketuk \" + \" lalu \"Impor dari Apple Watch\", lalu \"Temukan penyelamanku\". Pada penggunaan pertama, iOS akan meminta izin untuk membaca kedua pengukuran ini. Aplikasi kemudian menemukan setiap penyelaman berdasarkan tanggal, durasi, kedalaman, dan profil; Anda hanya perlu menambahkan lokasi, buddy, atau tekanan tabung."
+      },
+      {
+        "q": "Impor tidak menemukan penyelaman. Apa yang harus saya lakukan?",
+        "a": "Pertama, pastikan penyelaman dilakukan menggunakan Apple Watch Ultra dan jam tangan telah sempat menyinkronkan dengan iPhone (tahan keduanya dekat selama beberapa menit, sambil membuka aplikasi Kesehatan). Kemudian periksa izinnya: Pengaturan › Kesehatan › Akses Data & Perangkat, pilih aplikasi tersebut, lalu aktifkan \"Kedalaman di Bawah Air\" dan \"Suhu Air\". Coba juga periode yang lebih panjang (\"Semua Riwayat\"). Penyelaman yang durasinya kurang dari 2 menit atau kedalamannya kurang dari 1,5 meter (5 kaki) akan dilewatkan."
+      },
+      {
+        "q": "Apakah saya bisa tetap menyimpan log tanpa Apple Watch?",
+        "a": "Ya. Ketuk \" + \" lalu \"Masukkan penyelaman\" dan catat apa pun yang Anda inginkan: tanggal, durasi, kedalaman, lokasi, buddy, suhu, visibilitas, gas, tekanan tabung, pemberat, jenis pakaian selam, tipe penyelaman, penilaian, dan catatan. Tidak ada yang wajib diisi. Jika nanti Anda mengimpor penyelaman yang sama dari jam tangan, aplikasi akan melengkapi entri Anda dengan profil tanpa membuat duplikat."
+      },
+      {
+        "q": "Saya sudah melakukan penyelaman sebelum menggunakan log ini. Bagaimana cara menjaga penomoran saya?",
+        "a": "Di Pengaturan, masukkan jumlah \"Penyelaman sebelum log ini\". Penomoran dan total akan memperhitungkannya: dengan 120 penyelaman yang sudah dilakukan, penyelaman pertama di log ini adalah nomor 121. Penyelaman selalu dinomori berdasarkan tanggal, bahkan jika Anda menambahkan penyelaman lama setelahnya."
+      },
+      {
+        "q": "Apa saja yang termasuk dalam Pro dan berapa harganya?",
+        "a": "Log, entri manual, profil penyelaman, dan impor dari Apple Watch gratis dan tanpa batas. Pro adalah pembelian sekali pakai, tanpa langganan; harga ditampilkan di dalam aplikasi sebelum Anda membeli. Fitur ini menambahkan statistik (rekor, penyelaman per tahun dan musim, kedalaman, lokasi favorit, serta buddy), ekspor (buku log PDF yang bisa dicetak dengan kotak untuk cap dari pusat penyelaman, spreadsheet CSV, format UDDF yang digunakan oleh perangkat lunak penyelaman), serta sertifikasi (tingkatan, spesialisasi, sertifikat medis, dengan foto setiap kartu dan peringatan sebelum masa berlakunya habis)."
+      },
+      {
+        "q": "Bagaimana cara mengembalikan pembelian saya di perangkat baru?",
+        "a": "Buka Pengaturan › \"Temukan Pro\" dan ketuk \"Kembalikan pembelian saya\", menggunakan akun App Store yang digunakan untuk membeli sebelumnya. Anda tidak perlu membayar lagi."
+      },
+      {
+        "q": "Apakah saya bisa mengganti satuan?",
+        "a": "Ya: di Pengaturan › Satuan, pilih meter, °C, dan bar, atau kaki, °F, dan psi. Penyelaman Anda tidak berubah: hanya tampilan yang berubah, termasuk pada hasil ekspor."
+      },
+      {
+        "q": "Di mana penyelaman saya disimpan? Bagaimana cara membuat cadangan?",
+        "a": "Hanya di perangkat Anda, dalam penyimpanan pribadi aplikasi. Tidak ada akun atau server, dan log tidak disinkronkan antar perangkat Anda. Log ini merupakan bagian dari cadangan iCloud iPhone Anda atau cadangan komputer, yang dapat Anda kelola di pengaturan Apple. Dengan Pro, Anda juga bisa membuat salinan dengan mengekspor log (Pengaturan › \"Ekspor log\"). Menghapus aplikasi akan menghapus log dari perangkat."
+      },
+      {
+        "q": "Apakah saya bisa menggunakan aplikasi ini untuk merencanakan penyelaman atau menyelam dengan aman?",
+        "a": "Tidak. Log Selam mencatat penyelaman Anda setelahnya. Aplikasi ini bukan komputer penyelaman atau alat perencanaan: jangan pernah gunakan aplikasi ini untuk menentukan kedalaman, durasi, atau waktu berhenti dekompresi. Selalu menyelam dengan peralatan yang sesuai dan tetap dalam batas pelatihan Anda."
+      }
+    ],
+    "privacy_summary": "Log Selam tidak mengumpulkan data apa pun, tidak memerlukan akun, dan tidak memiliki iklan atau pelacak. Pengukuran yang dibaca dari Health tetap berada di perangkat Anda."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Singkatnya",
+        "blocks": [
+          {
+            "p": "Log Selam tidak mengumpulkan data. Semua aktivitas Anda dalam aplikasi tetap berada di iPhone atau iPad Anda."
+          },
+          {
+            "ul": [
+              "Tidak ada akun, tidak ada iklan, tidak ada pelacakan: aplikasi ini tidak memiliki alat analitik atau periklanan, dan tidak mengidentifikasi Anda dengan cara apa pun.",
+              "Tidak ada server: aplikasi hanya terhubung ke internet untuk pembelian Pro, yang dikelola oleh Apple."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Data Kesehatan",
+        "blocks": [
+          {
+            "p": "Dengan izin Anda, aplikasi membaca dua pengukuran yang direkam oleh Apple Watch Anda di aplikasi Kesehatan: kedalaman bawah air dan suhu air. Aplikasi ini hanya menggunakannya untuk menemukan penyelaman Anda dan menggambar profilnya."
+          },
+          {
+            "ul": [
+              "Pengukuran ini diproses di perangkat Anda dan tidak dikirim ke mana pun.",
+              "Data tersebut tidak digunakan untuk iklan atau profil, dan tidak dibagikan dengan siapa pun.",
+              "Aplikasi tidak menulis apa pun ke Kesehatan dan tidak membaca data kesehatan lainnya.",
+              "Anda dapat mencabut izin ini kapan saja di Pengaturan › Kesehatan › Akses Data & Perangkat."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Log Anda",
+        "blocks": [
+          {
+            "p": "Penyelaman, catatan, dan sertifikasi Anda disimpan di penyimpanan pribadi aplikasi, pada perangkat Anda. Menghapusnya (menghapus satu penyelaman atau menghapus aplikasi) akan menghapus seluruh data tersebut. Data tersebut dapat termasuk dalam cadangan iCloud atau komputer Anda, yang Anda kelola sendiri melalui pengaturan Apple."
+          }
+        ]
+      },
+      {
+        "h": "Foto Kartu",
+        "blocks": [
+          {
+            "p": "Jika Anda menambahkan foto kartu sertifikasi, aplikasi hanya menerima foto yang Anda pilih sendiri; aplikasi tidak memiliki akses ke seluruh perpustakaan foto Anda. Foto tersebut disimpan pada perangkat Anda, bersama log."
+          }
+        ]
+      },
+      {
+        "h": "Ekspor",
+        "blocks": [
+          {
+            "p": "File PDF, CSV, dan UDDF dibuat di perangkat Anda. Anda memilih tempat untuk mengirim atau menyimpannya; aplikasi tidak membagikannya kepada siapa pun."
+          }
+        ]
+      },
+      {
+        "h": "Pembelian",
+        "blocks": [
+          {
+            "p": "Pembelian Pro dijual dan ditangani oleh Apple. Aplikasi tidak melihat metode pembayaran Anda maupun identitas Anda; aplikasi hanya membaca, melalui App Store, apakah pembelian telah dilakukan, untuk membuka fitur-fitur tersebut."
+          }
+        ]
+      },
+      {
+        "h": "Anak-anak",
+        "blocks": [
+          {
+            "p": "Log Selam tidak mengumpulkan data apa pun, termasuk dari anak-anak."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika kebijakan ini berubah, versi baru akan dipublikasikan di halaman ini beserta tanggal pembaruan."
+          }
+        ]
+      },
+      {
+        "h": "Kontak",
+        "blocks": [
+          {
+            "p": "Untuk pertanyaan apa pun mengenai kebijakan ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

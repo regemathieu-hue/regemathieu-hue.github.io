@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "Il tuo libretto d'immersione, con la profondità misurata dall'Apple Watch Ultra",
+    "contact": "Hai una domanda, un'idea o un problema con l'app? Scrivimi:<br>{email}",
+    "faq": [
+      {
+        "q": "Come faccio ad importare le immersioni dal mio Apple Watch Ultra?",
+        "a": "Non è necessario installare nulla sullo smartwatch. Sott’acqua, l'Apple Watch Ultra registra automaticamente la profondità (fino a 40 metri, 130 piedi) e la temperatura dell'acqua nell'app Salute sul tuo iPhone. In Dive Log, apri la scheda Libretto, tocca il pulsante \"+\" poi \"Importa da Apple Watch\", infine \"Trova le mie immersioni\". La prima volta, iOS ti chiederà il permesso di leggere queste due misurazioni. L'app troverà ogni immersione con data, durata, profondità e profilo; dovrai solo aggiungere il sito, il compagno o la pressione della bombola."
+      },
+      {
+        "q": "L'import non trova immersioni. Cosa devo fare?",
+        "a": "Prima verifica che l'immersione sia stata effettuata con un Apple Watch Ultra e che lo smartwatch abbia avuto il tempo di sincronizzarsi con l’iPhone (tenili vicini per qualche minuto, con l’app Salute aperta). Poi controlla i permessi: Impostazioni › Salute › Accesso ai dati e dispositivi, seleziona l'app e attiva \"Profondità sott’acqua\" e \"Temperatura dell'acqua\". Prova anche un periodo più lungo (\"Tutta la storia\"). Le immersioni più brevi di 2 minuti o più superficiali di 1,5 metri (5 piedi) vengono escluse."
+      },
+      {
+        "q": "Posso mantenere il mio libretto senza un Apple Watch?",
+        "a": "Sì. Tocca \"+\" poi \"Inserisci un'immersione\" e scrivi tutto ciò che vuoi: data, durata, profondità, sito, compagno, temperature, visibilità, gas, pressione della bombola, zavorra, muta, tipo di immersione, valutazione e note. Niente è obbligatorio. Se in seguito importi la stessa immersione dall’orologio, l’app completa il tuo inserimento con il profilo invece di creare una duplicazione."
+      },
+      {
+        "q": "Avevo già effettuato immersioni prima di utilizzare questo libretto. Come faccio a mantenere la mia numerazione?",
+        "a": "Nelle Impostazioni, inserisci il numero di \"Immersioni precedenti a questo libretto\". La numerazione e i totali ne tengono conto: con 120 immersioni già effettuate, la prima nel libretto sarà la numero 121. Le immersioni sono sempre numerate in base alla data, anche se aggiungi una vecchia successivamente."
+      },
+      {
+        "q": "Che cosa include Pro e quanto costa?",
+        "a": "Il libretto, l'inserimento manuale, il profilo d'immersione e l'importazione da Apple Watch sono gratuiti e illimitati. Pro è un acquisto una tantum, senza abbonamento; il suo prezzo viene mostrato nell'app prima dell'acquisto. Aggiunge statistiche (record, immersioni per anno e stagione, profondità, siti e compagni preferiti, consumo d'aria), esportazioni (un libretto PDF stampabile con uno spazio per il timbro del centro immersioni, un foglio di calcolo CSV e il formato UDDF utilizzato dai software per immersioni) e certificazioni (livelli, specialità, certificato medico, con una foto di ogni carta e un avviso prima della scadenza)."
+      },
+      {
+        "q": "Come faccio a ripristinare il mio acquisto su un nuovo dispositivo?",
+        "a": "Apri Impostazioni › \"Scopri Pro\" e tocca \"Ripristina l'acquisto\", con l'account App Store che hai utilizzato per acquistarlo. Non pagherai una seconda volta."
+      },
+      {
+        "q": "Posso cambiare le unità?",
+        "a": "Sì: in Impostazioni › Unità, scegli metri, °C e bar oppure piedi, °F e psi. Le tue immersioni non vengono modificate: cambia solo la visualizzazione, inclusa nelle esportazioni."
+      },
+      {
+        "q": "Dove sono memorizzate le mie immersioni? Come posso farne il backup?",
+        "a": "Solo sul tuo dispositivo, nella memoria privata dell'app. Non esiste un account né un server, e il libretto non viene sincronizzato tra i tuoi dispositivi. È incluso nel backup di iCloud del tuo iPhone o nel backup del computer, che gestisci nelle impostazioni di Apple. Con Pro, puoi anche conservare una copia esportando il libretto (Impostazioni › \"Esporta il libretto\"). Eliminando l'app, il libretto viene eliminato dal dispositivo."
+      },
+      {
+        "q": "Posso usare l'app per pianificare un'immersione o per immergermi in sicurezza?",
+        "a": "No. Dive Log registra le immersioni dopo che sono state effettuate. Non è né un computer d'immersione né uno strumento di pianificazione: non usarlo mai per decidere la profondità, la durata o una sosta di decompressione. Immersi sempre con l'attrezzatura adeguata e entro i limiti della tua formazione."
+      }
+    ],
+    "privacy_summary": "Dive Log non raccoglie alcun dato, non richiede un account e non contiene annunci né tracciatori. Le misurazioni lette da Health rimangono sul tuo dispositivo."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In breve",
+        "blocks": [
+          {
+            "p": "Dive Log non raccoglie dati. Tutto ciò che fai nell'app rimane sul tuo iPhone o iPad."
+          },
+          {
+            "ul": [
+              "Nessun account, nessun annuncio, nessun tracciamento: l'app non contiene strumenti di analisi né pubblicità e non ti identifica in alcun modo.",
+              "Nessun server: l'app si collega a Internet solo per l'acquisto di Pro, gestito da Apple."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Dati della salute",
+        "blocks": [
+          {
+            "p": "Con il tuo consenso, l'app legge due misurazioni registrate dal tuo Apple Watch nell'app Salute: profondità sottomarina e temperatura dell'acqua. Le utilizza solo per trovare le tue immersioni e tracciare il loro profilo."
+          },
+          {
+            "ul": [
+              "Queste misurazioni vengono elaborate sul tuo dispositivo e non vengono inviate da nessuna parte.",
+              "Non vengono utilizzate per la pubblicità o il profilamento e non vengono condivise con nessuno.",
+              "L'app non scrive nulla in Salute e non legge altri dati sanitari.",
+              "Puoi revocare il consenso in qualsiasi momento in Impostazioni › Salute › Accesso ai dati e dispositivi."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Il tuo libretto",
+        "blocks": [
+          {
+            "p": "Le tue immersioni, note e certificazioni sono memorizzate nell'archivio privato dell'app, sul tuo dispositivo. Eliminandole (rimuovendo un'immersione o disinstallando l'app) le cancelli definitivamente. Potrebbero essere incluse nei backup del tuo dispositivo su iCloud o sul computer, che gestisci autonomamente nelle impostazioni di Apple."
+          }
+        ]
+      },
+      {
+        "h": "Foto delle certificazioni",
+        "blocks": [
+          {
+            "p": "Se aggiungi una foto di una certificazione, l'app riceve solo la foto che scegli tu; non ha accesso al resto della tua libreria fotografica. Questa foto viene mantenuta sul tuo dispositivo, insieme al libretto."
+          }
+        ]
+      },
+      {
+        "h": "Esportazioni",
+        "blocks": [
+          {
+            "p": "I file PDF, CSV e UDDF vengono creati sul tuo dispositivo. Tu scegli dove inviarli o salvarli; l'app non li condivide con nessuno."
+          }
+        ]
+      },
+      {
+        "h": "Acquisti",
+        "blocks": [
+          {
+            "p": "L'acquisto di Pro è gestito da Apple. L'app non vede né il metodo di pagamento né la tua identità; legge solo, tramite l'App Store, se l'acquisto è stato effettuato, per sbloccare le funzionalità."
+          }
+        ]
+      },
+      {
+        "h": "Bambini",
+        "blocks": [
+          {
+            "p": "Dive Log non raccoglie alcun dato, neanche da bambini."
+          }
+        ]
+      },
+      {
+        "h": "Modifiche",
+        "blocks": [
+          {
+            "p": "Se questa politica dovesse cambiare, la nuova versione sarà pubblicata su questa pagina con la relativa data di aggiornamento."
+          }
+        ]
+      },
+      {
+        "h": "Contatto",
+        "blocks": [
+          {
+            "p": "Per qualsiasi domanda riguardo a questa politica: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

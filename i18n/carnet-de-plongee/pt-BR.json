@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "O seu diário de mergulho, com a profundidade registrada pelo Apple Watch Ultra",
+    "contact": "Alguma dúvida, ideia ou problema com o app? Envie uma mensagem para mim:<br>{email}",
+    "faq": [
+      {
+        "q": "Como faço para importar os mergulhos do meu Apple Watch Ultra?",
+        "a": "Não é necessário instalar nada no relógio. Sob a água, o Apple Watch Ultra registra sozinho a profundidade (até 40 metros, 130 pés) e a temperatura da água no app Saúde do seu iPhone. No Dive Log, abra a aba Diário de mergulho, toque em \"+\" e depois em \"Importar do Apple Watch\", por fim em \"Localizar meus mergulhos\". Na primeira vez, o iOS pedirá permissão para ler essas duas medições. O app então localiza cada mergulho com sua data, duração, profundidade e perfil; você só precisa adicionar o local, a dupla ou a pressão do cilindro."
+      },
+      {
+        "q": "A importação não encontrou nenhum mergulho. O que devo fazer?",
+        "a": "Primeiro verifique se o mergulho foi feito com um Apple Watch Ultra e se o relógio teve tempo para sincronizar com o iPhone (mantenha-os próximos por alguns minutos, com o app Saúde aberto). Em seguida, verifique a permissão: Configurações › Saúde › Acesso a dados e dispositivos, selecione o app e ative \"Profundidade submersa\" e \"Temperatura da água\". Tente também um período mais longo (\"Todo histórico\"). Imersões com menos de 2 minutos ou com profundidade inferior a 1,5 metro (5 pés) são ignoradas."
+      },
+      {
+        "q": "Posso manter o meu diário sem um Apple Watch?",
+        "a": "Sim. Toque em \"+\" e depois em \"Registrar um mergulho\" e anote tudo o que quiser: data, duração, profundidade, local, dupla, temperaturas, visibilidade, gás, pressão do cilindro, lastro, traje, tipo de mergulho, avaliação e observações. Nada é obrigatório. Se mais tarde você importar o mesmo mergulho do relógio, o app completará sua entrada com o perfil em vez de criar uma duplicata."
+      },
+      {
+        "q": "Já tinha feito mergulhos antes de usar este diário. Como mantenho minha numeração?",
+        "a": "Em Configurações, insira o número de \"Mergulhos anteriores ao diário\". A numeração e os totais levam isso em conta: com 120 mergulhos já feitos, o primeiro registrado no diário será o número 121. Os mergulhos sempre são numerados pela data, mesmo que você adicione um antigo posteriormente."
+      },
+      {
+        "q": "O que o Pro inclui e quanto custa?",
+        "a": "O diário, a entrada manual, o perfil do mergulho e a importação do Apple Watch são gratuitos e ilimitados. O Pro é uma compra única, sem assinatura; seu preço é exibido no app antes da compra. Ele adiciona estatísticas (recordes, mergulhos por ano e por estação, profundidades, locais e duplas favoritas, consumo de ar), exportações (um diário em PDF imprimível com espaço para carimbo do centro de mergulho, uma planilha CSV e o formato UDDF usado por softwares de mergulho) e certificações (níveis, especialidades, certificado médico, com foto de cada cartão e aviso antes da expiração)."
+      },
+      {
+        "q": "Como recupero minha compra em um novo dispositivo?",
+        "a": "Abra Configurações › \"Descobrir Pro\" e toque em \"Restaurar minha compra\", usando a conta do App Store que você usou para comprar. Você não paga novamente."
+      },
+      {
+        "q": "Posso mudar as unidades?",
+        "a": "Sim: em Configurações › Unidades, escolha metros, °C e bar ou pés, °F e psi. Seus mergulhos não são alterados: apenas a exibição muda, incluindo nas exportações."
+      },
+      {
+        "q": "Meus mergulhos estão armazenados onde? Como faço um backup deles?",
+        "a": "Apenas no seu dispositivo, no armazenamento privado do app. Não há conta nem servidor, e o diário não é sincronizado entre seus dispositivos. Ele faz parte do backup do iCloud do seu iPhone ou do backup do computador, que você gerencia nas configurações da Apple. Com Pro, também é possível manter uma cópia exportando o diário (Configurações › \"Exportar o diário\"). Excluir o app apaga o diário do dispositivo."
+      },
+      {
+        "q": "Posso usar o app para planejar um mergulho ou mergulhar com segurança?",
+        "a": "Não. O Dive Log mantém um registro dos seus mergulhos após eles terem sido realizados. Ele não é nem um computador de mergulho nem uma ferramenta de planejamento: nunca o use para decidir sobre profundidade, duração ou parada de descompressão. Sempre mergulhe com o equipamento adequado e dentro dos limites da sua formação."
+      }
+    ],
+    "privacy_summary": "O Dive Log não coleta dados, não exige conta e não possui anúncios nem rastreadores. As medições lidas no Health permanecem no seu dispositivo."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Em resumo",
+        "blocks": [
+          {
+            "p": "O Dive Log não coleta dados. Tudo o que você faz no app permanece no seu iPhone ou iPad."
+          },
+          {
+            "ul": [
+              "Nenhuma conta, nenhum anúncio, nenhuma rastreabilidade: o app não contém ferramentas de análise ou publicidade e não o identifica de forma alguma.",
+              "Sem servidor: o aplicativo só se conecta à internet para a compra do Pro, que é gerenciada pela Apple."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Dados de Saúde",
+        "blocks": [
+          {
+            "p": "Com sua permissão, o aplicativo lê duas medições registradas pelo seu Apple Watch no app Saúde: profundidade submersa e temperatura da água. Elas são usadas apenas para localizar seus mergulhos e traçar seu perfil."
+          },
+          {
+            "ul": [
+              "Essas medições são processadas em seu dispositivo e não são enviadas para nenhum lugar.",
+              "Elas não são usadas para publicidade ou perfilagem, nem compartilhadas com ninguém.",
+              "O aplicativo não escreve nada no Saúde e não lê outros dados de saúde.",
+              "Você pode retirar a permissão a qualquer momento em Configurações › Saúde › Acesso a Dados e Dispositivos."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Seu diário",
+        "blocks": [
+          {
+            "p": "Seus mergulhos, anotações e certificações são armazenados no armazenamento privado do aplicativo, no seu dispositivo. Excluí-los (removendo um mergulho ou excluindo o aplicativo) os apaga permanentemente. Eles podem estar incluídos nos backups do seu dispositivo no iCloud ou em computadores, que você gerencia por meio das configurações da Apple."
+          }
+        ]
+      },
+      {
+        "h": "Fotos de cartões",
+        "blocks": [
+          {
+            "p": "Se você adicionar uma foto de um cartão de certificação, o aplicativo recebe apenas a foto que você escolher; ele não tem acesso ao restante da sua biblioteca de fotos. Essa foto é mantida no seu dispositivo, junto com o diário de mergulho."
+          }
+        ]
+      },
+      {
+        "h": "Exportações",
+        "blocks": [
+          {
+            "p": "Arquivos PDF, CSV e UDDF são criados no seu dispositivo. Você escolhe onde enviá-los ou salvá-los; o aplicativo não os compartilha com ninguém."
+          }
+        ]
+      },
+      {
+        "h": "Compras",
+        "blocks": [
+          {
+            "p": "A compra do Pro é vendida e gerenciada pela Apple. O aplicativo não vê seu método de pagamento nem sua identidade; ele apenas lê, por meio da App Store, se a compra foi feita, para desbloquear os recursos."
+          }
+        ]
+      },
+      {
+        "h": "Crianças",
+        "blocks": [
+          {
+            "p": "O Diário de Mergulho não coleta nenhum dado, incluindo de crianças."
+          }
+        ]
+      },
+      {
+        "h": "Alterações",
+        "blocks": [
+          {
+            "p": "Caso esta política mude, a nova versão será publicada nesta página com sua data de atualização."
+          }
+        ]
+      },
+      {
+        "h": "Contato",
+        "blocks": [
+          {
+            "p": "Para qualquer dúvida sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

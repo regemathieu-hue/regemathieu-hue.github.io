@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "Tu bitácora de buceo, con la profundidad registrada por Apple Watch Ultra",
+    "contact": "¿Una pregunta, una idea o un problema con la app? Escríbeme:<br>{email}",
+    "faq": [
+      {
+        "q": "¿Cómo importo las inmersiones desde mi Apple Watch Ultra?",
+        "a": "No hay nada que instalar en la pulsera. Bajo el agua, Apple Watch Ultra registra automáticamente la profundidad (hasta 40 m, 130 pies) y la temperatura del agua en la app Salud de tu iPhone. En Dive Log, abre la pestaña Bitácora, toca \"+\" luego \"Importar desde Apple Watch\", y finalmente \"Buscar mis inmersiones\". La primera vez, iOS te pedirá permiso para leer estas dos mediciones. La app encontrará cada inmersión con su fecha, duración, profundidad y perfil; solo tendrás que agregar el sitio, tu compañero o la presión del tanque."
+      },
+      {
+        "q": "La importación no encuentra inmersiones. ¿Qué debo hacer?",
+        "a": "Primero verifica que la inmersión se haya realizado con un Apple Watch Ultra y que la pulsera haya tenido tiempo para sincronizarse con el iPhone (mantén ambos cerca unos minutos, con la app Salud abierta). Luego revisa los permisos: Ajustes › Salud › Acceso a datos y dispositivos, selecciona la app y activa \"Profundidad bajo el agua\" y \"Temperatura del agua\". También intenta un período más largo (\"Todo el historial\"). Las inmersiones de menos de 2 minutos o con una profundidad menor a 1.5 m (5 pies) se omiten."
+      },
+      {
+        "q": "¿Puedo mantener mi bitácora sin un Apple Watch?",
+        "a": "Sí. Toca \"+\" luego \"Ingresar una inmersión\" y escribe lo que quieras: fecha, duración, profundidad, sitio, compañero, temperaturas, visibilidad, gas, presión del tanque, lastre, traje, tipo de inmersión, calificación y notas. Nada es obligatorio. Si más adelante importas la misma inmersión desde la pulsera, la app completará tu registro con el perfil sin crear una duplicada."
+      },
+      {
+        "q": "Ya había hecho inmersiones antes de usar esta bitácora. ¿Cómo conservo mi numeración?",
+        "a": "En Ajustes, ingrese el número de \"Inmersiones previas a esta bitácora\". La numeración y los totales lo toman en cuenta: con 120 inmersiones ya realizadas, la primera en la bitácora será la número 121. Las inmersiones siempre se numeran por fecha, incluso si después agrega una antigua."
+      },
+      {
+        "q": "¿Qué incluye Pro y cuánto cuesta?",
+        "a": "La bitácora, la entrada manual, el perfil de inmersión y la importación desde Apple Watch son gratuitas y sin límite. Pro es una compra única, sin suscripción; su precio se muestra en la app antes de comprarla. Añade estadísticas (récords, inmersiones por año y por temporada, profundidades, sitios y compañeros favoritos, consumo de aire), exportaciones (una bitácora imprimible en PDF con un recuadro para el sello del centro de buceo, una hoja de cálculo CSV y el formato UDDF usado por software de buceo) y certificaciones (niveles, especialidades, certificado médico, con una foto de cada tarjeta y una advertencia antes de que venza)."
+      },
+      {
+        "q": "¿Cómo recupero mi compra en un dispositivo nuevo?",
+        "a": "Abra Ajustes › \"Descubrir Pro\" y toque \"Restaurar mi compra\", con la cuenta de App Store que usó para comprarla. No pagará una segunda vez."
+      },
+      {
+        "q": "¿Puedo cambiar las unidades?",
+        "a": "Sí: en Ajustes › Unidades, elija metros, °C y bar, o pies, °F y psi. Sus inmersiones no cambian: solo cambia la visualización, incluida en las exportaciones."
+      },
+      {
+        "q": "¿Dónde se almacenan mis inmersiones? ¿Cómo las respalda?",
+        "a": "Solo en tu dispositivo, en el almacenamiento privado de la app. No hay cuenta ni servidor, y la bitácora no se sincroniza entre tus dispositivos. Forma parte de la copia de seguridad de iCloud de tu iPhone o de la copia de seguridad de tu computadora, que gestionas en la configuración de Apple. Con Pro, también puedes guardar una copia al exportar la bitácora (Ajustes › \"Exportar bitácora\"). Eliminar la app borra la bitácora del dispositivo."
+      },
+      {
+        "q": "¿Puedo usar la app para planear una inmersión o bucear con seguridad?",
+        "a": "No. Dive Log guarda un registro de tus inmersiones después de que las realizas. No es ni un computador de buceo ni una herramienta de planificación: nunca la uses para decidir la profundidad, la duración o una parada de descompresión. Siempre bucea con el equipo adecuado y dentro de los límites de tu formación."
+      }
+    ],
+    "privacy_summary": "Dive Log no recopila datos, no requiere cuenta y no contiene anuncios ni rastreadores. Las mediciones leídas desde Health permanecen en tu dispositivo."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resumen",
+        "blocks": [
+          {
+            "p": "Dive Log no recopila datos. Todo lo que haces en la app permanece en tu iPhone o iPad."
+          },
+          {
+            "ul": [
+              "Sin cuenta, sin anuncios, sin rastreo: la app no contiene herramientas de análisis ni publicidad, y no te identifica de ninguna manera.",
+              "Sin servidor: la aplicación solo se conecta a internet para la compra de Pro, que se gestiona directamente por Apple."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Datos de Salud",
+        "blocks": [
+          {
+            "p": "Con tu permiso, la app lee dos mediciones registradas por tu Apple Watch en la app Salud: profundidad bajo el agua y temperatura del agua. Las utiliza únicamente para encontrar tus inmersiones y dibujar su perfil."
+          },
+          {
+            "ul": [
+              "Estas mediciones se procesan en tu dispositivo y no se envían a ningún lado.",
+              "No se usan para publicidad ni para perfiles, y no se comparten con nadie.",
+              "La app no escribe nada en Salud y no lee otros datos de salud.",
+              "Puedes retirar el permiso en cualquier momento en Ajustes › Salud › Acceso a datos y dispositivos."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Tu bitácora de buceo",
+        "blocks": [
+          {
+            "p": "Tus inmersiones, notas y certificaciones se almacenan en el almacenamiento privado de la app, en tu dispositivo. Eliminarlas (quitar una inmersión o desinstalar la app) las borrará por completo. Pueden incluirse en las copias de seguridad de iCloud o de tu computadora, que tú gestionas en la configuración de Apple."
+          }
+        ]
+      },
+      {
+        "h": "Fotos de tarjetas",
+        "blocks": [
+          {
+            "p": "Si agregas una foto de una tarjeta de certificación, la app solo recibe la foto que tú eliges; no tiene acceso al resto de tu biblioteca de fotos. Esa foto se mantiene en tu dispositivo, junto con la bitácora."
+          }
+        ]
+      },
+      {
+        "h": "Exportaciones",
+        "blocks": [
+          {
+            "p": "Los archivos PDF, CSV y UDDF se crean en tu dispositivo. Tú eliges a dónde enviarlos o guardarlos; la app no los comparte con nadie."
+          }
+        ]
+      },
+      {
+        "h": "Compras",
+        "blocks": [
+          {
+            "p": "La compra de Pro se realiza y gestiona directamente por Apple. La app no ve tu método de pago ni tu identidad; solo lee, a través de la App Store, si la compra se realizó, para desbloquear las funciones."
+          }
+        ]
+      },
+      {
+        "h": "Niños",
+        "blocks": [
+          {
+            "p": "Dive Log no recopila ningún dato, incluyendo de menores."
+          }
+        ]
+      },
+      {
+        "h": "Cambios",
+        "blocks": [
+          {
+            "p": "Si esta política cambia, la nueva versión se publicará en esta página con su fecha de actualización."
+          }
+        ]
+      },
+      {
+        "h": "Contacto",
+        "blocks": [
+          {
+            "p": "Para cualquier pregunta sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "Sukelluspäiväkirjasi, jossa syvyys on mitattu Apple Watch Ultra:lla",
+    "contact": "Kysymys, idea tai ongelma sovelluksen kanssa? Kirjoita minulle:<br>{email}",
+    "faq": [
+      {
+        "q": "Miten voin tuoda sukellukset Apple Watch Ultra:sta?",
+        "a": "Tarkoituksessa ei tarvita asennusta kellon puolella. Sukelluksessa Apple Watch Ultra tallentaa syvyyden (jopa 40 metriä, 130 jalkaa) ja veden lämpötilan automaattisesti iPhone:n Health-sovellukseen. Sukelluspäiväkirjassa avaa Päiväkirja-välilehti, paina \"+\" ja valitse \"Tuoda Apple Watchista\", ja lopuksi \"Etsi sukellukset\". Ensimmäisellä kerralla iOS pyytää lupaa lukea nämä kaksi mittaria. Sovellus löytää jokaisen sukelluksen päivämäärän, keston, syvyyden ja profiilin; sinun tarvitsee vain lisätä sijainti, sukelluspari tai säiliön paine."
+      },
+      {
+        "q": "Tuonti ei löydä sukelluksia. Mitä teen?",
+        "a": "Tarkista ensin, että sukellus tehtiin Apple Watch Ultra:lla ja että kellon on ollut aikaa synkronoida iPhone:n kanssa (pidä ne lähellä toisiaan muutama minuutti, kun Health-sovellus on avattuna). Tarkista sitten käyttöoikeudet: Asetukset › Terveydenhuolto › Tietojen pääsy & laitteet, valitse sovellus ja ota käyttöön \"Alasukelluksen syvyys\" sekä \"Veden lämpötila\". Yritä myös pidempää aikaväliä (\"Koko historia\"). Sukellukset, jotka kestävät alle 2 minuuttia tai jotka ovat alle 1,5 metriä syvyydeltään (5 jalkaa), jätetään pois."
+      },
+      {
+        "q": "Voinko säilyttää päiväkirjani ilman Apple Watchia?",
+        "a": "Kyllä. Paina \"+\" ja valitse \"Syötä sukellus\", ja kirjoita mitä tahansa haluat: päivämäärä, kesto, syvyys, sijainti, sukelluspari, lämpötilat, näkyvyys, kaasu, säiliön paine, painot, sukkatyyppi, sukellustyyppi, arvostelu ja muistiinpanot. Mitään ei tarvitse täyttää. Jos myöhemmin tuot sukelluksen samasta kellosta, sovellus täydentää syötteesi profiililla eikä luo kaksoiskappaleita."
+      },
+      {
+        "q": "Olin jo sukellut ennen kuin käytin tätä päiväkirjaa. Miten säilytän numeroinnin?",
+        "a": "Asetuksista syötä \"Sukellukset ennen tätä päiväkirjaa\" -luku. Numerointi ja yhteenvetot ottavat sen huomioon: jos olet jo tehnyt 120 sukellusta, ensimmäinen tässä päiväkirjassa on numero 121. Sukellukset numeroidaan aina päivämäärän mukaan, vaikka lisäisit vanhan sukelluksen myöhemmin."
+      },
+      {
+        "q": "Mitä Pro sisältää ja paljonko se maksaa?",
+        "a": "Päiväkirja, manuaalinen syöttö, sukellusprofiili ja tuonti Apple Watchista ovat ilmaisia ja rajoittamattomia. Pro on yhden kerran ostettava lisäosa ilman tilauksia; sen hinta näytetään sovelluksessa ennen ostopäätöstä. Se lisää tilastot (ennätykset, sukellukset vuosittain ja vuodenaikoina, syvyys, suosikit paikat ja parit, ilman kulutus), vienti (tulostettava PDF-päiväkirja, jossa laatikko sukelluskeskuksen tarkistuspainokseen, CSV-tiedosto ja UDDF-muoto, jota käytetään sukellusohjelmistoissa) sekä todistukset (taso, erikoisalat, lääkärin vahvistus, kunkin kortin kuva ja varoitus ennen vanhentumista)."
+      },
+      {
+        "q": "Miten hankin oston uudelle laitteelle?",
+        "a": "Avaa Asetukset › \"Tutustu Proon\" ja paina \"Palauta osto\", käyttäen App Store -tiliä, jolla ostit sen aiemmin. Et maksa toista kertaa."
+      },
+      {
+        "q": "Voinko vaihtaa yksiköt?",
+        "a": "Kyllä: Asetuksissa › \"Yksiköt\" valitse metrit, °C ja bar tai jalka, °F ja psi. Sukellustasi ei muuteta: vain näyttö muuttuu, myös vientitiedostojen kohdalla."
+      },
+      {
+        "q": "Mistä sukellukset tallennetaan? Miten voin varmuuskopioida ne?",
+        "a": "Vain laitteesi sisällä sovelluksen yksityisessä tallennustilassa. Sovellukseen ei ole tiliä eikä palvelinta, eikä päiväkirjaa synkronoida laitteiden välillä. Se on osa iPhone-laitteesi iCloud-varmuuskopiota tai tietokoneen varmuuskopiota, jonka hallinnoit Applen asetuksissa. Pro-tilalla voit myös säilyttää kopion vievällä päiväkirjasta (Asetukset › \"Vie päiväkirja\"). Sovelluksen poistaminen tyhjentää päiväkirjan laitteelta."
+      },
+      {
+        "q": "Voinko käyttää sovellusta suunnitella sukellusta tai sukella turvallisesti?",
+        "a": "Ei. Dive Log tallentaa sukellukset vasta niiden jälkeen. Se ei ole sukelluslaskin eikä suunnittelutyökalu: älä koskaan käytä sitä syvyys-, kesto- tai dekompressio pysähdyksen määrittelyyn. Sukella aina oikeilla välineillä ja koulutuksesi rajoissa."
+      }
+    ],
+    "privacy_summary": "Dive Log ei kerää mitään tietoja, vaatii tiliä eikä sisällä mainoksia tai seurantatyökaluja. Mittaukset, jotka luetaan Terveydestä, pysyvät laitteellasi."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Lyhyesti",
+        "blocks": [
+          {
+            "p": "Dive Log ei kerää tietoja. Kaikki, mitä teet sovelluksessa, pysyy iPhone- tai iPad-laitteellasi."
+          },
+          {
+            "ul": [
+              "Ei tiliä, ei mainoksia, ei seurantaa: sovellus ei sisällä analytiikka- tai mainosvälineitä eikä tunnista sinua millään tavalla.",
+              "Ei palvelinta: sovellus yhdistyy internetiin vain Pro-tilin ostamiseen, joka käsitellään Applella."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Terveyttiedot",
+        "blocks": [
+          {
+            "p": "Antamallasi lupauksella sovellus lukee kaksi mittausarvoa, jotka Apple Watch on tallentanut terveyssovellukseen: syvyyden alla veden ja veden lämpötilan. Ne käytetään vain sukellusten löytämiseen ja profiilien piirtämiseen."
+          },
+          {
+            "ul": [
+              "Nämä mittaukset käsitellään laitteesi sisällä eikä niitä lähetetä missään muodossa mihinkään paikkaan.",
+              "Niitä ei käytetä mainontaan tai profiloimiseen, eikä jaeta ketkään kanssa.",
+              "Sovellus ei kirjoita mitään terveyssovellukseen eikä lue muita terveyttiedot.",
+              "Voit peruuttaa lupauksen milloin tahansa asetuksissa › Terveyttiedot › Tietojen käyttö ja laitteet."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Sukelluspäiväkirjasi",
+        "blocks": [
+          {
+            "p": "Sukellukset, muistiinpanot ja todistukset tallennetaan sovelluksen yksityiseen tallennustilaan laitteesi sisään. Niiden poistaminen (sukelluksen poisto tai sovelluksen poisto) poistaa ne kokonaan. Ne voivat sisältyä laitteesi iCloud- tai tietokoneen varmuuskopioihin, joita hallinnoit itse Apple-asetuksissa."
+          }
+        ]
+      },
+      {
+        "h": "Todistuskortin kuvat",
+        "blocks": [
+          {
+            "p": "Jos lisäät todistuskortin kuvan, sovellus saa vain valitsemasi kuvan; siihen ei ole pääsyä muuhun valokuvakirjastoon. Tämä kuva säilytetään laitteellasi yhdessä päiväkirjan kanssa."
+          }
+        ]
+      },
+      {
+        "h": "Viejä",
+        "blocks": [
+          {
+            "p": "PDF-, CSV- ja UDDF-tiedostot luodaan laitteesi sisällä. Valitset itse, minne tiedostot lähetetään tai tallennetaan; sovellus ei jaa niitä kenenkään kanssa."
+          }
+        ]
+      },
+      {
+        "h": "Ostot",
+        "blocks": [
+          {
+            "p": "Pro-tilin ostaminen myydään ja käsitellään Applen kautta. Sovellus ei näe maksutapaa eikä henkilöllisyyttäsi; se lukee vain App Storesta, onko osto tehty, jotta ominaisuudet voidaan avata."
+          }
+        ]
+      },
+      {
+        "h": "Lapset",
+        "blocks": [
+          {
+            "p": "Sukelluspäiväkirja ei kerää mitään tietoja, myöskään lapsilta."
+          }
+        ]
+      },
+      {
+        "h": "Muutokset",
+        "blocks": [
+          {
+            "p": "Jos tämä tietosuojakäytäntö muuttuu, uusi versio julkaistaan täällä päivämäärän kanssa."
+          }
+        ]
+      },
+      {
+        "h": "Yhteystiedot",
+        "blocks": [
+          {
+            "p": "Kysymyksissä tästä käytännöstä: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}
