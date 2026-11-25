@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Imker-Notizbuch: Durchsichten, Behandlungen, Ernten und Bestandsbuch",
+    "contact": "Eine Frage, eine Idee oder ein Problem mit der App? Schreiben Sie mir:<br>{email}",
+    "faq": [
+      {
+        "q": "Wo fange ich an?",
+        "a": "Im Tab Bienenstände erstellen Sie Ihren Bienenstand, dann tippen Sie auf „Bienenstock hinzufügen“: Die App schlägt einen Namen vor, und Sie können den Bienenstocktyp sowie das Geburtsjahr der Königin angeben. Öffnen Sie anschließend Einstellungen › Betrieb, um Ihren Namen, Ihre Adresse und Ihre Nummer als Imker (NAPI) einzugeben: Diese Daten bilden den Kopf des Bestandsbuches. Unter seinem Symbol erscheint die App als „Meine Bienen“."
+      },
+      {
+        "q": "Wie notiere ich eine Durchsicht schnell?",
+        "a": "Öffnen Sie den Bienenstock und tippen Sie auf „Durchsicht“, oder wischen Sie die Zeile des Bienenstocks in der Liste nach rechts. Nichts ist obligatorisch: Tippen Sie nur das, was Sie gesehen haben (Königin, Rähmchen mit Bienen und Brut, Futtervorräte, Weiselzellen, beobachtete Zeichen, Varroamilben-Zählung, Honigraum, Fütterung). Ein erneutes Tippen auf eine Auswahl löscht sie wieder."
+      },
+      {
+        "q": "Wie registriere ich eine Behandlung gegen Varroamilben?",
+        "a": "Tippen Sie auf „Behandlung“ von einem Bienenstock aus oder auf „Gesamten Bienenstand behandeln“ im Menü ⋯ des Bienenstands. „Zugelassenes Mittel auswählen“ füllt den Namen, die Wirkstoffe, die Wartezeit und das geplante Enddatum aus. Alles bleibt editierbar: Die Packungsbeilage ist maßgeblich. Fügen Sie die Menge pro Bienenstock und den Lieferanten hinzu, wie es das Bestandsbuch verlangt. Am geplanten Enddatum erhält die App Sie eine Erinnerung, und „Heute entfernt“ schließt die Behandlung ab."
+      },
+      {
+        "q": "Reicht das Register der App bei einer Kontrolle aus?",
+        "a": "Es enthält die von der Verordnung vom 5. Juni 2000 vorgesehenen Abschnitte für Bienen: Betrieb, Gesundheitsüberwachung, Bienenstände, Bewegungen der Völker und Behandlungen, zusätzlich zur Ernte. Das Bestandsbuch muss auf Papier vorliegen können: exportieren Sie es als PDF, drucken Sie es regelmäßig aus und bewahren Sie es fünf Jahre lang auf, zusammen mit den Verschreibungen sowie Rechnungen oder Lieferscheinen für Medikamente. Die App ersetzt weder die offiziellen Texte noch die Beratung Ihres Tierarztes oder Ihrer Imker-Genossenschaft; bei Zweifeln wenden Sie sich an die zuständige Bezirksbehörde für den Schutz der Bevölkerung (DDPP). Außerhalb Frankreichs gelten die Vorschriften Ihres eigenen Landes."
+      },
+      {
+        "q": "Wie verschiebe ich Bienenstöcke von einem Bienenstand zum anderen?",
+        "a": "Öffnen Sie den Bienenstock, dann ⋯ › Verschieben; für mehrere Bienenstöcke gleichzeitig nutzen Sie das Menü des Bienenstands › Bienenstöcke verschieben. Wählen Sie den Ziel-Bienenstand und das Datum: Die Verschiebung wird im Bestandsbuch dokumentiert. Mehrere Bienenstände erfordern Imker-Notizbuch Pro."
+      },
+      {
+        "q": "Ein Volk ist gestorben, verkauft oder vereinigt worden: Was soll ich tun?",
+        "a": "Öffnen Sie den Bienenstock, dann ⋯ › Bienenstock beenden und wählen Sie die Ursache aus. Der Bienenstock verlässt die Liste der aktiven Bienenstöcke, behält aber seine gesamte Historie, und seine Entfernung wird im Bestandsbuch eingetragen. „Löschen“ hingegen löscht den Bienenstock und die im Bestandsbuch nur für ihn aufgezeichneten Einträge: bevorzugen Sie „Bienenstock beenden“."
+      },
+      {
+        "q": "Erstellt die App die jährliche Bienenstockmeldung automatisch?",
+        "a": "Nein. In Frankreich erinnert die App im Tab „Zu erledigen“ vom 1. September bis zum 31. Dezember an die jährliche Meldung, und „Online melden“ öffnet die offizielle Seite auf service-public.gouv.fr. Sobald Ihre Meldung abgeschlossen ist, tippen Sie auf „Fertig“: Der Erinnerungstipp erscheint im nächsten Jahr erneut. Außerhalb Frankreichs wird diese Erinnerung nicht angezeigt."
+      },
+      {
+        "q": "Meine Erinnerung nach Behandlung kommt nicht an. Warum?",
+        "a": "Stellen Sie sicher, dass Benachrichtigungen aktiviert sind: iPhone-Einstellungen › Benachrichtigungen › Meine Bienen. In den App-Einstellungen muss „Erinnerung nach Behandlung“ aktiviert sein. Die Erinnerung wird um 9 Uhr am geplanten Endtag versendet, nur wenn die Behandlung ein geplantes Enddatum hat und noch nicht abgeschlossen ist. Stellen Sie außerdem sicher, dass zu diesem Zeitpunkt kein Konzentrationsmodus aktiv ist."
+      },
+      {
+        "q": "Was enthält Imker-Notizbuch Pro und wie viel kostet es?",
+        "a": "Die kostenlose Version hat keine zeitliche Beschränkung: ein Bienenstand, so viele Bienenstöcke wie gewünscht, Durchsichten, Behandlungen, Ernten, das Bestandsbuch auf dem Bildschirm und Backups. Imker-Notizbuch Pro ist eine einmalige Zahlung ohne Abo für 9,99 € in Frankreich (der Preis variiert je nach Land): unbeschränkt viele Bienenstände und Export des Bestandsbuchs als PDF. Es ist mit Familienfreigabe kompatibel. Auf einem neuen Gerät öffnen Sie Einstellungen › Pro entdecken › „Käufe wiederherstellen“."
+      },
+      {
+        "q": "Wo wird mein Notizbuch gespeichert, und wie kann ich es sichern?",
+        "a": "Nur auf Ihrem Gerät: Es gibt weder ein Konto noch einen Server noch eine Synchronisierung zwischen Geräten. In Einstellungen › „Backup speichern“ erstellt die App eine Datei, die Sie in „Dateien“ oder „iCloud Drive“ speichern können. Um von einem iPhone zu wechseln oder auf ein iPad zu wechseln, senden Sie diese Datei auf das andere Gerät und wählen „Backup wiederherstellen“: Das vorhandene Notizbuch wird dann durch das aus der Datei ersetzt."
+      }
+    ],
+    "privacy_summary": "Imker-Notizbuch erhebt keine Daten, verlangt kein Konto und enthält weder Werbung noch Tracker. Ihr Notizbuch bleibt auf Ihrem Gerät."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kurz zusammengefasst",
+        "blocks": [
+          {
+            "p": "Imker-Notizbuch sammelt keine Daten. Alles, was Sie in der App notieren, bleibt auf Ihrem iPhone oder iPad."
+          },
+          {
+            "ul": [
+              "Kein Konto, keine Werbung, kein Tracking: Die App enthält weder Analyse- noch Werbeinstrumente und identifiziert Sie auf keine Weise."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Ihr Notizbuch und Ihr Bestandsbuch",
+        "blocks": [
+          {
+            "p": "Die Angaben zu Ihrem Betrieb (Name, Adresse, Imker-Nummer, SIRET, Telefon, Tierarzt), Ihre Bienenstände, Bienenstöcke, Durchsichten, Behandlungen, Ernten und die Bewegungen Ihrer Völker werden in der privaten Speicherung der App auf Ihrem Gerät gespeichert. Sie werden an niemanden weitergegeben, nicht einmal an den Entwickler."
+          },
+          {
+            "p": "Das Löschen der App löscht das gesamte Notizbuch. Es kann in den iCloud- oder lokalen Sicherungen Ihres Geräts enthalten sein, die Sie selbst in den Einstellungen von Apple verwalten."
+          }
+        ]
+      },
+      {
+        "h": "Exporte und Backups",
+        "blocks": [
+          {
+            "p": "Das PDF des Bestandsbuchs und die Backup-Datei werden nur erstellt, wenn Sie sie anfordern, und Sie entscheiden selbst, wo Sie sie speichern oder wen Sie sie senden. Sie enthalten die Angaben zu Ihrem Betrieb: Die App hat nach dem Teilen einer Datei keine Kontrolle mehr darüber."
+          }
+        ]
+      },
+      {
+        "h": "Benachrichtigungen",
+        "blocks": [
+          {
+            "p": "Die Erinnerung nach Behandlung wird auf dem Gerät geplant; es ist kein Server beteiligt."
+          }
+        ]
+      },
+      {
+        "h": "Link zur Bienenstand-Meldung",
+        "blocks": [
+          {
+            "p": "Der Button „Online melden“ öffnet in Ihrem Browser eine Seite von service-public.gouv.fr. Die App übermittelt keine Informationen an diese Seite; dieser Dienst wendet seine eigene Datenschutzrichtlinie an."
+          }
+        ]
+      },
+      {
+        "h": "Käufe",
+        "blocks": [
+          {
+            "p": "Imker-Notizbuch Pro wird von Apple verkauft und verwaltet. Die App sieht weder Ihre Zahlungsmethode noch Ihre Identität; sie liest lediglich über den App Store, ob der Kauf erfolgt ist, um die Funktionen freizuschalten."
+          }
+        ]
+      },
+      {
+        "h": "Kinder",
+        "blocks": [
+          {
+            "p": "Imker-Notizbuch erhebt keine Daten, auch nicht von Kindern."
+          }
+        ]
+      },
+      {
+        "h": "Änderungen",
+        "blocks": [
+          {
+            "p": "Wenn sich diese Richtlinie ändert, wird die neue Version auf dieser Seite mit dem Aktualisierungsdatum veröffentlicht."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Für Fragen zu dieser Richtlinie: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

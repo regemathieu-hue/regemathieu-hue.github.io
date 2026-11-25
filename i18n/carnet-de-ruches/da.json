@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Biavlerens notesbog: eftersyn, behandlinger, høst og besætningsregister",
+    "contact": "Har du en spørgsmål, en idé eller et problem med appen? Skriv til mig:<br>{email}",
+    "faq": [
+      {
+        "q": "Hvor starter jeg?",
+        "a": "I fanen Bigårde opretter du din bigård, og trykker derefter på « Tilføj en bistade »: appen foreslår et navn, og du kan angive typen af bistaden og året for dronningen. Åbn derefter Indstillinger › Bedrift for at indtaste dit navn, din adresse og dit apicultor-nummer (NAPI): disse oplysninger danner overskriften i besætningsregisteret. Under ikonet hedder appen « Mine bistader »."
+      },
+      {
+        "q": "Hvordan noterer jeg et eftersyn hurtigt?",
+        "a": "Åbn bistaden og tryk på « Eftersyn », eller skyd linjen for bistaden mod højre i listen. Der er intet obligatorisk: tryk kun på det, du har set (drønning, tavler med bier og yngel, forråd, dronningeceller, observerede tegn, varroamider-tælling, magasiner, fodring). Tryk igen på et valg for at fjerne det."
+      },
+      {
+        "q": "Hvordan registrerer jeg en behandling mod varroamider?",
+        "a": "Tryk på « Behandling » fra en bistade, eller på « Behandl hele bigården » i menuen ⋯ for bigården. « Vælg en godkendt medicin » udfylder navn, aktiv stof, tilbageholdelsestid og planlagt afslutningsdato. Alt kan redigeres: den officielle brugsanvisning gælder. Tilføj mængden pr. bistade og leverandøren, som registeret kræver. På den planlagte afslutningsdato sender appen en påmindelse, og « Fjernet i dag » afslutter behandlingen."
+      },
+      {
+        "q": "Er appens register tilstrækkeligt ved kontrol?",
+        "a": "Det samler de afsnit, der kræves for bier i henhold til bekendtgørelse af 5. juni 2000: bedrift, sundhedsopsyn, bigårde, koloniers bevægelser og behandlinger, med høst tilføjet. Registreringen skal kunne præsenteres på papir: eksporter den som PDF, udskriv den regelmæssigt og gem den i fem år sammen med ordiner og fakturaer eller leverancebeviser for medicin. Appen erstatter hverken de officielle tekster eller råd fra din dyrlæge eller dit sanitarforening; i tvivl kontakt din lokale dyrægtsmyndighed. I lande uden for Frankrig gælder dine egne landes regler."
+      },
+      {
+        "q": "Hvordan flytter jeg bistader fra en bigård til en anden?",
+        "a": "Åbn bistaden, derefter ⋯ › Flyt; for flere bistader ad gangen brug menuen ⋯ i bigården › Flyt bistader. Vælg destinationsbigården og dato: flytningen registreres i registreringens bevægelser. At have flere bigårde kræver Biavlerens notesbog Pro."
+      },
+      {
+        "q": "En bifamilie er død, solgt eller sammenlægget: hvad skal jeg gøre?",
+        "a": "Åbn bistaden, derefter ⋯ › Sæt i stand, og vælg årsagen. Bistaden forlader listen over aktive bistader, men bevare hele historikken, og dens fjernelse registreres i registeret. «Slet» sletter imodvillig bistaden og de registerlinjer, der kun vedrørte den: vælg hellere «Sæt i stand»."
+      },
+      {
+        "q": "Gør appen årlig høstdeklaration for mig?",
+        "a": "Nej. I Frankrig minder appen om det i fanen At gøre fra 1. september til 31. december, og «Indberet online» åbner den officielle side på service-public.gouv.fr. Når din deklaration er udført, tryk på «Færdig»: minder vil komme igen næste år. I lande uden for Frankrig vises denne påmindelse ikke."
+      },
+      {
+        "q": "Mit husk at behandlingen er afsluttet kommer ikke, hvorfor?",
+        "a": "Tjek, at notifikationer er tilladt: iPhone-indstillinger › Notifikationer › Mine bistader. I appens indstillinger skal «Husk at behandlingen er afsluttet» være aktiveret. Huskemeldingen sendes kl. 9 den planlagte slutdato, kun hvis behandlingen har en planlagt slutdato og ikke allerede er afsluttet. Tjek også, at ingen Koncentrationsmodus er aktiv til det tidspunkt."
+      },
+      {
+        "q": "Hvad omfatter Biavlerens notesbog Pro, og hvor meget koster det?",
+        "a": "Den gratis version har ingen tidsbegrænsning: en bigård, lige så mange bistader som du vil, eftersyn, behandlinger, høst, register på skærmen og sikkerhedskopier. Biavlerens notesbog Pro er en én gang køb uden abonnement, 9,99 € i Frankrig (prisen varierer afhængigt af landet): ubegrænset antal bigårde og eksport af besætningsregisteret som PDF. Den er kompatibel med familie-deling. På et nyt apparat åbner du Indstillinger › Opdag Pro › «Genindkøb»."
+      },
+      {
+        "q": "Hvor er min notesbog gemt, og hvordan sikkerhedskopierer jeg den?",
+        "a": "Kun på dit apparat: der er ingen konto, ingen server og ingen synkronisering mellem enheder. I Indstillinger › «Gem sikkerhedskopi» opretter appen en fil, som du kan gemme i Filer eller iCloud Drive. Hvis du skifter iPhone eller går over til iPad, sender du filen til den anden enhed og vælger «Gendan en sikkerhedskopi»: notesbogen på enheden erstattes derefter af den fra filen."
+      }
+    ],
+    "privacy_summary": "Biavlerens notesbog indsamler ingen data, kræver ingen konto og indeholder hverken reklame eller sporing. Din notesbog forbliver på dit apparat."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort sagt",
+        "blocks": [
+          {
+            "p": "Biavlerens notesbog indsamler ingen data. Alt, du noterer i appen, forbliver på din iPhone eller iPad."
+          },
+          {
+            "ul": [
+              "Ingen konto, ingen reklame, ingen sporingsfunktioner: appen indeholder hverken analysetools eller reklamer, og identificerer dig ikke på nogen måde."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Din notesbog og dit register",
+        "blocks": [
+          {
+            "p": "Oplysningerne om din bedrift (navn, adresse, biavlernummer, SIRET, telefon, dyrlæge), dine bigårde, dine bistader, dine eftersyn, dine behandlinger, dine høster og bevægelserne af dine bifamilier gemmes i appens private lagring på din enhed. De sendes ikke til nogen, ikke engang til udvikleren."
+          },
+          {
+            "p": "At fjerne appen sletter hele notesbogen. Den kan være med i iCloud- eller lokale sikkerhedskopier af din enhed, som du selv styrer i Apple's indstillinger."
+          }
+        ]
+      },
+      {
+        "h": "Eksporter og sikkerhedskopier",
+        "blocks": [
+          {
+            "p": "PDF'en fra registeret og sikkerhedskopifilen oprettes kun, når du beder om dem, og du vælger, hvor de gemmes eller hvem de sendes til. De indeholder oplysningerne om din bedrift: appen har ingen kontrol over en fil, når du har delt den."
+          }
+        ]
+      },
+      {
+        "h": "Notifikationer",
+        "blocks": [
+          {
+            "p": "Husk at behandlingen er afsluttet er planlagt på enheden; ingen server er involveret."
+          }
+        ]
+      },
+      {
+        "h": "Link til ruchedeklaration",
+        "blocks": [
+          {
+            "p": "Knap Indberet online åbner en side på service-public.gouv.fr i din browser. Applikationen sender ingen oplysninger til siden; denne side anvender sin egen privatlivspolitik."
+          }
+        ]
+      },
+      {
+        "h": "Køb",
+        "blocks": [
+          {
+            "p": "Biavlerens notesbog Pro sælges og håndteres af Apple. Applikationen ser hverken dit betalingsmiddel eller din identitet; den læser kun via App Store, om købet er foretaget, for at låse funktionerne op."
+          }
+        ]
+      },
+      {
+        "h": "Børn",
+        "blocks": [
+          {
+            "p": "Biavlerens notesbog samler ingen data, ikke engang fra børn."
+          }
+        ]
+      },
+      {
+        "h": "Ændringer",
+        "blocks": [
+          {
+            "p": "Hvis denne politik ændres, vil den nye version blive offentliggjort på denne side med dens opdateringsdato."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "For alle spørgsmål om denne politik: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

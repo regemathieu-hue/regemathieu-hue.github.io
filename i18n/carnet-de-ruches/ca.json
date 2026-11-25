@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "El quadern de l'apicultor: revisió, tractaments, collita i llibre de registre",
+    "contact": "Una pregunta, una idea o un problema amb l'aplicació? Escriviu-me:<br>{email}",
+    "faq": [
+      {
+        "q": "Per on començar?",
+        "a": "A la pestanya Apiaris, creeu el vostre apiari, després toqueu «Afegir una arna»: l'aplicació proposa un nom, i podeu especificar el model de l'arna i l'any de la reina. Obriu Després › Explotació per introduir el vostre nom, adreça i número d'apicultor (NAPI): formen el capçalera del registre. Sota la seva icona, l'aplicació es diu «Les arnes»."
+      },
+      {
+        "q": "Com anotar una revisió ràpidament?",
+        "a": "Obriu l'arna i toqueu «Revisió», o desplaceu cap a la dreta la línia de l'arna a la llista. Res no és obligatori: toqueu només el que heu vist (reina, quadres d'abelles i cria, reserves, cel·les reials, senyals observades, comptatge de varroa, alçes, alimentació). Tocar de nou una opció l'elimina."
+      },
+      {
+        "q": "Com registrar un tractament contra el varroa?",
+        "a": "Toqueu «Tractament» des d'una arna, o «Tractar tot l'apiari» al menú ⋯ de l'apiari. «Tria un medicament autoritzat» omple el nom, la substància activa, el temps d'espera i la data de finalització prevista. Tot roman modificable: la informació del medicament és la que té valor. Afegiu la quantitat per arna i el proveïdor, que el registre demana. El dia previst de finalització, l'aplicació us envia un recordatori, i «Eliminat avui» tanca el tractament."
+      },
+      {
+        "q": "El registre de l'aplicació és suficient en cas de control?",
+        "a": "Reuneix les seccions previstes per a les abelles segons l'ordre del 5 de juny de 2000: explotació, supervisió sanitària, apiaris, moviments de colònies i tractaments, amb les collites afegides. El registre ha de poder presentar-se en paper: exporteu-lo com a PDF, imprimeixeu-lo regularment i manteniu-lo durant cinc anys, juntament amb les receptes i les factures o les llistes de lliurament dels medicaments. L'aplicació no substitueix els textos oficials ni els consells del velerinar o del seu grup sanitari; en cas de dubte, dirigiu-vos a la direcció departamental de protecció de poblacions (DDPP). A fora de França, comproveu les normes del vostre país."
+      },
+      {
+        "q": "Com puc traslladar arnes d'un apiari a un altre?",
+        "a": "Obriu l'arna, després ⋯ › Desplaçar; per a diverses arnes alhora, passeu pel menú ⋯ de l'apiari › Desplaçar les arnes. Trieu l'apiari d'arribada i la data: el trasllat es registra als moviments del registre. Tenir diversos apiaris requereix Les arnes Pro."
+      },
+      {
+        "q": "Una colònia ha mort, s'ha venut o s'ha reunit: què he de fer?",
+        "a": "Obriu l'arna, després ⋯ › Aturar l'arna, i trieu la raó. L'arna surt de la llista d'arnes actives però conserva tot el seu historial, i la seva sortida es registra al registre. «Eliminar» elimina en canvi l'arna i les línies del registre que només la concernien: prefereix «Aturar»."
+      },
+      {
+        "q": "L'aplicació fa la declaració anual d'arnes?",
+        "a": "No. A França, l'aplicació us en recorda a la pestanya À fer, del 1 de setembre al 31 de desembre, i «Declara en línia» obre la pàgina oficial del lloc service-public.gouv.fr. Un cop heu fet la declaració, toqueu «Fet»: el recordatori tornarà l'any següent. A fora de França, aquest recordatori no es mostra."
+      },
+      {
+        "q": "El meu recordatori de final de tractament no arriba. Per què?",
+        "a": "Comproveu que les notificacions estiguin autoritzades: Configuració de l'iPhone › Notificacions › Les arnes. A la Configuració de l'aplicació, «Recordatori de final de tractament» ha d'estar activat. El recordatori es fa servir a les 9 h del dia previst de finalització, només si el tractament té una data de finalització prevista i encara no ha acabat. Comproveu també que no hi hagi cap mode Concentració actiu a aquella hora."
+      },
+      {
+        "q": "Què inclou Quadern d'arnes Pro i quant costa?",
+        "a": "La versió gratuïta no té límit de temps: un apiari, tantes arnes com vulgueu, revisiós, tractaments, collites, el registre a pantalla i còpies de seguretat. Quadern d'arnes Pro és una compra única, sense subscripció, de 9,99 € a França: apiaris il·limitats i exportació del llibre de registre en PDF. És compatible amb el compartició familiar. En un nou dispositiu, obriu Configuració › Descobreix el Pro › «Restaurar compres»."
+      },
+      {
+        "q": "On es registra el meu quadern i com fer-ne una còpia de seguretat?",
+        "a": "Només al vostre dispositiu: no hi ha cap compte, cap servidor ni sincronització entre dispositius. A Configuració › «Desa una còpia de seguretat», l'aplicació crea un fitxer que podeu mantenir a Fichiers o iCloud Drive. Per canviar d'iPhone o passar a iPad, envieu aquest fitxer al altre dispositiu i trieu «Restaurar una còpia de seguretat»: el quadern existent es substituirà pel del fitxer."
+      }
+    ],
+    "privacy_summary": "Quadern d'arnes no recull cap dada, no demana cap compte i no conté publicitat ni rastrejadors. El vostre quadern roman al vostre dispositiu."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resum",
+        "blocks": [
+          {
+            "p": "El Quadern d'arnes no recull cap dada. Tot el que escriu a l'aplicació roman al seu iPhone o iPad."
+          },
+          {
+            "ul": [
+              "Cap compte, cap publicitat, cap seguiment: l'aplicació no conté cap eina d'anàlisi ni de publicitat, ni us identifica de cap manera."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "El vostre quadern i el vostre registre",
+        "blocks": [
+          {
+            "p": "Les dades de la vostra explotació (nom, adreça, número d'apicultor, SIRET, telèfon, veterinari), els vostres apiaris, les vostres arnes, les vostres revisions, els vostres tractaments, les vostres collites i els moviments de les vostra colònies es guarden al magatzem privat de l'aplicació, al vostre dispositiu. No s'envien a ningú, ni tan sols al desenvolupador."
+          },
+          {
+            "p": "Eliminar l'aplicació esborra tot el quadern. Pot incloure's en les còpies de seguretat d'iCloud o locals del vostre dispositiu, que gestioneu vosaltres mateixos als ajustaments d'Apple."
+          }
+        ]
+      },
+      {
+        "h": "Exports i còpies de seguretat",
+        "blocks": [
+          {
+            "p": "El PDF del registre i el fitxer de còpia de seguretat només es creen quan ho demaneu, i és vosaltres qui trieu on desar-los o a qui enviar-los. Contenen les dades de la vostra explotació: l'aplicació ja no té cap control sobre un fitxer una vegada que l'hau compartit."
+          }
+        ]
+      },
+      {
+        "h": "Notificacions",
+        "blocks": [
+          {
+            "p": "Els recordatoris de final de tractament es programen a l'apparell; cap servidor hi intervé."
+          }
+        ]
+      },
+      {
+        "h": "Enllaç cap la declaració d'arnes",
+        "blocks": [
+          {
+            "p": "El botó « Declara en línia » obre una pàgina del lloc web service-public.gouv.fr al vostre navegador. L'aplicació no transmet cap informació a aquest lloc; aquest site aplica la seva pròpia política de privacitat."
+          }
+        ]
+      },
+      {
+        "h": "Compres",
+        "blocks": [
+          {
+            "p": "Les arnes Pro es ven i es gestiona a Apple. L'aplicació no veu ni el vostre mitjà de pagament ni la vostra identitat; només llegeix, mitjançant l'App Store, si s'ha fet la compra, per desbloquejar les funcions."
+          }
+        ]
+      },
+      {
+        "h": "Nens",
+        "blocks": [
+          {
+            "p": "Les arnes no recull cap dada, incloent-hi dades dels nens."
+          }
+        ]
+      },
+      {
+        "h": "Canvis",
+        "blocks": [
+          {
+            "p": "Si aquesta política canvia, la nova versió es publicarà en aquesta pàgina amb la seva data d'actualització."
+          }
+        ]
+      },
+      {
+        "h": "Contacte",
+        "blocks": [
+          {
+            "p": "Per qualsevol pregunta sobre aquesta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

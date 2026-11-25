@@ -2,7 +2,7 @@
 
 Pages de support et politiques de confidentialité de mes applications iOS, publiées avec GitHub Pages sur https://regemathieu-hue.github.io/
 
-Chaque page existe en 39 langues, sauf pour une appli vendue dans une seule langue (Carnet de ruches, en français). Les textes sont dans `i18n/`, les pages HTML sont générées par `build.py`.
+Chaque page existe en 39 langues, sauf pour une appli qui déclare ses langues dans `apps.json` (`locales`, aucune pour l'instant). Les textes sont dans `i18n/`, les pages HTML sont générées par `build.py`.
 
 ## Structure
 

@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Notatnik pszczelarza: przeglądy, leczenia, miodobrania i ewidencja leczenia",
+    "contact": "Masz pytanie, pomysł lub problem z aplikacją? Napisz mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Od czego zacząć?",
+        "a": "W karcie Pasieki utwórz swoją pasiekę, a następnie dotknij „Dodaj ul”: aplikacja proponuje nazwę, a Ty możesz podać typ ula i rok urodzenia matki. Następnie otwórz Ustawienia › Gospodarstwo, aby wpisać swoje imię, adres oraz numer pszczelarza (NAPI): te dane tworzą nagłówek ewidencji leczenia. Pod ikoną aplikacja nazywa się „Moje ule”."
+      },
+      {
+        "q": "Jak szybko zanotować przegląd?",
+        "a": "Otwórz ul i dotknij „Przegląd”, lub przesuń wiersz ula w prawo na liście. Nic nie jest wymagane: dotknij tylko to, co zobaczyłeś (matka, ramki pszczelarzy i czerwi, zapasy, mateczniki, zaobserwowane objawy, liczba Varroa, nadstawki, podkarmianie). Dotknięcie ponownie wybranego elementu go kasuje."
+      },
+      {
+        "q": "Jak zarejestrować leczenie przeciwko Varroa?",
+        "a": "Dotknij „Leczenie” z poziomu ula, lub „Leczenie całej pasieki” w menu ⋯ pasieki. „Wybierz lek zatwierdzony” wypełnia nazwę, składnik aktywny, okres karencji i planowaną datę zakończenia. Wszystko można później zmienić: ostatecznym źródłem informacji jest ulotka leku. Dodaj ilość na ul i dostawcę – dane te są wymagane w ewidencji. W dniu zaplanowanego zakończenia aplikacja wyśle Ci przypomnienie, a „Usunięto dziś” zakończy leczenie."
+      },
+      {
+        "q": "Czy rejestr aplikacji wystarcza w przypadku kontroli?",
+        "a": "Zbiera sekcje wymagane przez francuskie przepisy dla pszczół z rozporządzenia z 5 czerwca 2000 r.: gospodarstwo, nadzór sanitarny, pasieki, ruch rodzin pszczelich i leczenia, a także miodobrania. Rejestr musi być dostępny na papierze: eksportuj go do formatu PDF, drukuj regularnie i przechowuj przez pięć lat wraz z receptami oraz fakturami lub dowodami dostawy leków. Aplikacja nie zastępuje tekstów urzędowych ani porad weterynarza lub stowarzyszenia sanitarnego; w przypadku wątpliwości skontaktuj się z działem ds. ochrony populacji na poziomie departamentu (DDPP). Poza Francją sprawdź przepisy obowiązujące w Twoim kraju."
+      },
+      {
+        "q": "Jak przenieść ule z jednej pasieki na drugą?",
+        "a": "Otwórz ul, następnie ⋯ › Przenieś; aby przenieść wiele uli naraz, skorzystaj z menu pasieki ⋯ › Przenieś ule. Wybierz pasiekę docelową i datę: przeniesienie zostanie zarejestrowane w ruchach ewidencji. Posiadanie kilku pasiek wymaga Notatnik pszczelarza Pro."
+      },
+      {
+        "q": "Rodzina pszczela zmarła, została sprzedana lub połączona: co zrobić?",
+        "a": "Otwórz ul, następnie ⋯ › Zakończ przegląd, a następnie wybierz powód. Ul opuszcza listę aktywnych uli, ale zachowuje pełną historię, a jego usunięcie zostanie zarejestrowane w ewidencji. „Usuń” natomiast usuwa ul i linie ewidencji dotyczące wyłącznie tej jednostki: wybieraj raczej „Zakończ przegląd”."
+      },
+      {
+        "q": "Czy aplikacja składa roczne zgłoszenie uli?",
+        "a": "Nie. W Francji aplikacja przypomina o tym w karcie Do zrobienia od 1 września do 31 grudnia, a opcja „Zadeklaruj online” otwiera oficjalną stronę na service-public.gouv.fr. Po dokonaniu zgłoszenia dotknij „Gotowe”: przypomnienie pojawi się w kolejnym roku. Poza Francją to przypomnienie nie jest wyświetlane."
+      },
+      {
+        "q": "Moje przypomnienie o końcu leczenia nie przychodzi. Dlaczego?",
+        "a": "Sprawdź, czy powiadomienia są włączone: Ustawienia iPhone’a › Powiadomienia › Moje ule. W Ustawieniach aplikacji opcja „Przypomnienie o końcu leczenia” musi być włączona. Przypomnienie wysyłane jest o godzinie 9:00 w dniu zaplanowanego zakończenia, wyłącznie jeśli leczenie ma zaplanowaną datę zakończenia i nie zostało już zakończone. Sprawdź również, czy w tym czasie nie jest aktywne żadne tryb skupienia."
+      },
+      {
+        "q": "Co zawiera Notatnik pszczelarza Pro i ile kosztuje?",
+        "a": "Wersja bezpłatna nie ma limitu czasowego: jedna pasieka, tyle uli, ile chcesz, przeglądy, leczenia, miodobrania, ewidencja na ekranie i kopie zapasowe. Notatnik pszczelarza Pro to jednorazowa płatność bez subskrypcji, 9,99 € w Francji (cena może się różnić w zależności od kraju): nieograniczona liczba pasiek i eksport ewidencji leczenia do PDF. Działa z udostępnianiem rodziną. Na nowym urządzeniu otwórz Ustawienia › Odkryj Pro › „Przywróć zakupy”."
+      },
+      {
+        "q": "Gdzie jest zapisany mój notatnik, a jak go zapisać?",
+        "a": "Tylko na Twoim urządzeniu: nie ma konta, serwera ani synchronizacji między urządzeniami. W Ustawienia › „Zapisz kopię zapasową” aplikacja tworzy plik, który możesz przechowywać w Aplikacji Pliki lub iCloud Drive. Aby zmienić iPhone’a lub przejść na iPad, wyślij ten plik na inne urządzenie i wybierz opcję „Przywróć kopię zapasową”: notatnik na tym urządzeniu zostanie zastąpiony zawartością pliku."
+      }
+    ],
+    "privacy_summary": "Notatnik pszczelarza nie zbiera żadnych danych, nie wymaga konta i nie zawiera reklam ani śledziaczy. Twój notatnik pozostaje na Twoim urządzeniu."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Podsumowanie",
+        "blocks": [
+          {
+            "p": "Notatnik pszczelarza nie zbiera żadnych danych. Wszystko, co notujesz w aplikacji, pozostaje na Twoim iPhone'ie lub iPadzie."
+          },
+          {
+            "ul": [
+              "Brak konta, brak reklam, brak śledzenia: aplikacja nie zawiera narzędzi analitycznych ani reklamowych i nie identyfikuje Cię w żaden sposób."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Twój notatnik i ewidencja",
+        "blocks": [
+          {
+            "p": "Dane Twojego gospodarstwa (nazwa, adres, numer pszczelarza, SIRET, telefon, weterynarz), pasieki, ule, przeglądy, leczenia, miodobrania oraz przemieszczenia rodzin pszczelich są przechowywane w prywatnym magazynie aplikacji na Twoim urządzeniu. Nie są one przekazywane nikomu, nawet deweloperowi."
+          },
+          {
+            "p": "Usunięcie aplikacji kasuje cały notatnik. Może on być zawarty w kopii zapasowej iCloud lub lokalnej Twojego urządzenia, którą zarządzasz samodzielnie w ustawieniach Apple."
+          }
+        ]
+      },
+      {
+        "h": "Eksporty i kopie zapasowe",
+        "blocks": [
+          {
+            "p": "PDF ewidencji i plik kopii zapasowej są tworzone wyłącznie na Twoje żądanie, a Ty wybierasz, gdzie je zapisać lub komu wysłać. Zawierają one dane Twojego gospodarstwa: aplikacja nie ma już kontroli nad plikiem po jego udostępnieniu."
+          }
+        ]
+      },
+      {
+        "h": "Powiadomienia",
+        "blocks": [
+          {
+            "p": "Przypomnienia o końcu leczenia są zaplanowane na urządzeniu; żaden serwer nie jest zaangażowany."
+          }
+        ]
+      },
+      {
+        "h": "Link do deklaracji uli",
+        "blocks": [
+          {
+            "p": "Przycisk „Zadeklaruj online” otwiera stronę witryny service-public.gouv.fr w przeglądarce. Aplikacja nie przekazuje tam żadnych informacji; ta strona stosuje własną politykę prywatności."
+          }
+        ]
+      },
+      {
+        "h": "Zakupy",
+        "blocks": [
+          {
+            "p": "Notatnik pszczelarza Pro jest sprzedawany i zarządzany przez Apple. Aplikacja nie widzi ani sposobu płatności, ani Twojej tożsamości; odczytuje jedynie, poprzez App Store, czy zakup został dokonany, aby odblokować funkcje."
+          }
+        ]
+      },
+      {
+        "h": "Dzieci",
+        "blocks": [
+          {
+            "p": "Notatnik pszczelarza nie zbiera żadnych danych, w tym od dzieci."
+          }
+        ]
+      },
+      {
+        "h": "Zmiany",
+        "blocks": [
+          {
+            "p": "Jeśli ta polityka ulegnie zmianie, nowa wersja zostanie opublikowana na tej stronie z datą aktualizacji."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "W przypadku jakichkolwiek pytań dotyczących tej polityki: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

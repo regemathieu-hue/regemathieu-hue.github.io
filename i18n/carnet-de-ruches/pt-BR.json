@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Caderno do apicultor: revisões, tratamentos, colheitas e registro de criação",
+    "contact": "Alguma dúvida, ideia ou problema com o aplicativo? Me escreva:<br>{email}",
+    "faq": [
+      {
+        "q": "Por onde começar?",
+        "a": "No separador Apiários, crie seu apiário, depois toque em \"Adicionar uma Colmeia\": o aplicativo sugere um nome, e você pode especificar o modelo da colmeia e o ano da rainha. Abra depois Configurações › Propriedade para digitar seu nome, endereço e número de apicultor (NAPI): eles formam o cabeçalho do registro de criação. Sob seu ícone, o aplicativo aparece como \"Meu apiário\"."
+      },
+      {
+        "q": "Como registrar uma revisão rapidamente?",
+        "a": "Abra a colmeia e toque em \"Revisão\", ou deslize a linha da colmeia para a direita na lista. Nada é obrigatório: toque apenas o que viu (rainha, quadros de abelhas e cria, reservas, realeiras, sinais observados, contagem de varroa, melgueiras, alimentação). Toque novamente em uma opção para excluí-la."
+      },
+      {
+        "q": "Como registrar um tratamento contra o varroa?",
+        "a": "Toque em \"Tratamento\" a partir de uma colmeia, ou em \"Tratar todo o apiário\" no menu ⋯ do apiário. \"Escolha um Medicamento Autorizado\" preenche o nome, a substância ativa, o período de carência e a data prevista de término. Tudo permanece editável: a bula do medicamento é a fonte oficial. Adicione a quantidade por colmeia e o fornecedor, conforme exigido pelo registro. No dia previsto para o término, o aplicativo envia um lembrete, e \"Removido Hoje\" encerra o tratamento."
+      },
+      {
+        "q": "O registro do aplicativo é suficiente em caso de fiscalização?",
+        "a": "Ele reúne as seções previstas para as abelhas pelo decreto de 5 de junho de 2000: propriedade, acompanhamento sanitário, apiários, movimentações das colônias e tratamentos, além das colheitas. O registro deve poder ser apresentado em papel: exporte-o como PDF, imprima-o regularmente e mantenha-o por cinco anos, juntamente com as receitas e as notas fiscais ou de entrega dos medicamentos. A aplicação não substitui os textos oficiais nem os conselhos do seu veterinário ou do seu grupo sanitário; em caso de dúvida, procure a autoridade local de saúde animal. Fora da França, verifique as regras do seu próprio país."
+      },
+      {
+        "q": "Como mover colmeias de um apiário para outro?",
+        "a": "Abra a colmeia, depois ⋯ › Mover; para várias colmeias ao mesmo tempo, use o menu ⋯ do apiário › Mover as Colmeias. Escolha o apiário de destino e a data: a movimentação será registrada nos movimentos do registro. Ter vários apiários exige o Caderno do apicultor Pro."
+      },
+      {
+        "q": "Uma colônia morreu, foi vendida ou unida: o que devo fazer?",
+        "a": "Abra a colmeia, depois ⋯ › Parar a Colmeia, e escolha a razão. A colmeia sai da lista de colmeias ativas, mas mantém todo o seu histórico, e sua saída é registrada no registro. « Excluir » apaga, ao contrário, a colmeia e as linhas do registro que se referiam apenas a ela: prefira « Parar »."
+      },
+      {
+        "q": "A declaração anual de colmeias é feita pela aplicação?",
+        "a": "Não. Na França, o aplicativo lembra isso na aba À fazer, de 1º de setembro a 31 de dezembro, e « Declaração Online » abre a página oficial do site service-public.gouv.fr. Uma vez feita sua declaração, toque em « Concluído »: o lembrete voltará no ano seguinte. Fora da França, esse lembrete não é exibido."
+      },
+      {
+        "q": "Meu lembrete de término de tratamento não está chegando. Por quê?",
+        "a": "Verifique se as notificações estão autorizadas: Configurações do iPhone › Notificações › Meu apiário. Nas Configurações do aplicativo, o item « Lembrete de término de tratamento » deve estar ativado. O lembrete é enviado às 9 h no dia previsto para o fim do tratamento, apenas se o tratamento tiver uma data de fim planejada e ainda não tiver terminado. Verifique também se nenhum modo Concentração está ativo nesse horário."
+      },
+      {
+        "q": "O que inclui o Caderno do apicultor Pro e quanto custa?",
+        "a": "A versão gratuita não tem limite de tempo: um apiário, quantas colmeias quiser, revisões, tratamentos, colheitas, o registro na tela e backups. O Caderno do apicultor Pro é uma compra única, sem assinatura, por 9,99 € na França (o valor varia conforme o país): apiários ilimitados e exportação do registro de criação em PDF. É compatível com Compartilhamento Familiar. Em um novo dispositivo, abra Configurações › Descubra o Pro › « Restaurar minhas compras »."
+      },
+      {
+        "q": "Onde meu caderno é armazenado e como fazer backup dele?",
+        "a": "Apenas no seu dispositivo: não há conta, servidor ou sincronização entre dispositivos. Em Configurações › « Salvar um Backup », o aplicativo cria um arquivo que você pode manter no App Arquivos ou no iCloud Drive. Para mudar de iPhone ou passar para iPad, envie esse arquivo para o outro dispositivo e escolha « Restaurar um Backup »: o caderno atual será substituído pelo do arquivo."
+      }
+    ],
+    "privacy_summary": "O Caderno do apicultor não coleta nenhuma informação, não exige conta e não contém publicidade nem rastreadores. Seu caderno permanece no seu dispositivo."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Em resumo",
+        "blocks": [
+          {
+            "p": "O Caderno do apicultor não coleta nenhuma informação. Tudo o que você anota no aplicativo permanece no seu iPhone ou iPad."
+          },
+          {
+            "ul": [
+              "Sem conta, sem publicidade, sem rastreamento: o aplicativo não contém ferramentas de análise nem de publicidade e não o identifica de forma alguma."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "O seu caderno e o seu registro",
+        "blocks": [
+          {
+            "p": "As informações da sua propriedade (nome, endereço, número do apicultor, SIRET, telefone, veterinário), seus apiários, suas colmeias, suas revisões, seus tratamentos, suas colheitas e os movimentos de suas colônias são armazenados no armazenamento privado do aplicativo, no seu dispositivo. Eles não são enviados a ninguém, nem mesmo ao desenvolvedor."
+          },
+          {
+            "p": "Excluir o aplicativo apaga todo o caderno. Ele pode estar incluído nos backups iCloud ou locais do seu dispositivo, que você gerencia sozinho nas configurações da Apple."
+          }
+        ]
+      },
+      {
+        "h": "Exportações e backups",
+        "blocks": [
+          {
+            "p": "O PDF do registro e o arquivo de backup são criados apenas quando você os solicitar, e é você quem escolhe onde salvá-los ou a quem enviá-los. Eles contêm as informações da sua propriedade: o aplicativo não tem mais controle sobre um arquivo depois que você o compartilhou."
+          }
+        ]
+      },
+      {
+        "h": "Notificações",
+        "blocks": [
+          {
+            "p": "Os lembretes de término de tratamento são agendados no dispositivo; nenhum servidor está envolvido."
+          }
+        ]
+      },
+      {
+        "h": "Link para a declaração de colmeias",
+        "blocks": [
+          {
+            "p": "O botão « Declaração Online » abre uma página do site service-public.gouv.fr no seu navegador. O aplicativo não envia nenhuma informação para esse site; esse site aplica sua própria política de privacidade."
+          }
+        ]
+      },
+      {
+        "h": "Compras",
+        "blocks": [
+          {
+            "p": "Caderno do apicultor Pro é vendido e gerenciado pela Apple. O aplicativo não vê nem seu método de pagamento nem sua identidade; ele apenas lê, por meio da App Store, se a compra foi feita, para desbloquear os recursos."
+          }
+        ]
+      },
+      {
+        "h": "Crianças",
+        "blocks": [
+          {
+            "p": "Caderno do apicultor não coleta nenhuma dados, incluindo de crianças."
+          }
+        ]
+      },
+      {
+        "h": "Alterações",
+        "blocks": [
+          {
+            "p": "Se esta política mudar, a nova versão será publicada nesta página com sua data de atualização."
+          }
+        ]
+      },
+      {
+        "h": "Contato",
+        "blocks": [
+          {
+            "p": "Para qualquer dúvida sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Le carnet de l'apiculteur : visites, traitements, récoltes et registre d'élevage",
+    "contact": "Une question, une idée ou un souci avec l'application ? Écrivez-moi :<br>{email}",
+    "faq": [
+      {
+        "q": "Par où commencer ?",
+        "a": "Dans l'onglet Ruchers, créez votre rucher, puis touchez « Ajouter une ruche » : l'application propose un nom, et vous pouvez préciser le modèle de la ruche et l'année de la reine. Ouvrez ensuite Réglages › Exploitation pour saisir votre nom, votre adresse et votre numéro d'apiculteur (NAPI) : ils forment l'en-tête du registre d'élevage. Sous son icône, l'application s'appelle « Mes ruches »."
+      },
+      {
+        "q": "Comment noter une visite rapidement ?",
+        "a": "Ouvrez la ruche et touchez « Visite », ou faites glisser la ligne de la ruche vers la droite dans la liste. Rien n'est obligatoire : touchez seulement ce que vous avez vu (reine, cadres d'abeilles et de couvain, réserves, cellules royales, signes observés, comptage de varroas, hausses, nourrissement). Toucher de nouveau un choix l'efface."
+      },
+      {
+        "q": "Comment enregistrer un traitement contre le varroa ?",
+        "a": "Touchez « Traitement » depuis une ruche, ou « Traiter tout le rucher » dans le menu ⋯ du rucher. « Choisir un médicament autorisé » remplit le nom, la substance active, le temps d'attente et la date de fin prévue. Tout reste modifiable : la notice du médicament fait foi. Ajoutez la quantité par ruche et le fournisseur, que le registre demande. Le jour de la fin prévue, l'application vous envoie un rappel, et « Retrait fait aujourd'hui » clôt le traitement."
+      },
+      {
+        "q": "Le registre de l'application suffit-il en cas de contrôle ?",
+        "a": "Il réunit les rubriques prévues pour les abeilles par l'arrêté du 5 juin 2000 : exploitation, encadrement sanitaire, ruchers, mouvements des colonies et traitements, avec les récoltes en plus. Le registre doit pouvoir être présenté sur papier : exportez-le en PDF, imprimez-le régulièrement et gardez-le cinq ans, avec les ordonnances et les factures ou bons de livraison des médicaments. L'application ne remplace ni les textes officiels ni les conseils de votre vétérinaire ou de votre groupement sanitaire ; en cas de doute, adressez-vous à la direction départementale de la protection des populations (DDPP)."
+      },
+      {
+        "q": "Comment déplacer des ruches d'un rucher à l'autre ?",
+        "a": "Ouvrez la ruche, puis ⋯ › Déplacer ; pour plusieurs ruches à la fois, passez par le menu ⋯ du rucher › Déplacer les ruches. Choisissez le rucher d'arrivée et la date : le déplacement est inscrit dans les mouvements du registre. Avoir plusieurs ruchers demande Carnet de ruches Pro."
+      },
+      {
+        "q": "Une colonie est morte, vendue ou réunie : que faire ?",
+        "a": "Ouvrez la ruche, puis ⋯ › Arrêter la ruche, et choisissez la raison. La ruche quitte la liste des ruches en activité, mais garde tout son historique, et sa sortie est inscrite au registre. « Supprimer » efface au contraire la ruche et les lignes du registre qui ne concernaient qu'elle : préférez « Arrêter »."
+      },
+      {
+        "q": "La déclaration annuelle de ruches est-elle faite par l'application ?",
+        "a": "Non. L'application vous la rappelle dans l'onglet À faire, du 1er septembre au 31 décembre, et « Déclarer en ligne » ouvre la page officielle du site service-public.gouv.fr. Une fois votre déclaration faite, touchez « C'est fait » : le rappel reviendra l'année suivante."
+      },
+      {
+        "q": "Mon rappel de fin de traitement n'arrive pas, pourquoi ?",
+        "a": "Vérifiez que les notifications sont autorisées : Réglages de l'iPhone › Notifications › Mes ruches. Dans les Réglages de l'application, « Rappel de fin de traitement » doit être activé. Le rappel part à 9 h le jour de la fin prévue, seulement si le traitement a une date de fin prévue et n'est pas déjà terminé. Vérifiez aussi qu'un mode Concentration n'est pas actif à cette heure-là."
+      },
+      {
+        "q": "Que contient Carnet de ruches Pro et combien coûte-t-il ?",
+        "a": "La version gratuite n'a pas de limite de durée : un rucher, autant de ruches que vous voulez, les visites, les traitements, les récoltes, le registre à l'écran et les sauvegardes. Carnet de ruches Pro est un achat unique, sans abonnement, de 9,99 € en France : ruchers illimités et export du registre d'élevage en PDF. Il est compatible avec le partage familial. Sur un nouvel appareil, ouvrez Réglages › Découvrir Pro › « Restaurer mes achats »."
+      },
+      {
+        "q": "Où est enregistré mon carnet, et comment le sauvegarder ?",
+        "a": "Uniquement sur votre appareil : il n'y a ni compte, ni serveur, ni synchronisation entre appareils. Dans Réglages › « Enregistrer une sauvegarde », l'application crée un fichier que vous pouvez garder dans Fichiers ou iCloud Drive. Pour changer d'iPhone ou passer sur iPad, envoyez ce fichier sur l'autre appareil et choisissez « Restaurer une sauvegarde » : le carnet présent est alors remplacé par celui du fichier."
+      }
+    ],
+    "privacy_summary": "Carnet de ruches ne collecte aucune donnée, ne demande aucun compte et ne contient ni publicité ni traceur. Votre carnet reste sur votre appareil."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En résumé",
+        "blocks": [
+          {
+            "p": "Carnet de ruches ne collecte aucune donnée. Tout ce que vous notez dans l'application reste sur votre iPhone ou votre iPad."
+          },
+          {
+            "ul": [
+              "Pas de compte, pas de publicité, pas de suivi : l'application ne contient aucun outil d'analyse ni de publicité, et ne vous identifie d'aucune manière."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Votre carnet et votre registre",
+        "blocks": [
+          {
+            "p": "Les renseignements de votre exploitation (nom, adresse, numéro d'apiculteur, SIRET, téléphone, vétérinaire), vos ruchers, vos ruches, vos visites, vos traitements, vos récoltes et les mouvements de vos colonies sont enregistrés dans le stockage privé de l'application, sur votre appareil. Ils ne sont transmis à personne, pas même au développeur."
+          },
+          {
+            "p": "Supprimer l'application efface tout le carnet. Il peut être inclus dans les sauvegardes iCloud ou locales de votre appareil, que vous gérez vous-même dans les réglages d'Apple."
+          }
+        ]
+      },
+      {
+        "h": "Exports et sauvegardes",
+        "blocks": [
+          {
+            "p": "Le PDF du registre et le fichier de sauvegarde ne sont créés que lorsque vous le demandez, et c'est vous qui choisissez où les enregistrer ou à qui les envoyer. Ils contiennent les renseignements de votre exploitation : l'application n'a plus aucun contrôle sur un fichier une fois que vous l'avez partagé."
+          }
+        ]
+      },
+      {
+        "h": "Notifications",
+        "blocks": [
+          {
+            "p": "Les rappels de fin de traitement sont programmés sur l'appareil ; aucun serveur n'est impliqué."
+          }
+        ]
+      },
+      {
+        "h": "Lien vers la déclaration de ruches",
+        "blocks": [
+          {
+            "p": "Le bouton « Déclarer en ligne » ouvre une page du site service-public.gouv.fr dans votre navigateur. L'application n'y transmet aucune information ; ce site applique sa propre politique de confidentialité."
+          }
+        ]
+      },
+      {
+        "h": "Achats",
+        "blocks": [
+          {
+            "p": "Carnet de ruches Pro est vendu et géré par Apple. L'application ne voit ni votre moyen de paiement ni votre identité ; elle lit seulement, via l'App Store, si l'achat a été fait, pour débloquer les fonctions."
+          }
+        ]
+      },
+      {
+        "h": "Enfants",
+        "blocks": [
+          {
+            "p": "Carnet de ruches ne collecte aucune donnée, y compris auprès des enfants."
+          }
+        ]
+      },
+      {
+        "h": "Modifications",
+        "blocks": [
+          {
+            "p": "Si cette politique change, la nouvelle version sera publiée sur cette page avec sa date de mise à jour."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pour toute question concernant cette politique : {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

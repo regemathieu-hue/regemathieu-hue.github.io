@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Catatan Peternak Lebah: pemeriksaan, pengobatan, panen, dan buku register ternak",
+    "contact": "Pertanyaan, ide, atau masalah dengan aplikasi? Kirim pesan ke saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Mulai dari mana?",
+        "a": "Di tab Peternakan lebah, buat peternakan lebah Anda, lalu sentuh \"Tambah Stup\": aplikasi menyarankan nama, dan Anda dapat menentukan jenis stup serta tahun kelahiran ratu. Kemudian buka Pengaturan › Usaha Peternakan untuk memasukkan nama, alamat, dan nomor peternak lebah (NAPI): ketiganya membentuk header buku register ternak. Di bawah ikonnya, aplikasi disebut \"Lebah Saya\"."
+      },
+      {
+        "q": "Cara mencatat pemeriksaan dengan cepat?",
+        "a": "Buka stup dan sentuh \"Pemeriksaan\", atau geser baris stup ke kanan di daftar. Tidak ada yang wajib: sentuh hanya apa yang Anda lihat (ratu, bingkai lebah dan anakan, cadangan pakan, sel ratu, tanda yang diamati, hitungan tungau varroa, kotak madu, pemberian pakan). Sentuh kembali pilihan untuk menghapusnya."
+      },
+      {
+        "q": "Cara mencatat pengobatan terhadap tungau varroa?",
+        "a": "Sentuh \"Pengobatan\" dari sebuah stup, atau \"Obati Seluruh Peternakan Lebah\" di menu ⋯ peternakan lebah. \"Pilih Obat Resmi\" mengisi nama, zat aktif, masa henti obat, dan tanggal akhir yang direncanakan. Semua tetap dapat diedit: petunjuk obat berlaku. Tambahkan jumlah per stup dan pemasok, yang diminta oleh buku register. Pada hari akhir yang direncanakan, aplikasi mengirimkan pengingat, dan \"Dibuang Hari Ini\" menutup pengobatan."
+      },
+      {
+        "q": "Apakah buku catatan aplikasi cukup jika dilakukan pemeriksaan?",
+        "a": "Aplikasi ini mengumpulkan bagian-bagian yang diwajibkan oleh Peraturan 5 Juni 2000 untuk lebah: usaha peternakan, pengawasan kesehatan, peternakan lebah, perpindahan koloni, dan pengobatan, ditambah panen. Buku catatan harus bisa disajikan dalam bentuk kertas: ekspor ke PDF, cetak secara rutin, dan simpan selama lima tahun, bersama resep serta faktur atau nota pengiriman obat-obatan. Aplikasi ini tidak menggantikan teks resmi maupun saran dari dokter hewan atau asosiasi kesehatan peternak lebah Anda; jika ragu, hubungi instansi kesehatan hewan setempat. Di luar Prancis, periksa aturan di negara Anda sendiri."
+      },
+      {
+        "q": "Bagaimana cara memindahkan stup dari satu peternakan lebah ke peternakan lain?",
+        "a": "Buka stup, lalu ⋯ › Pindahkan; untuk beberapa stup sekaligus, gunakan menu ⋯ peternakan lebah › Pindahkan Stup. Pilih peternakan tujuan dan tanggalnya: perpindahan akan dicatat dalam riwayat pergerakan buku catatan. Memiliki beberapa peternakan lebah memerlukan Catatan Peternak Lebah Pro."
+      },
+      {
+        "q": "Koloni telah mati, dijual, atau digabungkan: apa yang harus saya lakukan?",
+        "a": "Buka stup, lalu ⋯ › Hentikan Stup, dan pilih alasannya. Stup akan keluar dari daftar stup aktif tetapi tetap menyimpan seluruh riwayatnya, serta pencatatan penghentian di buku catatan. ‘Hapus’ justru menghapus stup dan catatan di buku catatan yang hanya berkaitan dengannya: lebih baik pilih ‘Hentikan’."
+      },
+      {
+        "q": "Apakah aplikasi ini melakukan pelaporan tahunan stup untuk saya?",
+        "a": "Tidak. Di Prancis, aplikasi ini mengingatkan Anda di tab Harus Dilakukan dari 1 September hingga 31 Desember, dan ‘Daftar Online’ akan membuka halaman resmi di service-public.gouv.fr. Setelah Anda melakukan pelaporan, ketuk ‘Selesai’: pengingat akan muncul kembali tahun depan. Di luar Prancis, pengingat ini tidak ditampilkan."
+      },
+      {
+        "q": "Pengingat akhir pengobatan saya tidak sampai. Mengapa?",
+        "a": "Periksa apakah notifikasi diizinkan: Pengaturan iPhone › Notifikasi › Lebah Saya. Di Pengaturan aplikasi, fitur « Pengingat akhir pengobatan » harus aktif. Pengingat dikirim pukul 09.00 pada tanggal akhir yang direncanakan, hanya jika pengobatan memiliki tanggal akhir yang direncanakan dan belum selesai. Periksa juga apakah mode Fokus tidak sedang aktif pada waktu tersebut."
+      },
+      {
+        "q": "Apa saja yang termasuk dalam Catatan Peternak Lebah Pro dan berapa harganya?",
+        "a": "Versi gratis tidak memiliki batas waktu: satu peternakan lebah, sebanyak mungkin stup, pemeriksaan, pengobatan, panen, buku register di layar, dan cadangan. Catatan Peternak Lebah Pro adalah pembelian sekali pakai tanpa langganan, seharga 9,99 € di Prancis (harga berbeda tergantung negara): peternakan lebah tak terbatas dan ekspor buku register sebagai PDF. Kompatibel dengan Berbagi Keluarga. Di perangkat baru, buka Pengaturan › Temukan Pro › « Pulihkan Pembelian»."
+      },
+      {
+        "q": "Di mana catatan saya disimpan, dan bagaimana cara membuat cadangan?",
+        "a": "Hanya di perangkat Anda: tidak ada akun, server, atau sinkronisasi antar perangkat. Di Pengaturan › « Simpan Cadangan », aplikasi akan membuat file yang bisa Anda simpan di Aplikasi File atau iCloud Drive. Untuk beralih dari iPhone ke iPad, kirim file ini ke perangkat lain dan pilih « Kembalikan Cadangan »: catatan yang ada di perangkat tersebut kemudian diganti dengan catatan dari file tersebut."
+      }
+    ],
+    "privacy_summary": "Catatan Peternak Lebah tidak mengumpulkan data apa pun, tidak meminta akun, dan tidak memiliki iklan atau pelacak. Catatan Anda tetap berada di perangkat Anda."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Singkatnya",
+        "blocks": [
+          {
+            "p": "Catatan Peternak Lebah tidak mengumpulkan data apa pun. Semua catatan Anda di aplikasi tetap berada di iPhone atau iPad Anda."
+          },
+          {
+            "ul": [
+              "Tidak perlu akun, tidak ada iklan, tidak ada pelacakan: aplikasi ini tidak memiliki alat analitik atau iklan, dan tidak mengidentifikasi Anda dengan cara apa pun."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Buku catatan dan register Anda",
+        "blocks": [
+          {
+            "p": "Informasi usaha peternakan Anda (nama, alamat, nomor peternak lebah, SIRET, telepon, dokter hewan), peternakan lebah, stup, pemeriksaan, pengobatan, panen, serta perpindahan koloni disimpan di penyimpanan pribadi aplikasi, di perangkat Anda. Data ini tidak dikirim ke siapa pun, bahkan tidak kepada pengembang."
+          },
+          {
+            "p": "Menghapus aplikasi akan menghapus seluruh buku catatan. File tersebut dapat termasuk dalam cadangan iCloud atau lokal perangkat Anda, yang dikelola sendiri melalui pengaturan Apple."
+          }
+        ]
+      },
+      {
+        "h": "Ekspor dan Cadangan",
+        "blocks": [
+          {
+            "p": "PDF register dan file cadangan hanya dibuat saat Anda meminta, dan Anda yang memilih tempat menyimpannya atau siapa yang dikirimkan. File tersebut berisi informasi usaha peternakan Anda: aplikasi tidak lagi memiliki kendali atas file setelah Anda membagikannya."
+          }
+        ]
+      },
+      {
+        "h": "Notifikasi",
+        "blocks": [
+          {
+            "p": "Pengingat akhir pengobatan dijadwalkan pada perangkat; tidak ada server yang terlibat."
+          }
+        ]
+      },
+      {
+        "h": "Tautan ke pendaftaran stup",
+        "blocks": [
+          {
+            "p": "Tombol \"Daftar Online\" membuka halaman situs service-public.gouv.fr di browser Anda. Aplikasi tidak mengirimkan informasi apa pun ke situs tersebut; situs ini menerapkan kebijakan privasi sendiri."
+          }
+        ]
+      },
+      {
+        "h": "Pembelian",
+        "blocks": [
+          {
+            "p": "Catatan Peternak Lebah Pro dijual dan dikelola oleh Apple. Aplikasi tidak melihat metode pembayaran atau identitas Anda; aplikasi hanya membaca, melalui App Store, apakah pembelian telah dilakukan, untuk membuka fitur."
+          }
+        ]
+      },
+      {
+        "h": "Anak-anak",
+        "blocks": [
+          {
+            "p": "Catatan Peternak Lebah tidak mengumpulkan data apa pun, termasuk dari anak-anak."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika kebijakan ini berubah, versi baru akan diterbitkan di halaman ini beserta tanggal pembaruan."
+          }
+        ]
+      },
+      {
+        "h": "Kontak",
+        "blocks": [
+          {
+            "p": "Untuk pertanyaan apa pun mengenai kebijakan ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

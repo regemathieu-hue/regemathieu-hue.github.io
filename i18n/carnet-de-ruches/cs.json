@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Včelařský zápisník: prohlídky, léčení, medobraní a evidence chovu",
+    "contact": "Máte dotaz, nápad nebo problém s aplikací? Napište mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Kde začít?",
+        "a": "V kategorii Stanoviště vytvořte své stanoviště, pak dotkněte se „Přidat úl“: aplikace navrhuje název, můžete určit typ úlu a rok narození matky. Potom otevřete Nastavení › Chov a zadejte své jméno, adresu a číslo včelaře (NAPI): tato data tvoří hlavičku evidence chovu. Pod ikonou se aplikace jmenuje „Moje úly“."
+      },
+      {
+        "q": "Jak rychle zaznamenat prohlídku?",
+        "a": "Otevřete úl a dotkněte se „Prohlídka“, nebo přetáhněte řádek úlu doprava v seznamu. Nic není povinné: dotkněte se pouze toho, co jste viděli (matka, rámky s včelami a plodem, zásoby, matečníky, pozorované znaky, počet kleštíků, medníky, krmení). Dotknutím se výběru znovu jej odstraníte."
+      },
+      {
+        "q": "Jak zaznamenat léčení proti kleštíkům?",
+        "a": "Dotkněte se „Léčení“ z úlu, nebo „Léčit celé stanoviště“ v nabídce ⋯ stanoviště. „Vyberte povolené léčivo“ vyplní název, aktivní látku, ochrannou lhůtu a plánovaný termín ukončení. Vše lze upravit: platnou informací je příbal léčiva. Přidejte množství na úl a dodavatele, které evidence vyžaduje. Na plánovaný den ukončení vám aplikace pošle připomínku, a „Odstraněno dnes“ uzavře léčení."
+      },
+      {
+        "q": "Stačí registr aplikace při kontrolě?",
+        "a": "Shromažďuje všechny položky předepsané pro včely nařízením ze dne 5. června 2000: chov, hygienické dozor, stanoviště, pohyby včelstev a léčení, navíc sbírky. Registr musí být k dispozici i na papíře: exportujte jej jako PDF, pravidelně tiskněte a uchovávejte po pět let spolu s předpisy a fakturami nebo dodacími listy léčiv. Aplikace neprohlíží oficiální texty ani rady vašeho veterináře nebo zdravotnického sdružení; v případě pochybností se obrátte na oddělení pro ochranu obyvatelstva (DDPP). Mimo Francii si ověřte pravidla své země."
+      },
+      {
+        "q": "Jak přesunout úly z jednoho stanoviště na druhé?",
+        "a": "Otevřete úl, potom ⋯ › Přesunout; pro více úlů najednou použijte nabídku ⋯ stanoviště › Přesunout úly. Vyberte příjemné stanoviště a datum: přesun je zaznamenán v pohybech evidence. Mít více stanovišť vyžaduje Včelařský zápisník Pro."
+      },
+      {
+        "q": "Včelstvo zemřelo, bylo prodáno nebo spojeno: co dělat?",
+        "a": "Otevřete úl, potom ⋯ › Zastavit úl a vyberte důvod. Úl opouští seznam aktivních úlů, ale zachovává si celý historický záznam a jeho odstranění je zaznamenáno v evidenci. „Smazat“ naopak smaže úl i řádky evidence, které se týkaly pouze tohoto úlu: raději použijte „Zastavit“."
+      },
+      {
+        "q": "Je roční deklarace úlů v aplikaci vyplněna automaticky?",
+        "a": "Ne. V Česku aplikace na ni připomíná v kategorii Na dělat od 1. září do 31. prosince a „Deklarovat online“ otevře oficiální stránku na service-public.gouv.fr. Jakmile deklaraci vyplníte, dotkněte se „Hotovo“: připomínka se vrátí příští rok. Mimo Francii není tato připomínka zobrazena."
+      },
+      {
+        "q": "Můj připomínka koncem léčení nepřichází. Proč?",
+        "a": "Zkontrolujte, zda jsou povolené notifikace: Nastavení iPhone › Notifikace › Moje úly. V nastavení aplikace musí být zapnutá položka „Připomínka koncem léčení“. Připomínka se pošle v 9 hodin ráno dne plánovaného ukončení, pouze pokud má léčení plánované datum ukončení a ještě není dokončená. Zkontrolujte také, zda v tento čas není aktivní režim Koncentrace."
+      },
+      {
+        "q": "Co obsahuje Včelařský zápisník Pro a kolik stojí?",
+        "a": "Bezplatná verze nemá časové omezení: jedno stanoviště, kolik úlů chcete, prohlídky, léčení, medobraní, evidence na obrazovce a zálohy. Včelařský zápisník Pro je jednorázová nákup, bez předplatného, za 9,99 € v Francii (cena se může lišit podle země): neomezené stanoviště a export evidence chovu do PDF. Podporuje sdílení rodiny. Na novém zařízení otevřete Nastavení › Zjistit Pro › „Obnovit nákupy“."
+      },
+      {
+        "q": "Kde je uložen můj zápisník a jak ho zálohovat?",
+        "a": "Pouze na vašem zařízení: žádný účet, žádný server a žádné synchronizace mezi zařízeními. V Nastavení › „Uložit zálohu“ aplikace vytvoří soubor, který si můžete uložit do aplikace Soubory nebo iCloud Drive. Chcete-li přejít na nový iPhone nebo přejít na iPad, pošlete tento soubor na jiné zařízení a vyberte „Obnovit zálohu“: zápisník na tomto zařízení je pak nahrazen tím ze souboru."
+      }
+    ],
+    "privacy_summary": "Včelařský zápisník nesbírá žádná data, nepožaduje žádný účet a neobsahuje reklamy ani sledovače. Váš zápisník zůstává na vašem zařízení."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Zhrnutí",
+        "blocks": [
+          {
+            "p": "Včelařský zápisník nezaznamenává žádná data. Všechno, co si zaznamenáte v aplikaci, zůstane na vašem iPhone nebo iPadu."
+          },
+          {
+            "ul": [
+              "Žádný účet, žádná reklama, žádné sledování: aplikace neobsahuje žádné nástroje pro analýzu ani reklamy a vůbec vás neidentifikuje."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Váš zápisník a vaše evidence",
+        "blocks": [
+          {
+            "p": "Údaje o vašem chovu (název, adresa, číslo včelaře, SIRET, telefon, veterinář), vaše stanoviště, úly, prohlídky, léčení, medobraní a pohyby vašich včelstev jsou uloženy v soukromém úložišti aplikace na vašem zařízení. Nejsou předávány nikomu, ani vývojáři."
+          },
+          {
+            "p": "Odstranění aplikace smaže celý zápisník. Může být součástí záloh iCloud nebo místních záloh vašeho zařízení, které spravujete sami v nastavení Apple."
+          }
+        ]
+      },
+      {
+        "h": "Exporty a zálohy",
+        "blocks": [
+          {
+            "p": "PDF evidence a soubor zálohy jsou vytvářeny pouze na vaši žádost a vy si vybíráte, kam je uložit nebo komu je odeslat. Obsahují údaje o vašem chovu: aplikace už nemá žádný vliv na soubor, jakmile jej sdělíte."
+          }
+        ]
+      },
+      {
+        "h": "Oznámení",
+        "blocks": [
+          {
+            "p": "Připomínky koncem léčení jsou naplánovány na zařízení; žádný server se do toho nezaměřuje."
+          }
+        ]
+      },
+      {
+        "h": "Odkaz na deklaraci úlů",
+        "blocks": [
+          {
+            "p": "Tlačítko „Deklarovat online“ otevře stránku webu service-public.gouv.fr ve vašem prohlížeči. Aplikace tam nepředává žádné informace; tento web používá vlastní zásady ochrany soukromí."
+          }
+        ]
+      },
+      {
+        "h": "Nákupy",
+        "blocks": [
+          {
+            "p": "Včelařský zápisník Pro je prodáván a spravován společností Apple. Aplikace nevidí ani váš platební prostředek, ani vaše identitu; čte pouze prostřednictvím App Store, zda byl nákup proveden, aby odemkla funkce."
+          }
+        ]
+      },
+      {
+        "h": "Děti",
+        "blocks": [
+          {
+            "p": "Včelařský zápisník nezískává žádná data, včetně od dětí."
+          }
+        ]
+      },
+      {
+        "h": "Změny",
+        "blocks": [
+          {
+            "p": "Pokud se tato politika změní, nová verze bude zveřejněna na této stránce spolu s datem aktualizace."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Pro jakoukoli otázku týkající se této politiky: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

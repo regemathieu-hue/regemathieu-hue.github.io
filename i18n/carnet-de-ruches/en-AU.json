@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "The beekeeper's notebook: inspections, treatments, harvests and livestock register",
+    "contact": "A question, an idea or a problem with the app? Write to me:<br>{email}",
+    "faq": [
+      {
+        "q": "Where do I start?",
+        "a": "In the Apiaries tab, create your apiary, then tap “Add a Hive”: the app suggests a name, and you can set the hive type and the queen's birth year. Then open Settings › Holding to enter your name, your address and your beekeeper number (NAPI in France): they make up the header of the register. Under its icon, the app is called “My Hives”."
+      },
+      {
+        "q": "How do I record an inspection quickly?",
+        "a": "Open the hive and tap “Inspection”, or swipe the hive's row to the right in the list. Nothing is required: tap only what you saw (queen, frames of bees and brood, stores, queen cells, signs observed, varroa count, supers, feeding). Tapping a choice again clears it."
+      },
+      {
+        "q": "How do I record a varroa treatment?",
+        "a": "Tap “Treatment” from a hive, or “Treat the Whole Apiary” in the apiary's ⋯ menu. “Choose an Authorised Medicine” fills in the name, the active substance, the withdrawal period and the planned end date. The list contains the medicines authorised in France, and everything can be edited: the medicine's leaflet prevails. Add the quantity per hive and the supplier, which the register asks for. On the planned end date the app sends you a reminder, and “Removed Today” closes the treatment."
+      },
+      {
+        "q": "Is the app's register enough in case of an official inspection?",
+        "a": "It gathers the sections that France requires for bees under the order of 5 June 2000: holding, health supervision, apiaries, colony movements and treatments, plus harvests. The register must be available on paper: export it as a PDF, print it regularly and keep it for five years, with the prescriptions and the invoices or delivery notes for medicines. The app does not replace the official texts or the advice of your veterinarian or your beekeepers' health association; if in doubt, ask your local animal health authority. Outside France, check the rules of your own country."
+      },
+      {
+        "q": "How do I move hives from one apiary to another?",
+        "a": "Open the hive, then ⋯ › Move; for several hives at once, use the apiary's ⋯ menu › Move the Hives. Choose the destination apiary and the date: the move is recorded in the register's movements. Having several apiaries requires Hive Notebook Pro."
+      },
+      {
+        "q": "A colony has died, been sold or been united: what should I do?",
+        "a": "Open the hive, then ⋯ › Retire the Hive, and choose the reason. The hive leaves the list of active hives but keeps its full history, and its removal is recorded in the register. “Delete”, on the other hand, erases the hive and the register lines that concerned only that hive: prefer “Retire”."
+      },
+      {
+        "q": "Does the app make the annual hive declaration for me?",
+        "a": "No. In France, the app reminds you of it in the To Do tab from 1 September to 31 December, and “Declare Online” opens the official page on service-public.gouv.fr. Once your declaration is made, tap “Done”: the reminder will come back the following year. Outside France, this reminder is not shown."
+      },
+      {
+        "q": "My end-of-treatment reminder does not arrive. Why?",
+        "a": "Check that notifications are allowed: iPhone Settings › Notifications › My Hives. In the app's Settings, “End-of-treatment reminder” must be turned on. The reminder is sent at 9 a.m. on the planned end date, only if the treatment has a planned end date and has not already ended. Also check that no Focus mode is active at that time."
+      },
+      {
+        "q": "What does Hive Notebook Pro include and how much does it cost?",
+        "a": "The free version has no time limit: one apiary, as many hives as you want, inspections, treatments, harvests, the register on screen and backups. Hive Notebook Pro is a one-time purchase with no subscription, €9.99 in France (the price varies by country): unlimited apiaries and export of the register as a PDF. It supports Family Sharing. On a new device, open Settings › Discover Pro › “Restore Purchases”."
+      },
+      {
+        "q": "Where is my notebook stored, and how do I back it up?",
+        "a": "Only on your device: there is no account, no server and no syncing between devices. In Settings › “Save a Backup”, the app creates a file that you can keep in Files or iCloud Drive. To change iPhone or move to an iPad, send this file to the other device and choose “Restore a Backup”: the notebook on that device is then replaced by the one in the file."
+      }
+    ],
+    "privacy_summary": "Hive Notebook collects no data, requires no account and contains no advertising or trackers. Your notebook stays on your device."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In short",
+        "blocks": [
+          {
+            "p": "Hive Notebook collects no data. Everything you record in the app stays on your iPhone or iPad."
+          },
+          {
+            "ul": [
+              "No account, no advertising, no tracking: the app contains no analytics or advertising tools and does not identify you in any way."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Your notebook and your register",
+        "blocks": [
+          {
+            "p": "The details of your holding (name, address, beekeeper number, business number, phone, veterinarian), your apiaries, your hives, your inspections, your treatments, your harvests and the movements of your colonies are stored in the app's private storage, on your device. They are not sent to anyone, not even to the developer."
+          },
+          {
+            "p": "Deleting the app erases the whole notebook. It may be included in your device's iCloud or local backups, which you manage yourself in Apple's settings."
+          }
+        ]
+      },
+      {
+        "h": "Exports and backups",
+        "blocks": [
+          {
+            "p": "The PDF of the register and the backup file are created only when you ask for them, and you choose where to save them or who to send them to. They contain the details of your holding: the app has no control over a file once you have shared it."
+          }
+        ]
+      },
+      {
+        "h": "Notifications",
+        "blocks": [
+          {
+            "p": "End-of-treatment reminders are scheduled on the device; no server is involved."
+          }
+        ]
+      },
+      {
+        "h": "Link to the hive declaration",
+        "blocks": [
+          {
+            "p": "The “Declare Online” button, shown in France, opens a page of the service-public.gouv.fr website in your browser. The app sends it no information; that site applies its own privacy policy."
+          }
+        ]
+      },
+      {
+        "h": "Purchases",
+        "blocks": [
+          {
+            "p": "Hive Notebook Pro is sold and managed by Apple. The app sees neither your payment method nor your identity; it only reads, through the App Store, whether the purchase has been made, in order to unlock the features."
+          }
+        ]
+      },
+      {
+        "h": "Children",
+        "blocks": [
+          {
+            "p": "Hive Notebook collects no data, including from children."
+          }
+        ]
+      },
+      {
+        "h": "Changes",
+        "blocks": [
+          {
+            "p": "If this policy changes, the new version will be published on this page with its update date."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "For any question about this policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "A méhész naplója: átvizsgálások, kezelések, pergetések és állomány-nyilvántartás",
+    "contact": "Kérdés, ötlet vagy probléma az alkalmazással? Írjon nekem: <br>{email}",
+    "faq": [
+      {
+        "q": "Hol kezdjem?",
+        "a": "A Méhesek fülben hozzon létre egy méhészetet, majd érintse meg a „Kaptár hozzáadása” lehetőséget: az alkalmazás javaslatot ad névvel, és megadhatja a kaptár típusát és az anya születési évét. Nyissa meg a Beállítások › Méhészet menüt, és adja meg a nevét, címét és méhészszámát (NAPI): ezek alkotják az állomány-nyilvántartás fejlécét. Az ikon alatt az alkalmazás „Kaptáraim” néven jelenik meg."
+      },
+      {
+        "q": "Hogyan jegyezhetek be gyorsan egy átvizsgálást?",
+        "a": "Nyissa ki a kaptárat, és érintse meg a „Átvizsgálás” lehetőséget, vagy húzza a kaptár sorát jobbra a listában. Semmi sem kötelező: csak azokat az elemeket érintse meg, amelyeket látott (anya, méh- és fiasításos keretek, élelemkészlet, anyabölcsők, megfigyelt jelek, varroa számolás, méztér, etetés). Érintse újra egy választást, hogy törölje azt."
+      },
+      {
+        "q": "Hogyan jegyezhetek be egy varroa-kezelést?",
+        "a": "Érintse meg a „Kezelés” lehetőséget egy kaptárról, vagy a méhészet menüjében a „Teljes méhes kezelése” opciót. A „Válasszon engedélyezett gyógyszert” kitölti a név, az aktív anyag, a várakozási idő és a tervezett befejezés dátuma mezőket. Minden adat módosítható: a gyógyszer címlete hatályos. Adja meg a kaptárakra eső mennyiséget és a szállítót, amit az állomány-nyilvántartás követel. A tervezett befejezés napján az alkalmazás emlékeztetőt küld, és a „Ma eltávolítva” zárja le a kezelést."
+      },
+      {
+        "q": "Elég a program nyilvántartása hivatalos ellenőrzés esetén?",
+        "a": "Összegyűjti az 5. június 2000-i rendelet szerinti, méhekkel kapcsolatos kötelező adatokat: méhészet, egészségügyi felügyelet, méhesek, kolóniák mozgásai és kezelések, valamint a pergetések is. A nyilvántartást papírformában is meg kell tudni mutatni: exportálja PDF formátumban, nyomtassa ki rendszeresen, és őrizze meg öt éven át, együtt az orvosi receptekkel és a gyógyszerek számláival vagy szállítólevéllel. A program nem helyettesíti az hivatalos szövegeket vagy a háziorvosának vagy a méhészegyesületének tanácsait; bizonytalan esetekben forduljon a helyi állat-egészségügyi hatósághoz. Külföldön ellenőrizze hazai országában érvényes szabályokat."
+      },
+      {
+        "q": "Hogyan mozgathatok kaptárakat egy méhesről a másikra?",
+        "a": "Nyissa meg a kaptárat, majd ⋯ › Mozgatás; több kaptár egyszerre történő áthelyezéséhez használja a méhes menüjét ⋯ › Kaptárak áthelyezése. Válassza ki a cél méhészetet és a dátumot: a mozgás rögzítve lesz a nyilvántartásban. Több méhes használata Méhésznapló Pro szükségessé teszi."
+      },
+      {
+        "q": "Egy kolónia meghalt, eladásra került vagy egyesítésre került: mit tegyek?",
+        "a": "Nyissa meg a kaptárat, majd ⋯ › Kaptár leállítása, és válasszon okot. A kaptár elhagyja a működő kaptárak listáját, de megtartja az összes előzményét, és a kilépése rögzítve lesz a nyilvántartásban. A „Törlés” ellenkezőleg törli a kaptárat és a csak az adott kaptárra vonatkozó nyilvántartási bejegyzéseket: előnyben részesítendő a „Kaptár leállítása”."
+      },
+      {
+        "q": "Elvégezi az alkalmazás az éves kaptár-bejelentést?",
+        "a": "Nem. Franciaországban a program emlékeztet a „Még nem kész” fülön, szeptember 1-én és december 31-ig, és a „Bejelentés online” megnyitja a hivatalos oldalt a service-public.gouv.fr oldalon. Amikor elvégezte a bejelentést, nyomja meg a „Kész” gombot: az emlékeztető a következő évben újra megjelenik. Külföldön ez az emlékeztető nem jelenik meg."
+      },
+      {
+        "q": "A kezelés befejezésének emlékeztetőm nem érkezik meg. Miért?",
+        "a": "Győződjön meg arról, hogy a notifikációk engedélyezettek: iPhone Beállítások › Értesítések › Kaptáraim. Az alkalmazás Beállításaiban a „Kezelés befejezésének emlékeztetője” be kell legyen kapcsolva. A figyelmeztetés 9 órakor érkezik a tervezett befejezés napján, csak akkor, ha a kezelésnek van tervezett befejezési dátuma, és még nem fejeződött be. Ellenőrizze azt is, hogy ekkor nincs aktív Koncentrációs mód."
+      },
+      {
+        "q": "Mit tartalmaz a Méhésznapló Pro, és mennyibe kerül?",
+        "a": "A ingyenes verzió nem rendelkezik időhatárral: egy méhes, akárhány kaptár, átvizsgálások, kezelések, pergetések, a nyilvántartás képernyőn és biztonsági mentések. A Méhésznapló Pro egy egyszeri vásárlás, nincs előfizetés, 9,99 €-ért Franciaországban (a díj országonként változik): korlátlan méhesek és a nyilvántartás PDF formátumban történő exportálása. Támogatja a családi megosztást is. Új eszközön nyissa meg a Beállítások › Ismerkedjen meg a Pro-val › „Vásárlások visszaállítása”."
+      },
+      {
+        "q": "Hol tárolódik a naplóm, és hogyan készíthetek róla biztonsági mentést?",
+        "a": "Csak az Ön eszközén: nincs fiók, szerver vagy eszközök közötti szinkronizálás. A Beállítások › „Biztonsági mentés mentése” menüpontban az alkalmazás létrehoz egy fájlt, amelyet a Fájlok vagy az iCloud Drive mappában tárolhat. Új iPhone-ra való áttéréskor vagy iPad-re való váltáskor küldje el ezt a fájlt a másik eszközre, és válassza a „Biztonsági mentés visszaállítása” lehetőséget: ekkor az eszközön lévő napló a fájlban lévő naplóval lesz felülírva."
+      }
+    ],
+    "privacy_summary": "A Méhésznapló semmilyen adatot nem gyűjt, nincs szükség fiókra, és nincs benne reklám vagy nyomkövető. A napló az Ön eszközén marad."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Összefoglalva",
+        "blocks": [
+          {
+            "p": "A Méhésznapló semmilyen adatot nem gyűjt. Minden, amit az alkalmazásban rögzítesz, az a saját iPhone-od vagy iPad-ed eszközön marad."
+          },
+          {
+            "ul": [
+              "Nincs fiók, nincs reklám, nincs nyomkövetés: az alkalmazás nem tartalmaz elemzési vagy hirdetéses eszközöket, és semmilyen módon nem azonosít téged."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "A naplódat és a nyilvántartásod",
+        "blocks": [
+          {
+            "p": "Az állomány-nyilvántartás adatai (név, cím, méhészazonosító szám, SIRET, telefon, állatorvosi adatok), a méhesek, a kaptárak, az átvizsgálások, a kezelések, a pergetések és a méhcsaládok mozgásai a saját eszközödön belül a program privát tárolójában vannak tárolva. Ezeket senkinek sem küldi el, még a fejlesztőnek sem."
+          },
+          {
+            "p": "Az alkalmazás törlése törli az egész naplót. A biztonsági mentés részét képezheti az eszközöd iCloud vagy helyi biztonsági mentése, amelyeket saját magad kezelhetsz az Apple beállításokban."
+          }
+        ]
+      },
+      {
+        "h": "Exportálás és biztonsági mentés",
+        "blocks": [
+          {
+            "p": "A nyilvántartás PDF formátumú fájlja és a biztonsági mentési fájl csak akkor készül el, amikor te kéri, és te választod ki, hova mented vagy kinek küldöd. Ezek a méhészet adatait tartalmazzák: az alkalmazásnak nincs több ellenőrzése egy fájl felett, miután megosztottad."
+          }
+        ]
+      },
+      {
+        "h": "Értesítések",
+        "blocks": [
+          {
+            "p": "A kezelés befejezésének emlékeztetője az eszközön van ütemezve; nincs szerverekkel kapcsolatban."
+          }
+        ]
+      },
+      {
+        "h": "Hivatkozás a kaptárak bejelentéséhez",
+        "blocks": [
+          {
+            "p": "A „Bejelentés online” gomb megnyit egy oldalt a service-public.gouv.fr weboldalon a böngészőben. Az alkalmazás nem továbbít semmilyen információt erre a helyre; ez az oldal saját adatvédelmi irányelveket alkalmaz."
+          }
+        ]
+      },
+      {
+        "h": "Vásárlások",
+        "blocks": [
+          {
+            "p": "A Méhésznapló Pro az Apple által kerül értékesítésre és kezelésre. Az alkalmazás nem látja sem a fizetési módot, sem az identitásodat; csak az App Store-on keresztül ellenőrzi, hogy meg lett-e vásárolva, hogy feloldja a funkciókat."
+          }
+        ]
+      },
+      {
+        "h": "Gyerekek",
+        "blocks": [
+          {
+            "p": "A Méhésznapló semmilyen adatot nem gyűjt, beleértve a gyerekektől származókat is."
+          }
+        ]
+      },
+      {
+        "h": "Módosítások",
+        "blocks": [
+          {
+            "p": "Ha ez a szabályozás megváltozik, az új verzió ezen az oldalon kerül közzétételre a frissítés dátumával."
+          }
+        ]
+      },
+      {
+        "h": "Kapcsolat",
+        "blocks": [
+          {
+            "p": "Bármilyen kérdés esetén ezekről a szabályozásokról: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

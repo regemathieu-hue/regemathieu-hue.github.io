@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Birøkterens notatbok: ettersyn, behandlinger, høsting og dyreholdjournal",
+    "contact": "Har du en spørsmål, en idé eller et problem med appen? Skriv meg:<br>{email}",
+    "faq": [
+      {
+        "q": "Hvor starter jeg?",
+        "a": "I fanen Bigårder oppretter du din bigård, deretter trykker du «Legg til en bikube»: appen foreslår et navn, og du kan angi type bikube og år for dronningen. Åpne deretter Innstillinger › Bedrift for å taste inn navn, adresse og apikulturnummer (NAPI i Frankrike): disse opplysningene utgjør overskriften i journalen. Under ikonet heter appen «Mine bikuber»."
+      },
+      {
+        "q": "Hvordan noterer jeg et ettersyn raskt?",
+        "a": "Åpne bikuben og trykk «Ettersyn», eller skyv linjen for bikuben mot høyre i lista. Ingenting er obligatorisk: bare trykk på det du har sett (drønn, rammer med abe og yngel, fôrlager, dronningceller, observert tegn, telling av varroamidd, skattekasser, fôring). Trykk igjen på et valg for å slette det."
+      },
+      {
+        "q": "Hvordan registrerer jeg en behandling mot varroa?",
+        "a": "Trykk «Behandling» fra en bikube, eller «Behandle hele bigården» i menyen ⋯ for bigården. «Velg et godkjent legemiddel» fyller ut navn, aktiv stoff, tilbakeholdelsestid og planlagt slutt dato. Alt kan endres: informasjonsplakaten for legemiddelet gjelder. Legg til mengde per bikube og leverandør, som journalen krever. På den planlagte sluttdato sender appen en påminnelse, og «Fjernet i dag» avslutter behandlingen."
+      },
+      {
+        "q": "Tilfredstiller appens journal i tilfelle av kontroll?",
+        "a": "Det samler de punktene som er foreskrevet for bier i forskrift av 5. juni 2000: bedrift, saneringsovervåking, bigårder, bevegelser av bifolk og behandlinger, pluss høsting. Journalen må kunne vises på papir: eksporter den som PDF, skriv ut den regelmessig og behold den i fem år, sammen med resepter og fakturaer eller leveransekvitter for legemidler. Appen erstatter ikke de offisielle tekstene eller rådene fra din dyrelege eller din saneringsgruppe; i tvil, kontakt din lokale myndighet for dyr. Utenfor Frankrike, sjekk reglene i ditt eget land."
+      },
+      {
+        "q": "Hvordan flytter jeg bikuber fra en bigård til en annen?",
+        "a": "Åpne bikuben, deretter ⋯ › Flytt; for flere bikuber samtidig, bruk menyen ⋯ i bigården › Flytt bikuber. Velg destinasjonsbigård og dato: flyttingen registreres i bevegelsesjournalen. Å ha flere bigårder krever Birøkterens notatbok Pro."
+      },
+      {
+        "q": "Et bifolk har dødd, blitt solgt eller sammenslått: hva skal jeg gjøre?",
+        "a": "Åpne bikuben, deretter ⋯ › Avslutt bikuben, og velg årsaken. Bikuben forlater listen over aktive bikuber, men beholder hele historikken, og avslutningen registreres i journalen. «Slett» sletter imidlertid bikuben og de journalpostene som bare gjaldt den: foretrekk «Avslutt»."
+      },
+      {
+        "q": "Gjør appen årlig høstingserklæring for meg?",
+        "a": "Nei. I Frankrike husker appen deg i fanen Å gjøre fra 1. september til 31. desember, og «Erklær online» åpner den offisielle siden på service-public.gouv.fr. Når du har fullført erklæringen, trykk «Ferdig»: huskingen kommer igjen neste år. Utlandsk, vises ikke denne huskingen."
+      },
+      {
+        "q": "Min påminnelse etter behandling kommer ikke. Hvorfor?",
+        "a": "Sjekk at varslinger er tillatt: iPhone-instillinger ›Varslinger›Mine bikuber. I appens innstillinger må «Påminnelse etter behandling» være aktivert. Påminnelsen sendes kl. 9 den planlagte sluttdagen, bare hvis behandlingen har en planlagt sluttdato og ikke allerede er avsluttet. Sjekk også at ingen fokusmodus er aktiv ved dette tidspunktet."
+      },
+      {
+        "q": "Hva inneholder Birøkterens notatbok Pro, og hvor mye koster det?",
+        "a": "Den gratis versjonen har ingen tidsbegrensning: en bigård, like mange bikuber som du vil, ettersyn, behandlinger, høsting, journal på skjermen og sikkerhetskopier. Birøkterens notatbok Pro er en éngangs-kjøp uten abonnement, 9,99 € i Frankrike (prisen varierer etter land): ubegrenset antall bigårder og eksport av dyreholdjournal som PDF. Den er kompatibel med familie-deling. På et nytt enhet, åpne Innstillinger › Oppdag Pro › «Gjenopprett kjøp»."
+      },
+      {
+        "q": "Hvor er min notatbok lagret, og hvordan lagrer jeg den?",
+        "a": "Kun på din enhet: det er ingen konto, server eller synkronisering mellom enheter. I Innstillinger › «Lagre sikkerhetskopi», oppretter appen en fil du kan beholde i Filer eller iCloud Drive. For å bytte iPhone eller gå over til iPad, sender du denne fila til den andre enheten og velger «Gjenopprett en sikkerhetskopi»: notatboken på enheten erstattes da av den i fila."
+      }
+    ],
+    "privacy_summary": "Birøkterens notatbok samler ingen data, krever ingen konto og inneholder ingen reklame eller sporing. Din notatbok forblir på din enhet."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort oppsummert",
+        "blocks": [
+          {
+            "p": "Birøkterens notatbok samler ingen data. Alt du skriver inn i appen forblir på din iPhone eller iPad."
+          },
+          {
+            "ul": [
+              "Ingen konto, ingen reklame, ingen sporing: appen inneholder ingen analyseverktøy eller reklame, og identifiserer deg ikke på noen måte."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Din notatbok og din journal",
+        "blocks": [
+          {
+            "p": "Informasjon om din bedrift (navn, adresse, birøkternummer, SIRET, telefon, dyrehelsetjeneste), dine bigårder, bikuber, ettersyn, behandlinger, høsting og bevegelser av bifolk lagres i appens private lagring på enheten din. De sendes ikke til noen, ikke engang til utvikleren."
+          },
+          {
+            "p": "Å slette appen sletter hele notatboken. Den kan være med i iCloud- eller lokale sikkerhetskopier av enheten din, som du selv styrer i Apple-instillingene."
+          }
+        ]
+      },
+      {
+        "h": "Eksporter og sikkerhetskopier",
+        "blocks": [
+          {
+            "p": "PDF-en for journalen og sikkerhetskopifilen lages kun når du ber om dem, og du velger hvor du vil lagre dem eller hvem du vil sende dem til. De inneholder informasjon om din bedrift: appen har ingen kontroll over en fil etter at du har delt den."
+          }
+        ]
+      },
+      {
+        "h": "Varslinger",
+        "blocks": [
+          {
+            "p": "Påminnelser etter behandling er planlagt på enheten; ingen server er involvert."
+          }
+        ]
+      },
+      {
+        "h": "Lenke til rukedeklarasjon",
+        "blocks": [
+          {
+            "p": "Knappen «Erklær online» åpner en side på service-public.gouv.fr i nettleseren din. Applikasjonen sender ingen informasjon til siden; denne nettsiden har sin egen personvernpolitikk."
+          }
+        ]
+      },
+      {
+        "h": "Kjøp",
+        "blocks": [
+          {
+            "p": "Birøkterens notatbok Pro selges og håndteres av Apple. Applikasjonen ser hverken din betalingsmåte eller identitet; den leser bare, via App Store, om kjøpet er gjort, for å låse opp funksjonene."
+          }
+        ]
+      },
+      {
+        "h": "Barn",
+        "blocks": [
+          {
+            "p": "Birøkterens notatbok samler ingen data, inkludert fra barn."
+          }
+        ]
+      },
+      {
+        "h": "Endringer",
+        "blocks": [
+          {
+            "p": "Hvis denne politikken endres, vil den nye versjonen bli publisert på denne siden med dens oppdateringsdato."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "For alle spørsmål om denne politikken: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

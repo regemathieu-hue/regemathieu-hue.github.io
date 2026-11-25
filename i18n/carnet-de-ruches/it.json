@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Il quaderno dell'apicoltore: visite, trattamenti, raccolti e registro di allevamento",
+    "contact": "Una domanda, un'idea o un problema con l'app? Scrivimi:<br>{email}",
+    "faq": [
+      {
+        "q": "Da dove iniziare?",
+        "a": "Nella scheda Apiari, crea il tuo apiario, quindi tocca «Aggiungi un'arnia»: l'app suggerisce un nome, e puoi specificare il modello dell'arnia e l'anno della regina. Apri quindi Impostazioni › Azienda per inserire il tuo nome, l'indirizzo e il numero di apicoltore (NAPI): questi dati formano l'intestazione del registro di allevamento. Sotto l'icona, l'app si chiama «Le mie arnie»."
+      },
+      {
+        "q": "Come registrare una visita rapidamente?",
+        "a": "Apri l'arnia e tocca «Visita», oppure scorri verso destra la riga dell'arnia nella lista. Niente è obbligatorio: tocca solo ciò che hai osservato (regina, telaini di api e covata, scorte, celle reali, segni osservati, conteggio delle varroa, melari, nutrizione). Toccare nuovamente una voce la elimina."
+      },
+      {
+        "q": "Come registrare un trattamento contro le varroa?",
+        "a": "Tocca «Trattamento» da un'arnia, oppure «Tratta tutto l'apiario» nel menu ⋯ dell'apiario. «Scegli un medicinale autorizzato» compila nome, sostanza attiva, tempo di sospensione e data di fine prevista. Tutto rimane modificabile: la scheda tecnica del medicinale ha valore legale. Aggiungi la quantità per arnia e il fornitore, richiesti dal registro. Il giorno della fine prevista, l'app ti invia un promemoria, e «Rimosso oggi» chiude il trattamento."
+      },
+      {
+        "q": "Il registro dell'applicazione basta in caso di controllo?",
+        "a": "Riunisce i campi previsti per le api dall'ordinanza del 5 giugno 2000: azienda, sorveglianza sanitaria, apiari, movimenti delle famiglie e trattamenti, con in più i raccolti. Il registro deve poter essere presentato su carta: esportatelo in PDF, stampatelo regolarmente e conservatelo per cinque anni, insieme alle ricette e ai documenti di fattura o consegna dei medicinali. L'applicazione non sostituisce né i testi ufficiali né i consigli del vostro veterinario o del vostro gruppo sanitario; in caso di dubbio, rivolgetevi alla direzione dipartimentale della protezione delle popolazioni (DDPP). Fuori dalla Francia, verificate le norme del vostro paese."
+      },
+      {
+        "q": "Come sposto le arnie da un apiario all'altro?",
+        "a": "Apri l'arnia, poi ⋯ › Sposta; per più arnie contemporaneamente, passa dal menu dell'apiario ⋯ › Sposta le arnie. Scegli l'apiario di destinazione e la data: il trasferimento viene registrato nei movimenti del registro. Avere più apiari richiede Quaderno delle arnie Pro."
+      },
+      {
+        "q": "Una famiglia è morta, venduta o unita: cosa devo fare?",
+        "a": "Apri l'arnia, poi ⋯ › Ferma l'arnia, e scegli la ragione. L'arnia esce dalla lista delle arnie attive, ma conserva tutto il suo storico, e la sua uscita viene registrata nel registro. «Elimina» invece cancella l'arnia e le righe del registro che riguardavano solo lei: preferisci «Ferma»."
+      },
+      {
+        "q": "L'applicazione effettua la dichiarazione annuale delle arnie?",
+        "a": "No. In Francia, l'applicazione ti ricorda il termine nell'opzione Da fare, dal 1° settembre al 31 dicembre, e «Dichiara online» apre la pagina ufficiale del sito service-public.gouv.fr. Una volta effettuata la dichiarazione, tocca «Fatto»: il promemoria tornerà l'anno successivo. Fuori dalla Francia, questo promemoria non viene visualizzato."
+      },
+      {
+        "q": "Il mio promemoria fine trattamento non arriva. Perché?",
+        "a": "Verifica che le notifiche siano abilitate: Impostazioni iPhone › Notifiche › Le mie arnie. Nelle Impostazioni dell'applicazione, « Promemoria fine trattamento » deve essere attivato. Il promemoria viene inviato alle 9 del mattino del giorno previsto per la conclusione, solo se il trattamento ha una data di fine prevista e non è già terminato. Controlla anche che in quel momento non sia attivo alcun modo Concentrazione."
+      },
+      {
+        "q": "Che cosa contiene Quaderno delle arnie Pro e quanto costa?",
+        "a": "La versione gratuita non ha limiti di durata: un apiario, quante arnie vuoi, visite, trattamenti, raccolti, il registro a schermo e i backup. Quaderno delle arnie Pro è un acquisto singolo, senza abbonamento, a 9,99 € in Francia (il prezzo varia a seconda del paese): apiari illimitati e esportazione del registro di allevamento in PDF. È compatibile con il condivisione familiare. Su un nuovo dispositivo, apri Impostazioni › Scopri Pro › « Ripristina acquisti »."
+      },
+      {
+        "q": "Dove è registrato il mio quaderno e come fare il backup?",
+        "a": "Solo sul tuo dispositivo: non esiste alcun account, server o sincronizzazione tra dispositivi. In Impostazioni › « Salva un backup », l'app crea un file che puoi conservare in File o iCloud Drive. Per cambiare iPhone o passare a iPad, invia questo file sull'altro dispositivo e scegli « Ripristina un backup »: il quaderno presente viene quindi sostituito da quello del file."
+      }
+    ],
+    "privacy_summary": "Quaderno delle arnie non raccoglie alcuna dato, non richiede alcun account e non contiene pubblicità né tracciatori. Il tuo quaderno rimane sul tuo dispositivo."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In breve",
+        "blocks": [
+          {
+            "p": "Quaderno delle arnie non raccoglie alcuna dato. Tutto ciò che registri nell'app rimane sul tuo iPhone o iPad."
+          },
+          {
+            "ul": [
+              "Nessun account, nessuna pubblicità, nessun tracciamento: l'app non contiene strumenti di analisi né pubblicitari e non ti identifica in alcun modo."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Il tuo quaderno e il tuo registro",
+        "blocks": [
+          {
+            "p": "I dati della tua azienda (nome, indirizzo, numero apicoltore, SIRET, telefono, veterinario), i tuoi apiari, le tue arnie, le visite, i trattamenti, i raccolti e i movimenti delle famiglie sono registrati nello spazio privato dell'applicazione, sul tuo dispositivo. Non vengono trasmessi a nessuno, neppure al sviluppatore."
+          },
+          {
+            "p": "Eliminare l'app cancella tutto il quaderno. Può essere incluso nei backup iCloud o locali del tuo dispositivo, che gestisci tu stesso nelle impostazioni di Apple."
+          }
+        ]
+      },
+      {
+        "h": "Esportazioni e backup",
+        "blocks": [
+          {
+            "p": "Il PDF del registro e il file di backup vengono creati solo quando lo richiedi, e sei tu a scegliere dove salvarli o a chi inviarli. Contengono i dati della tua azienda: l'app non ha più alcun controllo su un file una volta che lo hai condiviso."
+          }
+        ]
+      },
+      {
+        "h": "Notifiche",
+        "blocks": [
+          {
+            "p": "I promemoria fine trattamento sono programmati sul dispositivo; non è coinvolto alcun server."
+          }
+        ]
+      },
+      {
+        "h": "Collegamento alla dichiarazione delle arnie",
+        "blocks": [
+          {
+            "p": "Il pulsante « Dichiara online » apre una pagina del sito service-public.gouv.fr nel tuo browser. L'applicazione non trasmette alcuna informazione a quel sito; esso applica la propria politica sulla privacy."
+          }
+        ]
+      },
+      {
+        "h": "Acquisti",
+        "blocks": [
+          {
+            "p": "Quaderno delle arnie Pro è venduto e gestito da Apple. L'applicazione non vede né il tuo metodo di pagamento né la tua identità; legge solo, tramite l'App Store, se l'acquisto è stato effettuato, per sbloccare le funzioni."
+          }
+        ]
+      },
+      {
+        "h": "Bambini",
+        "blocks": [
+          {
+            "p": "Quaderno delle arnie non raccoglie alcuna dati, neanche dai bambini."
+          }
+        ]
+      },
+      {
+        "h": "Modifiche",
+        "blocks": [
+          {
+            "p": "Se questa politica viene modificata, la nuova versione sarà pubblicata su questa pagina con la relativa data di aggiornamento."
+          }
+        ]
+      },
+      {
+        "h": "Contatto",
+        "blocks": [
+          {
+            "p": "Per qualsiasi domanda riguardo a questa politica: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

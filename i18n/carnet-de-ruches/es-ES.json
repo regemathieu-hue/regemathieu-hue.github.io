@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "El cuaderno del apicultor: revisiones, tratamientos, cosechas y libro de registro",
+    "contact": "¿Una pregunta, una idea o un problema con la aplicación? Escríbeme:<br>{email}",
+    "faq": [
+      {
+        "q": "¿Por dónde empezar?",
+        "a": "En la pestaña Colmenares, crea tu colmenar, luego toca «Añadir una colmena»: la aplicación propone un nombre, y puedes especificar el modelo de la colmena y el año de la reina. A continuación, abre Ajustes › Explotación para introducir tu nombre, tu dirección y tu número de apicultor (NAPI): forman el encabezado del libro de registro. Bajo su icono, la aplicación se llama «Mis colmenas»."
+      },
+      {
+        "q": "¿Cómo anotar una revisión rápidamente?",
+        "a": "Abre la colmena y toca «Revisión», o desliza la fila de la colmena hacia la derecha en la lista. Nada es obligatorio: toca solo lo que has visto (reina, cuadros de abejas y cría, reservas, celdas reales, signos observados, conteo de varroa, alzas, alimentación). Tocar de nuevo una opción la elimina."
+      },
+      {
+        "q": "¿Cómo registrar un tratamiento contra el varroa?",
+        "a": "Toca «Tratamiento» desde una colmena, o «Tratar todo el colmenar» en el menú ⋯ del colmenar. «Elige un medicamento autorizado» rellena el nombre, la sustancia activa, el tiempo de espera y la fecha de finalización prevista. Todo sigue siendo modificable: la ficha técnica del medicamento es la que prevalece. Añade la cantidad por colmena y el proveedor, que el registro exige. El día de la finalización prevista, la aplicación te enviará un recordatorio, y «Quitado hoy» cerrará el tratamiento."
+      },
+      {
+        "q": "¿Basta el registro de la aplicación en caso de inspección?",
+        "a": "Reúne las secciones previstas para las abejas por el decreto del 5 de junio de 2000: explotación, control sanitario, colmenares, movimientos de colonias y tratamientos, además de las cosechas. El registro debe poder presentarse en papel: exportadlo como PDF, imprimeoslo regularmente y guardadlo cinco años, junto con las recetas y las facturas o albaranes de los medicamentos. La aplicación no sustituye ni los textos oficiales ni los consejos de vuestro veterinario o de vuestro grupo sanitario; en caso de duda, acudid a la dirección departamental de protección de poblaciones (DDPP). Fuera de Francia, consultad las normas de vuestro país."
+      },
+      {
+        "q": "¿Cómo desplazo colmenas de un colmenar a otro?",
+        "a": "Abre la colmena, luego ⋯ › Desplazar; para varias colmenas a la vez, pasa por el menú ⋯ del colmenar › Desplazar las colmenas. Elige el colmenar de destino y la fecha: el desplazamiento se registra en los movimientos del libro de registro. Tener varios colmenares requiere Cuaderno de colmenas Pro."
+      },
+      {
+        "q": "Una colonia ha muerto, se ha vendido o se ha unido: ¿qué debo hacer?",
+        "a": "Abre la colmena, luego ⋯ › Retirar la colmena, y elige la razón. La colmena sale de la lista de colmenas activas, pero conserva todo su historial, y su retirada se registra en el libro. «Eliminar» borra, por el contrario, la colmena y las líneas del registro que solo la concernían: prefiriendo «Retirar»."
+      },
+      {
+        "q": "¿Hace la aplicación la declaración anual de colmenas?",
+        "a": "No. En Francia, la aplicación os la recuerda en la pestaña A hacer, del 1 de septiembre al 31 de diciembre, y «Declarar online» abre la página oficial del sitio service-public.gouv.fr. Una vez realizada vuestra declaración, toca «Hecho»: el recordatorio volverá el año siguiente. Fuera de Francia, no se muestra este recordatorio."
+      },
+      {
+        "q": "Mi recordatorio al final del tratamiento no llega. ¿Por qué?",
+        "a": "Compruebe que las notificaciones están permitidas: Configuración del iPhone › Notificaciones › Mis colmenas. En la Configuración de la aplicación, «Recordatorio al final del tratamiento» debe estar activado. El recordatorio se envía a las 9 h del día previsto para finalizar, únicamente si el tratamiento tiene una fecha de finalización prevista y aún no ha terminado. Compruebe también que no haya un modo Concentración activo a esa hora."
+      },
+      {
+        "q": "¿Qué incluye Cuaderno de colmenas Pro y cuánto cuesta?",
+        "a": "La versión gratuita no tiene límite de tiempo: un colmenar, tantas colmenas como desee, revisiones, tratamientos, cosechas, el registro en pantalla y copias de seguridad. Cuaderno de colmenas Pro es una compra única, sin suscripción, de 9,99 € en Francia (el precio varía según el país): colmenares ilimitados y exportación del registro de explotación en PDF. Es compatible con el Compartir en familia. En un nuevo dispositivo, abra Configuración › Descubre Pro › «Restaurar mis compras»."
+      },
+      {
+        "q": "¿Dónde se guarda mi cuaderno y cómo hacer una copia de seguridad?",
+        "a": "Únicamente en su dispositivo: no hay cuenta, servidor ni sincronización entre dispositivos. En Configuración › «Guardar una copia de seguridad», la aplicación crea un archivo que puede guardar en Archivos o iCloud Drive. Para cambiar de iPhone o pasar a iPad, envíe este archivo al otro dispositivo y elija «Restaurar una copia de seguridad»: el cuaderno actual se sustituirá por el del archivo."
+      }
+    ],
+    "privacy_summary": "Cuaderno de colmenas no recopila ninguna información, no requiere cuenta y no contiene publicidad ni rastreadores. Su cuaderno permanece en su dispositivo."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resumen",
+        "blocks": [
+          {
+            "p": "Cuaderno de colmenas no recopila ningún dato. Todo lo que anotas en la aplicación permanece en tu iPhone o iPad."
+          },
+          {
+            "ul": [
+              "Sin cuenta, sin publicidad, sin seguimiento: la aplicación no contiene herramientas de análisis ni publicidad, y no te identifica de ninguna manera."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Tu cuaderno y tu registro",
+        "blocks": [
+          {
+            "p": "Los datos de tu explotación (nombre, dirección, número de apicultor, SIRET, teléfono, veterinario), tus colmenares, tus colmenas, tus revisiones, tus tratamientos, tus cosechas y los movimientos de tus colonias se almacenan en el almacenamiento privado de la aplicación, en tu dispositivo. No se envían a nadie, ni siquiera al desarrollador."
+          },
+          {
+            "p": "Eliminar la aplicación borra todo el cuaderno. Puede incluirse en las copias de seguridad de iCloud o locales de tu dispositivo, que gestionas tú mismo en la configuración de Apple."
+          }
+        ]
+      },
+      {
+        "h": "Exportaciones y copias de seguridad",
+        "blocks": [
+          {
+            "p": "El PDF del registro y el archivo de copia de seguridad solo se crean cuando lo solicitas, y es tú quien elige dónde guardarlos o a quién enviarlos. Contienen los datos de tu explotación: la aplicación ya no tiene ningún control sobre un archivo una vez que lo has compartido."
+          }
+        ]
+      },
+      {
+        "h": "Notificaciones",
+        "blocks": [
+          {
+            "p": "Los recordatorios al final del tratamiento se programan en el dispositivo; ningún servidor está implicado."
+          }
+        ]
+      },
+      {
+        "h": "Enlace a la declaración de colmenas",
+        "blocks": [
+          {
+            "p": "El botón « Declarar online » abre una página del sitio service-public.gouv.fr en su navegador. La aplicación no transmite ninguna información a ese sitio; dicho sitio aplica su propia política de privacidad."
+          }
+        ]
+      },
+      {
+        "h": "Compras",
+        "blocks": [
+          {
+            "p": "Cuaderno de colmenas Pro se vende y gestiona mediante Apple. La aplicación no ve ni su método de pago ni su identidad; solo lee, a través de la App Store, si la compra se ha realizado, para desbloquear las funciones."
+          }
+        ]
+      },
+      {
+        "h": "Niños",
+        "blocks": [
+          {
+            "p": "Cuaderno de colmenas no recopila ningún dato, incluso de los niños."
+          }
+        ]
+      },
+      {
+        "h": "Cambios",
+        "blocks": [
+          {
+            "p": "Si esta política cambia, la nueva versión se publicará en esta página con su fecha de actualización."
+          }
+        ]
+      },
+      {
+        "h": "Contacto",
+        "blocks": [
+          {
+            "p": "Para cualquier pregunta sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

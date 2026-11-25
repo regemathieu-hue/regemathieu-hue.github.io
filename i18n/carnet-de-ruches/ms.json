@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Buku Nota Lebah: pemeriksaan, rawatan, tuaian dan daftar ternakan",
+    "contact": "Ada soalan, idea atau masalah dengan aplikasi ini? Tulis kepada saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Dari mana saya mula?",
+        "a": "Di tab Apiari, cipta apiari anda, kemudian sentuh \"Tambah Sarang\": aplikasi mencadangkan nama, dan anda boleh tentukan jenis sarang serta tahun kelahiran ratu. Kemudian buka Tetapan › Ladang untuk masukkan nama, alamat dan nombor penternak lebah (NAPI): ia membentuk tajuk daftar ternakan. Di bawah ikonnya, aplikasi dipanggil \"Lebah Saya\"."
+      },
+      {
+        "q": "Bagaimana saya mencatat pemeriksaan dengan cepat?",
+        "a": "Buka sarang dan sentuh \"Pemeriksaan\", atau gelongsor baris sarang ke kanan dalam senarai. Tiada yang wajib: sentuh sahaja apa yang anda lihat (ratu, bingkai lebah dan anak lebah, simpanan makanan, sel ratu, tanda yang diperhatikan, kiraan hama varroa, kotak madu, pemberian makanan). Sentuh semula pilihan untuk memadamkannya."
+      },
+      {
+        "q": "Bagaimana saya mencatat rawatan terhadap hama varroa?",
+        "a": "Sentuh \"Rawatan\" dari satu sarang, atau \"Rawatan Seluruh Apiari\" dalam menu ⋯ apiari. \"Pilih ubat yang diluluskan\" akan mengisi nama, bahan aktif, tempoh henti ubat dan tarikh akhir yang dirancang. Semua maklumat boleh dikemaskini: dokumen ubat menjadi rujukan utama. Tambah kuantiti setiap sarang dan pembekal, seperti yang diminta dalam daftar. Pada hari akhir yang dirancang, aplikasi akan menghantar ingatan, dan \"Dibuang Hari Ini\" menutup rawatan."
+      },
+      {
+        "q": "Adakah daftar aplikasi ini mencukupi semasa pemeriksaan?",
+        "a": "Ia mengumpulkan bahagian-bahagian yang diperlukan bagi lebah menurut arahan 5 Jun 2000: ladang, pengawasan kesihatan, apiari, pergerakan koloni dan rawatan, ditambah dengan tuaian. Daftar ini mesti boleh dipaparkan dalam bentuk kertas: eksport sebagai PDF, cetak secara berkala dan simpan selama lima tahun, bersama resipi dan invois atau notis penghantaran ubat-ubatan. Aplikasi ini tidak menggantikan teks rasmi atau nasihat daripada doktor haiwan atau kumpulan kesihatan penternak lebah; jika ragu-ragu, hubungi pihak berkuasa kesihatan haiwan tempatan. Di luar Perancis, sila semak peraturan negara sendiri."
+      },
+      {
+        "q": "Bagaimana saya memindahkan sarang dari satu apiari ke apiari lain?",
+        "a": "Buka sarang, kemudian ⋯ › Pindahkan; untuk beberapa sarang pada satu masa, gunakan menu ⋯ apiari › Pindahkan Sarang. Pilih apiari tujuan dan tarikh: pemindahan dicatatkan dalam pergerakan daftar. Memiliki lebih daripada satu apiari memerlukan Buku Nota Lebah Pro."
+      },
+      {
+        "q": "Koloni telah mati, dijual atau digabungkan: apa yang patut saya lakukan?",
+        "a": "Buka sarang, kemudian ⋯ › Hentikan Sarang, dan pilih sebabnya. Sarang akan keluar daripada senarai sarang aktif tetapi terus menyimpan sejarah penuh, dan keluarnya dicatatkan dalam daftar. “Padam” pula akan menghapuskan sarang dan baris-baris daftar yang hanya melibatkan sarang itu sahaja: lebih baik gunakan “Hentikan”."
+      },
+      {
+        "q": "Adakah aplikasi ini membuat penyataan tahunan sarang bagi saya?",
+        "a": "Tidak. Di Perancis, aplikasi ini mengingatkan anda dalam tab Perlu Buat dari 1 September hingga 31 Disember, dan “Isytiharkan Secara Dalam Talian” akan membuka halaman rasmi di service-public.gouv.fr. Setelah penyataan dibuat, sentuh “Selesai”: ingatan akan muncul semula tahun depan. Di luar Perancis, ingatan ini tidak dipaparkan."
+      },
+      {
+        "q": "Ingatan akhir rawatan saya tidak sampai. Mengapa?",
+        "a": "Sila semak bahawa notifikasi dibenarkan: Tetapan iPhone › Notifikasi › Lebah Saya. Dalam Tetapan aplikasi, ‘Ingatan akhir rawatan’ mesti dihidupkan. Ingatan akan dikirim pada jam 9 pagi pada tarikh akhir yang dirancang, hanya jika rawatan mempunyai tarikh akhir yang dirancang dan belum tamat. Sila semak juga bahawa tiada mod Fokus aktif pada waktu itu."
+      },
+      {
+        "q": "Apa yang termasuk dalam Buku Nota Lebah Pro dan berapa harganya?",
+        "a": "Versi percuma tiada had masa: satu apiari, seberapa banyak sarang yang anda mahu, pemeriksaan, rawatan, tuaian, daftar pada skrin dan sandaran. Buku Nota Lebah Pro adalah pembelian sekaligus tanpa langganan, berharga 9,99 € di Perancis (harga berbeza mengikut negara): apiari tanpa had dan eksport daftar ternakan dalam bentuk PDF. Ia menyokong perkongsian keluarga. Pada peranti baharu, buka Tetapan › Kenali Pro › ‘Pulihkan Pembelian’."
+      },
+      {
+        "q": "Di manakah buku nota saya disimpan, dan bagaimana untuk menyimpan sandarannya?",
+        "a": "Hanya pada peranti anda: tiada akaun, tiada pelayan, tiada penyelarasan antara peranti. Dalam Tetapan › ‘Simpan Sandaran’, aplikasi akan mencipta fail yang boleh anda simpan dalam Fail atau iCloud Drive. Untuk menukar iPhone atau berpindah ke iPad, hantar fail ini ke peranti lain dan pilih ‘Pulihkan Sandaran’: buku nota yang ada pada peranti itu kemudian digantikan dengan fail tersebut."
+      }
+    ],
+    "privacy_summary": "Buku Nota Lebah tidak mengumpulkan sebarang data, tidak meminta akaun, dan tiada iklan atau penjejak. Buku nota anda kekal pada peranti anda."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasan",
+        "blocks": [
+          {
+            "p": "Buku Nota Lebah tidak mengumpul sebarang data. Segala yang anda catat dalam aplikasi akan kekal di iPhone atau iPad anda."
+          },
+          {
+            "ul": [
+              "Tiada akaun, tiada iklan, tiada penjejakan: aplikasi ini tidak mengandungi alat analitik atau iklan, dan tidak mengenal pasti anda sama sekali."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Buku nota dan daftar anda",
+        "blocks": [
+          {
+            "p": "Maklumat ladang anda (nama, alamat, nombor penternak lebah, SIRET, telefon, doktor haiwan), apiari, sarang, pemeriksaan, rawatan, tuaian, serta pergerakan koloni disimpan dalam stor peribadi aplikasi, di peranti anda. Maklumat ini tidak dikongsikan dengan sesiapa pun, bahkan dengan pembangun aplikasi."
+          },
+          {
+            "p": "Memadam aplikasi akan menghapuskan seluruh buku nota. Ia boleh dimasukkan ke dalam sandaran iCloud atau tempatan peranti anda, yang diurus sendiri melalui tetapan Apple."
+          }
+        ]
+      },
+      {
+        "h": "Eksport dan sandaran",
+        "blocks": [
+          {
+            "p": "Fail PDF daftar dan fail sandaran hanya dicipta apabila anda meminta, dan anda yang memilih tempat menyimpan atau penerima untuk menghantar fail tersebut. Fail ini mengandungi maklumat ladang anda: aplikasi tidak lagi mempunyai kawalan terhadap fail selepas anda berkongsi padanya."
+          }
+        ]
+      },
+      {
+        "h": "Notifikasi",
+        "blocks": [
+          {
+            "p": "Ingatan akhir rawatan dijadualkan pada peranti; tiada pelayan terlibat."
+          }
+        ]
+      },
+      {
+        "h": "Pautan ke pengisytiharan sarang",
+        "blocks": [
+          {
+            "p": "Butang « Isytiharkan Secara Dalam Talian » akan membuka halaman dari laman web service-public.gouv.fr dalam pelayar anda. Aplikasi ini tidak menghantar sebarang maklumat ke laman itu; laman ini menerapkan dasar privasi sendiri."
+          }
+        ]
+      },
+      {
+        "h": "Pembelian",
+        "blocks": [
+          {
+            "p": "Buku Nota Lebah Pro dijual dan dikelola oleh Apple. Aplikasi ini tidak melihat kaedah pembayaran atau identiti anda; ia hanya membaca, melalui App Store, sama ada pembelian telah dibuat, untuk membuka ciri-ciri."
+          }
+        ]
+      },
+      {
+        "h": "Kanak-kanak",
+        "blocks": [
+          {
+            "p": "Buku Nota Lebah tidak mengumpul sebarang data, termasuk daripada kanak-kanak."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika dasar ini berubah, versi baharu akan diterbitkan di halaman ini bersama tarikh kemaskini."
+          }
+        ]
+      },
+      {
+        "h": "Hubungi",
+        "blocks": [
+          {
+            "p": "Untuk sebarang pertanyaan mengenai dasar ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

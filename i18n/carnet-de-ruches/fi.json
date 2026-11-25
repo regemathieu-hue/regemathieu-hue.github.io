@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Mehiläishoitajan muistikirja: tarkastukset, hoidot, sato ja eläinrekisteri",
+    "contact": "Kysymys, idea tai ongelma sovelluksen kanssa? Kirjoita minulle:<br>{email}",
+    "faq": [
+      {
+        "q": "Mistä aloittaa?",
+        "a": "Välilehdessä Mehiläistarhat luo mehiläistarhasi, ja koskaan \"Lisää pesä\": sovellus ehdottaa nimeä, ja voit määrittää pesän mallin sekä emon vuoden. Avaa sitten Asetukset › Tila syöttääksesi nimesi, osoitteesi ja mehiläishoitajan numerosi (NAPI): ne muodostavat eläinrekisterin otsikon. Kuvakkeen alla sovellus näkyy nimellä \"Mehiläispesät\"."
+      },
+      {
+        "q": "Kuinka nopeasti merkitä tarkastus?",
+        "a": "Avaa pesä ja koskaan \"Tarkastus\", tai vedä pesän rivi oikealle listassa. Mitään ei ole pakko: koskaan vain se, mitä näit (emo, kehät aineita ja sikiöitä, ruokavarat, emokennot, havaitut merkit, varroapunkkien lukumäärä, hunajalaatikot, ruokinta). Koskaan valinta uudelleen poistaa sen."
+      },
+      {
+        "q": "Kuinka kirjata varroatoosihoito?",
+        "a": "Koskaan \"Hoito\" pesästä tai \"Hoita koko mehiläistarha\" mehiläistarhan ⋯-valikosta. \"Valitse hyväksytty lääke\" täyttää nimen, aktiivisen aineen, varoaikan ja suunnitellun lopetuspäivän. Kaikki on vielä muokattavissa: lääkkeen ohje on voimassa. Lisää määrä pesään ja toimittaja, joita eläinrekisteri vaatii. Suunnitellulla päivällä sovellus lähettää muistutuksen, ja \"Poistettu tänään\" sulkee hoidon."
+      },
+      {
+        "q": "Käytetäänkö sovelluksen rekisteriä tarkastuksessa?",
+        "a": "Se sisältää kaikki rikoslakiin 5. kesäkuuta 2000 mukaan vaaditut kohdat: tila, terveydenhuollon valvonta, mehiläistarhat, yhdyskuntien siirtymät ja hoidot sekä sadot. Rekisteri on saatavilla myös paperiksi: vie se ulos PDF-muodossa, tulosta säännöllisesti ja säilytä viisi vuotta yhdessä lääkkeiden reseptien ja laskujen tai toimitusmerkinnöiden kanssa. Sovellus ei korvaa virallisia säädöksiä eikä eläinlääkärin tai mehiläistuotantoyhdistyksen neuvoja; epäilyksissä oletko yhteydessä alueelliseen eläinterveystarkastukseen (DDPP). Ulkomailla tarkista oma maasi säännöt."
+      },
+      {
+        "q": "Miten siirrän pesät yhdestä mehiläistarhasta toiseen?",
+        "a": "Avaa pesä, sitten ⋯ › Siirrä; useita pesiä kerrallaan siirtäessä käytä mehiläistarhan ⋯-valikkoa › Siirrä pesät. Valitse saapumis- ja päivämäärä: siirto tallentuu rekisterin liikkeisiin. Useiden mehiläistarhojen käyttö vaatii Mehiläishoitajan muistikirjan Pro-tilan."
+      },
+      {
+        "q": "Yhdyskunta on kuollut, myyty tai yhdistetty: mitä teen?",
+        "a": "Avaa pesä, sitten ⋯ › Poista pesä, ja valitse syy. Pesä poistuu aktiivisten pesien listalta, mutta säilyttää koko historian, ja sen poisto kirjataan rekisteriin. \"Poista\" puolestaan poistaa pesän ja vain siihen liittyvät rekisteririvit: valitse \"Poista pesä\"."
+      },
+      {
+        "q": "Tee sovellus vuosittaisen pesien ilmoituksen puolestasi?",
+        "a": "Ei. Sovellus muistuttaa siitä To Do -välilehdessä 1. syyskuuta 31. joulukuuta saakka, ja \"Ilmoita verkkoon\" avaa virallisen sivun service-public.gouv.fr. Kun ilmoitus on tehty, kosketa \"Valmis\": muistutus tulee seuraavana vuonna uudelleen. Ulkomailla tämä muistutus ei näy."
+      },
+      {
+        "q": "Minun hoitoa loppuvan muistutukseni ei tule. Miksi?",
+        "a": "Tarkista, että ilmoitukset ovat sallittuja: iPhone:n asetukset › Ilmoitukset › Mehiläispesät. Sovelluksen asetuksissa \"Hoitoa loppuvan muistutus\" tulee olla käytössä. Muistutus lähetetään kello 9 aamulla suunnitellun hoiton päättymispäivänä, vain jos hoitoon on määritelty päättymispäivä ja se ei ole vielä päättynyt. Tarkista myös, ettei keskittymismoodi ole aktiivinen silloin."
+      },
+      {
+        "q": "Mitä Mehiläishoitajan muistikirja Pro sisältää ja paljonko se maksaa?",
+        "a": "Ilmainen versio ei ole aikarajoitettu: yksi mehiläistarha, niin monta pesää kuin haluat, tarkastukset, hoidot, satojen keräykset, rekisteri näytöllä ja varmuuskopiot. Mehiläishoitajan muistikirja Pro on yksinkertainen ostos ilman tilauksia, 9,99 € Ranskassa (hinta vaihtelee maan mukaan): rajaton määrä mehiläistarhoja ja eläinrekisterin vienti PDF-muodossa. Se tukee perhejakoa. Uudella laitteella avaa Asetukset › Tutustu Proon › \"Palauta ostokset\"."
+      },
+      {
+        "q": "Mistä minun muistikirjani on tallennettu ja miten sen varmuuskopioidaan?",
+        "a": "Vain laitteellasi: ei ole tiliä, palvelinta tai laitteiden välillä tapahtuvaa synkronointia. Asetuksissa › \"Tallenna varmuuskopio\", sovellus luo tiedoston, jonka voit säilyttää Tiedostot- tai iCloud Drive -sovelluksessa. Vaihdettuasi iPhone:sta tai siirtymään iPad:iin lähetä tämä tiedosto toiseen laitteeseen ja valitse \"Palauta varmuuskopio\": nykyinen muistikirja korvataan tiedoston sisällöllä."
+      }
+    ],
+    "privacy_summary": "Mehiläishoitajan muistikirja ei kerää mitään tietoja, ei vaadi tiliä ja sisältää ei mainoksia eikä seurantatyökaluja. Muistikirjasi pysyy laitteellasi."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Yhteenvetona",
+        "blocks": [
+          {
+            "p": "Mehiläishoitajan muistikirja ei kerää mitään tietoja. Kaikki, mitä kirjoitat sovellukseen, säilyy iPhone:ssasi tai iPadissasi."
+          },
+          {
+            "ul": [
+              "Ei tiliä, ei mainontaa, ei seurantaa: sovelluksessa ei ole analytiikkatyökaluja eikä mainontaa, eikä sitä tunnisteta millään tavalla."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Oma muistikirjasi ja rekisterisi",
+        "blocks": [
+          {
+            "p": "Tilasi tiedot (nimi, osoite, mehiläishoitajan numero, SIRET, puhelinnumero, eläinlääkäri), mehiläistarhat, pesät, tarkastukset, hoidot, satojen lisäksi yhdyskuntien siirtymiset tallennetaan sovelluksen yksityiseen tallennustilaan laitteesi sisään. Ne eivät lähetetä kenellekään, ei edes kehittäjälle."
+          },
+          {
+            "p": "Sovelluksen poistaminen tyhjentää koko muistikirjan. Se voi sisältää varmuuskopioita laitteesi iCloud- tai paikallisia varmuuskopioita, joita hallinnoit itse Applen asetuksissa."
+          }
+        ]
+      },
+      {
+        "h": "Vie tiedostot ja tallenna varmuuskopio",
+        "blocks": [
+          {
+            "p": "Rekisterin PDF-tiedosto ja varmuuskopiotiedosto luodaan vain, kun pyydät niitä, ja sinä valitset, missä tallentaa tai kenelle lähetät ne. Ne sisältävät tilasi tiedot: sovelluksella ei ole enää mitään hallintavalmistetta tiedostosta, kun olet jakanut sen."
+          }
+        ]
+      },
+      {
+        "h": "Ilmoitukset",
+        "blocks": [
+          {
+            "p": "Hoitoa loppuvan muistutus on suunniteltu laitteeseen; yhtään palvelinta ei ole mukana."
+          }
+        ]
+      },
+      {
+        "h": "Linkki rukkien ilmoittamiseen",
+        "blocks": [
+          {
+            "p": "Napin \"Ilmoita verkkoon\" avulla avautuu sivu service-public.gouv.fr selaimessasi. Sovellus ei lähetä tähän sivustoon mitään tietoja; tämä sivusto soveltaa omaa tietosuojakäytäntöään."
+          }
+        ]
+      },
+      {
+        "h": "Ostokset",
+        "blocks": [
+          {
+            "p": "Mehiläishoitajan muistikirja Pro myydään ja hallitaan Applella. Sovellus ei näe maksutapaa tai henkilöllisyyttäsi; se lukee vain, miten App Store on suorittanut ostoprosessin, jotta ominaisuudet voidaan avata."
+          }
+        ]
+      },
+      {
+        "h": "Lapset",
+        "blocks": [
+          {
+            "p": "Mehiläishoitajan muistikirja ei kerää mitään tietoja, myöskään lapsista."
+          }
+        ]
+      },
+      {
+        "h": "Muutokset",
+        "blocks": [
+          {
+            "p": "Jos tämä tietosuojakäytäntö muuttuu, uusi versio julkaistaan tässä sivussa päivämäärän kanssa."
+          }
+        ]
+      },
+      {
+        "h": "Yhteystiedot",
+        "blocks": [
+          {
+            "p": "Kaikista kysymyksistä tietosuojakäytännöstä: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

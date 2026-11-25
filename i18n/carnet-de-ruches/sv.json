@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Biodlarens anteckningsbok: genomgångar, behandlingar, skördar och djurjournal",
+    "contact": "Har du en fråga, en idé eller ett problem med appen? Skriv till mig:<br>{email}",
+    "faq": [
+      {
+        "q": "Var börjar jag?",
+        "a": "I fliken Bigårdar skapar du din bigård, och trycker sedan på \"Lägg till en bikupa\": appen föreslår ett namn, och du kan ange bikupans modell samt drottningens födelseår. Öppna sedan Inställningar › Biodling för att ange ditt namn, din adress och ditt apicultornummer (NAPI i Frankrike): dessa uppgifter utgör rubriken i djurjournalen. Under ikonen heter appen \"Mina bikupor\"."
+      },
+      {
+        "q": "Hur antecknar jag en genomgång snabbt?",
+        "a": "Öppna bikupan och tryck på \"Genomgång\", eller dra bikupans rad till höger i listan. Inget är obligatoriskt: tryck bara på det du såg (drottning, ramar med abborr och yngel, foderförråd, drottningceller, observerade tecken, varroakvalsttal, skattlådor, fodring). Tryck igen på ett val för att ta bort det."
+      },
+      {
+        "q": "Hur registrerar jag en behandling mot varroakvalster?",
+        "a": "Tryck på \"Behandling\" från en bikupa, eller på \"Behandla hela bigården\" i menyn ⋯ för bigårdens ikon. \"Välj ett godkänt medicinmedel\" fyller i namn, aktiva ämne, karenstid och planerad slutdatum. Allt kan ändras: den officiella informationen om medicinen gäller. Lägg till mängd per bikupa och leverantör, som journalen kräver. Den dag då behandlingen är avslutad skickar appen ett minneslarm, och \"Borttaget idag\" stänger behandlingen."
+      },
+      {
+        "q": "Räcker appens journal vid en kontroll?",
+        "a": "Den innehåller de avsnitt som Frankrike kräver för bin enligt förordningen den 5 juni 2000: biodling, hälsoövervakning, bigårdar, koloniers rörelser och behandlingar, samt skördar tillägg. Journalen måste kunna visas på papper: exportera den som PDF, skriv ut den regelbundet och spara den i fem år tillsammans med recept och fakturor eller leveranskvitton för mediciner. Appen ersätter inte de officiella texterna eller råden från din veterinär eller ditt hälsoförening; vid tvivel vänd dig till din lokala myndighet för djurhälsa. Utanför Frankrike gäller nationella regler."
+      },
+      {
+        "q": "Hur flyttar jag bikupor från en bigård till en annan?",
+        "a": "Öppna bikupan, sedan ⋯ › Flytta; för flera bikupor samtidigt använder du meny ⋯ i bigården › Flytta bikupor. Välj ankomstbigård och datum: flyttningen registreras i rörelsejournalen. Att ha flera bigårdar kräver Biodlarens anteckningsbok Pro."
+      },
+      {
+        "q": "En koloni är död, såld eller sammanslagen: vad ska jag göra?",
+        "a": "Öppna bikupan, sedan ⋯ › Avsluta bikupa, och välj orsak. Bikupan lämnar listan över aktiva bikupor men behåller sin fulla historia, och avslutandet registreras i journalen. «Ta bort» raderar däremot bikupan och de journalposter som bara gällde den: föredra «Avsluta»."
+      },
+      {
+        "q": "Gör appen årlig hivdeklaration åt mig?",
+        "a": "Nej. I Frankrike påminner appen om det i fliken Att göra mellan den 1:e september och den 31:e december, och «Deklarera online» öppnar den officiella sidan på service-public.gouv.fr. När du har gjort din deklaration trycker du på «Klart»: påminnelsen kommer tillbaka nästa år. Utanför Frankrike visas inte denna påminnelse."
+      },
+      {
+        "q": "Varför kommer min minneslarm efter behandling inte?",
+        "a": "Kontrollera att notifikationer är aktiverade: iPhone-inställningar › Notifikationer › Mina bikupor. I appens inställningar måste \"Minneslarm efter behandling\" vara aktiverat. Minneslarmet skickas kl 9 på den planerade slutdagen, endast om behandlingen har en planerad slutdatum och inte redan är avslutad. Kontrollera också att ingen Koncentrationsläge är aktiverat just då."
+      },
+      {
+        "q": "Vad ingår i Biodlarens anteckningsbok Pro och hur mycket kostar det?",
+        "a": "Den fria versionen har ingen tidsgräns: en bigård, hur många bikupor du vill, genomgångar, behandlingar, skördar, journal på skärmen och säkerhetskopior. Biodlarens anteckningsbok Pro är en enskild köp utan prenumeration, 9,99 € i Frankrike (priset varierar beroende på land): obegränsat antal bigårdar och export av djurjournalen som PDF. Den är kompatibel med familje-delning. På ett nytt enhet öppnar du Inställningar › Upptäck Pro › \"Återställ köp\"."
+      },
+      {
+        "q": "Var lagras min anteckningsbok, och hur sparar jag den?",
+        "a": "Endast på din enhet: det finns ingen konto, ingen server och ingen synk mellan enheter. I Inställningar › \"Spara säkerhetskopia\" skapar appen en fil som du kan spara i Filer eller iCloud Drive. För att byta iPhone eller övergå till iPad skickar du filen till den andra enheten och väljer \"Återställ en säkerhetskopia\": anteckningsboken på enheten ersätts då av innehållet i filen."
+      }
+    ],
+    "privacy_summary": "Biodlarens anteckningsbok samlar ingen data, kräver inget konto och innehåller varken reklam eller spårare. Din anteckningsbok förblir på din enhet."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort sagt",
+        "blocks": [
+          {
+            "p": "Biodlarens anteckningsbok samlar ingen data. Allt du antecknar i appen finns kvar på din iPhone eller iPad."
+          },
+          {
+            "ul": [
+              "Inget konto, inga annonser, inget spårning: appen innehåller inga analysverktyg eller annonser och identifierar dig inte på något sätt."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Din anteckningsbok och din journal",
+        "blocks": [
+          {
+            "p": "Dina biodlingsuppgifter (namn, adress, apicultörnummer, SIRET, telefon, veterinär), dina bigårdar, dina bikupor, dina genomgångar, dina behandlingar, dina skördar och koloniernas rörelser sparas i appens privata lagring på din enhet. De skickas inte till någon, inte ens till utvecklaren."
+          },
+          {
+            "p": "Att ta bort appen raderar hela anteckningsboken. Den kan ingå i iCloud- eller lokala säkerhetskopior av din enhet, som du själv hanterar i Apple:s inställningar."
+          }
+        ]
+      },
+      {
+        "h": "Export och säkerhetskopia",
+        "blocks": [
+          {
+            "p": "PDF-filen från journalen och säkerhetskopiefilen skapas endast när du begär dem, och du väljer var du sparar dem eller till vem du skickar dem. De innehåller dina biodlingsuppgifter: appen har ingen kontroll över en fil efter att du delat den."
+          }
+        ]
+      },
+      {
+        "h": "Notifikationer",
+        "blocks": [
+          {
+            "p": "Minneslarm efter behandling schemaläggs på enheten; inget server är inblandat."
+          }
+        ]
+      },
+      {
+        "h": "Länk till deklaration av bikupor",
+        "blocks": [
+          {
+            "p": "Knappen \"Deklarera online\" öppnar en sida på service-public.gouv.fr i din webbläsare. Appen skickar ingen information till sidan; den här sidan tillämpar sin egen integritetspolicy."
+          }
+        ]
+      },
+      {
+        "h": "Köp",
+        "blocks": [
+          {
+            "p": "Biodlarens anteckningsbok Pro säljs och hanteras av Apple. Appen ser varken ditt betalningsmedel eller din identitet; den läser endast via App Store om köpet har gjorts, för att låsa upp funktioner."
+          }
+        ]
+      },
+      {
+        "h": "Barn",
+        "blocks": [
+          {
+            "p": "Biodlarens anteckningsbok samlar ingen data, även inte från barn."
+          }
+        ]
+      },
+      {
+        "h": "Ändringar",
+        "blocks": [
+          {
+            "p": "Om denna policy ändras kommer den nya versionen att publiceras på denna sida med dess uppdateringsdatum."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "För alla frågor om denna policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

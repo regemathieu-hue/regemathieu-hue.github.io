@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Imkerlogboek: inspecties, behandelingen, oogsten en bedrijfsregister",
+    "contact": "Een vraag, een idee of een probleem met de app? Stuur me een e-mail:<br>{email}",
+    "faq": [
+      {
+        "q": "Waar begin ik?",
+        "a": "In het tabblad Bijenstanden maak je je bijenstand aan, en tik je daarna op ‘Bijenkast toevoegen’: de app stelt een naam voor, en je kunt het type bijenkast en het jaar van de koningin invullen. Open vervolgens Instellingen › Bedrijf om je naam, adres en apiculteursnummer (NAPI) in te voeren: deze gegevens vormen het kopje van het register. Onder het icoon heet de app ‘Mijn bijen’."
+      },
+      {
+        "q": "Hoe noteer ik snel een inspectie?",
+        "a": "Open de bijenkast en tik op ‘Inspectie’, of schuif de rij van de bijenkast naar rechts in de lijst. Niets is verplicht: tik alleen op wat je hebt gezien (koningin, raam met bijen en broed, voorraad, koninginnencellen, waargenomen tekens, tellen varroamijten, honingkamers, voeren). Tik nogmaals op een keuze om deze te wissen."
+      },
+      {
+        "q": "Hoe registreer ik een behandeling tegen varroamijten?",
+        "a": "Tik op ‘Behandeling’ vanuit een bijenkast, of op ‘Behandel gehele bijenstand’ in het menu ⋯ van de bijenstand. ‘Kies een toegestane geneesmiddel’ vult automatisch naam, werkzame stof, wachttijd en geplande einddatum in. Alles blijft aanpasbaar: de bijsluiter is uitsluitend bindend. Voeg de hoeveelheid per bijenkast en de leverancier toe, zoals het register vereist. Op de geplande einddatum ontvang je een herinnering, en ‘Vandaag verwijderd’ sluit de behandeling af."
+      },
+      {
+        "q": "Voldoet het register van de app bij een controle?",
+        "a": "Het verzamelt de rubrieken die Frankrijk vereist voor bijen volgens de beslissing van 5 juni 2000: bedrijf, gezondheidsbegeleiding, bijenstanden, bewegingen van volken en behandelingen, plus oogsten. Het register moet op papier kunnen worden voorgeschreven: exporteer het als PDF, druk het regelmatig af en bewaar het vijf jaar, samen met de voorschriften en facturen of leveringsbonnen van geneesmiddelen. De app vervangt geen officiële teksten noch advies van uw dierenarts of uw gezondheidsvereniging; bij twijfel neemt u contact op met de lokale dienst voor bevolkingsbescherming (DDPP). Buiten Frankrijk gelden de regels van uw eigen land."
+      },
+      {
+        "q": "Hoe verplaats ik bijenkasten van de ene bijenstand naar de andere?",
+        "a": "Open de bijenkast, dan ⋯ › Verplaatsen; voor meerdere bijenkasten tegelijk, gebruik het menu ⋯ van de bijenstand › Bijenkasten verplaatsen. Kies de bestemming bijenstand en de datum: de verplaatsing wordt in het register bijgehouden. Meerdere bijenstanden vereisen Imkerlogboek Pro."
+      },
+      {
+        "q": "Een volk is overleden, verkocht of verenigd: wat moet ik doen?",
+        "a": "Open de bijenkast, dan ⋯ › Stop de bijenkast, en kies de reden. De bijenkast verdwijnt uit de lijst actieve bijenkasten, maar behoudt haar volledige geschiedenis, en haar verwijdering wordt in het register vermeld. ‘Verwijderen’ daarentegen verwijdert de bijenkast en de regels in het register die alleen voor die bijenkast gold: kies liever ‘Stop de bijenkast’."
+      },
+      {
+        "q": "Maakt de app de jaarlijkse bijenstandverklaring voor mij?",
+        "a": "Nee. In Frankrijk herinnert de app je in het tabblad ‘Te doen’ vanaf 1 september tot en met 31 december eraan, en ‘Online verklaren’ opent de officiële pagina op service-public.gouv.fr. Zodra je je verklaring hebt ingediend, tik op ‘Klaar’: de herinnering komt het volgende jaar terug. Buiten Frankrijk wordt deze herinnering niet weergegeven."
+      },
+      {
+        "q": "Mijn herinnering aan eind van behandeling komt niet binnen, waarom?",
+        "a": "Controleer of meldingen zijn toegestaan: iPhone-instellingen › Meldingen › Mijn bijen. In de instellingen van de app moet ‘Herinnering aan eind van behandeling’ zijn ingeschakeld. De herinnering wordt om 9 uur op de geplande einddatum verzonden, alleen als de behandeling een geplande einddatum heeft en nog niet is afgerond. Controleer ook of er op dat moment geen Focusmodus actief is."
+      },
+      {
+        "q": "Wat bevat Imkerlogboek Pro en hoeveel kost het?",
+        "a": "De gratis versie heeft geen tijdsbeperking: één bijenstand, zoveel bijenkasten als je wilt, inspecties, behandelingen, oogsten, het register op het scherm en back-ups. Imkerlogboek Pro is een eenmalige aankoop zonder abonnement, €9,99 in Frankrijk (de prijs varieert per land): onbeperkt aantal bijenstanden en export van het bedrijfsregister als PDF. Het is compatibel met Familie Delen. Op een nieuw apparaat open je Instellingen › Ontdek Pro › ‘Aankopen herstellen’."
+      },
+      {
+        "q": "Waar wordt mijn notitieboek opgeslagen, en hoe sla ik het op?",
+        "a": "Alleen op uw apparaat: er is geen account, geen server en geen synchronisatie tussen apparaten. In Instellingen › ‘Reservekopie opslaan’ maakt de app een bestand dat u kunt bewaren in Bestanden of iCloud Drive. Om van iPhone te wisselen of over te stappen naar iPad stuurt u dit bestand naar het andere apparaat en kiest u ‘Een reservekopie herstellen’: het notitieboek op dat apparaat wordt dan vervangen door het bestand."
+      }
+    ],
+    "privacy_summary": "Imkerlogboek verzamelt geen gegevens, vraagt geen account en bevat geen reclame of tracking. Uw notitieboek blijft op uw apparaat."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort samengevat",
+        "blocks": [
+          {
+            "p": "Imkerlogboek verzamelt geen gegevens. Alles wat u in de app noteert blijft op uw iPhone of iPad."
+          },
+          {
+            "ul": [
+              "Geen account, geen reclame, geen tracking: de app bevat geen analysetools of reclame en identificeert u op geen enkele manier."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Uw notitieboek en uw register",
+        "blocks": [
+          {
+            "p": "De gegevens van uw bedrijf (naam, adres, apicultuurnummer, SIRET, telefoon, dierenarts), uw bijenstanden, bijenkasten, inspecties, behandelingen, oogsten en bewegingen van uw volken worden opgeslagen in de privé-opslag van de app, op uw apparaat. Ze worden niet doorgestuurd naar iemand, zelfs niet naar de ontwikkelaar."
+          },
+          {
+            "p": "Het verwijderen van de app verwijdert het hele notitieboek. Het kan worden opgenomen in de iCloud- of lokale back-ups van uw apparaat, die u zelf beheert in de instellingen van Apple."
+          }
+        ]
+      },
+      {
+        "h": "Exporteren en reservekopieën",
+        "blocks": [
+          {
+            "p": "Het PDF-bestand van het register en het reservekopiebestand worden alleen aangemaakt wanneer u dat vraagt, en u kiest waar u ze opslaat of aan wie u ze stuurt. Ze bevatten de gegevens van uw bedrijf: de app heeft geen controle meer over een bestand zodra u het hebt gedeeld."
+          }
+        ]
+      },
+      {
+        "h": "Meldingen",
+        "blocks": [
+          {
+            "p": "Herinneringen aan eind van behandeling worden op het apparaat gepland; er is geen server betrokken."
+          }
+        ]
+      },
+      {
+        "h": "Link naar de bijenstandverklaring",
+        "blocks": [
+          {
+            "p": "De knop « Online verklaren » opent een pagina van service-public.gouv.fr in uw browser. De app verzendt daar geen informatie naar; deze site heeft haar eigen privacybeleid."
+          }
+        ]
+      },
+      {
+        "h": "Aankopen",
+        "blocks": [
+          {
+            "p": "Imkerlogboek Pro wordt verkocht en beheerd door Apple. De app ziet wederom uw betaalmethode of identiteit niet; hij leest alleen via de App Store of de aankoop is gedaan, om de functies te ontgrendelen."
+          }
+        ]
+      },
+      {
+        "h": "Kinderen",
+        "blocks": [
+          {
+            "p": "Imkerlogboek verzamelt geen gegevens, ook niet van kinderen."
+          }
+        ]
+      },
+      {
+        "h": "Wijzigingen",
+        "blocks": [
+          {
+            "p": "Als deze beleidswijziging wordt aangepast, wordt de nieuwe versie op deze pagina gepubliceerd met de datum van de update."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Voor alle vragen over dit beleid: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

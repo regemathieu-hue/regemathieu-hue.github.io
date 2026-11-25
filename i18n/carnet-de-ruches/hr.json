@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Pčelarski dnevnik: pregledi, tretiranja, vrcanja i evidencija",
+    "contact": "Imate pitanje, ideju ili problem s aplikacijom? Pišite mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Odakle početi?",
+        "a": "U kartici Pčelinjaci napravite svoj pčelinjak, zatim dodirnite „Dodaj košnicu“: aplikacija predlaže ime, a vi možete navesti vrstu košnice i godinu rođenja matice. Otvorite zatim Postavke › Gospodarstvo kako biste unijeli svoje ime, adresu i broj pčelara (NAPI): oni čine zaglavlje evidencije. Pod ikonom aplikacije pojavljuje se „Moje košnice“."
+      },
+      {
+        "q": "Kako brzo zabilježiti pregled?",
+        "a": "Otvorite košnicu i dodirnite „Pregled“, ili povucite redak košnice prema desno u popisu. Ništa nije obavezno: dodirnite samo ono što ste vidjeli (matičnjaci, okviri s pčelama i leglom, zalihe, matičnjaci, primijećeni znakovi, broj varoa, medište, prihrana). Dodirnite ponovno odabir kako biste ga uklonili."
+      },
+      {
+        "q": "Kako zabilježiti tretiranje protiv varoe?",
+        "a": "Dodirnite „Tretiranje“ s košnice ili „Tretiraj cijeli pčelinjak“ u izborniku ⋯ pčelinjaka. „Odaberi ovlašteno lijek“ popunjava ime, aktivnu tvar, karenca i planirani datum završetka. Sve ostaje uredivo: važi uputstvo lijeka. Dodajte količinu po košnici i dobavljača, što evidencija zahtijeva. Na planirani datum završetka aplikacija vam pošalje podsjetnik, a „Uklonjeno danas“ zatvara tretiranje."
+      },
+      {
+        "q": "Dovoljan li je bilježnica aplikacije u slučaju inspekcijskog pregleda?",
+        "a": "Sadrži rubrike koje Francuska zahtijeva za pčele prema nalogu iz 5. lipnja 2000.: gospodarstvo, zdravstveno nadzor, pčelinjaci, pomaci pčelinjih zajednica i tretiranja, s dodatkom vrcanja. Bilježnica mora biti dostupna na papiru: izvezite je kao PDF, redovito isprintajte i čuvajte pet godina uz recepte i račune ili dostavnice lijekova. Aplikacija ne zamjenjuje službene tekstove niti savjete vašeg veterinarja ili zdravstvenog društva pčelara; u sumnji obratite se lokalnoj upravi za zaštitu stanovništva (DDPP). Van Francuske provjerite pravila svoje zemlje."
+      },
+      {
+        "q": "Kako prebaciti košnice s jednog pčelinjaka na drugi?",
+        "a": "Otvorite košnicu, zatim ⋯ › Premjesti; za više košnica odjednom koristite izbornik ⋯ pčelinjaka › Premjesti košnice. Odaberite ciljni pčelinjak i datum: premještanje se upisuje u pokrete evidencije. Imati više pčelinjaka zahtijeva Pčelarski dnevnik Pro."
+      },
+      {
+        "q": "Pčelinja zajednica je umrla, prodana ili spojena: što trebam učiniti?",
+        "a": "Otvorite košnicu, zatim ⋯ › Zaustavi košnicu i odaberite razlog. Košnica napušta popis aktivnih košnica, ali čuva cijelu svoju povijest, a njezino uklanjanje upisuje se u evidenciju. „Izbriši“ s druge strane briše košnicu i redove evidencije koji su se odnosili samo na nju: preporučujemo „Zaustavi“."
+      },
+      {
+        "q": "Je li aplikacija obavijestila godišnji izvještaj o košnicama?",
+        "a": "Ne. U Francuskoj aplikacija vas podsjeća u kartici Za rad od 1. rujna do 31. prosinca, a „Izjava online“ otvara službenu stranicu na service-public.gouv.fr. Nakon što ste podnijeli izvještaj, dodirnite „Gotovo“: podsjetnik će se pojaviti sljedeće godine. Van Francuske ovaj podsjetnik se ne prikazuje."
+      },
+      {
+        "q": "Moje podsjetnik na kraj tretiranja ne dolazi. Zašto?",
+        "a": "Provjerite je li obavijest o dozvoli: Postavke iPhone-a › Obavijesti › Moje košnice. U postavkama aplikacije, „Podsjetnik na kraj tretiranja“ mora biti uključen. Podsjetnik se šalje u 9 sati dana kada je planirano završiti tretiranje, samo ako tretiranje ima planiran datum završetka i još nije završeno. Provjerite i da u tom trenutku nije aktivno neko od načina fokusa."
+      },
+      {
+        "q": "Što uključuje Pčelarski dnevnik Pro i koliko košta?",
+        "a": "Besplatan izdanje nema ograničenja vremena: jedan pčelinjak, koliko god košnica želite, pregledi, tretiranja, vrcanja, evidencija na zaslonu i sigurnosne kopije. Pčelarski dnevnik Pro je jednokratna kupnja bez pretplate, 9,99 € u Francuskoj (cijena se razlikuje ovisno o zemlji): neograničeno pčelinjaka i izvoz evidencije u PDF-u. Podržava dijeljenje obitelji. Na novom uređaju otvorite Postavke › Otkrij Pro › „Vrati kupnje“."
+      },
+      {
+        "q": "Gdje je pohranjena moja bilježnica, i kako ju sigurnosno kopirati?",
+        "a": "Samo na vašem uređaju: nema naloga, servera ni sinkronizacije između uređaja. U Postavkama › „Spremi sigurnosnu kopiju“, aplikacija stvara datoteku koju možete pohraniti u Fajlovi ili iCloud Drive. Da biste promijenili iPhone ili prešli na iPad, pošaljite tu datoteku na drugi uređaj i odaberite „Vrati sigurnosnu kopiju“: bilježnica na tom uređaju zamjenjuje se onom iz datoteke."
+      }
+    ],
+    "privacy_summary": "Pčelarski dnevnik ne prikuplja nikakve podatke, ne zahtijeva nalog i nema reklame ni praćenja. Vaša bilježnica ostaje na vašem uređaju."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ukratko",
+        "blocks": [
+          {
+            "p": "Pčelarski dnevnik ne prikuplja nikakve podatke. Sve što zapišete u aplikaciji ostaje na vašem iPhoneu ili iPadu."
+          },
+          {
+            "ul": [
+              "Nema računa, nema reklama, nema praćenja: aplikacija nema alate za analitiku ni reklame i ne identificira vas na bilo koji način."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Vaša bilježnica i evidencija",
+        "blocks": [
+          {
+            "p": "Podaci o vašem gospodarstvu (ime, adresa, broj pčelara, SIRET, telefon, veterinar), vaši pčelinjaci, košnice, pregledi, tretiranja, vrcanja i pomići pčelinjih zajednica pohranjuju se u privatni prostor aplikacije na vašem uređaju. Nisu slani nikome, čak ni razvijatelju."
+          },
+          {
+            "p": "Brisanje aplikacije briše cijelu bilježnicu. Može biti uključeno u sigurnosne kopije iCloud ili lokalne na vašem uređaju, koje upravljate sami u postavkama Applea."
+          }
+        ]
+      },
+      {
+        "h": "Izvozi i sigurnosne kopije",
+        "blocks": [
+          {
+            "p": "PDF evidencije i datoteka sigurnosne kopije stvaraju se samo kada ih tražite, a vi birate gdje ih spremiti ili kom ih pošaljete. Sadrže podatke o vašem gospodarstvu: aplikacija više nema nadzor nad datotekom čim je podijelite."
+          }
+        ]
+      },
+      {
+        "h": "Obavijesti",
+        "blocks": [
+          {
+            "p": "Podsjetnici na kraj tretiranja programirani su na uređaju; nema uključenog poslužitelja."
+          }
+        ]
+      },
+      {
+        "h": "Poveznica ka izjavi o košnicama",
+        "blocks": [
+          {
+            "p": "Gumb „Izjava online“ otvara stranicu na web-mjestu service-public.gouv.fr u vašem pregledniku. Aplikacija ne prenosi nikakve informacije na taj sajt; taj sajt primjenjuje vlastitu politiku privatnosti."
+          }
+        ]
+      },
+      {
+        "h": "Kupovine",
+        "blocks": [
+          {
+            "p": "Pčelarski dnevnik Pro prodaje i upravlja Apple. Aplikacija ne vidi ni vaš način plaćanja ni vaš identitet; čita samo putem App Store-a je li kupnja izvršena, kako bi otključala funkcije."
+          }
+        ]
+      },
+      {
+        "h": "Djeca",
+        "blocks": [
+          {
+            "p": "Pčelarski dnevnik ne prikuplja nikakve podatke, uključujući i od djece."
+          }
+        ]
+      },
+      {
+        "h": "Promjene",
+        "blocks": [
+          {
+            "p": "Ako se ova politika promijeni, nova verzija će biti objavljena na ovoj stranici s datumom ažuriranja."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Za bilo kakvo pitanje vezano uz ovu politiku: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

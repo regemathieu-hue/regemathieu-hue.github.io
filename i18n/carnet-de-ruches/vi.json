@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Sổ tay nuôi ong: kiểm tra đàn ong, điều trị, thu mật và sổ chăn nuôi",
+    "contact": "Có câu hỏi, ý tưởng hay vấn đề với ứng dụng? Gửi tin nhắn cho tôi:<br>{email}",
+    "faq": [
+      {
+        "q": "Bắt đầu từ đâu?",
+        "a": "Trong tab Trại ong, tạo trại ong của bạn, rồi chạm vào \"Thêm thùng ong\": ứng dụng sẽ gợi ý một tên, và bạn có thể xác định loại thùng ong cùng năm sinh của ong chúa. Sau đó mở Cài đặt › Cơ sở nuôi để nhập tên, địa chỉ và số người nuôi ong (NAPI) của bạn: những thông tin này tạo thành tiêu đề của sổ chăn nuôi. Dưới biểu tượng của ứng dụng, nó được gọi là \"Ong của tôi\"."
+      },
+      {
+        "q": "Làm thế nào để ghi lại kiểm tra đàn ong nhanh chóng?",
+        "a": "Mở thùng ong và chạm vào \"Kiểm tra đàn ong\", hoặc vuốt dòng thùng ong sang phải trong danh sách. Không có mục nào bắt buộc: chỉ chạm vào những gì bạn quan sát được (ong chúa, cầu ong chứa ong và ấu trùng, mật dự trữ, mũ chúa, dấu hiệu quan sát được, số lượng ve Varroa, tầng kế, cho ăn). Chạm lại một lựa chọn sẽ xóa nó."
+      },
+      {
+        "q": "Làm thế nào để ghi nhận điều trị chống ve Varroa?",
+        "a": "Chạm vào \"Điều trị\" từ một thùng ong, hoặc chạm vào \"Điều trị toàn trại ong\" trong menu ⋯ của trại ong. \"Chọn thuốc được phép\" sẽ điền tên, thành phần hoạt chất, thời gian ngừng thuốc và ngày kết thúc dự kiến. Tất cả vẫn có thể chỉnh sửa: tài liệu hướng dẫn thuốc là văn bản chính thức. Thêm lượng dùng mỗi thùng ong và nhà cung cấp, mà sổ chăn nuôi yêu cầu. Vào ngày kết thúc dự kiến, ứng dụng sẽ gửi nhắc nhở, và \"Đã loại bỏ hôm nay\" sẽ đóng điều trị."
+      },
+      {
+        "q": "Sổ tay nuôi ong có đủ để trình bày khi kiểm tra không?",
+        "a": "Nó bao gồm các mục quy định cho ong theo nghị định ngày 5 tháng 6 năm 2000: cơ sở nuôi, giám sát vệ sinh, trại ong, di chuyển đàn ong và điều trị, thêm cả thu mật. Sổ phải có thể trình bày dưới dạng giấy: xuất ra thành PDF, in định kỳ và giữ trong 5 năm, cùng với đơn thuốc và hóa đơn hoặc phiếu giao hàng của thuốc. Ứng dụng không thay thế văn bản chính thức hay lời khuyên từ bác sĩ thú y hoặc tổ chức vệ sinh ong của bạn; nếu còn nghi ngờ, hãy liên hệ với cơ quan quản lý an toàn thực phẩm địa phương (DDPP). Ngoài Pháp, vui lòng kiểm tra quy định của nước mình."
+      },
+      {
+        "q": "Làm thế nào để di chuyển thùng ong từ trại ong này sang trại ong khác?",
+        "a": "Mở thùng ong, rồi ⋯ › Di chuyển; để di chuyển nhiều thùng ong cùng lúc, hãy dùng menu ⋯ của trại ong › Di chuyển các thùng ong. Chọn trại ong đến và ngày tháng: việc di chuyển sẽ được ghi vào mục di chuyển trong sổ. Để có nhiều trại ong, bạn cần Sổ tay nuôi ong Pro."
+      },
+      {
+        "q": "Một đàn ong đã chết, bán đi hoặc nhập vào đàn khác: tôi phải làm gì?",
+        "a": "Mở thùng ong, rồi ⋯ › Dừng thùng ong, và chọn lý do. Thùng ong sẽ rời khỏi danh sách thùng ong đang hoạt động nhưng vẫn giữ nguyên lịch sử đầy đủ, và việc loại bỏ được ghi vào sổ. Chọn \"Xóa\" sẽ xóa hoàn toàn thùng ong và các dòng trong sổ chỉ liên quan đến nó: hãy ưu tiên chọn \"Dừng thùng ong\"."
+      },
+      {
+        "q": "Ứng dụng có thực hiện báo cáo hàng năm về thùng ong thay tôi không?",
+        "a": "Không. Ở Pháp, ứng dụng sẽ nhắc nhở bạn trong tab Cần làm từ ngày 1 tháng 9 đến ngày 31 tháng 12, và \"Báo cáo trực tuyến\" sẽ mở trang chính thức trên service-public.gouv.fr. Sau khi bạn đã hoàn thành báo cáo, chạm vào \"Xong\": lời nhắc sẽ xuất hiện lại vào năm sau. Ngoài Pháp, tính năng nhắc nhở này sẽ không hiển thị."
+      },
+      {
+        "q": "Nhắc nhở kết thúc điều trị của tôi không đến, tại sao?",
+        "a": "Kiểm tra xem thông báo có được phép hay không: Cài đặt iPhone › Thông báo › Ong của tôi. Trong Cài đặt ứng dụng, mục \"Nhắc nhở kết thúc điều trị\" phải được bật. Nhắc nhở sẽ gửi lúc 9 giờ sáng vào ngày dự kiến kết thúc, chỉ khi điều trị có ngày kết thúc dự kiến và chưa kết thúc. Hãy kiểm tra thêm xem có chế độ Tập trung nào đang hoạt động vào thời điểm đó hay không."
+      },
+      {
+        "q": "Sổ tay nuôi ong Pro bao gồm những gì và giá bao nhiêu?",
+        "a": "Phiên bản miễn phí không giới hạn thời gian: một trại ong, số lượng thùng ong tùy ý, kiểm tra đàn ong, điều trị, thu mật, sổ chăn nuôi hiển thị trên màn hình và bản sao lưu. Sổ tay nuôi ong Pro là một lần mua duy nhất, không cần đăng ký, giá 9,99 € tại Pháp (giá có thể thay đổi tùy quốc gia): trại ong không giới hạn và xuất sổ chăn nuôi dưới dạng PDF. Ứng dụng hỗ trợ chia sẻ gia đình. Trên thiết bị mới, hãy mở Cài đặt › Khám phá Pro › \"Khôi phục mua hàng\"."
+      },
+      {
+        "q": "Sổ tay của tôi được lưu ở đâu, và làm thế nào để sao lưu?",
+        "a": "Chỉ trên thiết bị của bạn: không có tài khoản, không có máy chủ, không đồng bộ giữa các thiết bị. Trong Cài đặt › \"Lưu bản sao lưu\", ứng dụng sẽ tạo một tệp mà bạn có thể giữ trong Ứng dụng Tập tin hoặc iCloud Drive. Để chuyển sang iPhone khác hoặc chuyển sang iPad, hãy gửi tệp này đến thiết bị khác và chọn \"Khôi phục bản sao lưu\": sổ tay hiện tại sẽ được thay thế bằng sổ tay từ tệp đó."
+      }
+    ],
+    "privacy_summary": "Sổ tay nuôi ong không thu thập bất kỳ dữ liệu nào, không yêu cầu tài khoản và không chứa quảng cáo hay trình theo dõi. Sổ tay của bạn luôn ở trên thiết bị của bạn."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Tóm lại",
+        "blocks": [
+          {
+            "p": "Sổ tay nuôi ong không thu thập bất kỳ dữ liệu nào. Mọi thứ bạn ghi chép trong ứng dụng sẽ luôn nằm trên iPhone hoặc iPad của bạn."
+          },
+          {
+            "ul": [
+              "Không cần tài khoản, không quảng cáo, không theo dõi: ứng dụng không chứa công cụ phân tích hay quảng cáo nào, và không xác định bạn dưới bất kỳ hình thức nào."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Sổ tay và sổ chăn nuôi của bạn",
+        "blocks": [
+          {
+            "p": "Thông tin về cơ sở nuôi của bạn (tên, địa chỉ, số người nuôi ong, SIRET, điện thoại, thú y), các trại ong, thùng ong, kiểm tra đàn ong, điều trị, thu mật và các chuyển động của đàn ong được lưu trong bộ nhớ riêng tư của ứng dụng, trên thiết bị của bạn. Chúng không được gửi cho bất kỳ ai, ngay cả nhà phát triển cũng không."
+          },
+          {
+            "p": "Gỡ bỏ ứng dụng sẽ xóa toàn bộ sổ tay. Nó có thể được bao gồm trong bản sao lưu iCloud hoặc cục bộ của thiết bị, mà bạn quản lý riêng trong cài đặt Apple."
+          }
+        ]
+      },
+      {
+        "h": "Xuất và bản sao lưu",
+        "blocks": [
+          {
+            "p": "Tệp PDF sổ chăn nuôi và tệp bản sao lưu chỉ được tạo khi bạn yêu cầu, và chính bạn chọn nơi lưu trữ hoặc ai sẽ nhận chúng. Chúng chứa thông tin về cơ sở nuôi của bạn: ứng dụng không còn kiểm soát tệp nào sau khi bạn đã chia sẻ nó."
+          }
+        ]
+      },
+      {
+        "h": "Thông báo",
+        "blocks": [
+          {
+            "p": "Nhắc nhở kết thúc điều trị được lập lịch trên thiết bị; không có máy chủ nào tham gia."
+          }
+        ]
+      },
+      {
+        "h": "Liên kết đến báo cáo thùng ong",
+        "blocks": [
+          {
+            "p": "Nút \"Báo cáo trực tuyến\" mở một trang trên website service-public.gouv.fr trong trình duyệt của bạn. Ứng dụng không gửi bất kỳ thông tin nào tới trang này; trang web này áp dụng chính sách bảo mật riêng của mình."
+          }
+        ]
+      },
+      {
+        "h": "Mua hàng",
+        "blocks": [
+          {
+            "p": "Sổ tay nuôi ong Pro được bán và quản lý bởi Apple. Ứng dụng không thấy phương thức thanh toán hay danh tính của bạn; nó chỉ đọc, thông qua App Store, xem liệu giao dịch có được thực hiện hay không, để mở khóa các tính năng."
+          }
+        ]
+      },
+      {
+        "h": "Trẻ em",
+        "blocks": [
+          {
+            "p": "Sổ tay nuôi ong không thu thập bất kỳ dữ liệu nào, kể cả từ trẻ em."
+          }
+        ]
+      },
+      {
+        "h": "Thay đổi",
+        "blocks": [
+          {
+            "p": "Nếu chính sách này thay đổi, phiên bản mới sẽ được đăng trên trang này cùng với ngày cập nhật."
+          }
+        ]
+      },
+      {
+        "h": "Liên hệ",
+        "blocks": [
+          {
+            "p": "Nếu có bất kỳ câu hỏi nào về chính sách này: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

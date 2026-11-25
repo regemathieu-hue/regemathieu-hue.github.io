@@ -1,0 +1,133 @@
+{
+  "support": {
+    "subtitle": "Arıcı Defteri: kovan kontrolü, ilaçlamalar, hasatlar ve işletme kayıt defteri",
+    "contact": "Uygulama ile ilgili bir sorun, fikir veya öneri var mı? Bana yazın:<br>{email}",
+    "faq": [
+      {
+        "q": "Nereden başlamalıyım?",
+        "a": "Arılıklar sekmesinde kendi arılığınızı oluşturun, ardından \"Kovan Ekle\" öğesine dokunun: uygulama bir isim önerir ve kovan türünü ile ana arının doğum yılını belirleyebilirsiniz. Ardından Ayarlar › İşletme menüsünü açarak adınız, adresiniz ve apicultör numaranızı (Fransa'da NAPI) girin: bunlar işletme kayıt defterinin başlığıdır. Uygulamanın simgesi altında \"Kovanlarım\" olarak görünür."
+      },
+      {
+        "q": "Bir kovan kontrolünü hızlıca nasıl kaydederim?",
+        "a": "Kovana açın ve \"Kovan kontrolü\" öğesine dokunun, ya da listenin kovan satırını sağa doğru sürükleyin. Hiçbir şey zorunlu değildir: sadece gördüğünüz şeyleri (ana arı, işçi arı ve yavru çerçeveleri, besin stoku, ana arı yüksükleri, gözlemlenen belirtiler, varroa sayısı, ballık, besleme) dokunun. Bir seçeneğe tekrar dokunarak onu silersiniz."
+      },
+      {
+        "q": "Varroa ilaçlamasını nasıl kaydederim?",
+        "a": "Bir kovandan \"İlaçlama\" öğesine dokunun ya da arılık menüsündeki ⋯ menüsünden \"Tüm Arılığı İlaçla\" seçeneğine dokunun. \"Onaylı İlaç Seçin\" adı, etkin madde, arınma süresi ve planlanan bitiş tarihi alanlarını doldurur. Her şey düzenlenebilir: ilaç kılavuzu geçerlidir. Her kovana düşen miktarı ve tedarikçiyi ekleyin; kayıt defteri bunu ister. Planlanan bitiş tarihinde uygulama size bir hatırlatma gönderir ve \"Bugün Çıkarıldı\" seçeneği ilaçlamayı kapatır."
+      },
+      {
+        "q": "Denetim sırasında uygulamanın kayıt defteri yeterli mi?",
+        "a": "5 Haziran 2000 tarihli kararında belirtilen arılar için gerekli bölümleri bir araya getirir: işletme, sağlık denetimi, arılıklar, koloni hareketleri ve ilaçlamalar, ek olarak hasatlar da yer alır. Kayıt defteri kağıt üzerinde sunulabilmelidir: PDF olarak dışa aktarın, düzenli olarak yazdırın ve ilaçların reçeteleri ile faturaları veya teslimat belgeleriyle birlikte beş yıl boyunca saklayın. Uygulama resmi metinleri ya da veterinerinizin veya sağlık birliğinizin tavsiyelerini yerine getirmez; şüpheniz olursa yerel hayvan sağlığı idaresine başvurun. Fransa dışında, kendi ülkenizin kurallarını kontrol edin."
+      },
+      {
+        "q": "Kovanları bir arılıktan diğerine nasıl taşıyabilirim?",
+        "a": "Kovana açın, ardından ⋯ › Taşı; birden fazla kovanı aynı anda taşımak için arılık menüsünden ⋯ › Kovanları Taşı seçin. Varış arılığını ve tarihi belirleyin: taşıma kayıt defterindeki hareketler bölümüne kaydedilir. Birden fazla arılık kullanmak için Arıcı Defteri Pro gerekir."
+      },
+      {
+        "q": "Bir koloni ölmüş, satılmış ya da birleştirilmiş: ne yapmalıyım?",
+        "a": "Kovana açın, ardından ⋯ › Kovanı Durdur ve nedeni seçin. Kovan aktif kovan listesinden çıkar ancak tüm geçmişi korunur ve çıkış kayıt defterine kaydedilir. « Sil » ise kovanı ve sadece o kovana ait kayıt defteri satırlarını tamamen siler; bunu tercih edin."
+      },
+      {
+        "q": "Yıllık kovan bildirimi uygulama tarafından yapılır mı?",
+        "a": "Hayır. Fransa'da, uygulama 1 Eylül - 31 Aralık tarihleri arasında 'Yapılacaklar' sekmesinde size hatırlatır ve 'Çevrimiçi Bildir' butonu, service-public.gouv.fr sitesinin resmi sayfasını açar. Bildiriminizi yaptıktan sonra 'Tamamlandı'ya dokunun: hatırlatıcı bir sonraki yıl tekrar gelecektir. Fransa dışında bu hatırlatıcı gösterilmez."
+      },
+      {
+        "q": "İlaçlama sonu hatırlatıcım gelmiyor, neden?",
+        "a": "Bildirimlerin etkin olduğundan emin olun: iPhone Ayarları › Bildirimler › Kovanlarım. Uygulama Ayarları’nda « İlaçlama sonu hatırlatıcısı » etkin olmalıdır. Hatırlatıcı, planlanan bitiş tarihinde sabah 9’da gönderilir; ancak ilaçlama için bir bitiş tarihi belirlenmiş ve henüz bitirilmemişse geçerlidir. Aynı saatinde bir Odak modunun etkin olup olmadığını da kontrol edin."
+      },
+      {
+        "q": "Arıcı Defteri Pro ne içeriyor ve kaç euro?",
+        "a": "Ücretsiz sürümde süre sınırı yoktur: bir arılık, istediğiniz kadar kovan, kovan kontrolleri, ilaçlamalar, hasatlar, ekran üzerinde kayıt defteri ve yedeklemeler. Arıcı Defteri Pro, abonelik olmadan tek seferlik bir satın alım, Fransa’da 9,99 €: sınırsız arılık ve işletme kayıt defterinin PDF olarak dışa aktarımı. Aile Paylaşımı destekler. Yeni bir cihazda, Ayarlar › Pro’yu Keşfet › « Satın Alımları Geri Yükle » seçeneğini açın."
+      },
+      {
+        "q": "Defterim nerede kaydediliyor ve nasıl yedeklenir?",
+        "a": "Sadece cihazınızda: hesap, sunucu veya cihazlar arası senkronizasyon yoktur. Ayarlar › « Yedek Kaydet » seçeneğinde uygulama bir dosya oluşturur; bu dosyayı Dosyalar ya da iCloud Drive’da saklayabilirsiniz. iPhone değiştirirken ya da iPad’e geçerken bu dosyayı diğer cihaza gönderin ve « Bir Yedekleme Geri Yükle » seçeneğini seçin: o cihazdaki mevcut defter, dosyadaki defterle değiştirilir."
+      }
+    ],
+    "privacy_summary": "Arıcı Defteri hiçbir veri toplamaz, hiçbir hesap gerektirmez ve reklam ya da izleyici içermez. Defteriniz her zaman cihazınızda kalır."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Özet olarak",
+        "blocks": [
+          {
+            "p": "Arıcı Defteri hiçbir veri toplamaz. Uygulamada not ettiğiniz her şey, iPhone veya iPad'inizde kalır."
+          },
+          {
+            "ul": [
+              "Hesap yok, reklam yok, izleme yok: uygulama hiçbir analitik veya reklam aracı içermiyor ve sizin kimliğinizi hiçbir şekilde belirlemiyor."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Defteriniz ve kayıt defteriniz",
+        "blocks": [
+          {
+            "p": "İşletmenizin bilgileri (isim, adres, arıcı numarası, SIRET, telefon, veteriner), arılıklarınız, kovanlarınız, kovan kontrolleriniz, ilaçlamalarınız, hasatlarınız ve kolonilerinizin hareketleri uygulamanın özel depolama alanına, cihazınızda kaydedilir. Bu bilgiler kimseye gönderilmez, hatta geliştiriciye bile."
+          },
+          {
+            "p": "Uygulamayı silmek tüm defteri siler. Cihazınızın iCloud veya yerel yedeklemelerine dahil edilebilir; bunları Apple ayarlarında kendiniz yönetirsiniz."
+          }
+        ]
+      },
+      {
+        "h": "Dışa Aktarım ve Yedekleme",
+        "blocks": [
+          {
+            "p": "Kayıt defterinin PDF'si ve yedek dosyası yalnızca isteğinize göre oluşturulur ve nereye kaydedeceğinizi veya kimlere göndereceğinizi siz seçersiniz. Bu dosyalar işletmenizin bilgilerini içerir; dosyayı paylaştıktan sonra uygulama dosya üzerinde hiçbir kontrolü kalmaz."
+          }
+        ]
+      },
+      {
+        "h": "Bildirimler",
+        "blocks": [
+          {
+            "p": "İlaçlama sonu hatırlatıcıları cihazda planlanır; hiçbir sunucu dahil edilmez."
+          }
+        ]
+      },
+      {
+        "h": "Kovan bildirimi bağlantısı",
+        "blocks": [
+          {
+            "p": "« Çevrimiçi Bildir » düğmesi, Fransa'da gösterilen, tarayıcınızda service-public.gouv.fr web sitesinin bir sayfasını açar. Uygulama bu siteye hiçbir bilgi iletmektedir; bu site kendi gizlilik politikasını uygular."
+          }
+        ]
+      },
+      {
+        "h": "Satın Alımlar",
+        "blocks": [
+          {
+            "p": "Arıcı Defteri Pro, Apple tarafından satılır ve yönetilir. Uygulama ödeme yönteminizi veya kimlik bilgilerinizi görmez; sadece App Store aracılığıyla satın alım yapıldı mı diye kontrol eder ve bu sayede özellikler kilidini açar."
+          }
+        ]
+      },
+      {
+        "h": "Çocuklar",
+        "blocks": [
+          {
+            "p": "Arıcı Defteri hiçbir veri toplamaz, çocuklardan bile değil."
+          }
+        ]
+      },
+      {
+        "h": "Değişiklikler",
+        "blocks": [
+          {
+            "p": "Eğer bu politika değişirse, yeni versiyon bu sayfada güncelleme tarihiyle birlikte yayınlanacaktır."
+          }
+        ]
+      },
+      {
+        "h": "İletişim",
+        "blocks": [
+          {
+            "p": "Bu politika ile ilgili herhangi bir sorunuz varsa: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}
