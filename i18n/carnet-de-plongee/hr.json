@@ -1,46 +1,46 @@
 {
   "support": {
-    "subtitle": "Vaš ronilački dnevnik s dubinom izmjerenom Apple Watch Ultra",
+    "subtitle": "Vaš ronilački dnevnik s dubinom koju je izmjerio Apple Watch Ultra",
     "contact": "Imate pitanje, ideju ili problem s aplikacijom? Pošaljite mi poruku:<br>{email}",
     "faq": [
       {
-        "q": "Kako uvezem zaroni s mojeg Apple Watcha Ultra?",
-        "a": "Na satu ništa se ne mora instalirati. Pod vodom Apple Watch Ultra samostalno snima dubinu (do 40 metara, 130 stopa) i temperaturu vode u aplikaciji Health na vašem iPhone-u. U Dive Log otvorite karticu Ronilački dnevnik, dodirnite \"+\" pa \"Uvezi s Apple Watcha\", a zatim \"Pronađi moje zaroni\". Prvi put iOS traži dopuštenje za čitanje ova dva mjerenja. Aplikacija zatim pronađe svaki zaron s datumom, trajanjem, dubinom i profilom; vi morate dodati samo mjesto, ronilačkog partnera ili tlak u boci."
+        "q": "Kako uvesti zarone sa svog Apple Watcha Ultra?",
+        "a": "Na sat ne treba ništa instalirati. Pod vodom Apple Watch Ultra sam bilježi dubinu (do 40 metara, 130 stopa) i temperaturu vode u aplikaciji Zdravlje na vašem iPhoneu. U aplikaciji Dive Log otvorite karticu Dnevnik, dodirnite „+“, zatim „Uvezi s Apple Watcha“ i na kraju „Pronađi moje zarone“. Prvi put iOS traži dopuštenje za čitanje ta dva mjerenja. Aplikacija zatim pronalazi svaki zaron s datumom, trajanjem, dubinom i profilom; vama ostaje samo dodati lokaciju, ronilačkog partnera ili tlak u boci."
       },
       {
-        "q": "Uvezi nije pronašla zaron. Što trebam učiniti?",
-        "a": "Prvo provjerite je li zaron napravljen s Apple Watchem Ultra i da je sat imao vrijeme za sinkronizaciju s iPhone-om (držite ih blizu nekoliko minuta, s otvorenom aplikacijom Health). Zatim provjerite dopuštenja: Postavke › Health › Pristup podacima i uređaji, odaberite aplikaciju i uključite \"Dubina pod vodom\" i \"Temperatura vode\". Pokušajte i dulji period (\"Cijela povijest\"). Uspomene kraće od 2 minute ili manje od 1,5 metara (5 stopa) ostaju izostavljene."
+        "q": "Uvoz nije pronašao nijedan zaron. Što trebam učiniti?",
+        "a": "Prvo provjerite je li zaron napravljen sa satom Apple Watch Ultra i je li sat imao vremena za sinkronizaciju s iPhoneom (držite ih nekoliko minuta blizu jedan drugoga, s otvorenom aplikacijom Zdravlje). Zatim provjerite dopuštenje: Postavke › Zdravlje › Pristup podacima i uređaji, odaberite aplikaciju i uključite „Dubina pod vodom“ i „Temperatura vode“. Pokušajte i s duljim razdobljem („Cijela povijest“). Zaroni kraći od 2 minute ili plići od 1,5 metra (5 stopa) izostavljaju se."
       },
       {
-        "q": "Mogu li čuvati dnevnik bez Apple Watcha?",
-        "a": "Da. Dodirnite \"+\" pa \"Unesi zaron\" i upišite sve što želite: datum, trajanje, dubinu, mjesto, ronilačkog partnera, temperature, vidljivost, plin, tlak u boci, utezi, odijelo, vrstu zarona, ocjenu i bilješke. Ništa nije obavezno. Ako kasnije uvezete isti zaron s satom, aplikacija dopuni vaš unos s profilom umjesto da napravi duplikat."
+        "q": "Mogu li voditi dnevnik bez Apple Watcha?",
+        "a": "Da. Dodirnite „+“, zatim „Unesi zaron“ i upišite sve što želite: datum, trajanje, dubinu, lokaciju, ronilačkog partnera, temperature, vidljivost, plin, tlakove u boci, utege, odijelo, vrstu zarona, ocjenu i bilješke. Ništa nije obavezno. Ako kasnije uvezete isti zaron sa sata, aplikacija dopunjuje vaš unos profilom umjesto da stvori duplikat."
       },
       {
-        "q": "Već sam zaronio prije korištenja ovog dnevnika. Kako održavam brojanje?",
-        "a": "U Postavkama unesite broj \"Zaroni prije ovog dnevnika\". Brojanje i ukupni podaci uzimaju ga u obzir: s 120 već napravljenih zaroni, prvi u dnevniku je broj 121. Zaroni se uvijek broje po datumu, čak i ako kasnije dodate stariji."
+        "q": "Već sam ronio prije korištenja ovog dnevnika. Kako zadržati svoje numeriranje?",
+        "a": "U Postavkama unesite broj u polje „Zaroni prije ovog dnevnika“. Numeriranje i ukupni zbrojevi uzimaju ga u obzir: sa 120 već obavljenih zarona, prvi u dnevniku nosi broj 121. Zaroni se uvijek numeriraju po datumu, čak i ako naknadno dodate neki stariji."
       },
       {
         "q": "Što uključuje Pro i koliko košta?",
-        "a": "Ronilački dnevnik, ručno unosenje, profil zaroni i uvoz s Apple Watcha su besplatni i bez ograničenja. Pro je jednokratna kupnja, bez pretplate; cijena se prikazuje u aplikaciji prije kupnje. Dodaje statistike (rekorde, zaroni po godini i godišnjem dobu, dubine, omiljene lokacije i partnera, potrošnja zraka), izvoze (povjerljivi PDF dnevnik s poljem za pečat ronilačkog centra, CSV tablica, format UDDF koji koristi ronilačka softvera) i certifikate (nivoi, specijalnosti, medicinska iskaznica, s fotografijom svake kartice i upozorenjem prije isteka)."
+        "a": "Dnevnik, ručni unos, profil zarona i uvoz s Apple Watcha besplatni su i bez ograničenja. Pro je jednokratna kupnja, bez pretplate; cijena se prikazuje u aplikaciji prije kupnje. Dodaje statistiku (rekordi, zaroni po godinama i godišnjim dobima, dubine, omiljene lokacije i ronilački partneri, potrošnja zraka), izvoze (PDF dnevnik za ispis s poljem za pečat ronilačkog centra, CSV tablica, format UDDF koji koristi ronilački softver) i certifikate (razine, specijalnosti, liječnička potvrda, s fotografijom svake kartice i upozorenjem prije isteka)."
       },
       {
-        "q": "Kako dohvatim svoju kupnju na novom uređaju?",
-        "a": "Otvorite Postavke › \"Otkrij Pro\" i dodirnite \"Vrati kupnju\", s App Store računom koji ste koristili za kupnju. Ne plaćate drugi put."
+        "q": "Kako vratiti kupnju na novom uređaju?",
+        "a": "Otvorite Postavke › „Otkrij Pro“ i dodirnite „Vrati kupnju“, s App Store računom kojim ste obavili kupnju. Ne plaćate drugi put."
       },
       {
         "q": "Mogu li promijeniti jedinice?",
-        "a": "Da: u Postavkama › Jedinice odaberite metar, °C i bar ili stopa, °F i psi. Vaši zaroni se ne mijenjaju: mijenja se samo prikaz, uključujući i u izvozima."
+        "a": "Da: u Postavke › Jedinice odaberite metre, °C i bare ili stope, °F i psi. Vaši zaroni se ne mijenjaju: mijenja se samo prikaz, pa tako i u izvozima."
       },
       {
-        "q": "Gdje su pohranjeni moji zaroni? Kako ih sigurno kopiram?",
-        "a": "Samo na vašem uređaju, u privatnoj pohrani aplikacije. Nema računa ni poslužitelja, a dnevnik se ne sinkronizira između vaših uređaja. On je dio sigurnosne kopije iCloud na iPhoneu ili računalu, koju upravljate u postavkama Applea. S Pro mogućnošću možete također pohraniti kopiju izvozom dnevnika (Postavke › \"Izvezi dnevnik\"). Brišući aplikaciju, brisanje se odnosi i na dnevnik s uređaja."
+        "q": "Gdje su pohranjeni moji zaroni? Kako napraviti sigurnosnu kopiju?",
+        "a": "Samo na vašem uređaju, u privatnoj pohrani aplikacije. Nema računa ni poslužitelja, a dnevnik se ne sinkronizira između vaših uređaja. Dio je sigurnosne kopije vašeg iPhonea na iCloudu ili na računalu, kojom upravljate u Appleovim postavkama. S Pro možete sačuvati i kopiju izvozom dnevnika (Postavke › „Izvezi dnevnik“). Brisanjem aplikacije dnevnik se briše s uređaja."
       },
       {
-        "q": "Mogu li koristiti aplikaciju za planiranje zaroni ili sigurno zaroniti?",
-        "a": "Ne. Dive Log pohranjuje zaroni nakon što ste ih završili. Nije ni računalo za zaroni ni alat za planiranje: nikada ga ne koristite za odlučivanje dubine, trajanja ili dekompresijskog stanja. Uvijek zaronite s odgovarajućim opremom i unutar granica vašeg obrazovanja."
+        "q": "Mogu li koristiti aplikaciju za planiranje zarona ili za sigurnost pri ronjenju?",
+        "a": "Ne. Dive Log čuva zapise o vašim zaronima nakon što ih obavite. Nije ni ronilačko računalo ni alat za planiranje: nikada ga ne koristite za odlučivanje o dubini, trajanju ili dekompresijskom zastanku. Uvijek ronite s odgovarajućom opremom i u granicama svoje obuke."
       }
     ],
-    "privacy_summary": "Dive Log ne prikuplja nikakve podatke, ne zahtijeva račun i nema reklame ili praćenja. mjerenja koja se čitaju iz Health ostaju na vašem uređaju."
+    "privacy_summary": "Dive Log ne prikuplja nikakve podatke, ne zahtijeva račun i ne sadrži oglase ni alate za praćenje. Mjerenja pročitana iz Zdravlja ostaju na vašem uređaju."
   },
   "privacy": {
     "sections": [
@@ -52,24 +52,24 @@
           },
           {
             "ul": [
-              "Nema računa, reklama ili praćenja: aplikacija nema alate za analitiku ili oglašavanje i nikako vas ne identificira.",
-              "Nema poslužitelja: aplikacija se povezuje s internetom samo za kupnju Pro, koja se obrađuje od strane Applea."
+              "Nema računa, oglasa ni praćenja: aplikacija ne sadrži alate za analitiku ni oglašavanje i ni na koji vas način ne identificira.",
+              "Nema poslužitelja: aplikacija se povezuje s internetom samo radi kupnje Pro, koju obrađuje Apple."
             ]
           }
         ]
       },
       {
-        "h": "Podaci iz zdravlja",
+        "h": "Podaci iz Zdravlja",
         "blocks": [
           {
-            "p": "S vašim dopuštenjem, aplikacija čita dvije mjere koje je vaš Apple Watch zabilježio u aplikaciji Zdravlje: dubinu pod vodom i temperaturu vode. Koristi ih samo za pronalaženje vaših zaroni i crtanje njihovog profila."
+            "p": "Uz vaše dopuštenje aplikacija čita dva mjerenja koja je vaš Apple Watch zabilježio u aplikaciji Zdravlje: dubinu pod vodom i temperaturu vode. Koristi ih samo za pronalaženje vaših zarona i crtanje njihova profila."
           },
           {
             "ul": [
-              "Ove mjere obrađuju se na vašem uređaju i ne šalju se nikamo.",
-              "Ne koriste se za reklamiranje ili profiliranje, niti se dijele s kim god da je bilo.",
-              "Aplikacija ne zapisuje ništa u Zdravlje i ne čita druga zdravstvena podatka.",
-              "Dopuštenje možete povući u bilo kojem trenutku u Postavke › Zdravlje › Pristup podacima i uređajima."
+              "Ta se mjerenja obrađuju na vašem uređaju i nikamo se ne šalju.",
+              "Ne koriste se za oglašavanje ni profiliranje i ni s kim se ne dijele.",
+              "Aplikacija ništa ne zapisuje u Zdravlje i ne čita nikakve druge zdravstvene podatke.",
+              "Dopuštenje možete povući u bilo kojem trenutku u Postavke › Zdravlje › Pristup podacima i uređaji."
             ]
           }
         ]
@@ -78,15 +78,15 @@
         "h": "Vaš ronilački dnevnik",
         "blocks": [
           {
-            "p": "Vaši zaroni, bilješke i certifikati pohranjuju se u privatnu pohranu aplikacije, na vašem uređaju. Brišući ih (uklanjanjem zarona ili brisanjem aplikacije), izbrisat ćete ih. Mogu biti uključeni u sigurnosne kopije uređaja na iCloud-u ili računalu, koje upravljate sami putem postavki Applea."
+            "p": "Vaši zaroni, bilješke i certifikati pohranjuju se u privatnoj pohrani aplikacije, na vašem uređaju. Njihovim brisanjem (uklanjanjem zarona ili brisanjem aplikacije) oni se trajno brišu. Mogu biti uključeni u sigurnosne kopije vašeg uređaja na iCloudu ili na računalu, kojima sami upravljate u Appleovim postavkama."
           }
         ]
       },
       {
-        "h": "Slike certifikata",
+        "h": "Fotografije kartica",
         "blocks": [
           {
-            "p": "Ako dodate sliku certifikata, aplikacija prima samo sliku koju sami odaberete; nema pristupa ostaloj knjižnici slika. Ta slika se čuva na vašem uređaju, zajedno s dnevnikom."
+            "p": "Ako dodate fotografiju certifikacijske kartice, aplikacija prima samo fotografiju koju sami odaberete; nema pristup ostalim vašim fotografijama. Ta se fotografija čuva na vašem uređaju, zajedno s dnevnikom."
           }
         ]
       },
@@ -94,7 +94,7 @@
         "h": "Izvozi",
         "blocks": [
           {
-            "p": "PDF, CSV i UDDF datoteke stvaraju se na vašem uređaju. Vi birate gdje ih poslati ili spremiti; aplikacija ih ne dijeli s nikim."
+            "p": "PDF, CSV i UDDF datoteke stvaraju se na vašem uređaju. Vi birate gdje ih poslati ili spremiti; aplikacija ih ni s kim ne dijeli."
           }
         ]
       },
@@ -102,7 +102,7 @@
         "h": "Kupnje",
         "blocks": [
           {
-            "p": "Kupnja Pro-a prodaje i obrađuje Apple. Aplikacija ne vidi vaš način plaćanja niti vaš identitet; samo čita, putem App Storea, je li kupnja izvršena kako bi se omogućile značajke."
+            "p": "Kupnju Pro prodaje i obrađuje Apple. Aplikacija ne vidi vaš način plaćanja ni vaš identitet; putem App Storea samo čita je li kupnja obavljena, kako bi otključala značajke."
           }
         ]
       },
@@ -110,7 +110,7 @@
         "h": "Djeca",
         "blocks": [
           {
-            "p": "Ronilački dnevnik ne prikuplja nikakve podatke, uključujući one o djeci."
+            "p": "Dive Log ne prikuplja nikakve podatke, pa ni od djece."
           }
         ]
       },

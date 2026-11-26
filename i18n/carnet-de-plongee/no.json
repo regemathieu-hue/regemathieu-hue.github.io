@@ -1,46 +1,46 @@
 {
   "support": {
-    "subtitle": "Dykkloggen din, med dykket målt av Apple Watch Ultra",
-    "contact": "Har du en spørsmål, en idé eller et problem med appen? Skriv til meg:<br>{email}",
+    "subtitle": "Dykkeloggen din, med dybden målt av Apple Watch Ultra",
+    "contact": "Har du et spørsmål, en idé eller et problem med appen? Skriv til meg:<br>{email}",
     "faq": [
       {
         "q": "Hvordan importerer jeg dykkene fra min Apple Watch Ultra?",
-        "a": "Det er ingenting å installere på vekken. Under vann registrerer Apple Watch Ultra dykket (ned til 40 meter, 130 fot) og vannstemperaturen selv i Health-appen på din iPhone. I Dive Log åpner du fanen Logg, trykker på \"+\" og deretter \"Importer fra Apple Watch\", og til slutt \"Finn mine dykk\". Første gang ber iOS om tillatelse til å lese disse to målingene. Deretter finner appen hvert dykk med dato, varighet, dybde og profil; du trenger bare å legge til sted, makker eller flasketrykk."
+        "a": "Det er ingenting å installere på klokken. Under vann registrerer Apple Watch Ultra av seg selv dybden (ned til 40 meter, 130 fot) og vanntemperaturen i Helse-appen på iPhonen din. I Dive Log åpner du fanen Logg, trykker på «+» og deretter «Importer fra Apple Watch», og til slutt «Finn mine dykk». Første gang ber iOS om tillatelse til å lese disse to målingene. Deretter finner appen hvert dykk med dato, varighet, dybde og profil; du trenger bare å legge til dykkested, makker eller flasketrykk."
       },
       {
         "q": "Importen finner ingen dykk. Hva skal jeg gjøre?",
-        "a": "Sjekk først at dykket ble gjort med en Apple Watch Ultra og at vekken har hatt tid til å synkronisere med iPhone (hold dem nær hverandre i noen minutter, med Health-appen åpen). Sjekk deretter tillatelsen: Innstillinger › Health › Data Access & Devices, velg appen, og slå på \"Underwater Depth\" og \"Water Temperature\". Prøv også et lengre tidsrom (\"Alt historikk\"). Dykk kortere enn 2 minutter eller mindre enn 1,5 meter (5 fot) utelates."
+        "a": "Sjekk først at dykket ble gjort med en Apple Watch Ultra og at klokken har hatt tid til å synkronisere med iPhone (hold dem nær hverandre i noen minutter, med Helse-appen åpen). Sjekk deretter tillatelsen: Innstillinger › Helse › Datatilgang og enheter, velg appen, og slå på «Dybde under vann» og «Vanntemperatur». Prøv også et lengre tidsrom («All historikk»). Dykk kortere enn 2 minutter eller grunnere enn 1,5 meter (5 fot) utelates."
       },
       {
-        "q": "Kan jeg beholde loggen min uten Apple Watch?",
-        "a": "Ja. Trykk på \"+\" og deretter \"Skriv inn et dykk\" og skriv ned hva du vil: dato, varighet, dybde, sted, makker, temperaturer, synlighet, gass, flasketrykk, bly, drakt, dykketype, vurdering og notater. Ingenting er nødvendig. Hvis du senere importerer det samme dykket fra vekken, fullfører appen oppføringen din med profilen i stedet for å lage en duplikat."
+        "q": "Kan jeg føre logg uten Apple Watch?",
+        "a": "Ja. Trykk på «+» og deretter «Skriv inn et dykk», og noter det du vil: dato, varighet, dybde, dykkested, makker, temperaturer, sikt, gass, flasketrykk, bly, drakt, dykketype, vurdering og notater. Ingenting er obligatorisk. Hvis du senere importerer det samme dykket fra klokken, utfyller appen oppføringen din med profilen i stedet for å lage et duplikat."
       },
       {
-        "q": "Jeg hadde allerede gjort dykk før jeg begynte å bruke denne loggen. Hvordan holder jeg styr på nummereringen?",
-        "a": "I Innstillinger, skriv inn antall «Antall dykk før denne loggen». Nummerering og totalsummer tar hensyn til dette: med 120 dykk allerede gjort, blir det første dykket i loggen nummer 121. Dykk blir alltid nummerert etter dato, selv om du legger til et gammelt dykk senere."
+        "q": "Jeg hadde allerede dykket før jeg begynte å bruke denne loggen. Hvordan beholder jeg nummereringen min?",
+        "a": "Under Innstillinger fyller du ut «Antall dykk før denne loggen». Nummerering og totaler tar hensyn til dette: med 120 dykk fra før blir det første dykket i loggen nummer 121. Dykk blir alltid nummerert etter dato, selv om du legger til et gammelt dykk senere."
       },
       {
         "q": "Hva er inkludert i Pro og hvor mye koster det?",
-        "a": "Loggen, manuell innskriving, dykkeprofilen og import fra Apple Watch er gratis og ubegrenset. Pro er en engangs-kjøp uten abonnement; prisen vises i appen før du kjøper. Den legger til statistikk (rekorder, dykk per år og sesong, dyp, favorittsteder og makker, luftforbruk), eksporter (en utskrivbar PDF-dykkelogg med boks for stempel fra dykkecenteret, en CSV-ark, UDDF-formatet som brukes av dykkesoftware) og sertifikater (nivåer, spesialiteter, helseattest, med bilde av hvert kort og advarsel før det utløper)."
+        "a": "Loggen, manuell innskriving, dykkeprofilen og import fra Apple Watch er gratis og ubegrenset. Pro er et engangskjøp uten abonnement; prisen vises i appen før du kjøper. Det legger til statistikk (rekorder, dykk per år og sesong, dybder, favorittsteder og -makkere, luftforbruk), eksporter (en utskriftsvennlig PDF-dykkelogg med felt for dykkesenterets stempel, et CSV-regneark, UDDF-formatet som brukes av dykkeprogramvare) og sertifikater (nivåer, spesialiteter, helseattest, med bilde av hvert kort og varsel før det utløper)."
       },
       {
-        "q": "Hvordan får jeg kjøpet mitt tilbake på et nytt enhet?",
+        "q": "Hvordan får jeg kjøpet mitt tilbake på en ny enhet?",
         "a": "Åpne Innstillinger › «Oppdag Pro» og trykk «Gjenopprett kjøp», med App Store-kontoen du brukte til å kjøpe det. Du betaler ikke en gang til."
       },
       {
-        "q": "Kan jeg endre enheter?",
+        "q": "Kan jeg bytte måleenheter?",
         "a": "Ja: i Innstillinger › Enheter, velg meter, °C og bar, eller fot, °F og psi. Dykkene dine endres ikke: bare visningen endres, inkludert i eksporter."
       },
       {
-        "q": "Hvor er mine dykk lagret? Hvordan gjør jeg sikkerhetskopi?",
-        "a": "Kun på enheten din, i appens private lagring. Det er ingen konto og ingen server, og loggen synkroniseres ikke mellom dine enheter. Den er en del av iCloud-sikkerhetskopia til iPhone-en din eller sikkerhetskopia fra datamaskinen din, som du styrer i Apple sine innstillinger. Med Pro kan du også lagre en kopi ved å eksportere loggen (Innstillinger › \"Eksporter loggen\"). Sletting av appen sletter loggen fra enheten."
+        "q": "Hvor er dykkene mine lagret? Hvordan sikkerhetskopierer jeg dem?",
+        "a": "Kun på enheten din, i appens private lagring. Det er ingen konto og ingen server, og loggen synkroniseres ikke mellom enhetene dine. Den er en del av iPhonens iCloud-sikkerhetskopi eller sikkerhetskopien på datamaskinen, som du styrer i Apples innstillinger. Med Pro kan du også ta vare på en kopi ved å eksportere loggen (Innstillinger › «Eksporter loggen»). Sletter du appen, slettes loggen fra enheten."
       },
       {
         "q": "Kan jeg bruke appen til å planlegge et dykk eller dykke trygt?",
-        "a": "Nei. Dive Log lagrer informasjon om dine dykk etterpå. Den er hverken en dykkestyring eller et planleggingsverktøy: bruk den aldri til å bestemme dybde, varighet eller dekomprimeringsstop. Dykk alltid med riktig utstyr og innenfor grensene for din opplæring."
+        "a": "Nei. Dive Log holder styr på dykkene dine i etterkant. Den er hverken en dykkecomputer eller et planleggingsverktøy: bruk den aldri til å bestemme dybde, varighet eller dekompresjonsstopp. Dykk alltid med riktig utstyr og innenfor grensene for opplæringen din."
       }
     ],
-    "privacy_summary": "Dive Log samler ingen data, krever ingen konto og inneholder ingen annonser eller sporing. Målingene som leses fra Health beholdes på enheten din."
+    "privacy_summary": "Dive Log samler ikke inn noen data, krever ingen konto og inneholder ingen annonser eller sporing. Målingene som leses fra Helse, blir værende på enheten din."
   },
   "privacy": {
     "sections": [
@@ -48,11 +48,11 @@
         "h": "Kort sagt",
         "blocks": [
           {
-            "p": "Dive Log samler ingen data. Alt du gjør i appen beholdes på iPhone-en din eller iPad-en din."
+            "p": "Dive Log samler ikke inn noen data. Alt du gjør i appen, blir værende på iPhonen eller iPaden din."
           },
           {
             "ul": [
-              "Ingen konto, ingen annonser, ingen sporing: appen inneholder ingen analytikk- eller reklameverktøy, og identifiserer deg ikke på noen måte.",
+              "Ingen konto, ingen annonser, ingen sporing: appen inneholder ingen analyse- eller reklameverktøy, og identifiserer deg ikke på noen måte.",
               "Ingen server: appen kobler seg bare til internett for kjøp av Pro, som håndteres av Apple."
             ]
           }
@@ -62,14 +62,14 @@
         "h": "Helsedata",
         "blocks": [
           {
-            "p": "Med din tillatelse leser appen to målinger som er registrert av din Apple Watch i Apples Helse-app: under vanns dybde og vannstemperatur. Den bruker dem kun til å finne dine dykk og tegne deres profil."
+            "p": "Med din tillatelse leser appen to målinger som Apple Watch har registrert i Helse-appen: dybde under vann og vanntemperatur. Den bruker dem kun til å finne dykkene dine og tegne profilen deres."
           },
           {
             "ul": [
               "Disse målingene behandles på enheten din og sendes ikke noe sted.",
-              "De brukes ikke til reklame eller profiling, og de deler ikke med noen.",
-              "Appen skriver ingenting til Helse-appen og leser ingen andre helsedata.",
-              "Du kan trekke tilatelsen til enhver tid i Innstillinger › Helse › Datatilgang og enheter."
+              "De brukes ikke til reklame eller profilering, og de deles ikke med noen.",
+              "Appen skriver ingenting til Helse og leser ingen andre helsedata.",
+              "Du kan når som helst trekke tilbake tillatelsen i Innstillinger › Helse › Datatilgang og enheter."
             ]
           }
         ]
@@ -78,7 +78,7 @@
         "h": "Din logg",
         "blocks": [
           {
-            "p": "Dykkene dine, notatene og sertifikatene lagres i appens private lagring, på din enhet. Sletting av dem (fjerning av et dykk eller sletting av appen) sletter dem permanent. De kan være med i sikkerhetskopier av enheten din til iCloud eller datamaskinen din, som du selv styrer i Apple sine innstillinger."
+            "p": "Dykkene dine, notatene og sertifikatene lagres i appens private lagring, på enheten din. Hvis du sletter dem (fjerner et dykk eller sletter appen), blir de borte for godt. De kan være med i sikkerhetskopier av enheten din til iCloud eller datamaskinen, som du selv styrer i Apples innstillinger."
           }
         ]
       },
@@ -86,7 +86,7 @@
         "h": "Kortbilder",
         "blocks": [
           {
-            "p": "Hvis du legger til et bilde av et sertifikat, mottar appen bare bildet du selv velger; den har ingen tilgang til resten av fotoarkivet ditt. Bildet beholdes på din enhet sammen med loggen."
+            "p": "Hvis du legger til et bilde av et sertifikatkort, mottar appen bare bildet du selv velger; den har ingen tilgang til resten av bildebiblioteket ditt. Bildet blir værende på enheten din sammen med loggen."
           }
         ]
       },
@@ -110,7 +110,7 @@
         "h": "Barn",
         "blocks": [
           {
-            "p": "Dive Log samler ingen data, inkludert fra barn."
+            "p": "Dive Log samler ikke inn noen data, heller ikke fra barn."
           }
         ]
       },
@@ -118,7 +118,7 @@
         "h": "Endringer",
         "blocks": [
           {
-            "p": "Hvis denne politikken endres, vil den nye versjonen bli publisert på denne siden med dens oppdateringsdato."
+            "p": "Hvis denne personvernerklæringen endres, blir den nye versjonen publisert på denne siden med oppdateringsdato."
           }
         ]
       },
@@ -126,7 +126,7 @@
         "h": "Kontakt",
         "blocks": [
           {
-            "p": "For alle spørsmål om denne politikken: {email}"
+            "p": "For alle spørsmål om denne personvernerklæringen: {email}"
           }
         ]
       }

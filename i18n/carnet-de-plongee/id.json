@@ -5,15 +5,15 @@
     "faq": [
       {
         "q": "Bagaimana cara mengimpor penyelaman dari Apple Watch Ultra saya?",
-        "a": "Tidak perlu menginstal apa pun di jam tangan. Di bawah air, Apple Watch Ultra mencatat kedalaman (hingga 40 meter, 130 kaki) dan suhu air secara otomatis di aplikasi Kesehatan di iPhone Anda. Di Dive Log, buka tab Log, ketuk \" + \" lalu \"Impor dari Apple Watch\", lalu \"Temukan penyelamanku\". Pada penggunaan pertama, iOS akan meminta izin untuk membaca kedua pengukuran ini. Aplikasi kemudian menemukan setiap penyelaman berdasarkan tanggal, durasi, kedalaman, dan profil; Anda hanya perlu menambahkan lokasi, buddy, atau tekanan tabung."
+        "a": "Tidak perlu menginstal apa pun di jam tangan. Di bawah air, Apple Watch Ultra mencatat kedalaman (hingga 40 meter, 130 kaki) dan suhu air secara otomatis di aplikasi Kesehatan di iPhone Anda. Di Log Selam, buka tab Log, ketuk \"+\" lalu \"Impor dari Apple Watch\", lalu \"Cari penyelaman saya\". Pada penggunaan pertama, iOS akan meminta izin untuk membaca kedua pengukuran ini. Aplikasi kemudian menemukan setiap penyelaman beserta tanggal, durasi, kedalaman, dan profilnya; Anda hanya perlu menambahkan titik selam, buddy, atau tekanan tabung."
       },
       {
         "q": "Impor tidak menemukan penyelaman. Apa yang harus saya lakukan?",
-        "a": "Pertama, pastikan penyelaman dilakukan menggunakan Apple Watch Ultra dan jam tangan telah sempat menyinkronkan dengan iPhone (tahan keduanya dekat selama beberapa menit, sambil membuka aplikasi Kesehatan). Kemudian periksa izinnya: Pengaturan › Kesehatan › Akses Data & Perangkat, pilih aplikasi tersebut, lalu aktifkan \"Kedalaman di Bawah Air\" dan \"Suhu Air\". Coba juga periode yang lebih panjang (\"Semua Riwayat\"). Penyelaman yang durasinya kurang dari 2 menit atau kedalamannya kurang dari 1,5 meter (5 kaki) akan dilewatkan."
+        "a": "Pertama, pastikan penyelaman dilakukan menggunakan Apple Watch Ultra dan jam tangan sudah sempat disinkronkan dengan iPhone (dekatkan keduanya selama beberapa menit, dengan aplikasi Kesehatan terbuka). Kemudian periksa izinnya: Pengaturan › Kesehatan › Akses Data & Perangkat, pilih aplikasi tersebut, lalu aktifkan \"Kedalaman di Bawah Air\" dan \"Suhu Air\". Coba juga periode yang lebih panjang (\"Semua Riwayat\"). Penyelaman yang durasinya kurang dari 2 menit atau kedalamannya kurang dari 1,5 meter (5 kaki) tidak disertakan."
       },
       {
         "q": "Apakah saya bisa tetap menyimpan log tanpa Apple Watch?",
-        "a": "Ya. Ketuk \" + \" lalu \"Masukkan penyelaman\" dan catat apa pun yang Anda inginkan: tanggal, durasi, kedalaman, lokasi, buddy, suhu, visibilitas, gas, tekanan tabung, pemberat, jenis pakaian selam, tipe penyelaman, penilaian, dan catatan. Tidak ada yang wajib diisi. Jika nanti Anda mengimpor penyelaman yang sama dari jam tangan, aplikasi akan melengkapi entri Anda dengan profil tanpa membuat duplikat."
+        "a": "Ya. Ketuk \"+\" lalu \"Masukkan penyelaman\" dan catat apa pun yang Anda inginkan: tanggal, durasi, kedalaman, titik selam, buddy, suhu, visibilitas, gas, tekanan tabung, pemberat, baju selam, jenis penyelaman, penilaian, dan catatan. Tidak ada yang wajib diisi. Jika nanti Anda mengimpor penyelaman yang sama dari jam tangan, aplikasi akan melengkapi entri Anda dengan profil tanpa membuat duplikat."
       },
       {
         "q": "Saya sudah melakukan penyelaman sebelum menggunakan log ini. Bagaimana cara menjaga penomoran saya?",
@@ -21,11 +21,11 @@
       },
       {
         "q": "Apa saja yang termasuk dalam Pro dan berapa harganya?",
-        "a": "Log, entri manual, profil penyelaman, dan impor dari Apple Watch gratis dan tanpa batas. Pro adalah pembelian sekali pakai, tanpa langganan; harga ditampilkan di dalam aplikasi sebelum Anda membeli. Fitur ini menambahkan statistik (rekor, penyelaman per tahun dan musim, kedalaman, lokasi favorit, serta buddy), ekspor (buku log PDF yang bisa dicetak dengan kotak untuk cap dari pusat penyelaman, spreadsheet CSV, format UDDF yang digunakan oleh perangkat lunak penyelaman), serta sertifikasi (tingkatan, spesialisasi, sertifikat medis, dengan foto setiap kartu dan peringatan sebelum masa berlakunya habis)."
+        "a": "Log, entri manual, profil penyelaman, dan impor dari Apple Watch gratis dan tanpa batas. Pro adalah pembelian satu kali, tanpa langganan; harganya ditampilkan di dalam aplikasi sebelum Anda membeli. Pro menambahkan statistik (rekor, penyelaman per tahun dan per musim, kedalaman, titik selam dan buddy favorit, konsumsi udara), ekspor (buku log PDF yang bisa dicetak dengan kotak untuk cap dari pusat selam, spreadsheet CSV, format UDDF yang digunakan oleh perangkat lunak selam), serta sertifikasi (tingkat, spesialisasi, sertifikat medis, dengan foto setiap kartu dan peringatan sebelum masa berlakunya habis)."
       },
       {
-        "q": "Bagaimana cara mengembalikan pembelian saya di perangkat baru?",
-        "a": "Buka Pengaturan › \"Temukan Pro\" dan ketuk \"Kembalikan pembelian saya\", menggunakan akun App Store yang digunakan untuk membeli sebelumnya. Anda tidak perlu membayar lagi."
+        "q": "Bagaimana cara memulihkan pembelian saya di perangkat baru?",
+        "a": "Buka Pengaturan › \"Temukan Pro\" dan ketuk \"Pulihkan pembelian saya\", menggunakan akun App Store yang digunakan untuk membeli sebelumnya. Anda tidak perlu membayar lagi."
       },
       {
         "q": "Apakah saya bisa mengganti satuan?",
@@ -37,10 +37,10 @@
       },
       {
         "q": "Apakah saya bisa menggunakan aplikasi ini untuk merencanakan penyelaman atau menyelam dengan aman?",
-        "a": "Tidak. Log Selam mencatat penyelaman Anda setelahnya. Aplikasi ini bukan komputer penyelaman atau alat perencanaan: jangan pernah gunakan aplikasi ini untuk menentukan kedalaman, durasi, atau waktu berhenti dekompresi. Selalu menyelam dengan peralatan yang sesuai dan tetap dalam batas pelatihan Anda."
+        "a": "Tidak. Log Selam mencatat penyelaman Anda setelahnya. Aplikasi ini bukan komputer selam ataupun alat perencanaan: jangan pernah gunakan aplikasi ini untuk menentukan kedalaman, durasi, atau perhentian dekompresi. Selalu menyelam dengan peralatan yang sesuai dan tetap dalam batas pelatihan Anda."
       }
     ],
-    "privacy_summary": "Log Selam tidak mengumpulkan data apa pun, tidak memerlukan akun, dan tidak memiliki iklan atau pelacak. Pengukuran yang dibaca dari Health tetap berada di perangkat Anda."
+    "privacy_summary": "Log Selam tidak mengumpulkan data apa pun, tidak memerlukan akun, dan tidak memiliki iklan atau pelacak. Pengukuran yang dibaca dari Kesehatan tetap berada di perangkat Anda."
   },
   "privacy": {
     "sections": [
@@ -67,7 +67,7 @@
           {
             "ul": [
               "Pengukuran ini diproses di perangkat Anda dan tidak dikirim ke mana pun.",
-              "Data tersebut tidak digunakan untuk iklan atau profil, dan tidak dibagikan dengan siapa pun.",
+              "Data tersebut tidak digunakan untuk iklan atau pembuatan profil, dan tidak dibagikan dengan siapa pun.",
               "Aplikasi tidak menulis apa pun ke Kesehatan dan tidak membaca data kesehatan lainnya.",
               "Anda dapat mencabut izin ini kapan saja di Pengaturan › Kesehatan › Akses Data & Perangkat."
             ]
@@ -78,7 +78,7 @@
         "h": "Log Anda",
         "blocks": [
           {
-            "p": "Penyelaman, catatan, dan sertifikasi Anda disimpan di penyimpanan pribadi aplikasi, pada perangkat Anda. Menghapusnya (menghapus satu penyelaman atau menghapus aplikasi) akan menghapus seluruh data tersebut. Data tersebut dapat termasuk dalam cadangan iCloud atau komputer Anda, yang Anda kelola sendiri melalui pengaturan Apple."
+            "p": "Penyelaman, catatan, dan sertifikasi Anda disimpan di penyimpanan pribadi aplikasi, pada perangkat Anda. Menghapusnya (menghapus satu penyelaman atau menghapus aplikasi) akan menghapus data tersebut. Data tersebut dapat termasuk dalam cadangan iCloud atau cadangan komputer perangkat Anda, yang Anda kelola sendiri melalui pengaturan Apple."
           }
         ]
       },
@@ -86,7 +86,7 @@
         "h": "Foto Kartu",
         "blocks": [
           {
-            "p": "Jika Anda menambahkan foto kartu sertifikasi, aplikasi hanya menerima foto yang Anda pilih sendiri; aplikasi tidak memiliki akses ke seluruh perpustakaan foto Anda. Foto tersebut disimpan pada perangkat Anda, bersama log."
+            "p": "Jika Anda menambahkan foto kartu sertifikasi, aplikasi hanya menerima foto yang Anda pilih sendiri; aplikasi tidak memiliki akses ke foto lain di perpustakaan foto Anda. Foto tersebut disimpan pada perangkat Anda, bersama log."
           }
         ]
       },

@@ -1,27 +1,27 @@
 {
   "support": {
-    "subtitle": "A sua caderneta de mergulho, com a profundidade medida pela Apple Watch Ultra",
+    "subtitle": "A sua caderneta de mergulho, com a profundidade medida pelo Apple Watch Ultra",
     "contact": "Tem uma questão, uma ideia ou um problema com a aplicação? Escreva-me:<br>{email}",
     "faq": [
       {
-        "q": "Como importo os mergulhos da minha Apple Watch Ultra?",
-        "a": "Não é necessário instalar nada na watch. Sob a água, a Apple Watch Ultra regista automaticamente a profundidade (até 40 metros, 130 pés) e a temperatura da água no app Saúde do seu iPhone. Na Dive Log, abra a aba Registo, toque em \"+\" e depois em \"Importar da Apple Watch\", por fim em \"Localizar os meus mergulhos\". Na primeira vez, o iOS pede permissão para ler estas duas medições. A aplicação encontra cada mergulho com a data, duração, profundidade e perfil; só tem de adicionar o local, o companheiro ou a pressão da garrafa."
+        "q": "Como importo os mergulhos do meu Apple Watch Ultra?",
+        "a": "Não é necessário instalar nada no relógio. Debaixo de água, o Apple Watch Ultra regista automaticamente a profundidade (até 40 metros, 130 pés) e a temperatura da água na aplicação Saúde do seu iPhone. No Dive Log, abra o separador Caderneta, toque em \"+\" e depois em \"Importar do Apple Watch\", por fim em \"Localizar os meus mergulhos\". Na primeira vez, o iOS pede permissão para ler estas duas medições. A aplicação encontra então cada mergulho com a data, duração, profundidade e perfil; só tem de adicionar o local, o companheiro ou a pressão da garrafa."
       },
       {
         "q": "A importação não encontrou nenhum mergulho. O que devo fazer?",
-        "a": "Verifique primeiro se o mergulho foi feito com uma Apple Watch Ultra e se a watch teve tempo para sincronizar com o iPhone (mantenha-os próximos durante alguns minutos, com o app Saúde aberto). Depois verifique as permissões: Definições › Saúde › Acesso a Dados e Dispositivos, selecione a aplicação e ative \"Profundidade Subaquática\" e \"Temperatura da Água\". Tente também um período mais longo (\"Toda a história\"). Os mergulhos com menos de 2 minutos ou com uma profundidade inferior a 1,5 metros (5 pés) são ignorados."
+        "a": "Verifique primeiro se o mergulho foi feito com um Apple Watch Ultra e se o relógio teve tempo para sincronizar com o iPhone (mantenha-os próximos durante alguns minutos, com a aplicação Saúde aberta). Depois verifique a permissão: Definições › Saúde › Acesso a dados e dispositivos, selecione a aplicação e ative \"Profundidade subaquática\" e \"Temperatura da água\". Tente também um período mais longo (\"Todo o histórico\"). As imersões com menos de 2 minutos ou com uma profundidade inferior a 1,5 metros (5 pés) são ignoradas."
       },
       {
-        "q": "Posso manter a minha caderneta sem uma Apple Watch?",
-        "a": "Sim. Toque em \"+\" e depois em \"Introduzir um mergulho\" e escreva tudo o que quiser: data, duração, profundidade, local, companheiro, temperaturas, visibilidade, gás, pressão da garrafa, lastro, fato, tipo de mergulho, classificação e observações. Nada é obrigatório. Se mais tarde importar o mesmo mergulho da watch, a aplicação completa a sua entrada com o perfil em vez de criar uma duplicada."
+        "q": "Posso manter a minha caderneta sem um Apple Watch?",
+        "a": "Sim. Toque em \"+\" e depois em \"Introduzir um mergulho\" e escreva tudo o que quiser: data, duração, profundidade, local, companheiro, temperaturas, visibilidade, gás, pressão da garrafa, lastro, fato, tipo de mergulho, classificação e notas. Nada é obrigatório. Se mais tarde importar o mesmo mergulho do relógio, a aplicação completa a sua entrada com o perfil em vez de criar um duplicado."
       },
       {
         "q": "Já tinha feito mergulhos antes de usar esta caderneta. Como mantenho a minha numeração?",
-        "a": "Em Definições, introduza o número de \"Mergulhos antes deste registo\". A numeração e os totais levam-no em conta: com 120 mergulhos já feitos, o primeiro na caderneta é o número 121. Os mergulhos são sempre numerados pela data, mesmo que adicione um antigo posteriormente."
+        "a": "Em Definições, introduza o número de \"Mergulhos antes desta caderneta\". A numeração e os totais têm isso em conta: com 120 mergulhos já feitos, o primeiro na caderneta é o número 121. Os mergulhos são sempre numerados pela data, mesmo que adicione um antigo posteriormente."
       },
       {
         "q": "O que inclui o Pro e quanto custa?",
-        "a": "A caderneta, a entrada manual, o perfil do mergulho e a importação da Apple Watch são gratuitos e ilimitados. O Pro é uma compra única, sem subscrição; o seu preço é mostrado na app antes de comprar. Acrescenta estatísticas (registos, mergulhos por ano e por estação, profundidades, locais e companheiros favoritos, consumo de ar), exportações (uma caderneta de mergulho em PDF imprimível com um campo para o carimbo do centro de mergulho, uma folha de cálculo CSV e o formato UDDF usado por software de mergulho) e certificações (níveis, especialidades, certificado médico, com uma foto de cada cartão e um aviso antes da expiração)."
+        "a": "A caderneta, a entrada manual, o perfil do mergulho e a importação do Apple Watch são gratuitos e ilimitados. O Pro é uma compra única, sem subscrição; o seu preço é mostrado na aplicação antes de comprar. Acrescenta estatísticas (recordes, mergulhos por ano e por estação, profundidades, locais e companheiros favoritos, consumo de ar), exportações (uma caderneta de mergulho em PDF imprimível com um campo para o carimbo do centro de mergulho, uma folha de cálculo CSV e o formato UDDF usado por software de mergulho) e certificações (níveis, especialidades, certificado médico, com uma foto de cada cartão e um aviso antes da expiração)."
       },
       {
         "q": "Como recupero a minha compra num novo dispositivo?",
@@ -33,14 +33,14 @@
       },
       {
         "q": "Onde estão armazenados os meus mergulhos? Como faço cópias de segurança?",
-        "a": "Apenas no seu dispositivo, na armazenagem privada da aplicação. Não existe conta nem servidor, e o registo não é sincronizado entre os seus dispositivos. Está incluído na cópia de segurança do iCloud do iPhone ou na cópia de segurança do computador, que gerencia nas definições da Apple. Com o Pro, também pode manter uma cópia ao exportar o registo (Definições › \"Exportar o registo\"). Apagar a aplicação elimina o registo do dispositivo."
+        "a": "Apenas no seu dispositivo, no armazenamento privado da aplicação. Não existe conta nem servidor, e a caderneta não é sincronizada entre os seus dispositivos. Está incluída na cópia de segurança do iCloud do iPhone ou na cópia de segurança no computador, que gere nas definições da Apple. Com o Pro, também pode manter uma cópia ao exportar a caderneta (Definições › \"Exportar a caderneta\"). Apagar a aplicação elimina a caderneta do dispositivo."
       },
       {
         "q": "Posso usar a aplicação para planear um mergulho ou para mergulhar em segurança?",
         "a": "Não. O Dive Log mantém um registo dos seus mergulhos após os ter realizado. Não é nem um computador de mergulho nem uma ferramenta de planeamento: nunca o utilize para decidir sobre a profundidade, a duração ou uma paragem de descompressão. Mergulhe sempre com o equipamento adequado e dentro dos limites da sua formação."
       }
     ],
-    "privacy_summary": "O Dive Log não recolhe dados, não exige conta e não contém anúncios nem rastreadores. As medições lidas na Health permanecem no seu dispositivo."
+    "privacy_summary": "O Dive Log não recolhe dados, não exige conta e não contém anúncios nem rastreadores. As medições lidas na Saúde permanecem no seu dispositivo."
   },
   "privacy": {
     "sections": [
@@ -52,8 +52,8 @@
           },
           {
             "ul": [
-              "Sem conta, sem anúncios, sem rastreamento: a aplicação não contém ferramentas de análise nem publicidade, e nunca o identifica de qualquer forma.",
-              "Sem servidor: a aplicação apenas se conecta à internet para a compra do Pro, que é gerida pela Apple."
+              "Sem conta, sem anúncios, sem rastreamento: a aplicação não contém ferramentas de análise nem publicidade, e não o identifica de forma alguma.",
+              "Sem servidor: a aplicação só se liga à internet para a compra do Pro, que é gerida pela Apple."
             ]
           }
         ]
@@ -62,23 +62,23 @@
         "h": "Dados de Saúde",
         "blocks": [
           {
-            "p": "Com a sua permissão, a aplicação lê duas medições registadas pelo seu Apple Watch na aplicação Saúde: profundidade subaquática e temperatura da água. Utiliza-as apenas para localizar os seus mergulhos e desenhar o seu perfil."
+            "p": "Com a sua permissão, a aplicação lê duas medições registadas pelo seu Apple Watch na aplicação Saúde: profundidade subaquática e temperatura da água. Utiliza-as apenas para localizar os seus mergulhos e desenhar o respetivo perfil."
           },
           {
             "ul": [
               "Estas medições são processadas no seu dispositivo e não são enviadas para nenhum lado.",
-              "Não são utilizadas para publicidade ou perfis, nem partilhadas com ninguém.",
+              "Não são utilizadas para publicidade nem para definição de perfis, nem partilhadas com ninguém.",
               "A aplicação não escreve nada na Saúde e não lê quaisquer outros dados de saúde.",
-              "Pode retirar a permissão a qualquer momento em Definições › Saúde › Acesso a Dados e Dispositivos."
+              "Pode retirar a permissão a qualquer momento em Definições › Saúde › Acesso a dados e dispositivos."
             ]
           }
         ]
       },
       {
-        "h": "O seu registo",
+        "h": "A sua caderneta",
         "blocks": [
           {
-            "p": "Os seus mergulhos, notas e certificações são armazenados na memória privada da aplicação, no seu dispositivo. A sua eliminação (remoção de um mergulho ou desinstalação da aplicação) apaga-os. Podem estar incluídos nas cópias de segurança do seu dispositivo no iCloud ou no computador, que gerida por si nas definições da Apple."
+            "p": "Os seus mergulhos, notas e certificações são guardados no armazenamento privado da aplicação, no seu dispositivo. Eliminá-los (apagar um mergulho ou eliminar a aplicação) apaga-os. Podem estar incluídos nas cópias de segurança do seu dispositivo no iCloud ou no computador, que são geridas por si nas definições da Apple."
           }
         ]
       },
@@ -86,7 +86,7 @@
         "h": "Fotos de cartões",
         "blocks": [
           {
-            "p": "Se adicionar uma foto de um cartão de certificação, a aplicação apenas recebe a foto que escolher; não tem acesso ao resto da sua biblioteca de fotos. Essa foto é mantida no seu dispositivo, juntamente com o registo."
+            "p": "Se adicionar uma foto de um cartão de certificação, a aplicação apenas recebe a foto que escolher; não tem acesso ao resto da sua biblioteca de fotos. Essa foto é mantida no seu dispositivo, juntamente com a caderneta."
           }
         ]
       },
@@ -110,7 +110,7 @@
         "h": "Crianças",
         "blocks": [
           {
-            "p": "A Dive Log não recolhe quaisquer dados, incluindo de crianças."
+            "p": "O Dive Log não recolhe quaisquer dados, incluindo de crianças."
           }
         ]
       },
