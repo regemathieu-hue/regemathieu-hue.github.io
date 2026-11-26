@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "Your dive logbook, with the depth measured by Apple Watch Ultra",
+    "contact": "A question, an idea or a problem with the app? Write to me:<br>{email}",
+    "faq": [
+      {
+        "q": "How do I import the dives from my Apple Watch Ultra?",
+        "a": "There is nothing to install on the watch. Underwater, Apple Watch Ultra records the depth (down to 40 meters, 130 feet) and the water temperature by itself in the Health app on your iPhone. In Dive Log, open the Log tab, tap \"+\" then \"Import from Apple Watch\", and finally \"Find my dives\". The first time, iOS asks for permission to read these two measurements. The app then finds each dive with its date, duration, depth and profile; you only have to add the site, your buddy or the tank pressure."
+      },
+      {
+        "q": "The import finds no dives. What should I do?",
+        "a": "First check that the dive was made with an Apple Watch Ultra and that the watch has had time to sync with the iPhone (keep them close for a few minutes, with the Health app open). Then check the permission: Settings › Health › Data Access & Devices, choose the app, and turn on \"Underwater Depth\" and \"Water Temperature\". Also try a longer period (\"All history\"). Immersions shorter than 2 minutes or shallower than 1.5 meters (5 feet) are left out."
+      },
+      {
+        "q": "Can I keep my log without an Apple Watch?",
+        "a": "Yes. Tap \"+\" then \"Enter a dive\" and write down whatever you want: date, duration, depth, site, buddy, temperatures, visibility, gas, tank pressures, weight, suit, dive type, rating and notes. Nothing is required. If you later import the same dive from the watch, the app completes your entry with the profile instead of creating a duplicate."
+      },
+      {
+        "q": "I had already dived before using this log. How do I keep my numbering?",
+        "a": "In Settings, enter the number of \"Dives before this log\". Numbering and totals take it into account: with 120 dives already made, the first one in the log is number 121. Dives are always numbered by date, even if you add an old one afterwards."
+      },
+      {
+        "q": "What does Pro include and how much does it cost?",
+        "a": "The log, manual entry, the dive profile and the import from Apple Watch are free and unlimited. Pro is a one-time purchase, with no subscription; its price is shown in the app before you buy. It adds statistics (records, dives by year and by season, depths, favorite sites and buddies, air consumption), exports (a printable PDF logbook with a box for the dive center's stamp, a CSV spreadsheet, the UDDF format used by dive software) and certifications (levels, specialties, medical certificate, with a photo of each card and a warning before it expires)."
+      },
+      {
+        "q": "How do I get my purchase back on a new device?",
+        "a": "Open Settings › \"Discover Pro\" and tap \"Restore my purchase\", with the App Store account you used to buy it. You do not pay a second time."
+      },
+      {
+        "q": "Can I change units?",
+        "a": "Yes: in Settings › Units, choose meters, °C and bar, or feet, °F and psi. Your dives are not changed: only the display changes, including in exports."
+      },
+      {
+        "q": "Where are my dives stored? How do I back them up?",
+        "a": "Only on your device, in the app's private storage. There is no account and no server, and the log is not synced between your devices. It is part of your iPhone's iCloud backup or computer backup, which you manage in Apple's settings. With Pro, you can also keep a copy by exporting the log (Settings › \"Export the log\"). Deleting the app erases the log from the device."
+      },
+      {
+        "q": "Can I use the app to plan a dive or to dive safely?",
+        "a": "No. Dive Log keeps a record of your dives afterwards. It is neither a dive computer nor a planning tool: never use it to decide on a depth, a duration or a decompression stop. Always dive with the proper equipment and within the limits of your training."
+      }
+    ],
+    "privacy_summary": "Dive Log collects no data, requires no account and contains no ads or trackers. The measurements read from Health stay on your device."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In short",
+        "blocks": [
+          {
+            "p": "Dive Log collects no data. Everything you do in the app stays on your iPhone or iPad."
+          },
+          {
+            "ul": [
+              "No account, no ads, no tracking: the app contains no analytics or advertising tools, and does not identify you in any way.",
+              "No server: the app only connects to the internet for the purchase of Pro, which is handled by Apple."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Health data",
+        "blocks": [
+          {
+            "p": "With your permission, the app reads two measurements recorded by your Apple Watch in the Health app: underwater depth and water temperature. It uses them only to find your dives and draw their profile."
+          },
+          {
+            "ul": [
+              "These measurements are processed on your device and are not sent anywhere.",
+              "They are not used for advertising or profiling, and are not shared with anyone.",
+              "The app writes nothing to Health and reads no other health data.",
+              "You can withdraw the permission at any time in Settings › Health › Data Access & Devices."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Your log",
+        "blocks": [
+          {
+            "p": "Your dives, notes and certifications are stored in the app's private storage, on your device. Deleting them (removing a dive, or deleting the app) erases them. They may be included in your device's iCloud or computer backups, which you manage yourself in Apple's settings."
+          }
+        ]
+      },
+      {
+        "h": "Card photos",
+        "blocks": [
+          {
+            "p": "If you add a photo of a certification card, the app only receives the photo you choose yourself; it has no access to the rest of your photo library. That photo is kept on your device, with the log."
+          }
+        ]
+      },
+      {
+        "h": "Exports",
+        "blocks": [
+          {
+            "p": "PDF, CSV and UDDF files are created on your device. You choose where to send or save them; the app does not share them with anyone."
+          }
+        ]
+      },
+      {
+        "h": "Purchases",
+        "blocks": [
+          {
+            "p": "The purchase of Pro is sold and handled by Apple. The app sees neither your payment method nor your identity; it only reads, through the App Store, whether the purchase was made, in order to unlock the features."
+          }
+        ]
+      },
+      {
+        "h": "Children",
+        "blocks": [
+          {
+            "p": "Dive Log collects no data, including from children."
+          }
+        ]
+      },
+      {
+        "h": "Changes",
+        "blocks": [
+          {
+            "p": "If this policy changes, the new version will be published on this page with its update date."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "For any question about this policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

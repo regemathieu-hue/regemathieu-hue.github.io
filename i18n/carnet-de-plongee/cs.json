@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "Váš potápěčský deník s hloubkou naměřenou hodinkami Apple Watch Ultra",
+    "contact": "Máte dotaz, nápad nebo problém s aplikací? Napište mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Jak naimportuji ponory ze svých Apple Watch Ultra?",
+        "a": "Na hodinky není třeba nic instalovat. Pod vodou Apple Watch Ultra samy zaznamenávají hloubku (až do 40 metrů, 130 stop) a teplotu vody do aplikace Zdraví na vašem iPhonu. V aplikaci Dive Log otevřete kartu Deník, klepněte na „+“, pak na „Importovat z Apple Watch“ a nakonec na „Najít mé ponory“. Poprvé vás iOS požádá o oprávnění číst tato dvě měření. Aplikace pak najde každý ponor s jeho datem, trváním, hloubkou a profilem; vám zbývá jen doplnit lokalitu, partnera nebo tlak v láhvi."
+      },
+      {
+        "q": "Import nenašel žádné ponory. Co mám dělat?",
+        "a": "Nejprve zkontrolujte, zda byl ponor proveden s Apple Watch Ultra a zda hodinky měly čas se synchronizovat s iPhonem (nechte je několik minut blízko sebe s otevřenou aplikací Zdraví). Poté zkontrolujte oprávnění: Nastavení › Zdraví › Přístup k datům a zařízení, vyberte aplikaci a zapněte „Hloubka pod vodou“ a „Teplota vody“. Zkuste také delší období („Celá historie“). Ponory kratší než 2 minuty nebo mělčí než 1,5 metru (5 stop) jsou vynechány."
+      },
+      {
+        "q": "Můžu si vést deník bez Apple Watch?",
+        "a": "Ano. Klepněte na „+“, pak na „Zadat ponor“ a zapište si, co chcete: datum, trvání, hloubku, lokalitu, partnera, teploty, viditelnost, plyn, tlaky v láhvi, zátěž, oblek, typ ponoru, hodnocení a poznámky. Nic není povinné. Pokud později tentýž ponor naimportujete z hodinek, aplikace váš záznam doplní o profil, místo aby vytvořila duplikát."
+      },
+      {
+        "q": "Potápěl jsem se už předtím, než jsem začal používat tento deník. Jak si zachovám číslování?",
+        "a": "V Nastavení zadejte počet do pole „Ponory před tímto deníkem“. Číslování a součty to berou v úvahu: se 120 již provedenými ponory má první ponor v deníku číslo 121. Ponory jsou vždy číslovány podle data, i když starší ponor přidáte dodatečně."
+      },
+      {
+        "q": "Co zahrnuje Pro a kolik stojí?",
+        "a": "Deník, ruční zadávání, profil ponoru a import z Apple Watch jsou zdarma a bez omezení. Pro je jednorázový nákup bez předplatného; jeho cena je uvedena v aplikaci před koupí. Přidává statistiky (rekordy, ponory podle roku a sezóny, hloubky, oblíbené lokality a partneři, spotřeba vzduchu), exporty (tisknutelný PDF deník s políčkem na razítko potápěčského centra, tabulka CSV a formát UDDF používaný potápěčským softwarem) a certifikáty (úrovně, specializace, lékařské potvrzení, s fotografií každé karty a upozorněním před vypršením platnosti)."
+      },
+      {
+        "q": "Jak si obnovím nákup na novém zařízení?",
+        "a": "Otevřete Nastavení › „Objevit Pro“ a klepněte na „Obnovit nákup“ s účtem App Store, který jste použili k nákupu. Podruhé neplatíte."
+      },
+      {
+        "q": "Můžu změnit jednotky?",
+        "a": "Ano: v Nastavení › Jednotky si vyberte metry, °C a bary, nebo stopy, °F a psi. Vaše ponory se nezmění: mění se pouze zobrazení, a to i v exportech."
+      },
+      {
+        "q": "Kde jsou uloženy mé ponory? Jak si je zálohovat?",
+        "a": "Pouze na vašem zařízení, v soukromém úložišti aplikace. Neexistuje žádný účet ani server a deník se mezi vašimi zařízeními nesynchronizuje. Je součástí zálohy vašeho iPhonu na iCloudu nebo v počítači, kterou spravujete v nastavení Apple. S Pro si také můžete uchovat kopii exportem deníku (Nastavení › „Exportovat deník“). Smazáním aplikace se deník ze zařízení vymaže."
+      },
+      {
+        "q": "Můžu aplikaci použít k plánování ponoru nebo k bezpečnému potápění?",
+        "a": "Ne. Dive Log uchovává záznamy o vašich ponorech až po jejich skončení. Není to potápěčský počítač ani plánovací nástroj: nikdy jej nepoužívejte k rozhodování o hloubce, době ponoru nebo dekompresní zastávce. Vždy se potápějte s odpovídající výstrojí a v mezích svého výcviku."
+      }
+    ],
+    "privacy_summary": "Dive Log nesbírá žádná data, nevyžaduje účet a neobsahuje reklamy ani sledovací nástroje. Měření přečtená z aplikace Zdraví zůstávají na vašem zařízení."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ve zkratce",
+        "blocks": [
+          {
+            "p": "Dive Log nesbírá žádná data. Všechno, co v aplikaci děláte, zůstává na vašem iPhonu nebo iPadu."
+          },
+          {
+            "ul": [
+              "Žádný účet, žádné reklamy, žádné sledování: aplikace neobsahuje žádné analytické ani reklamní nástroje a nijak vás neidentifikuje.",
+              "Žádný server: aplikace se připojuje k internetu pouze kvůli nákupu Pro, který zajišťuje Apple."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Data ze Zdraví",
+        "blocks": [
+          {
+            "p": "S vaším povolením čte aplikace v aplikaci Zdraví dvě měření zaznamenaná vašimi Apple Watch: hloubku pod vodou a teplotu vody. Používá je pouze k nalezení vašich ponorů a k vykreslení jejich profilu."
+          },
+          {
+            "ul": [
+              "Tato měření se zpracovávají na vašem zařízení a nikam se neodesílají.",
+              "Neslouží k reklamě ani profilování a nejsou s nikým sdílena.",
+              "Aplikace do Zdraví nic nezapisuje a žádná jiná zdravotní data nečte.",
+              "Povolení můžete kdykoli odvolat v Nastavení › Zdraví › Přístup k datům a zařízení."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Váš deník",
+        "blocks": [
+          {
+            "p": "Vaše ponory, poznámky a certifikáty jsou uloženy v soukromém úložišti aplikace na vašem zařízení. Jejich odstraněním (smazáním ponoru nebo smazáním aplikace) se vymažou. Mohou být součástí záloh vašeho zařízení na iCloudu nebo v počítači, které spravujete sami v nastavení Apple."
+          }
+        ]
+      },
+      {
+        "h": "Fotografie karet",
+        "blocks": [
+          {
+            "p": "Pokud přidáte fotografii certifikační karty, aplikace obdrží pouze tu fotografii, kterou sami vyberete; ke zbytku vaší knihovny fotografií přístup nemá. Tato fotografie je uložena na vašem zařízení spolu s deníkem."
+          }
+        ]
+      },
+      {
+        "h": "Exporty",
+        "blocks": [
+          {
+            "p": "Soubory PDF, CSV a UDDF jsou vytvářeny na vašem zařízení. Vy si zvolíte, kam je pošlete nebo uložíte; aplikace je nikomu neposílá."
+          }
+        ]
+      },
+      {
+        "h": "Nákupy",
+        "blocks": [
+          {
+            "p": "Nákup Pro prodává a zajišťuje Apple. Aplikace nevidí váš způsob platby ani vaši totožnost; prostřednictvím App Store pouze zjišťuje, zda byl nákup proveden, aby mohla odemknout funkce."
+          }
+        ]
+      },
+      {
+        "h": "Děti",
+        "blocks": [
+          {
+            "p": "Dive Log nesbírá žádná data, a to ani od dětí."
+          }
+        ]
+      },
+      {
+        "h": "Změny",
+        "blocks": [
+          {
+            "p": "V případě změny těchto zásad bude nová verze zveřejněna na této stránce s uvedením data aktualizace."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "S jakýmkoli dotazem k těmto zásadám: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

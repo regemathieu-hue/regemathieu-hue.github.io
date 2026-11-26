@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "A sua caderneta de mergulho, com a profundidade medida pelo Apple Watch Ultra",
+    "contact": "Tem uma questão, uma ideia ou um problema com a aplicação? Escreva-me:<br>{email}",
+    "faq": [
+      {
+        "q": "Como importo os mergulhos do meu Apple Watch Ultra?",
+        "a": "Não é necessário instalar nada no relógio. Debaixo de água, o Apple Watch Ultra regista automaticamente a profundidade (até 40 metros, 130 pés) e a temperatura da água na aplicação Saúde do seu iPhone. No Dive Log, abra o separador Caderneta, toque em \"+\" e depois em \"Importar do Apple Watch\", por fim em \"Localizar os meus mergulhos\". Na primeira vez, o iOS pede permissão para ler estas duas medições. A aplicação encontra então cada mergulho com a data, duração, profundidade e perfil; só tem de adicionar o local, o companheiro ou a pressão da garrafa."
+      },
+      {
+        "q": "A importação não encontrou nenhum mergulho. O que devo fazer?",
+        "a": "Verifique primeiro se o mergulho foi feito com um Apple Watch Ultra e se o relógio teve tempo para sincronizar com o iPhone (mantenha-os próximos durante alguns minutos, com a aplicação Saúde aberta). Depois verifique a permissão: Definições › Saúde › Acesso a dados e dispositivos, selecione a aplicação e ative \"Profundidade subaquática\" e \"Temperatura da água\". Tente também um período mais longo (\"Todo o histórico\"). As imersões com menos de 2 minutos ou com uma profundidade inferior a 1,5 metros (5 pés) são ignoradas."
+      },
+      {
+        "q": "Posso manter a minha caderneta sem um Apple Watch?",
+        "a": "Sim. Toque em \"+\" e depois em \"Introduzir um mergulho\" e escreva tudo o que quiser: data, duração, profundidade, local, companheiro, temperaturas, visibilidade, gás, pressão da garrafa, lastro, fato, tipo de mergulho, classificação e notas. Nada é obrigatório. Se mais tarde importar o mesmo mergulho do relógio, a aplicação completa a sua entrada com o perfil em vez de criar um duplicado."
+      },
+      {
+        "q": "Já tinha feito mergulhos antes de usar esta caderneta. Como mantenho a minha numeração?",
+        "a": "Em Definições, introduza o número de \"Mergulhos antes desta caderneta\". A numeração e os totais têm isso em conta: com 120 mergulhos já feitos, o primeiro na caderneta é o número 121. Os mergulhos são sempre numerados pela data, mesmo que adicione um antigo posteriormente."
+      },
+      {
+        "q": "O que inclui o Pro e quanto custa?",
+        "a": "A caderneta, a entrada manual, o perfil do mergulho e a importação do Apple Watch são gratuitos e ilimitados. O Pro é uma compra única, sem subscrição; o seu preço é mostrado na aplicação antes de comprar. Acrescenta estatísticas (recordes, mergulhos por ano e por estação, profundidades, locais e companheiros favoritos, consumo de ar), exportações (uma caderneta de mergulho em PDF imprimível com um campo para o carimbo do centro de mergulho, uma folha de cálculo CSV e o formato UDDF usado por software de mergulho) e certificações (níveis, especialidades, certificado médico, com uma foto de cada cartão e um aviso antes da expiração)."
+      },
+      {
+        "q": "Como recupero a minha compra num novo dispositivo?",
+        "a": "Abra Definições › \"Descobrir o Pro\" e toque em \"Restaurar a minha compra\", com a conta da App Store que usou para comprar. Não paga uma segunda vez."
+      },
+      {
+        "q": "Posso alterar as unidades?",
+        "a": "Sim: em Definições › Unidades, escolha metros, °C e bar, ou pés, °F e psi. Os seus mergulhos não são alterados: apenas a exibição muda, incluindo nas exportações."
+      },
+      {
+        "q": "Onde estão armazenados os meus mergulhos? Como faço cópias de segurança?",
+        "a": "Apenas no seu dispositivo, no armazenamento privado da aplicação. Não existe conta nem servidor, e a caderneta não é sincronizada entre os seus dispositivos. Está incluída na cópia de segurança do iCloud do iPhone ou na cópia de segurança no computador, que gere nas definições da Apple. Com o Pro, também pode manter uma cópia ao exportar a caderneta (Definições › \"Exportar a caderneta\"). Apagar a aplicação elimina a caderneta do dispositivo."
+      },
+      {
+        "q": "Posso usar a aplicação para planear um mergulho ou para mergulhar em segurança?",
+        "a": "Não. O Dive Log mantém um registo dos seus mergulhos após os ter realizado. Não é nem um computador de mergulho nem uma ferramenta de planeamento: nunca o utilize para decidir sobre a profundidade, a duração ou uma paragem de descompressão. Mergulhe sempre com o equipamento adequado e dentro dos limites da sua formação."
+      }
+    ],
+    "privacy_summary": "O Dive Log não recolhe dados, não exige conta e não contém anúncios nem rastreadores. As medições lidas na Saúde permanecem no seu dispositivo."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Em resumo",
+        "blocks": [
+          {
+            "p": "O Dive Log não recolhe dados. Tudo o que faz na aplicação fica no seu iPhone ou iPad."
+          },
+          {
+            "ul": [
+              "Sem conta, sem anúncios, sem rastreamento: a aplicação não contém ferramentas de análise nem publicidade, e não o identifica de forma alguma.",
+              "Sem servidor: a aplicação só se liga à internet para a compra do Pro, que é gerida pela Apple."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Dados de Saúde",
+        "blocks": [
+          {
+            "p": "Com a sua permissão, a aplicação lê duas medições registadas pelo seu Apple Watch na aplicação Saúde: profundidade subaquática e temperatura da água. Utiliza-as apenas para localizar os seus mergulhos e desenhar o respetivo perfil."
+          },
+          {
+            "ul": [
+              "Estas medições são processadas no seu dispositivo e não são enviadas para nenhum lado.",
+              "Não são utilizadas para publicidade nem para definição de perfis, nem partilhadas com ninguém.",
+              "A aplicação não escreve nada na Saúde e não lê quaisquer outros dados de saúde.",
+              "Pode retirar a permissão a qualquer momento em Definições › Saúde › Acesso a dados e dispositivos."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "A sua caderneta",
+        "blocks": [
+          {
+            "p": "Os seus mergulhos, notas e certificações são guardados no armazenamento privado da aplicação, no seu dispositivo. Eliminá-los (apagar um mergulho ou eliminar a aplicação) apaga-os. Podem estar incluídos nas cópias de segurança do seu dispositivo no iCloud ou no computador, que são geridas por si nas definições da Apple."
+          }
+        ]
+      },
+      {
+        "h": "Fotos de cartões",
+        "blocks": [
+          {
+            "p": "Se adicionar uma foto de um cartão de certificação, a aplicação apenas recebe a foto que escolher; não tem acesso ao resto da sua biblioteca de fotos. Essa foto é mantida no seu dispositivo, juntamente com a caderneta."
+          }
+        ]
+      },
+      {
+        "h": "Exportações",
+        "blocks": [
+          {
+            "p": "Os ficheiros PDF, CSV e UDDF são criados no seu dispositivo. Escolhe onde os enviar ou guardar; a aplicação não os partilha com ninguém."
+          }
+        ]
+      },
+      {
+        "h": "Compras",
+        "blocks": [
+          {
+            "p": "A compra do Pro é vendida e gerida pela Apple. A aplicação não vê o seu método de pagamento nem a sua identidade; apenas lê, através da App Store, se a compra foi efetuada, para desbloquear as funcionalidades."
+          }
+        ]
+      },
+      {
+        "h": "Crianças",
+        "blocks": [
+          {
+            "p": "O Dive Log não recolhe quaisquer dados, incluindo de crianças."
+          }
+        ]
+      },
+      {
+        "h": "Alterações",
+        "blocks": [
+          {
+            "p": "Se esta política for alterada, a nova versão será publicada nesta página com a sua data de atualização."
+          }
+        ]
+      },
+      {
+        "h": "Contacto",
+        "blocks": [
+          {
+            "p": "Para qualquer questão sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

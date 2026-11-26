@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "El teu quadern d'immersions, amb la profunditat mesurada per l'Apple Watch Ultra",
+    "contact": "Una pregunta, una idea o un problema amb l'aplicació? Escriu-me:<br>{email}",
+    "faq": [
+      {
+        "q": "Com puc importar les immersions del meu Apple Watch Ultra?",
+        "a": "No cal instal·lar res al rellotge. Sota l'aigua, l'Apple Watch Ultra registra tot sol la profunditat (fins a 40 metres, 130 peus) i la temperatura de l'aigua a l'aplicació Salut del teu iPhone. A Dive Log, obre la pestanya Quadern, toca \"+\" i després \"Importa des de l'Apple Watch\", i finalment \"Troba les meves immersions\". La primera vegada, iOS et demana permís per llegir aquestes dues mesures. L'aplicació troba llavors cada immersió amb la data, la durada, la profunditat i el perfil; només has d'afegir-hi el lloc, el company d'immersió o la pressió de l'ampolla."
+      },
+      {
+        "q": "La importació no troba cap immersió. Què he de fer?",
+        "a": "Comprova primer que la immersió s'ha fet amb un Apple Watch Ultra i que el rellotge ha tingut temps de sincronitzar-se amb l'iPhone (mantén-los a prop l'un de l'altre uns minuts, amb l'aplicació Salut oberta). Després comprova el permís: Configuració › Salut › Accés a dades i dispositius, tria l'aplicació i activa \"Profunditat sota l'aigua\" i \"Temperatura de l'aigua\". Prova també amb un període més llarg (\"Tot l'historial\"). No es tenen en compte les immersions de menys de 2 minuts o de menys d'1,5 metres (5 peus) de profunditat."
+      },
+      {
+        "q": "Puc portar el meu quadern sense un Apple Watch?",
+        "a": "Sí. Toca \"+\" i després \"Introdueix una immersió\" i anota el que vulguis: data, durada, profunditat, lloc, company d'immersió, temperatures, visibilitat, gas, pressions de l'ampolla, llast, vestit, tipus d'immersió, valoració i notes. Res no és obligatori. Si més endavant importes la mateixa immersió des del rellotge, l'aplicació completa la teva entrada amb el perfil en comptes de crear un duplicat."
+      },
+      {
+        "q": "Ja havia fet immersions abans d'utilitzar aquest quadern. Com puc mantenir la meva numeració?",
+        "a": "A Configuració, indica el nombre d'\"Immersions abans d'aquest quadern\". La numeració i els totals ho tenen en compte: amb 120 immersions ja fetes, la primera del quadern porta el número 121. Les immersions sempre es numeren per data, encara que n'afegeixis una d'antiga més tard."
+      },
+      {
+        "q": "Què inclou el Pro i quant costa?",
+        "a": "El quadern d'immersions, l'entrada manual, el perfil de la immersió i la importació des de l'Apple Watch són gratuïts i il·limitats. El Pro és una compra única, sense subscripció; el preu es mostra a l'aplicació abans de comprar-lo. Afegeix les estadístiques (rècords, immersions per any i per temporada, profunditats, llocs i companys preferits, consum d'aire), les exportacions (un quadern d'immersions imprimible en PDF amb una casella per al segell del centre d'immersió, un full de càlcul CSV i el format UDDF del programari d'immersió) i les certificacions (nivells, especialitats, certificat mèdic, amb una foto de cada targeta i un avís abans que caduqui)."
+      },
+      {
+        "q": "Com puc recuperar la meva compra en un dispositiu nou?",
+        "a": "Obre Configuració › \"Descobreix el Pro\" i toca \"Restaura la meva compra\", amb el compte de l'App Store que vas fer servir per comprar-lo. No has de pagar una altra vegada."
+      },
+      {
+        "q": "Puc canviar les unitats?",
+        "a": "Sí: a Configuració › Unitats, tria metres, °C i bar, o peus, °F i psi. Les teves immersions no es modifiquen: només canvia la visualització, també a les exportacions."
+      },
+      {
+        "q": "On es desen les meves immersions? Com en puc fer una còpia de seguretat?",
+        "a": "Només al teu dispositiu, a l'emmagatzematge privat de l'aplicació. No hi ha cap compte ni cap servidor, i el quadern d'immersions no se sincronitza entre els teus dispositius. Forma part de la còpia de seguretat del teu iPhone a iCloud o a l'ordinador, que gestiones a la configuració d'Apple. Amb el Pro, també pots guardar-ne una còpia exportant el quadern (Configuració › \"Exporta el quadern d'immersions\"). Si elimines l'aplicació, el quadern s'esborra del dispositiu."
+      },
+      {
+        "q": "Puc utilitzar l'aplicació per planificar una immersió o per bussejar amb seguretat?",
+        "a": "No. Dive Log conserva un registre de les teves immersions després de fer-les. No és ni un ordinador d'immersió ni una eina de planificació: no el facis servir mai per decidir una profunditat, una durada o una parada de descompressió. Busseja sempre amb l'equipament adequat i dins dels límits de la teva formació."
+      }
+    ],
+    "privacy_summary": "Dive Log no recull cap dada, no demana cap compte i no conté publicitat ni rastrejadors. Les mesures llegides a Salut es queden al teu dispositiu."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resum",
+        "blocks": [
+          {
+            "p": "Dive Log no recull cap dada. Tot el que fas a l'aplicació es queda al teu iPhone o iPad."
+          },
+          {
+            "ul": [
+              "Sense compte, sense publicitat, sense seguiment: l'aplicació no conté cap eina d'anàlisi ni de publicitat, i no t'identifica de cap manera.",
+              "Sense servidor: l'aplicació només es connecta a internet per a la compra del Pro, que gestiona Apple."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Dades de Salut",
+        "blocks": [
+          {
+            "p": "Amb el teu permís, l'aplicació llegeix dues mesures registrades pel teu Apple Watch a l'aplicació Salut: la profunditat sota l'aigua i la temperatura de l'aigua. Les fa servir només per trobar les teves immersions i dibuixar-ne el perfil."
+          },
+          {
+            "ul": [
+              "Aquestes mesures es processen al teu dispositiu i no s'envien enlloc.",
+              "No es fan servir per a publicitat ni per elaborar perfils, i no es comparteixen amb ningú.",
+              "L'aplicació no escriu res a Salut i no llegeix cap altra dada de salut.",
+              "Pots retirar el permís en qualsevol moment a Configuració › Salut › Accés a dades i dispositius."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "El teu quadern d'immersions",
+        "blocks": [
+          {
+            "p": "Les teves immersions, notes i certificacions es desen a l'emmagatzematge privat de l'aplicació, al teu dispositiu. Si les suprimeixes (eliminant una immersió o desinstal·lant l'aplicació), s'esborren. Poden formar part de les còpies de seguretat del teu dispositiu a iCloud o a l'ordinador, que gestiones tu mateix a la configuració d'Apple."
+          }
+        ]
+      },
+      {
+        "h": "Fotos de les targetes",
+        "blocks": [
+          {
+            "p": "Si afegeixes una foto d'una targeta de certificació, l'aplicació només rep la foto que tries tu; no té accés a la resta de la teva biblioteca de fotos. Aquesta foto es conserva al teu dispositiu, juntament amb el quadern d'immersions."
+          }
+        ]
+      },
+      {
+        "h": "Exportacions",
+        "blocks": [
+          {
+            "p": "Els fitxers PDF, CSV i UDDF es creen al teu dispositiu. Tu tries on enviar-los o desar-los; l'aplicació no els comparteix amb ningú."
+          }
+        ]
+      },
+      {
+        "h": "Compres",
+        "blocks": [
+          {
+            "p": "La compra del Pro la ven i la gestiona Apple. L'aplicació no veu ni el teu mètode de pagament ni la teva identitat; només llegeix, mitjançant l'App Store, si la compra s'ha fet, per desbloquejar les funcions."
+          }
+        ]
+      },
+      {
+        "h": "Nens",
+        "blocks": [
+          {
+            "p": "Dive Log no recull cap dada, tampoc dels infants."
+          }
+        ]
+      },
+      {
+        "h": "Canvis",
+        "blocks": [
+          {
+            "p": "Si aquesta política canvia, la nova versió es publicarà en aquesta pàgina amb la seva data d'actualització."
+          }
+        ]
+      },
+      {
+        "h": "Contacte",
+        "blocks": [
+          {
+            "p": "Per a qualsevol pregunta sobre aquesta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

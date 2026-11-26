@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "Nhật ký lặn của bạn, với độ sâu được đo bởi Apple Watch Ultra",
+    "contact": "Có câu hỏi, ý tưởng hay vấn đề với ứng dụng? Hãy gửi tin nhắn cho tôi:<br>{email}",
+    "faq": [
+      {
+        "q": "Làm thế nào để nhập các lần lặn từ Apple Watch Ultra của tôi?",
+        "a": "Không cần cài đặt gì thêm trên đồng hồ. Dưới nước, Apple Watch Ultra tự động ghi lại độ sâu (xuống tới 40 mét, 130 feet) và nhiệt độ nước vào ứng dụng Sức khỏe trên iPhone của bạn. Trong Nhật ký lặn, hãy mở tab Nhật ký, chạm vào dấu \"+\" rồi chọn \"Nhập từ Apple Watch\", sau đó chạm vào \"Tìm các lần lặn của tôi\". Lần đầu tiên, iOS sẽ yêu cầu quyền đọc hai thông số này. Ứng dụng sau đó sẽ tìm ra từng lần lặn kèm ngày, thời gian, độ sâu và biểu đồ lặn; bạn chỉ cần bổ sung thêm điểm lặn, bạn lặn hoặc áp suất bình khí."
+      },
+      {
+        "q": "Nhập dữ liệu không tìm thấy bất kỳ lần lặn nào. Tôi nên làm gì?",
+        "a": "Trước tiên hãy kiểm tra xem lần lặn được thực hiện bằng Apple Watch Ultra và đồng hồ đã có thời gian đồng bộ với iPhone (giữ hai thiết bị gần nhau vài phút, mở ứng dụng Sức khỏe). Sau đó kiểm tra quyền truy cập: Cài đặt › Sức khỏe › Truy cập dữ liệu & Thiết bị, chọn ứng dụng, rồi bật \"Độ sâu dưới nước\" và \"Nhiệt độ nước\". Bạn cũng có thể thử chọn khoảng thời gian dài hơn (\"Tất cả lịch sử lặn\"). Các lần lặn ngắn dưới 2 phút hoặc nông hơn 1,5 mét (5 feet) sẽ bị bỏ qua."
+      },
+      {
+        "q": "Tôi có thể ghi nhật ký mà không cần Apple Watch không?",
+        "a": "Có. Chạm vào dấu \"+\" rồi chọn \"Nhập một lần lặn\" và ghi lại bất kỳ thông tin nào bạn muốn: ngày, thời gian, độ sâu, điểm lặn, bạn lặn, nhiệt độ, tầm nhìn, khí, áp suất bình, chì, bộ đồ lặn, loại lặn, đánh giá và ghi chú. Không có trường nào bắt buộc phải điền. Nếu sau này bạn nhập lại lần lặn đó từ đồng hồ, ứng dụng sẽ bổ sung biểu đồ lặn vào bản ghi của bạn thay vì tạo bản sao mới."
+      },
+      {
+        "q": "Tôi đã từng lặn trước khi dùng nhật ký này. Làm thế nào để giữ đúng số thứ tự?",
+        "a": "Trong Cài đặt, hãy điền mục \"Số lần lặn trước khi bắt đầu ghi nhật ký\". Số thứ tự và tổng số sẽ tính đến giá trị này: với 120 lần lặn đã thực hiện, lần lặn đầu tiên trong nhật ký sẽ là số 121. Các lần lặn luôn được đánh số theo ngày, ngay cả khi bạn thêm một lần lặn cũ sau này."
+      },
+      {
+        "q": "Pro bao gồm những gì và giá bao nhiêu?",
+        "a": "Nhật ký lặn, nhập thủ công, biểu đồ lặn và nhập dữ liệu từ Apple Watch là miễn phí và không giới hạn. Pro là giao dịch mua một lần, không có gói đăng ký; giá sẽ được hiển thị trong ứng dụng trước khi bạn mua. Pro bổ sung các thống kê (kỷ lục, số lần lặn theo năm và theo mùa, độ sâu, điểm lặn và bạn lặn yêu thích, tiêu thụ khí), xuất dữ liệu (nhật ký lặn dạng PDF in được có ô để đóng dấu của trung tâm lặn, bảng tính CSV, định dạng UDDF dùng bởi phần mềm lặn) và chứng chỉ (cấp độ, chuyên môn, giấy khám sức khỏe, kèm ảnh từng thẻ chứng chỉ và cảnh báo trước khi hết hạn)."
+      },
+      {
+        "q": "Làm thế nào để khôi phục mua hàng trên thiết bị mới?",
+        "a": "Mở Cài đặt › \"Khám phá Pro\" rồi chạm vào \"Khôi phục mua hàng của tôi\", bằng tài khoản App Store bạn đã dùng để mua. Bạn sẽ không phải trả thêm lần thứ hai."
+      },
+      {
+        "q": "Tôi có thể thay đổi đơn vị đo được không?",
+        "a": "Có: trong Cài đặt › Đơn vị, hãy chọn mét, °C và bar, hoặc feet, °F và psi. Các lần lặn của bạn sẽ không thay đổi: chỉ có hiển thị thay đổi, bao gồm cả trong các tệp xuất ra."
+      },
+      {
+        "q": "Các lần lặn của tôi được lưu ở đâu? Làm thế nào để sao lưu chúng?",
+        "a": "Chỉ trên thiết bị của bạn, trong bộ nhớ riêng tư của ứng dụng. Không có tài khoản hay máy chủ nào, và nhật ký không được đồng bộ giữa các thiết bị của bạn. Nó là một phần của bản sao lưu iCloud hoặc bản sao lưu từ máy tính của iPhone, mà bạn quản lý trong cài đặt của Apple. Với Pro, bạn cũng có thể giữ một bản sao bằng cách xuất nhật ký (Cài đặt › \"Xuất nhật ký lặn\"). Xóa ứng dụng sẽ xóa toàn bộ nhật ký khỏi thiết bị."
+      },
+      {
+        "q": "Tôi có thể dùng ứng dụng này để lên kế hoạch cho một lần lặn hay lặn an toàn được không?",
+        "a": "Không. Nhật ký lặn ghi lại các lần lặn của bạn sau khi đã hoàn thành. Ứng dụng không phải là máy tính lặn hay công cụ lập kế hoạch: đừng bao giờ dùng nó để quyết định độ sâu, thời gian hoặc điểm dừng giảm áp. Luôn lặn với thiết bị phù hợp và trong giới hạn đào tạo của bạn."
+      }
+    ],
+    "privacy_summary": "Nhật ký lặn không thu thập dữ liệu nào, không yêu cầu tài khoản và không có quảng cáo hay công cụ theo dõi. Các số liệu đọc từ Sức khỏe vẫn nằm trên thiết bị của bạn."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Tóm lại",
+        "blocks": [
+          {
+            "p": "Nhật ký lặn không thu thập dữ liệu. Mọi thứ bạn làm trong ứng dụng đều ở trên iPhone hoặc iPad của mình."
+          },
+          {
+            "ul": [
+              "Không tài khoản, không quảng cáo, không theo dõi: ứng dụng không chứa công cụ phân tích hay quảng cáo nào, và không xác định danh tính của bạn dưới bất kỳ hình thức nào.",
+              "Không có máy chủ: ứng dụng chỉ kết nối internet để mua Pro, được xử lý bởi Apple."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Dữ liệu Sức khỏe",
+        "blocks": [
+          {
+            "p": "Với sự cho phép của bạn, ứng dụng đọc hai thông số được ghi lại bởi đồng hồ Apple Watch trong ứng dụng Sức khỏe: độ sâu dưới nước và nhiệt độ nước. Ứng dụng chỉ dùng chúng để tìm các lần lặn của bạn và vẽ biểu đồ lặn."
+          },
+          {
+            "ul": [
+              "Các thông số này được xử lý trên thiết bị của bạn và không được gửi đi đâu cả.",
+              "Chúng không được dùng cho quảng cáo hay lập hồ sơ người dùng, và không được chia sẻ với bất kỳ ai.",
+              "Ứng dụng không ghi dữ liệu vào Sức khỏe và không đọc bất kỳ dữ liệu sức khỏe nào khác.",
+              "Bạn có thể rút lại quyền truy cập bất kỳ lúc nào tại Cài đặt › Sức khỏe › Truy cập dữ liệu & Thiết bị."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Nhật ký của bạn",
+        "blocks": [
+          {
+            "p": "Các lần lặn, ghi chú và chứng chỉ của bạn được lưu trong bộ nhớ riêng tư của ứng dụng, trên thiết bị của bạn. Việc xóa chúng (xóa một lần lặn hoặc gỡ bỏ ứng dụng) sẽ xóa hẳn chúng. Chúng có thể nằm trong bản sao lưu iCloud hoặc bản sao lưu trên máy tính của thiết bị, do bạn tự quản lý trong cài đặt của Apple."
+          }
+        ]
+      },
+      {
+        "h": "Ảnh thẻ chứng chỉ",
+        "blocks": [
+          {
+            "p": "Nếu bạn thêm ảnh của một thẻ chứng chỉ, ứng dụng chỉ nhận ảnh do chính bạn chọn; ứng dụng không có quyền truy cập phần còn lại của thư viện ảnh. Ảnh này được lưu trên thiết bị của bạn, cùng với nhật ký lặn."
+          }
+        ]
+      },
+      {
+        "h": "Xuất dữ liệu",
+        "blocks": [
+          {
+            "p": "Các tệp PDF, CSV và UDDF được tạo ra trên thiết bị của bạn. Bạn chọn nơi gửi hoặc lưu chúng; ứng dụng không chia sẻ chúng với bất kỳ ai."
+          }
+        ]
+      },
+      {
+        "h": "Mua hàng",
+        "blocks": [
+          {
+            "p": "Gói Pro do Apple bán và xử lý giao dịch. Ứng dụng không thấy phương thức thanh toán hay thông tin nhận dạng của bạn; nó chỉ đọc, qua App Store, xem liệu giao dịch có được thực hiện hay không, để mở khóa tính năng."
+          }
+        ]
+      },
+      {
+        "h": "Trẻ em",
+        "blocks": [
+          {
+            "p": "Nhật ký lặn không thu thập bất kỳ dữ liệu nào, kể cả từ trẻ em."
+          }
+        ]
+      },
+      {
+        "h": "Thay đổi",
+        "blocks": [
+          {
+            "p": "Nếu chính sách này thay đổi, phiên bản mới sẽ được đăng trên trang này cùng với ngày cập nhật."
+          }
+        ]
+      },
+      {
+        "h": "Liên hệ",
+        "blocks": [
+          {
+            "p": "Nếu có bất kỳ câu hỏi nào về chính sách này: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

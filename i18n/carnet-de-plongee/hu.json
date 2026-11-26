@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "A merülési naplód, az Apple Watch Ultra által mért mélységgel",
+    "contact": "Kérdés, ötlet vagy probléma az alkalmazással? Írj nekem:<br>{email}",
+    "faq": [
+      {
+        "q": "Hogyan importálhatom a merüléseket az Apple Watch Ultrámról?",
+        "a": "Az órára semmit sem kell telepíteni. Víz alatt az Apple Watch Ultra magától rögzíti a mélységet (40 méterig, azaz 130 lábig) és a vízhőmérsékletet az iPhone Egészség alkalmazásában. A Dive Log alkalmazásban nyisd meg a Napló lapot, koppints a „+” gombra, majd az „Importálás Apple Watch-ról” lehetőségre, végül a „Merülések keresése” gombra. Első alkalommal az iOS engedélyt kér e két mérés olvasásához. Az alkalmazás ezután megtalálja az összes merülést a dátumával, időtartamával, mélységével és profiljával; neked már csak a merülőhelyet, a merülőtársat vagy a palacknyomást kell megadnod."
+      },
+      {
+        "q": "Az importálás nem talált merüléseket. Mit tegyek?",
+        "a": "Először ellenőrizd, hogy a merülés Apple Watch Ultrával történt-e, és hogy az órának volt-e ideje szinkronizálni az iPhone-nal (tartsd őket néhány percig egymás közelében, megnyitott Egészség alkalmazással). Ezután ellenőrizd az engedélyt: Beállítások › Egészség › Adathozzáférés és eszközök, válaszd ki az alkalmazást, és kapcsold be a „Víz alatti mélység” és a „Vízhőmérséklet” lehetőséget. Próbálj ki egy hosszabb időszakot is („Összes előzmény”). A 2 percnél rövidebb vagy 1,5 méternél (5 láb) sekélyebb merülések kimaradnak."
+      },
+      {
+        "q": "Vezethetem a naplómat Apple Watch nélkül?",
+        "a": "Igen. Koppints a „+” gombra, majd a „Merülés beírása” lehetőségre, és jegyezd fel, amit szeretnél: dátum, időtartam, mélység, merülőhely, merülőtárs, hőmérsékletek, látótávolság, gáz, palacknyomások, ólom, ruha, merüléstípus, értékelés és megjegyzések. Semmi sem kötelező. Ha később ugyanazt a merülést importálod az óráról, az alkalmazás kiegészíti a bejegyzésedet a profillal, ahelyett hogy duplikátumot hozna létre."
+      },
+      {
+        "q": "Már merültem, mielőtt ezt a naplót használni kezdtem. Hogyan tarthatom meg a számozásomat?",
+        "a": "A Beállításokban add meg a „Merülések ezen napló előtt” számát. A számozás és az összesítés figyelembe veszi: ha már 120 merülésed volt, a napló első merülése a 121. sorszámot kapja. A merülések számozása mindig dátum szerint történik, akkor is, ha utólag adsz hozzá egy régebbit."
+      },
+      {
+        "q": "Mit tartalmaz a Pro és mennyibe kerül?",
+        "a": "A napló, a kézi bevitel, a merülési profil és az Apple Watch-ról történő importálás ingyenes és korlátlan. A Pro egyszeri vásárlás, előfizetés nélkül; az ára a vásárlás előtt látható az alkalmazásban. Hozzáadja a statisztikákat (rekordok, merülések évenként és évszakonként, mélységek, kedvenc merülőhelyek és merülőtársak, levegőfogyasztás), az exportálást (nyomtatható PDF-napló hellyel a búvárközpont pecsétjének, CSV-táblázat, a búvárszoftverek által használt UDDF formátum) és a minősítéseket (szintek, specializációk, orvosi igazolás, az egyes kártyák fotójával és lejárat előtti figyelmeztetéssel)."
+      },
+      {
+        "q": "Hogyan kapom vissza a vásárlásomat egy új eszközön?",
+        "a": "Nyisd meg a Beállítások › „Ismerkedj meg a Pro-val” lehetőséget, és koppints a „Vásárlás visszaállítása” gombra, azzal az App Store-fiókkal, amellyel a vásárlást végezted. Másodszor nem kell fizetned."
+      },
+      {
+        "q": "Megváltoztathatom a mértékegységeket?",
+        "a": "Igen: a Beállítások › Egységek menüben választhatsz a méter, °C és bar, illetve a láb, °F és psi között. A merüléseid nem változnak meg: csak a megjelenítés módosul, az exportokban is."
+      },
+      {
+        "q": "Hol tárolódnak a merüléseim? Hogyan készíthetek róluk biztonsági mentést?",
+        "a": "Csak az eszközödön, az alkalmazás privát tárhelyén. Nincs fiók és nincs szerver, és a napló nem szinkronizálódik az eszközeid között. Része az iPhone-od iCloud- vagy számítógépes biztonsági mentésének, amelyet az Apple beállításaiban kezelsz. A Pro segítségével másolatot is megőrizhetsz a napló exportálásával (Beállítások › „Merülési napló exportálása”). Az alkalmazás törlése a naplót is törli az eszközről."
+      },
+      {
+        "q": "Használhatom az alkalmazást merülés tervezésére vagy biztonságos merüléshez?",
+        "a": "Nem. A Dive Log utólag őrzi meg a merüléseid nyomát. Nem búvárkomputer és nem is tervezőeszköz: soha ne használd mélység, időtartam vagy dekompressziós megálló eldöntésére. Mindig megfelelő felszereléssel és a képzettséged határain belül merülj."
+      }
+    ],
+    "privacy_summary": "A Dive Log nem gyűjt adatokat, nem kér fiókot, és nem tartalmaz hirdetéseket vagy nyomkövetőket. Az Egészségből beolvasott mérések az eszközödön maradnak."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Röviden",
+        "blocks": [
+          {
+            "p": "A Dive Log semmilyen adatot nem gyűjt. Minden, amit az alkalmazásban csinálsz, az iPhone-odon vagy az iPadeden marad."
+          },
+          {
+            "ul": [
+              "Nincs fiók, nincs hirdetés, nincs nyomkövetés: az alkalmazás nem tartalmaz elemző- vagy hirdetési eszközöket, és semmilyen módon nem azonosít téged.",
+              "Nincs szerver: az alkalmazás csak a Pro megvásárlásához kapcsolódik az internetre, amelyet az Apple kezel."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Az Egészség adatai",
+        "blocks": [
+          {
+            "p": "Az engedélyeddel az alkalmazás két, az Apple Watch-od által rögzített mérést olvas be az Egészség alkalmazásból: a víz alatti mélységet és a víz hőmérsékletét. Ezeket csak a merüléseid megtalálásához és a profiljuk megrajzolásához használja."
+          },
+          {
+            "ul": [
+              "Ezeket a méréseket az alkalmazás az eszközödön dolgozza fel, és sehová sem küldi el.",
+              "Nem szolgálnak sem hirdetési, sem profilalkotási célt, és senkihez sem kerülnek tovább.",
+              "Az alkalmazás semmit sem ír az Egészségbe, és más egészségügyi adatot nem olvas be.",
+              "Az engedélyt bármikor visszavonhatod a Beállítások › Egészség › Adathozzáférés és eszközök menüben."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "A naplód",
+        "blocks": [
+          {
+            "p": "A merüléseid, a megjegyzéseid és a minősítéseid az alkalmazás privát tárhelyén, az eszközödön tárolódnak. Ha törlöd őket (egy merülés törlésével vagy az alkalmazás törlésével), véglegesen törlődnek. Bekerülhetnek az eszközöd iCloud- vagy számítógépes biztonsági mentéseibe, amelyeket te magad kezelsz az Apple beállításaiban."
+          }
+        ]
+      },
+      {
+        "h": "A kártyák fotói",
+        "blocks": [
+          {
+            "p": "Ha hozzáadod egy minősítési kártya fotóját, az alkalmazás csak azt a fotót kapja meg, amelyet te magad választasz ki; a fotókönyvtárad többi részéhez nem fér hozzá. Ez a fotó az eszközödön marad, a naplóval együtt."
+          }
+        ]
+      },
+      {
+        "h": "Exportálás",
+        "blocks": [
+          {
+            "p": "A PDF-, CSV- és UDDF-fájlok az eszközödön jönnek létre. Te döntöd el, hová küldöd vagy mented őket; az alkalmazás senkinek sem továbbítja őket."
+          }
+        ]
+      },
+      {
+        "h": "Vásárlások",
+        "blocks": [
+          {
+            "p": "A Pro megvásárlását az Apple értékesíti és kezeli. Az alkalmazás nem látja sem a fizetési módodat, sem a személyazonosságodat; az App Store-on keresztül csak azt olvassa ki, hogy a vásárlás megtörtént-e, hogy feloldhassa a funkciókat."
+          }
+        ]
+      },
+      {
+        "h": "Gyerekek",
+        "blocks": [
+          {
+            "p": "A Dive Log semmilyen adatot nem gyűjt, gyermekektől sem."
+          }
+        ]
+      },
+      {
+        "h": "Változások",
+        "blocks": [
+          {
+            "p": "Ha ez a szabályzat megváltozik, az új változat ezen az oldalon jelenik meg, a frissítés dátumával együtt."
+          }
+        ]
+      },
+      {
+        "h": "Kapcsolat",
+        "blocks": [
+          {
+            "p": "Ha kérdésed van ezzel a szabályzattal kapcsolatban: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

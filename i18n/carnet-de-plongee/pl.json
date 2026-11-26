@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "Twój logbook nurkowy z głębokością zmierzoną przez Apple Watch Ultra",
+    "contact": "Masz pytanie, pomysł lub problem z aplikacją? Napisz do mnie:<br>{email}",
+    "faq": [
+      {
+        "q": "Jak zaimportować nurkowania z mojego Apple Watch Ultra?",
+        "a": "Na zegarku nie trzeba nic instalować. Pod wodą Apple Watch Ultra automatycznie zapisuje głębokość (do 40 metrów, 130 stóp) i temperaturę wody w aplikacji Zdrowie na Twoim iPhonie. W aplikacji Dive Log otwórz kartę Logbook, naciśnij „+”, potem „Zaimportuj z Apple Watch” i na końcu „Znajdź moje nurkowania”. Za pierwszym razem system iOS poprosi o zgodę na odczyt tych dwóch pomiarów. Aplikacja znajdzie wtedy każde nurkowanie z datą, czasem trwania, głębokością i profilem; pozostaje tylko dodać miejsce, partnera lub ciśnienie w butli."
+      },
+      {
+        "q": "Import nie znalazł żadnych nurkowań. Co zrobić?",
+        "a": "Najpierw sprawdź, czy nurkowanie zostało wykonane z Apple Watch Ultra i czy zegarek miał czas na synchronizację z iPhone’em (potrzymaj je blisko siebie przez kilka minut, z otwartą aplikacją Zdrowie). Następnie sprawdź uprawnienia: Ustawienia › Zdrowie › Dostęp do danych i urządzenia, wybierz aplikację i włącz „Głębokość pod wodą” oraz „Temperatura wody”. Spróbuj też dłuższego okresu („Cała historia”). Zanurzenia krótsze niż 2 minuty lub płytsze niż 1,5 metra (5 stóp) są pomijane."
+      },
+      {
+        "q": "Czy mogę prowadzić logbook bez Apple Watch?",
+        "a": "Tak. Naciśnij „+”, potem „Dodaj nurkowanie” i wpisz wszystko, co chcesz: datę, czas trwania, głębokość, miejsce, partnera, temperatury, widoczność, gaz, ciśnienie w butli, balast, skafander, rodzaj nurkowania, ocenę i notatki. Nic nie jest wymagane. Jeśli później zaimportujesz to samo nurkowanie z zegarka, aplikacja uzupełni Twój wpis o profil, zamiast tworzyć duplikat."
+      },
+      {
+        "q": "Mam już nurkowania sprzed tego logbooka. Jak zachować numerację?",
+        "a": "W Ustawieniach wpisz liczbę w polu „Nurkowania przed tym logbookiem”. Numeracja i sumy uwzględniają tę wartość: jeśli masz już za sobą 120 nurkowań, pierwsze w logbooku będzie miało numer 121. Nurkowania są zawsze numerowane według daty, nawet jeśli później dodasz starsze nurkowanie."
+      },
+      {
+        "q": "Co zawiera wersja Pro i ile kosztuje?",
+        "a": "Logbook, ręczne wpisywanie nurkowań, profil nurkowania oraz import z Apple Watch są darmowe i bez ograniczeń. Wersja Pro to jednorazowy zakup bez subskrypcji; jej cena jest widoczna w aplikacji przed zakupem. Dodaje ona statystyki (rekordy, nurkowania według lat i pór roku, głębokości, ulubione miejsca i partnerzy, zużycie powietrza), eksporty (logbook do druku w PDF z polem na pieczęć centrum nurkowego, arkusz CSV oraz format UDDF używany przez programy nurkowe) oraz certyfikaty (poziomy, specjalizacje, zaświadczenie lekarskie, ze zdjęciem każdej karty i ostrzeżeniem przed wygaśnięciem)."
+      },
+      {
+        "q": "Jak odzyskać zakup na nowym urządzeniu?",
+        "a": "Otwórz Ustawienia › „Odkryj Pro” i dotknij „Przywróć zakup”, korzystając z konta App Store, którego użyto do zakupu. Nie musisz płacić ponownie."
+      },
+      {
+        "q": "Czy mogę zmienić jednostki?",
+        "a": "Tak: w sekcji Ustawienia › Jednostki wybierz metry, °C i bary lub stopy, °F i psi. Twoje nurkowania nie ulegają zmianie: zmienia się tylko sposób wyświetlania, również w eksportach."
+      },
+      {
+        "q": "Gdzie są przechowywane moje nurkowania? Jak zrobić ich kopię zapasową?",
+        "a": "Tylko na Twoim urządzeniu, w prywatnej pamięci aplikacji. Nie ma konta ani serwera, a logbook nie jest synchronizowany między Twoimi urządzeniami. Jest częścią kopii zapasowej Twojego iPhone’a w iCloud lub na komputerze, którą zarządzasz w ustawieniach Apple. Z Pro możesz również zachować kopię, eksportując logbook (Ustawienia › „Eksportuj logbook nurkowy”). Usunięcie aplikacji usuwa logbook z urządzenia."
+      },
+      {
+        "q": "Czy mogę używać aplikacji do planowania nurkowania lub do bezpiecznego nurkowania?",
+        "a": "Nie. Dive Log zapisuje nurkowania po ich wykonaniu. Nie jest to komputer nurkowy ani narzędzie do planowania: nigdy nie używaj go do ustalania głębokości, czasu trwania ani przystanków dekompresyjnych. Zawsze nurkuj z odpowiednim sprzętem i w granicach swoich uprawnień."
+      }
+    ],
+    "privacy_summary": "Dive Log nie zbiera żadnych danych, nie wymaga konta i nie zawiera reklam ani elementów śledzących. Pomiary odczytane z aplikacji Zdrowie pozostają na Twoim urządzeniu."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "W skrócie",
+        "blocks": [
+          {
+            "p": "Dive Log nie zbiera żadnych danych. Wszystko, co robisz w aplikacji, pozostaje na Twoim iPhonie lub iPadzie."
+          },
+          {
+            "ul": [
+              "Brak konta, brak reklam, brak śledzenia: aplikacja nie zawiera narzędzi analitycznych ani reklamowych i w żaden sposób Cię nie identyfikuje.",
+              "Brak serwera: aplikacja łączy się z internetem wyłącznie w celu zakupu Pro, który jest obsługiwany przez Apple."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Dane z aplikacji Zdrowie",
+        "blocks": [
+          {
+            "p": "Za Twoją zgodą aplikacja odczytuje dwa pomiary zarejestrowane przez Twój Apple Watch w aplikacji Zdrowie: głębokość pod wodą i temperaturę wody. Wykorzystuje je wyłącznie do znalezienia Twoich nurkowań oraz narysowania ich profilu."
+          },
+          {
+            "ul": [
+              "Te pomiary są przetwarzane na Twoim urządzeniu i nigdzie nie są wysyłane.",
+              "Nie są wykorzystywane do celów reklamowych ani do profilowania i nie są nikomu udostępniane.",
+              "Aplikacja niczego nie zapisuje w Zdrowiu i nie odczytuje żadnych innych danych zdrowotnych.",
+              "Możesz cofnąć zgodę w dowolnym momencie w sekcji Ustawienia › Zdrowie › Dostęp do danych i urządzenia."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Twój logbook nurkowy",
+        "blocks": [
+          {
+            "p": "Twoje nurkowania, notatki i certyfikaty są przechowywane w prywatnej pamięci aplikacji na Twoim urządzeniu. Usunięcie ich (usunięcie nurkowania lub usunięcie aplikacji) powoduje ich trwałe usunięcie. Mogą one być zawarte w kopii zapasowej urządzenia w iCloud lub na komputerze, którą zarządzasz samodzielnie w ustawieniach Apple."
+          }
+        ]
+      },
+      {
+        "h": "Zdjęcia kart",
+        "blocks": [
+          {
+            "p": "Jeśli dodasz zdjęcie karty certyfikatu, aplikacja otrzyma tylko to zdjęcie, które samodzielnie wybierzesz; nie ma dostępu do reszty Twojej biblioteki zdjęć. To zdjęcie jest przechowywane na Twoim urządzeniu razem z logbookiem nurkowym."
+          }
+        ]
+      },
+      {
+        "h": "Eksporty",
+        "blocks": [
+          {
+            "p": "Pliki PDF, CSV i UDDF są tworzone na Twoim urządzeniu. Sam wybierasz, gdzie je wysłać lub zapisać; aplikacja nie udostępnia ich nikomu."
+          }
+        ]
+      },
+      {
+        "h": "Zakupy",
+        "blocks": [
+          {
+            "p": "Zakup wersji Pro jest realizowany i obsługiwany przez Apple. Aplikacja nie widzi Twojego sposobu płatności ani Twojej tożsamości; odczytuje jedynie, poprzez App Store, czy zakup został dokonany, aby umożliwić dostęp do funkcji."
+          }
+        ]
+      },
+      {
+        "h": "Dzieci",
+        "blocks": [
+          {
+            "p": "Dive Log nie zbiera żadnych danych, w tym danych dzieci."
+          }
+        ]
+      },
+      {
+        "h": "Zmiany",
+        "blocks": [
+          {
+            "p": "W przypadku zmiany tej polityki nowa wersja zostanie opublikowana na tej stronie z datą aktualizacji."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "W przypadku jakichkolwiek pytań dotyczących tej polityki: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

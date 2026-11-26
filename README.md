@@ -51,6 +51,7 @@ ar-SA, ca, cs, da, de-DE, el, en-AU, en-CA, en-GB, en-US, es-ES, es-MX, fi, fr-C
 | À toi ! (Your Turn!) | https://regemathieu-hue.github.io/atoi/ | https://regemathieu-hue.github.io/atoi/privacy.html |
 | Atelier Fichiers | https://regemathieu-hue.github.io/atelier-fichiers/ | https://regemathieu-hue.github.io/atelier-fichiers/privacy.html |
 | Aquarium | https://regemathieu-hue.github.io/aquarium/ | https://regemathieu-hue.github.io/aquarium/privacy.html |
+| Carnet de plongée (Dive Log) | https://regemathieu-hue.github.io/carnet-de-plongee/ | https://regemathieu-hue.github.io/carnet-de-plongee/privacy.html |
 | Carnet de ruches (français seulement) | https://regemathieu-hue.github.io/carnet-de-ruches/ | https://regemathieu-hue.github.io/carnet-de-ruches/privacy.html |
 | Convert Everything | https://regemathieu-hue.github.io/convert-everything/ | https://regemathieu-hue.github.io/convert-everything/privacy.html |
 | Flashbooth | https://regemathieu-hue.github.io/flashbooth/ | https://regemathieu-hue.github.io/flashbooth/privacy.html |

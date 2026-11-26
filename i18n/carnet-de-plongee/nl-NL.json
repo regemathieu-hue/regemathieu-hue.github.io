@@ -1,0 +1,135 @@
+{
+  "support": {
+    "subtitle": "Je duiklogboek, met de diepte gemeten door de Apple Watch Ultra",
+    "contact": "Een vraag, een idee of een probleem met de app? Stuur me een bericht:<br>{email}",
+    "faq": [
+      {
+        "q": "Hoe importeer ik mijn duiken van mijn Apple Watch Ultra?",
+        "a": "Er hoeft niets op het horloge te worden geïnstalleerd. Onder water registreert de Apple Watch Ultra automatisch de diepte (tot 40 meter, 130 voet) en de watertemperatuur in de Gezondheid-app op je iPhone. Open in Dive Log het tabblad Duiklogboek, tik op \"+\" en daarna op \"Importeer van Apple Watch\", en tot slot op \"Mijn duiken zoeken\". De eerste keer vraagt iOS om toestemming om deze twee metingen te lezen. Daarna vindt de app elke duik terug met datum, duur, diepte en profiel; je hoeft alleen nog de duiklocatie, je buddy of de flesdruk toe te voegen."
+      },
+      {
+        "q": "De import vindt geen duiken. Wat moet ik doen?",
+        "a": "Controleer eerst of de duik is gemaakt met een Apple Watch Ultra en of het horloge voldoende tijd heeft gehad om te synchroniseren met de iPhone (houd ze een paar minuten dicht bij elkaar, met de Gezondheid-app geopend). Controleer vervolgens de toestemming: Instellingen › Gezondheid › Gegevenstoegang en apparaten, kies de app en schakel \"Onderwaterdiepte\" en \"Watertemperatuur\" in. Probeer ook een langere periode (\"Volledige geschiedenis\"). Duiken die korter zijn dan 2 minuten of minder diep dan 1,5 meter (5 voet) worden overgeslagen."
+      },
+      {
+        "q": "Kan ik mijn logboek bijhouden zonder Apple Watch?",
+        "a": "Ja. Tik op \"+\" en daarna op \"Duik invoeren\" en noteer wat je wilt: datum, duur, diepte, duiklocatie, buddy, temperaturen, zicht, gas, flesdruk, lood, duikpak, duiktype, beoordeling en notities. Niets is verplicht. Als je dezelfde duik later vanaf het horloge importeert, vult de app je invoer aan met het profiel in plaats van een dubbele duik aan te maken."
+      },
+      {
+        "q": "Ik had al gedoken voordat ik dit logboek ging gebruiken. Hoe behoud ik mijn nummering?",
+        "a": "Ga naar Instellingen en voer het aantal \"Duiken vóór dit logboek\" in. De nummering en het totaal houden hier rekening mee: met 120 duiken die al zijn gemaakt, krijgt de eerste duik in het logboek nummer 121. Duiken worden altijd op datum genummerd, ook als je later een oude duik toevoegt."
+      },
+      {
+        "q": "Wat omvat Pro en hoeveel kost het?",
+        "a": "Het logboek, handmatig invoeren, het duikprofiel en de import van Apple Watch zijn gratis en onbeperkt. Pro is een eenmalige aankoop zonder abonnement; de prijs wordt weergegeven in de app voordat je koopt. Het voegt statistieken toe (records, duiken per jaar en per seizoen, dieptes, favoriete duiklocaties en buddy's, luchtverbruik), exports (een afdrukbaar PDF-logboek met een vak voor de stempel van het duikcentrum, een CSV-spreadsheet, het UDDF-formaat dat door duiksoftware wordt gebruikt) en certificaten (niveaus, specialisaties, medische verklaring, met een foto van elke kaart en een waarschuwing vóór de vervaldatum)."
+      },
+      {
+        "q": "Hoe krijg ik mijn aankoop terug op een nieuw apparaat?",
+        "a": "Open Instellingen › \"Ontdek Pro\" en tik op \"Mijn aankoop herstellen\", met het App Store-account dat je hebt gebruikt om het te kopen. Je betaalt niet opnieuw."
+      },
+      {
+        "q": "Kan ik de eenheden wijzigen?",
+        "a": "Ja: ga naar Instellingen › Eenheden en kies meter, °C en bar, of voet, °F en psi. Je duiken worden niet gewijzigd: alleen de weergave verandert, ook in exports."
+      },
+      {
+        "q": "Waar worden mijn duiken opgeslagen? Hoe maak ik er een back-up van?",
+        "a": "Alleen op je apparaat, in de privéopslag van de app. Er is geen account en geen server, en het logboek wordt niet gesynchroniseerd tussen je apparaten. Het is onderdeel van de iCloud-back-up of de computerback-up van je iPhone, die je beheert in de instellingen van Apple. Met Pro kun je ook een kopie bewaren door het logboek te exporteren (Instellingen › \"Logboek exporteren\"). Als je de app verwijdert, wordt het logboek van het apparaat gewist."
+      },
+      {
+        "q": "Kan ik de app gebruiken om een duik te plannen of veilig te duiken?",
+        "a": "Nee. Dive Log houdt je duiken achteraf bij. Het is geen duikcomputer en geen planningstool: gebruik het nooit om een diepte, een duur of een decompressiestop te bepalen. Duik altijd met de juiste uitrusting en binnen de grenzen van je opleiding."
+      }
+    ],
+    "privacy_summary": "Dive Log verzamelt geen gegevens, vereist geen account en bevat geen advertenties of trackers. De metingen die uit Gezondheid worden gelezen, blijven op je apparaat."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort samengevat",
+        "blocks": [
+          {
+            "p": "Dive Log verzamelt geen gegevens. Alles wat je in de app doet, blijft op je iPhone of iPad."
+          },
+          {
+            "ul": [
+              "Geen account, geen advertenties, geen tracking: de app bevat geen analyse- of advertentietools en identificeert je op geen enkele manier.",
+              "Geen server: de app maakt alleen verbinding met internet voor de aankoop van Pro, die door Apple wordt afgehandeld."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Gezondheidsgegevens",
+        "blocks": [
+          {
+            "p": "Met je toestemming leest de app in de Gezondheid-app twee metingen die je Apple Watch heeft vastgelegd: de onderwaterdiepte en de watertemperatuur. Deze worden alleen gebruikt om je duiken terug te vinden en hun profiel te tekenen."
+          },
+          {
+            "ul": [
+              "Deze metingen worden verwerkt op je apparaat en worden nergens naartoe gestuurd.",
+              "Ze worden niet gebruikt voor reclame of profilering, en worden met niemand gedeeld.",
+              "De app schrijft niets naar Gezondheid en leest geen andere gezondheidsgegevens.",
+              "Je kunt de toestemming op elk moment intrekken in Instellingen › Gezondheid › Gegevenstoegang en apparaten."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Je duiklogboek",
+        "blocks": [
+          {
+            "p": "Je duiken, notities en certificaten worden opgeslagen in de privéopslag van de app, op je apparaat. Als je ze verwijdert (een duik wissen of de app verwijderen), worden ze gewist. Ze kunnen deel uitmaken van de back-ups van je apparaat in iCloud of op je computer, die je zelf beheert in de instellingen van Apple."
+          }
+        ]
+      },
+      {
+        "h": "Kaartfoto's",
+        "blocks": [
+          {
+            "p": "Als je een foto van een certificeringskaart toevoegt, ontvangt de app alleen de foto die je zelf kiest; hij heeft geen toegang tot de rest van je fotobibliotheek. Deze foto blijft op je apparaat, samen met het logboek."
+          }
+        ]
+      },
+      {
+        "h": "Exporteren",
+        "blocks": [
+          {
+            "p": "PDF-, CSV- en UDDF-bestanden worden op je apparaat aangemaakt. Je kiest zelf waar je ze naartoe stuurt of opslaat; de app deelt ze met niemand."
+          }
+        ]
+      },
+      {
+        "h": "Aankopen",
+        "blocks": [
+          {
+            "p": "Pro wordt door Apple verkocht en de aankoop wordt door Apple afgehandeld. De app ziet noch je betaalmethode, noch je identiteit; hij leest alleen via de App Store of de aankoop is gedaan, om de functies te ontgrendelen."
+          }
+        ]
+      },
+      {
+        "h": "Kinderen",
+        "blocks": [
+          {
+            "p": "Dive Log verzamelt geen gegevens, ook niet van kinderen."
+          }
+        ]
+      },
+      {
+        "h": "Wijzigingen",
+        "blocks": [
+          {
+            "p": "Indien deze privacyverklaring verandert, wordt de nieuwe versie op deze pagina gepubliceerd met de datum van de update."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Voor vragen over deze privacyverklaring: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}
