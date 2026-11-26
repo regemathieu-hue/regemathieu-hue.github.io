@@ -5,7 +5,7 @@
     "faq": [
       {
         "q": "Hvordan importerer jeg dykkene fra min Apple Watch Ultra?",
-        "a": "Det er ingenting å installere på vekken. Under vann registrerer Apple Watch Ultra dykket (ned til 40 meter, 130 fot) og vannstemperaturen selv i Health-appen på din iPhone. I Dive Log åpner du fanen Logg, trykker på \"+\" og deretter \"Importer fra Apple Watch\", og til slutt \"Finn mine dykk\". Første gang ber iOS om tillatelse til å lese disse to målingene. Deretter finner appen hvert dykk med dato, varighet, dybde og profil; du trenger bare å legge til sted, makker eller flaskepresur."
+        "a": "Det er ingenting å installere på vekken. Under vann registrerer Apple Watch Ultra dykket (ned til 40 meter, 130 fot) og vannstemperaturen selv i Health-appen på din iPhone. I Dive Log åpner du fanen Logg, trykker på \"+\" og deretter \"Importer fra Apple Watch\", og til slutt \"Finn mine dykk\". Første gang ber iOS om tillatelse til å lese disse to målingene. Deretter finner appen hvert dykk med dato, varighet, dybde og profil; du trenger bare å legge til sted, makker eller flasketrykk."
       },
       {
         "q": "Importen finner ingen dykk. Hva skal jeg gjøre?",
@@ -13,7 +13,7 @@
       },
       {
         "q": "Kan jeg beholde loggen min uten Apple Watch?",
-        "a": "Ja. Trykk på \"+\" og deretter \"Skriv inn et dykk\" og skriv ned hva du vil: dato, varighet, dybde, sted, makker, temperaturer, synlighet, gass, flaskepresur, bly, drakt, dykktyp, vurdering og notater. Ingenting er nødvendig. Hvis du senere importerer det samme dykket fra vekken, fullfører appen oppføringen din med profilen i stedet for å lage en duplikat."
+        "a": "Ja. Trykk på \"+\" og deretter \"Skriv inn et dykk\" og skriv ned hva du vil: dato, varighet, dybde, sted, makker, temperaturer, synlighet, gass, flasketrykk, bly, drakt, dykketype, vurdering og notater. Ingenting er nødvendig. Hvis du senere importerer det samme dykket fra vekken, fullfører appen oppføringen din med profilen i stedet for å lage en duplikat."
       },
       {
         "q": "Jeg hadde allerede gjort dykk før jeg begynte å bruke denne loggen. Hvordan holder jeg styr på nummereringen?",

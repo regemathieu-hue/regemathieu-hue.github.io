@@ -5,7 +5,7 @@
     "faq": [
       {
         "q": "Hur importerar jag dyk från min Apple Watch Ultra?",
-        "a": "Det behövs inget att installera på klockan. Under vatten sparar Apple Watch Ultra djup (ned till 40 meter, 130 fot) och vattentemperatur automatiskt i Health-appen på din iPhone. I Dive Log öppnar du fliken Logg, trycker på \"+\" och väljer sedan \"Importera från Apple Watch\", följt av \"Hitta mina dyk\". Första gången frågar iOS om tillstånd att läsa dessa två mätningar. Appen hittar då varje dyk med datum, varaktighet, djup och profil; du behöver bara lägga till plats, parkamrat eller flaskastryck."
+        "a": "Det behövs inget att installera på klockan. Under vatten sparar Apple Watch Ultra djup (ned till 40 meter, 130 fot) och vattentemperatur automatiskt i Health-appen på din iPhone. I Dive Log öppnar du fliken Logg, trycker på \"+\" och väljer sedan \"Importera från Apple Watch\", följt av \"Hitta mina dyk\". Första gången frågar iOS om tillstånd att läsa dessa två mätningar. Appen hittar då varje dyk med datum, varaktighet, djup och profil; du behöver bara lägga till plats, parkamrat eller flasktryck."
       },
       {
         "q": "Importen hittar inga dyk. Vad ska jag göra?",
@@ -13,7 +13,7 @@
       },
       {
         "q": "Kan jag behålla min logg utan en Apple Watch?",
-        "a": "Ja. Tryck på \"+\" och välj \"Skriv in ett dyk\", och skriv vad du vill: datum, varaktighet, djup, plats, parkamrat, temperaturer, synlighet, gas, flaskastryck, vikter, dräkt, dyktyp, betyg och anteckningar. Inget krävs. Om du senare importerar samma dyk från klockan fyller appen i din inmatning med profilen istället för att skapa en dublett."
+        "a": "Ja. Tryck på \"+\" och välj \"Skriv in ett dyk\", och skriv vad du vill: datum, varaktighet, djup, plats, parkamrat, temperaturer, synlighet, gas, flasktryck, vikter, dräkt, dyktyp, betyg och anteckningar. Inget krävs. Om du senare importerar samma dyk från klockan fyller appen i din inmatning med profilen istället för att skapa en dublett."
       },
       {
         "q": "Jag hade redan gjort ett dyk innan jag började använda denna logg. Hur håller jag koll på min numrering?",

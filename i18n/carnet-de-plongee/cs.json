@@ -5,7 +5,7 @@
     "faq": [
       {
         "q": "Jak importuji ponory z mého Apple Watch Ultra?",
-        "a": "Na hodinkách nic nenainstalujete. Pod vodou Apple Watch Ultra samostatně zaznamenává hloubku (až do 40 metrů, 130 stop) a teplotu vody ve službě Health na vašem iPhone. V aplikaci Dive Log otevřete kartu Deník, stiskněte \"+\" a pak \"Importovat z Apple Watch\", následně \"Najít mé ponory\". Poprvé požaduje iOS oprávnění ke čtení těchto dvou údajů. Aplikace poté najde každý ponor s jeho datem, trváním, hloubkou a profilem; vy musíte přidat pouze místo, partnera nebo tlak v lávě."
+        "a": "Na hodinkách nic nenainstalujete. Pod vodou Apple Watch Ultra samostatně zaznamenává hloubku (až do 40 metrů, 130 stop) a teplotu vody ve službě Health na vašem iPhone. V aplikaci Dive Log otevřete kartu Deník, stiskněte \"+\" a pak \"Importovat z Apple Watch\", následně \"Najít mé ponory\". Poprvé požaduje iOS oprávnění ke čtení těchto dvou údajů. Aplikace poté najde každý ponor s jeho datem, trváním, hloubkou a profilem; vy musíte přidat pouze místo, partnera nebo tlak v lahvi."
       },
       {
         "q": "Import nenašel žádné ponory. Co mám dělat?",
@@ -13,7 +13,7 @@
       },
       {
         "q": "Můžu si udržet deník bez Apple Watch?",
-        "a": "Ano. Stiskněte \"+\" a pak \"Zadat ponor\" a zapište si, co chcete: datum, trvání, hloubku, místo, partnera, teploty, viditelnost, plyn, tlak v lávě, zátěž, oblek, typ ponoru, hodnocení a poznámky. Nic není povinné. Pokud později tentýž ponor importujete z hodinek, aplikace doplní váš záznam profilem místo vytvoření duplikátu."
+        "a": "Ano. Stiskněte \"+\" a pak \"Zadat ponor\" a zapište si, co chcete: datum, trvání, hloubku, místo, partnera, teploty, viditelnost, plyn, tlak v lahvi, zátěž, oblek, typ ponoru, hodnocení a poznámky. Nic není povinné. Pokud později tentýž ponor importujete z hodinek, aplikace doplní váš záznam profilem místo vytvoření duplikátu."
       },
       {
         "q": "Už jsem dříve potápěl, než jsem začal používat tento deník. Jak si udržím číslování?",
