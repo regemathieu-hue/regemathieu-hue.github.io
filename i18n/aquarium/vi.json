@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Cẩm nang cho bể cá nước ngọt của bạn: nước, bảo dưỡng và khả năng sống chung của cá",
+    "contact": "Có câu hỏi, ý tưởng hay vấn đề với ứng dụng? Gửi tin nhắn cho tôi:<br>{email}",
+    "faq": [
+      {
+        "q": "Bắt đầu từ đâu?",
+        "a": "Lần đầu khởi chạy, chạm vào \"Tạo bể của tôi\": đặt tên, thể tích và loại nước cho bể, \"Nhiệt đới (có sưởi)\" hoặc \"Nước lạnh (cá vàng)\". Nếu bể mới, hãy bật \"Bạn biết khi nào bể được thiết lập\": Aquarium sẽ theo dõi quá trình chạy bể. Sau đó chạm vào \"Kết quả đo mới\" để ghi lại lần thử đầu tiên, rồi mở tab \"Cá\" để nhập các loài cá trong bể."
+      },
+      {
+        "q": "Làm thế nào để ghi lại kết quả đo nước?",
+        "a": "Trong tab \"Bể\", chạm vào \"Kết quả đo mới\" và chỉ điền những gì bạn đã đo: pH, amoniac, nitrit, nitrat, độ cứng tổng (GH), độ cứng cacbonat (KH), nhiệt độ. Mỗi giá trị sẽ được đánh giá ngay lập tức là \"Tốt\", \"Theo dõi\" hoặc \"Cần sửa\", và biểu đồ \"Việc cần làm\" sẽ chỉ cho bạn biết cần làm gì tiếp theo. Để sửa một kết quả đo, mở tab \"Nước\" và chạm vào nó trong danh sách \"Kết quả đo\"; để xóa, hãy vuốt dòng đó sang trái."
+      },
+      {
+        "q": "Các ngưỡng \"Lý tưởng\" và \"Chấp nhận được\" đến từ đâu?",
+        "a": "Đối với amoniac và nitrit, giá trị mong đợi là bằng không. Nitrat được đánh giá là tốt dưới 25 mg/L và chấp nhận được đến 50 mg/L. Đối với pH, độ cứng tổng và nhiệt độ, Aquarium sẽ tính toán khoảng giá trị phù hợp với tất cả các loài trong bể của bạn; nếu bạn chưa nhập bất kỳ loài cá nào, nó sẽ dùng khoảng chung tùy theo loại nước. Các ngưỡng này mang tính tham khảo và áp dụng cho nước ngọt: chúng không thay thế lời khuyên từ cửa hàng chuyên nghiệp hoặc bác sĩ thú y."
+      },
+      {
+        "q": "Bể của tôi mới: chạy bể là gì?",
+        "a": "Một bể mới mất khoảng một tháng để chạy bể: vi khuẩn trong bộ lọc sẽ định cư, nitrit tăng lên rồi sau đó giảm về zero. Trong vòng 28 ngày kể từ khi thiết lập bể, tab Bể sẽ hiển thị \"Chạy bể\" cùng với ngày hiện tại. Hãy đợi cho đến khi nitrit giảm về zero trước khi thêm cá. Để nhập hoặc sửa lại ngày, chạm vào nút \"Chỉnh sửa\" trong tab Bể và bật tùy chọn \"Bạn biết khi nào bể được thiết lập\"."
+      },
+      {
+        "q": "Lời nhắc bảo dưỡng hoạt động như thế nào?",
+        "a": "Khi tạo bể, Aquarium sẽ dự kiến thay nước mỗi 7 ngày và vệ sinh bộ lọc mỗi 30 ngày. Chạm vào một việc để thay đổi lịch trình, tỷ lệ nước thay hoặc chọn \"Nhắc tôi\"; nút + trên thẻ \"Bảo dưỡng\" cho phép thêm các việc khác như kiểm tra nước hoặc một việc do bạn tự đặt. Vào ngày đã định, bạn sẽ nhận thông báo vào giờ đã chọn trong Cài đặt › Lời nhắc, sau đó sẽ có thông báo nhắc nhở thêm vào ngày thứ hai và thứ bảy nếu chưa hoàn thành. Khi xong, chạm vào \"Xong\": ngày tiếp theo sẽ được tính từ ngày này."
+      },
+      {
+        "q": "Tôi vô tình đánh dấu một việc bảo dưỡng, phải làm gì?",
+        "a": "Trong tab Bể, phía dưới danh sách việc, mở mục \"Lịch sử\". Kéo dòng thừa sang trái để xóa: ngày tiếp theo sẽ được tính lại."
+      },
+      {
+        "q": "Tôi không nhận được lời nhắc, tại sao?",
+        "a": "Kiểm tra xem thông báo có được phép hay không: Cài đặt iPhone › Thông báo › Aquarium. Nếu tắt, ứng dụng sẽ thông báo trong Cài đặt › Lời nhắc, kèm theo liên kết \"Cho phép thông báo trong Cài đặt\". Cũng kiểm tra xem \"Nhắc tôi\" đã được bật cho việc đó chưa, và không có chế độ Tập trung nào đang hoạt động vào thời điểm lời nhắc xuất hiện."
+      },
+      {
+        "q": "Làm thế nào để kiểm tra xem cá có thể sống chung không?",
+        "a": "Trong tab Cá, chạm nút +: tìm kiếm theo tên hoặc tên Latin, hoặc lọc theo họ. Trang thông tin về một loài sẽ hiển thị nhu cầu, hành vi của chúng và, dưới mục “Với cá của bạn”, những thay đổi mà việc đưa chúng vào bể sẽ mang lại. Nhấn “Thêm vào bể” để thêm chúng cùng số lượng cá. Ở đầu tab, kết luận (\"Có thể sống chung\", \"Có thể, theo dõi cẩn thận\" hoặc \"Không nên nuôi chung\") sẽ đi kèm lý do: nhiệt độ, pH, tính cách, kích thước, vây, dung tích bể. Danh sách có 85 loài nước ngọt; nếu thiếu một loài bạn đang nuôi, hãy gửi tin nhắn cho tôi."
+      },
+      {
+        "q": "Aquarium Pro bao gồm những gì và giá bao nhiêu?",
+        "a": "Phiên bản miễn phí không giới hạn thời gian: một bể, mọi kết quả đo, mọi lời nhắc và khả năng phối hợp cá. Aquarium Pro là một lần mua duy nhất, không cần đăng ký, với giá 4,99 € tại Pháp: nhiều bể và biểu đồ nước, theo thời gian 1 tháng, 3 tháng, 1 năm hoặc toàn bộ lịch sử. Tính năng này hỗ trợ chia sẻ gia đình. Trên thiết bị mới, hãy mở Cài đặt › Aquarium Pro, rồi chạm vào “Khôi phục mua hàng”."
+      },
+      {
+        "q": "Dữ liệu của tôi được lưu ở đâu, và điều gì xảy ra nếu tôi đổi iPhone?",
+        "a": "Chỉ trên thiết bị của bạn: không có tài khoản, máy chủ hay đồng bộ hóa giữa các thiết bị. Các bể, kết quả đo và cá của bạn nằm trong bản sao lưu iCloud hoặc cục bộ của iPhone; chúng sẽ trở lại khi bạn khôi phục bản sao lưu đó trên thiết bị mới. Xóa ứng dụng sẽ xóa toàn bộ dữ liệu."
+      },
+      {
+        "q": "Có thể hiển thị gallon và độ Fahrenheit không?",
+        "a": "Có: Cài đặt › Đơn vị, rồi chọn “Lít và °C”, “Gallon và °F” hoặc “Tự động”, sẽ theo vùng địa lý của thiết bị."
+      }
+    ],
+    "privacy_summary": "Aquarium không thu thập bất kỳ dữ liệu nào, không yêu cầu tài khoản nào và không chứa quảng cáo hay công cụ theo dõi. Bể của bạn, kết quả đo và cá của bạn luôn được lưu trên thiết bị của bạn."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Tóm tắt",
+        "blocks": [
+          {
+            "p": "Aquarium không thu thập dữ liệu. Mọi thứ bạn ghi vào ứng dụng đều được lưu trên iPhone hoặc iPad của bạn."
+          },
+          {
+            "ul": [
+              "Không cần tài khoản, không quảng cáo, không theo dõi: ứng dụng không chứa công cụ phân tích hay quảng cáo nào, và không xác định danh tính bạn theo bất kỳ cách nào."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Bể của bạn, kết quả đo và cá của bạn",
+        "blocks": [
+          {
+            "p": "Bể của bạn, kết quả đo nước, các việc bảo dưỡng và danh sách cá của bạn được lưu trong bộ nhớ riêng tư của ứng dụng, trên thiết bị của bạn. Chúng không được gửi đến bất kỳ ai, ngay cả nhà phát triển cũng vậy."
+          },
+          {
+            "p": "Gỡ bỏ ứng dụng sẽ xóa toàn bộ dữ liệu này. Dữ liệu có thể được bao gồm trong bản sao lưu iCloud hoặc cục bộ của thiết bị bạn, mà bạn quản lý riêng trong Cài đặt của Apple."
+          }
+        ]
+      },
+      {
+        "h": "Thông báo",
+        "blocks": [
+          {
+            "p": "Lời nhắc bảo dưỡng được lập trình trên thiết bị; không có máy chủ nào tham gia."
+          }
+        ]
+      },
+      {
+        "h": "Liên kết đến trợ giúp",
+        "blocks": [
+          {
+            "p": "Các liên kết « Trợ giúp và liên hệ » và « Quyền riêng tư » sẽ mở trang này và trang trợ giúp trong trình duyệt của bạn. Ứng dụng không gửi bất kỳ thông tin nào tới chúng."
+          }
+        ]
+      },
+      {
+        "h": "Mua hàng",
+        "blocks": [
+          {
+            "p": "Aquarium Pro được bán và quản lý bởi Apple. Ứng dụng không thấy phương thức thanh toán hay danh tính của bạn; nó chỉ đọc, qua App Store, xem liệu mua hàng có được thực hiện hay không, để mở khóa các tính năng."
+          }
+        ]
+      },
+      {
+        "h": "Trẻ em",
+        "blocks": [
+          {
+            "p": "Aquarium không thu thập bất kỳ dữ liệu nào, kể cả từ trẻ em."
+          }
+        ]
+      },
+      {
+        "h": "Thay đổi",
+        "blocks": [
+          {
+            "p": "Nếu chính sách này thay đổi, phiên bản mới sẽ được đăng trên trang này cùng ngày cập nhật."
+          }
+        ]
+      },
+      {
+        "h": "Liên hệ",
+        "blocks": [
+          {
+            "p": "Nếu bạn có bất kỳ câu hỏi nào về chính sách này: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

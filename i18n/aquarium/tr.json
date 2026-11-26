@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Tatlı su akvaryumun için günlük defter: su, bakım ve balık uyumluğu",
+    "contact": "Bir sorun, bir fikir veya uygulama ile ilgili bir problem mi var? Bana yaz: <br>{email}",
+    "faq": [
+      {
+        "q": "Nereden başlamalıyım?",
+        "a": "İlk açılışta \"Benim Akvaryumumu Oluştur\" butonuna dokun: ismini, hacmini ve su türünü (\"Tropikal (ısıtılmış)\" veya \"Soğuk su\") belirle. Eğer akvaryum yeni ise, \"Akvaryumun ne zaman kurulduğunu biliyorum\" seçeneğini etkinleştir: Aquarium döngü sürecini takip edecek. Daha sonra \"Yeni Ölçüm\" butonuna dokunarak ilk testini kaydet, ardından \"Balıklar\" sekmesini açarak akvaryumunda bulunan türleri gir."
+      },
+      {
+        "q": "Su testini nasıl kaydediyorum?",
+        "a": "Akvaryum sekmesinde \"Yeni Ölçüm\" butonuna dokun ve sadece ölçtüğün değerleri doldur: pH, amonyak, nitrit, nitrat, toplam sertlik (GH), karbonat sertliği (KH), sıcaklık. Her değer hemen \"İyi\", \"İzle\" veya \"Düzeltilecek\" olarak değerlendirilir ve \"Yapılacaklar\" kartı ne yapman gerektiğini söyler. Bir ölçümü düzeltmek için \"Su\" sekmesini aç ve \"Ölçümler\" listesinden ilgili ölçümü seç; silmek için satırı sola doğru sürükleyin."
+      },
+      {
+        "q": "\"İdeal\" ve \"Tolerans\" aralıkları nereden geliyor?",
+        "a": "Amonyak ve nitrit için beklenen değer sıfırdır. Nitrat, 25 mg/L altındaysa \"İyi\" olarak değerlendirilir ve 50 mg/L'a kadar \"Tolerans\" aralığına girer. pH, toplam sertlik ve sıcaklık için Aquarium, akvaryumunda bulunan tüm türler için uygun olan aralığı hesaplar; henüz balık eklememişsen, su türüne göre genel bir aralık kullanır. Bu rehberler gösterge niteliğindedir ve tatlı su için geçerlidir: uzman bir mağazadan veya veterinerden alınan tavsiyeleri yerine getirmez."
+      },
+      {
+        "q": "Yeni bir akvaryumum var: döngü nedir?",
+        "a": "Yeni bir akvaryum yaklaşık bir ay sürer: filtre bakterileri yerleşir ve nitrit artar, ardından sıfıra düşer. Akvaryum suya doldurulduktan sonra 28 gün boyunca Akvaryum sekmesi, şu anki günü göstererek « Akvaryum döngüsü » yazdırır. Balıkları eklemek için nitritin sıfıra düşmesini bekleyin. Tarihi girmek veya düzeltmek için Akvaryum sekmesinde « Düzenle »ye dokunun ve « Akvaryumun ne zaman kurulduğunu biliyorum » seçeneğini etkinleştirin."
+      },
+      {
+        "q": "Bakım hatırlatıcıları nasıl çalışır?",
+        "a": "Bir akvaryum oluşturduğunuzda, Aquarium her 7 günde bir su değişimi ve her 30 günde bir filtre temizliği planlar. Bir görevi dokunarak süresini, su miktarını veya « Bana Hatırlat » seçeneğini değiştirebilirsiniz; « Akvaryum Bakımı » kartındaki + butonu, su testi gibi kendi görevleriniz de dahil olmak üzere daha fazla görev eklemenizi sağlar. Planlanan gün, Ayarlar › Hatırlatıcılar'da seçtiğiniz saatte bir bildirim alırsınız; ardından görev işaretlenmemişse iki ve yedi gün sonra bir hatırlatma gelir. Bittiğinde « Tamamlandı »ye dokunun: sonraki tarih bu günden itibaren hesaplanır."
+      },
+      {
+        "q": "Bir bakım görevini yanlışlıkla işaretledim, ne yapmalıyım?",
+        "a": "Akvaryum sekmesinde görev listesinin altında « Geçmiş »i açın. Aşırı satırı sola doğru sürükleyerek kaldırın: sonraki tarih yeniden hesaplanır."
+      },
+      {
+        "q": "Hatırlatıcılarımı alamıyorum, neden?",
+        "a": "Bildirimlerin etkin olduğundan emin olun: iPhone Ayarları › Bildirimler › Aquarium. Eğer kapatılmışsa, uygulama Ayarlar › Hatırlatıcılar'da bunu belirtir ve « Bildirimleri Ayarlar'da Etkinleştir » bağlantısı sunar. Ayrıca ilgili görev için « Bana Hatırlat » seçeneğinin açık olduğundan emin olun ve hatırlatma saatinde bir Odak modunun etkin olmadığından da emin olun."
+      },
+      {
+        "q": "Balıklar birlikte yaşayabilir mi kontrol etmek için ne yapmalıyım?",
+        "a": "Balıklar sekmesinde + düğmesine dokun: isim veya bilimsel isime göre ara veya aileye göre filtrele. Bir türün dosyası ihtiyaçlarını, davranışını ve \"Balıklarınla Birlikte\" altında balığın gelmesinin akvaryumunu nasıl değiştireceğini gösterir. \"Akvaryuma Ekle\", sayısını belirterek onu ekler. Sekmenin üst kısmında, sonuç (\"Birlikte yaşayabilirler\", \"Mümkün, gözlem yap\" veya \"Birlikte Tutulmamalı\") ardından nedenleri (sıcaklık, pH, karakter, boyut, yüzgeç, akvaryum hacmi) gelir. Katalogda 85 tatlı su türü vardır; yetiştirilen bir tür eksikse bana yaz."
+      },
+      {
+        "q": "Aquarium Pro ne içeriyor ve kaç euro?",
+        "a": "Ücretsiz sürümde süre sınırı yok: bir akvaryum, tüm ölçümler, tüm hatırlatıcılar ve balık uyumları. Aquarium Pro, abonelik olmadan tek seferlik bir satın alım olarak 4,99 € (Fransa'da) fiyatla sunuluyor: birden fazla akvaryum ve su grafikleri, bir ay, üç ay, bir yıl veya tüm geçmişe kadar. Aile Paylaşımı ile uyumludur. Yeni bir cihazda, Ayarlar › Aquarium Pro'yu açıp \"Satın Alımları Yeniden Yükle\" düğmesine dokun."
+      },
+      {
+        "q": "Verilerim nerede kaydediliyor ve iPhone değiştirdiğimde ne oluyor?",
+        "a": "Sadece cihazınızda: hesap, sunucu veya cihazlar arası senkronizasyon yoktur. Akvaryumlarınız, ölçümleriniz ve balıklarınız iPhone'unuzun iCloud veya yerel yedeklemesinin bir parçasıdır; bu yedeklemeyi yeni bir cihaza geri yüklediğinizde tekrar gelirler. Uygulamayı silmek tüm verileri siler."
+      },
+      {
+        "q": "Galon ve Fahrenheit dereceleri gösterilebilir mi?",
+        "a": "Evet: Ayarlar › Birimler, ardından \"Litre ve °C\", \"Galon ve °F\" veya \"Otomatik\", cihazınızın bölgesine göre ayarlanır."
+      }
+    ],
+    "privacy_summary": "Aquarium hiçbir veri toplamaz, hiçbir hesap istemez ve reklam veya izleyici içermez. Akvaryumların, ölçümleriniz ve balıklarınız cihazınızda kalır."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Özetle",
+        "blocks": [
+          {
+            "p": "Aquarium hiçbir veri toplamaz. Uygulamada kaydettiğiniz her şey iPhone veya iPad'inizde kalır."
+          },
+          {
+            "ul": [
+              "Hesap yok, reklam yok, izleme yok: uygulama hiçbir analitik veya reklam aracı içermiyor ve sizin kimliğinizi hiçbir şekilde belirlemiyor."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Akvaryumun, ölçümleriniz ve balıklarınız",
+        "blocks": [
+          {
+            "p": "Akvaryumlarınız, su ölçümleriniz, bakım görevleriniz ve balık listeleriniz uygulamanın özel depolama alanına, cihazınızda kaydedilir. Bu veriler kimseye gönderilmez, hatta geliştiriciye bile."
+          },
+          {
+            "p": "Uygulamayı silmek bu tüm verileri siler. Verileriniz iCloud veya yerel yedeklemelerinize dahil olabilir; bunları Apple ayarlarından kendiniz yönetirsiniz."
+          }
+        ]
+      },
+      {
+        "h": "Bildirimler",
+        "blocks": [
+          {
+            "p": "Bakım hatırlatıcıları cihazda planlanır; herhangi bir sunucu dahil edilmez."
+          }
+        ]
+      },
+      {
+        "h": "Yardıma bağlantılar",
+        "blocks": [
+          {
+            "p": "«Yardım ve iletişim» ve «Gizlilik» bağlantıları, bu sayfayı ve yardım sayfasını tarayıcınızda açar. Uygulama bunlara hiçbir bilgi göndermez."
+          }
+        ]
+      },
+      {
+        "h": "Satın Alımlar",
+        "blocks": [
+          {
+            "p": "Aquarium Pro Apple tarafından satılıp yönetilir. Uygulama ödeme yönteminizi ya da kimliğinizi görmez; sadece App Store aracılığıyla satın alım yapıldı mı, bunu okur ve özellikleri açar."
+          }
+        ]
+      },
+      {
+        "h": "Çocuklar",
+        "blocks": [
+          {
+            "p": "Aquarium hiçbir veri toplamaz, çocuklardan bile değil."
+          }
+        ]
+      },
+      {
+        "h": "Değişiklikler",
+        "blocks": [
+          {
+            "p": "Eğer bu gizlilik politikası değişirse, yeni versiyon bu sayfada güncelleme tarihiyle birlikte yayınlanacaktır."
+          }
+        ]
+      },
+      {
+        "h": "İletişim",
+        "blocks": [
+          {
+            "p": "Bu politika hakkında herhangi bir sorunuz varsa: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

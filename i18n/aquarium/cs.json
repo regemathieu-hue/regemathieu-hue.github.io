@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Kniha tvého akvária se sladkou vodou: voda, údržba a kompatibilita ryb",
+    "contact": "Máš dotaz, nápad nebo problém s aplikací? Napiš mi: <br>{email}",
+    "faq": [
+      {
+        "q": "Kde začít?",
+        "a": "Při prvním spuštění stiskni „Vytvoř své akvárium“: pojmenuj ho, zadej objem a typ vody – „Tropické (s topítkem)“ nebo „Chladná voda“. Pokud je akvárium nové, zapni „Vím, kdy bylo akvárium nastaveno“: Aquarium bude sledovat zabíhání. Pak stiskni „Nové měření“, abys zaznamenal první test, a otevři kartu „Ryby“, abys zadal druhy v akváriu."
+      },
+      {
+        "q": "Jak zaznamenat test vody?",
+        "a": "V karty „Akvárium“ stiskni „Nové měření“ a vyplň pouze to, co jsi změřil: pH, amoniak, dusitany, dusičnany, tvrdost celková (GH), tvrdost uhličitanová (KH), teplota. Každá hodnota je okamžitě ohodnocena jako „Dobré“, „Sledovat“ nebo „Potřebuje opravy“, a graf „K vykonání“ ti řekne, co dělat. Chceš-li opravit měření, otevři kartu „Voda“ a stiskni ho v seznamu „Měření“; chcete-li ho smazat, přeškrň jeho řádek doprava."
+      },
+      {
+        "q": "Odkud pocházejí značky „Ideální“ a „Přijatelné“?",
+        "a": "Pro amoniak a dusitany je očekávaná hodnota nula. Dusičnany jsou považovány za dobré pod 25 mg/L a přijatelné až do 50 mg/L. Pro pH, tvrdost celkovou a teplotu Aquarium vypočítá rozsah vhodný pro všechny druhy v akváriu; dokud nezadáš žádné ryby, použije obecný rozsah podle typu vody. Tyto značky jsou orientační a platí pro sladkou vodu: nejsou náhradou odborného poradenství od specializovaného obchodu nebo veterináře."
+      },
+      {
+        "q": "Můj akvárium je nový: co je to zabíhání?",
+        "a": "Nové akvárium trvá přibližně měsíc na zabíhání: bakterie v filtru se usadí a dusitany stoupají, poté klesají zpět na nulu. Během 28 dnů od nastavení akvária zobrazuje kartu Akvárium „Zabíhání akvária“ s aktuálním dnem. Počkej, dokud se dusitany nevrátí zpět na nulu, než přidáš ryby. Chceš-li zadat nebo opravit datum, dotykni „Upravit“ v kartě Akvárium a zapni „Vím, kdy bylo akvárium nastaveno“."
+      },
+      {
+        "q": "Jak fungují připomínky údržby?",
+        "a": "Při vytvoření akvária plánuje Aquarium výměnu vody každých 7 dnů a čištění filtru každých 30 dnů. Dotykni se úkolu, abys změnil jeho pravidelnost, podíl vody nebo „Připomenout mi“; tlačítko + na kartě Údržba akvária přidá další, např. test vody nebo vlastní úkol. V předepsaný den obdržíš upozornění ve vybraném čase v Nastavení › Připomínky, pak další upozornění za dva a sedm dnů, pokud nic nebylo označeno jako hotovo. Po dokončení dotykni „Hotovo“: další datum se spočítá od tohoto dne."
+      },
+      {
+        "q": "Označil jsem úkol náhodou, co mám dělat?",
+        "a": "V kartě Akvárium pod seznamem úkolů otevři „Historie“. Přetáhni přebytečný řádek doleva, aby byl odstraněn: další datum se znovu spočítá."
+      },
+      {
+        "q": "Nedostávám připomínky, proč?",
+        "a": "Zkontroluj, zda jsou povoleny upozornění: Nastavení iPhone › Upozornění › Aquarium. Pokud jsou vypnutá, aplikace to oznamuje v Nastavení › Připomínky s odkazem „Povol upozornění v Nastavení“. Zkontroluj také, zda je pro daný úkol zapnuté „Připomenout mi“ a zda v čase připomínky není aktivní režim Soustředění."
+      },
+      {
+        "q": "Jak zjistím, jestli mohou ryby žít spolu?",
+        "a": "V kategorii Ryby stiskni tlačítko +: vyhledej podle jména nebo latinského jména, nebo filtrováním podle rodiny. Karta druhu ukazuje jeho potřeby, chování a pod položkou „S tvými rybami“ změny, které by příchod nového druhu způsobil v tvém akváriu. Tlačítko „Přidat do akvária“ jej přidá s počtem jedinců. Na začátku kategorie je verdikt („Mohou žít spolu“, „Možné, pozoruj“ nebo „Nejlepší nespojují se“) doplněn důvody: teplota, pH, temperament, velikost, ploutev, objem akvária. Katalog obsahuje 85 druhů sladké vody; pokud chybí druh, který chováš, napiš mi."
+      },
+      {
+        "q": "Co zahrnuje Aquarium Pro a kolik stojí?",
+        "a": "Bezplatná verze nemá časovou omezení: jedno akvárium, všechna měření, všechny připomínky a kompatibilita ryb. Aquarium Pro je jednorázový nákup bez předplatného za 4,99 € ve Francii: více akvárií a grafy vody na měsíc, tři měsíce, rok nebo celou historii. Podporuje sdílení rodiny. Na novém zařízení otevři Nastavení › Aquarium Pro a stiskni „Obnovit nákupy“."
+      },
+      {
+        "q": "Kde jsou uloženy mé údaje a co se stane, když si vyměním iPhone?",
+        "a": "Pouze na tvém zařízení: žádný účet, žádný server a žádné synchronizace mezi zařízeními. Tvá akvária, měření a ryby jsou součástí zálohy iCloud nebo lokální zálohy tvého iPhone; vrátí se, když tuto zálohu obnovíš na novém zařízení. Odstranění aplikace smaže všechno."
+      },
+      {
+        "q": "Můžu zobrazovat galony a stupně Fahrenheita?",
+        "a": "Ano: Nastavení › Jednotky, pak „Litry a °C“, „Galony a °F“ nebo „Automaticky“, který sleduje region zařízení."
+      }
+    ],
+    "privacy_summary": "Aquarium neshromažďuje žádná data, nepožaduje účet a neobsahuje reklamy ani sledovací nástroje. Tvá akvária, měření a ryby zůstanou na tvém zařízení."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Zkrátka",
+        "blocks": [
+          {
+            "p": "Aquarium neshromažďuje žádná data. Všechno, co v aplikaci zaznamenáš, zůstane na tvém iPhone nebo iPadu."
+          },
+          {
+            "ul": [
+              "Žádný účet, žádné reklamy, žádné sledování: aplikace neobsahuje žádné analytické ani reklamní nástroje a vůbec tě neidentifikuje."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Tvá akvária, měření a ryby",
+        "blocks": [
+          {
+            "p": "Tvá akvária, měření vody, úkoly údržby a seznam tvých ryb jsou uloženy v soukromém úložišti aplikace na tvém zařízení. Nejsou odesílány nikomu, ani vývojáři."
+          },
+          {
+            "p": "Odstranění aplikace smaže všechna tato data. Můžou být součástí záloh iCloud nebo místních záloh tvého zařízení, které spravuješ sám ve nastavení Apple."
+          }
+        ]
+      },
+      {
+        "h": "Upozornění",
+        "blocks": [
+          {
+            "p": "Připomínky údržby jsou naplánovány na zařízení; žádný server se do toho nezapojuje."
+          }
+        ]
+      },
+      {
+        "h": "Odkazy na pomoc",
+        "blocks": [
+          {
+            "p": "Odkazy „Pomoc a kontakt“ a „Soukromí“ otevřou tuto stránku a stránku s pomocí ve tvém prohlížeči. Aplikace tam žádné informace neposílá."
+          }
+        ]
+      },
+      {
+        "h": "Nákupy",
+        "blocks": [
+          {
+            "p": "Aquarium Pro je prodáván a spravován společností Apple. Aplikace nevidí tvůj způsob platby ani tvou identitu; čte pouze prostřednictvím App Store, zda byl nákup proveden, aby odemkla funkce."
+          }
+        ]
+      },
+      {
+        "h": "Děti",
+        "blocks": [
+          {
+            "p": "Aplikace Aquarium nezaznamenává žádná data, včetně od dětí."
+          }
+        ]
+      },
+      {
+        "h": "Změny",
+        "blocks": [
+          {
+            "p": "Pokud se tato zásada změní, nová verze bude zveřejněna na této stránce spolu s datem aktualizace."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Pro jakoukoli otázku k této zásadě: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

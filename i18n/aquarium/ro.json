@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Carnetul de bord al acvariului tău de apă dulce: apă, întreținere și compatibilitatea peștilor",
+    "contact": "O întrebare, o idee sau o problemă cu aplicația? Scrie-mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Unde încep?",
+        "a": "La prima pornire, apasă „Creează-mi acvariul”: dă-i un nume, volumul și tipul apei, „Tropical (încălzit)” sau „Apă rece”. Dacă acvariul este nou, activează „Știu când a fost pus în funcțiune acvariul”: Aquarium va urmări ciclarea. Apoi apasă „Măsurătoare nouă” pentru a nota primul test, iar apoi deschide fila „Pești” pentru a indica speciile din acvariu."
+      },
+      {
+        "q": "Cum notez un test de apă?",
+        "a": "În fila „Acvariu”, apasă „Măsurătoare nouă” și completează doar ceea ce ai măsurat: pH, amoniac, nitriți, nitrați, duritate generală (GH), duritate carbonată (KH), temperatură. Fiecare valoare este evaluată imediat, „Bun”, „Urmărește” sau „Are nevoie de reparat”, iar graficul „De făcut” îți spune ce trebuie făcut. Pentru a corecta o măsurătoare, deschide fila „Apă” și apasă-o în lista „Măsurători”; pentru a șterge, trage linia spre stânga."
+      },
+      {
+        "q": "De unde provin reperele „Ideal” și „Acceptat”?",
+        "a": "Pentru amoniac și nitriți, valoarea așteptată este zero. Nitratul este considerat bun sub 25 mg/L și acceptat până la 50 mg/L. Pentru pH, duritate generală și temperatură, Aquarium calculează intervalul potrivit pentru toate speciile din acvariu; atâta timp cât nu ai introdus niciun pește, folosește un interval general în funcție de tipul apei. Aceste repere sunt orientative și se referă la apa dulce: nu înlocuiesc sfatul unui vânzător specializat sau al unui medic veterinar."
+      },
+      {
+        "q": "Acvariu nou: ce este ciclarea?",
+        "a": "Un acvariu nou necesită aproximativ un lună pentru a trece prin ciclare: bacteriile din filtru se instalează, iar nitriții creșterea apoi scad la zero. În primele 28 de zile după punerea în funcțiune, fila Acvariu afișează „Acvariu în ciclare” cu ziua curentă. Așteaptă până când nitriții ajung din nou la zero înainte de a adăuga pești. Pentru a introduce sau corecta data, apasă „Editează” în fila Acvariu și activează „Știu când a fost pus în funcțiune acvariul”."
+      },
+      {
+        "q": "Cum funcționează mementourile de întreținere?",
+        "a": "La crearea unui acvariu, Aquarium prevede un schimb de apă la fiecare 7 zile și o curățare a filtrului la fiecare 30 de zile. Apasă o sarcină pentru a modifica programul, procentul de apă schimbat sau „Memento”; butonul + de pe cartea „Întreținere” adaugă altele, cum ar fi un test de apă sau o sarcină personală. În ziua prevăzută, primești o notificare la ora aleasă în Setări › Mementouri, urmată de o amintire după două zile și după șapte zile dacă nimic nu a fost marcat ca făcut. Apasă „Gata” când ai terminat: data următoare se calculează pornind de la acea zi."
+      },
+      {
+        "q": "Am marcat o întreținere greșit. Ce pot face?",
+        "a": "În fila Acvariu, sub lista sarcinilor, deschide „Istoric”. Glisează rândul suplimentar spre stânga pentru a-l elimina: data următoare este recalculată."
+      },
+      {
+        "q": "Nu primesc mementourile. De ce?",
+        "a": "Verifică dacă notificările sunt permise: Setări iPhone › Notificări › Aquarium. Dacă sunt dezactivate, aplicația îți arată acest lucru în Setări › Mementouri, cu linkul „Permite notificările în Setări”. Verifică și dacă „Memento” este activat pentru sarcina respectivă, precum și dacă nu este activ un mod Concentrare la ora mementourilor."
+      },
+      {
+        "q": "Cum verific dacă peștii pot trăi împreună?",
+        "a": "În fila Pești, apasă butonul +: caută după nume sau nume latin, sau filtrează după familie. Fișa unei specii arată nevoile sale, comportamentul și, sub „Cu peștii tăi”, ce ar schimba sosirea ei în acvariu. „Adaugă în acvariu” o adaugă cu numărul de indivizi. În partea de sus a filei, verdictul („Pot trăi împreună”, „Posibil, menține atenția” sau „Nu se recomandă împreună”) este urmat de motive: temperatură, pH, temperament, mărime, înotătoare, volum acvariu. Catalogul are 85 de specii de apă dulce; dacă una pe care o deții lipsește, scrie-mi."
+      },
+      {
+        "q": "Ce conține Aquarium Pro și cât costă?",
+        "a": "Versiunea gratuită nu are limită de timp: un acvariu, toate măsurătorile, toate mementourile și compatibilitatea peștilor. Aquarium Pro este o achiziție unică, fără abonament, la 4,99 € în Franța: mai multe acvarii și graficele apei, pentru un lună, trei luni, un an sau întregul istoric. Este compatibil cu partajarea familială. Pe un dispozitiv nou, deschide Setări › Aquarium Pro, apoi apasă „Restaurează achizițiile”."
+      },
+      {
+        "q": "Unde sunt salvate datele mele și ce se întâmplă dacă schimb iPhone-ul?",
+        "a": "Doar pe dispozitivul tău: nu există cont, server sau sincronizare între dispozitive. Acvarii, măsurători și pești fac parte din backup-ul iCloud sau local al iPhone-ului tău; revin când restabilești acest backup pe un nou dispozitiv. Ștergerea aplicației șterge tot."
+      },
+      {
+        "q": "Se poate afișa în galoi și grade Fahrenheit?",
+        "a": "Da: Setări › Unități, apoi „Litri și °C”, „Galoane și °F” sau „Automat”, care urmărește regiunea dispozitivului."
+      }
+    ],
+    "privacy_summary": "Aquarium nu colectează nicio dată, nu cere cont și nu conține reclame sau urmăritori. Acvariile tale, măsurătorile și peștii tăi rămân pe dispozitivul tău."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "În rezumat",
+        "blocks": [
+          {
+            "p": "Aquarium nu colectează nicio dată. Tot ce notezi în aplicație rămâne pe iPhone-ul sau iPad-ul tău."
+          },
+          {
+            "ul": [
+              "Fără cont, fără reclame, fără urmărire: aplicația nu conține instrumente de analiză sau reclame și nu te identifică în niciun fel."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Acvariile tale, măsurătorile și peștii tăi",
+        "blocks": [
+          {
+            "p": "Acvariile tale, măsurătorile de apă, sarcinile de întreținere și lista cu pești sunt salvate în stocarea privată a aplicației, pe dispozitivul tău. Nu sunt trimise către nimeni, nici măcar dezvoltatorului."
+          },
+          {
+            "p": "Ștergerea aplicației șterge toate aceste date. Acestea pot fi incluse în backup-urile iCloud sau locale ale dispozitivului tău, pe care le gestionezi tu însuți în Setările Apple."
+          }
+        ]
+      },
+      {
+        "h": "Notificări",
+        "blocks": [
+          {
+            "p": "Mementourile de întreținere sunt programate pe dispozitiv; nu este implicat niciun server."
+          }
+        ]
+      },
+      {
+        "h": "Linkuri către ajutor",
+        "blocks": [
+          {
+            "p": "Linkurile „Ajutor și contact” și „Confidențialitate” deschid această pagină și pagina de ajutor în browserul tău. Aplicația nu transmite nicio informație acolo."
+          }
+        ]
+      },
+      {
+        "h": "Achiziții",
+        "blocks": [
+          {
+            "p": "Aquarium Pro este vândut și gestionat de Apple. Aplicația nu vede nici metoda ta de plată, nici identitatea ta; citește doar, prin App Store, dacă achiziția a fost efectuată, pentru a debloca funcțiile."
+          }
+        ]
+      },
+      {
+        "h": "Copii",
+        "blocks": [
+          {
+            "p": "Aquarium nu colectează nicio dată, inclusiv de la copii."
+          }
+        ]
+      },
+      {
+        "h": "Modificări",
+        "blocks": [
+          {
+            "p": "Dacă această politică se modifică, versiunea nouă va fi publicată pe această pagină cu data actualizării."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pentru orice întrebare legată de această politică: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

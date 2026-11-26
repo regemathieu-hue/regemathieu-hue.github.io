@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Az akváriumod édesvízi naplója: víz, karbantartás és halak kompatibilitása",
+    "contact": "Kérdés, ötlet vagy probléma az alkalmazással? Írj nekem:<br>{email}",
+    "faq": [
+      {
+        "q": "Hol kezdjem?",
+        "a": "Az első indításkor érintsd meg a „Akvarisztikai létrehozása” gombot: add meg a nevét, térfogatát és víz típusát, „Trópusi (fűtött)” vagy „Hidegvíz”. Ha az akvárium új, kapcsold be a „Tudom, mikor indítottad be az akváriumot” beállítást: az Aquarium követni fogja a beüzemelést. Ezután érintsd meg a „Új mérés” gombot a legelső teszt rögzítéséhez, majd nyisd meg a Halak fület, hogy beírd az akváriumodban lévő fajokat."
+      },
+      {
+        "q": "Hogyan rögzítek egy vízmérést?",
+        "a": "Az Akvárium fülön érintsd meg a „Új mérés” gombot, és töltsd ki csak azt, amit mértél: pH, ammónia, nitrit, nitrát, keménység (GH), szénsavas keménység (KH), hőmérséklet. Minden érték azonnal megjelenik „Jó”, „Figyelj” vagy „Kijavítandó” kategóriában, és a „Elvégzendő” grafikon megmutatja, mit kell tenned. Egy mérés javításához nyisd meg az „Víz” fület, majd érintsd meg a „Mérések” listában a megfelelő bejegyzést; törléshez húzd a sorát balra."
+      },
+      {
+        "q": "Hol származnak a „Ideális” és „Tűrhető” határértékek?",
+        "a": "Az ammónia és a nitrit esetén a várható érték nulla. A nitrátot alacsonyabb, mint 25 mg/L értékkel „Jó”-nak minősítjük, 50 mg/L-ig pedig „Tűrhető”. A pH, a teljes keménység és a hőmérséklet esetén az Aquarium kiszámolja azt a tartományt, amely minden akváriumban lévő fajnak megfelel; amíg nem adtál meg halakat, általános tartományt használ a víz típusa alapján. Ezek az irányelvek csak tájékoztató jellegűek és édesvízre vonatkoznak: nem helyettesítik a szaküzlet vagy állatorvosi tanácsot."
+      },
+      {
+        "q": "Az akváriumom új: mi a beüzemelés?",
+        "a": "Egy új akvárium kb. egy hónapot vesz igénybe a beüzemeléshez: a szűrőbaktériumok beállnak, és a nitrit szintje emelkedik, majd visszaesik nullára. A beüzemelést követő 28 napig az Akvárium fülön „Akvárium beüzemelése” jelenik meg a jelenlegi nappal. Várj addig, amíg a nitrit szintje vissza nem esett nullára, mielőtt halakat adnál hozzá. A dátum megadásához vagy javításához érintsd meg az Akvárium fülön a „Szerkesztés” gombot, majd kapcsold be az „Tudom, mikor indítottad be az akváriumot” beállítást."
+      },
+      {
+        "q": "Hogyan működnek a karbantartási emlékeztetők?",
+        "a": "Az akvárium létrehozásakor az Aquarium minden 7. napon vízcsere, minden 30. napon pedig szűrőtisztítást tervez meg. Érintsd meg egy feladatot a ritmus, a vízmennyiség vagy a „Emlékeztess” módosításához; az „Karbantartás” kártyán lévő + gomb segítségével újabb feladatokat is hozzáadhatsz, például víztesztet vagy saját feladatot. A megjelölt napon a beállított időpontban értesítést kapsz a Beállítások › Emlékeztetők menüben megadott időpontban, majd két és hét nap múlva is újabb értesítés jön, ha semmi nem lett bejelölve. Amikor elkészültél, érintsd meg a „Kész” gombot: a következő dátum ebből a naptól számítódik."
+      },
+      {
+        "q": "Hibásan jelöltem be egy karbantartási feladatot. Mit tegyek?",
+        "a": "Az Akvárium fülön a feladatok listája alatt nyisd meg az „Előzmények” menüt. Húzd balra a felesleges sort, hogy eltávolítsd: a következő dátum újra számítódik."
+      },
+      {
+        "q": "Nem kapok emlékeztetőket. Miért?",
+        "a": "Ellenőrizd, hogy az értesítések engedélyezettek legyenek: iPhone Beállítások › Értesítések › Aquarium. Ha le vannak tiltva, az alkalmazás erről tájékoztat a Beállítások › Emlékeztetők menüben, ahol a „Értesítések engedélyezése a Beállításokban” hivatkozás található. Ellenőrizd továbbá, hogy a megfelelő feladathoz be van kapcsolva a „Emlékeztess”, valamint hogy az értesítés időpontjában nem aktív a Koncentráció mód."
+      },
+      {
+        "q": "Hogyan ellenőrizhetem, hogy a halak együtt élhetnek-e?",
+        "a": "A Halak fülön nyomd meg az + gombot: keress név vagy latin név alapján, vagy szűr család szerint. Egy faj lapja megmutatja a szükségleteit, viselkedését, valamint az „A halaidkal” alatt azt, hogy mi változna meg az akváriumban a beérkezésükkel. A „Hozzáadás az akváriumba” hozzáadja a példányok számával. A fül tetején a döntés („Együtt élhetnek”, „Lehetséges, figyelj rá” vagy „Nem érdemes együtt tartani”) az alábbi okokkal együtt jelenik meg: hőmérséklet, pH, viselkedés, méret, úszók, akvárium térfogata. A katalógus 85 édesvízi fajt tartalmaz; ha hiányzik az általad tartott faj, írj nekem."
+      },
+      {
+        "q": "Mit tartalmaz az Aquarium Pro, és mennyibe kerül?",
+        "a": "A ingyenes verzióban nincs időhatár: egy akvárium, minden mérés, minden emlékeztető és a halak kompatibilitása. Az Aquarium Pro egyszeri vásárlás, nincs előfizetés, 4,99 €-ért Franciaországban: több akvárium és vízgrafikonok egy hónapra, három hónapra, egy évre vagy az egész előzményekre. A családi megosztás támogatott. Új eszközön nyisd meg a Beállítások › Aquarium Pro menüt, majd kattints a „Vásárlások visszaállítása” gombra."
+      },
+      {
+        "q": "Hol tárolódnak az adatok, és mi történik, ha cserélem az iPhone-om?",
+        "a": "Csak a saját eszközödön: nincs fiók, nincs kiszolgáló és nincs szinkronizálás más eszközök között. Az akváriumok, mérések és halak része az iPhone-od iCloud vagy helyi biztonsági mentésének; visszatérnek, amikor a biztonsági mentést új eszközön visszaállítod. Az alkalmazás törlése minden adatot töröl."
+      },
+      {
+        "q": "Megjeleníthetők a gallónok és a Fahrenheit fokok?",
+        "a": "Igen: Beállítások › Egységek, majd „Liter és °C”, „Gallón és °F” vagy „Automatikus”, amely a készülék régióját követi."
+      }
+    ],
+    "privacy_summary": "Az Aquarium semmilyen adatot nem gyűjt, nem kér fiókot, és nem tartalmaz reklámokat vagy nyomkövetőket. Az akváriumod, a méréseid és a halaid az eszközödön maradnak."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Röviden",
+        "blocks": [
+          {
+            "p": "Az Aquarium semmilyen adatot nem gyűjt. Minden, amit az alkalmazásban rögzítesz, az iPhone-odon vagy iPad-odon marad."
+          },
+          {
+            "ul": [
+              "Nincs fiók, nincs reklám, nincs nyomkövetés: az alkalmazás nem tartalmaz elemzési vagy hirdetési eszközöket, és semmilyen módon nem azonosít téged."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Az akváriumod, a méréseid és a halaid",
+        "blocks": [
+          {
+            "p": "Az akváriumok, a vízmérések, a karbantartási feladatok és a halaid listája az alkalmazás privát tárolójában, az eszközödön van mentve. Nem kerülnek továbbításra senkinek, még a fejlesztőnek sem."
+          },
+          {
+            "p": "Az alkalmazás törlése minden ilyen adatot töröl. Ezek belefoglalhatók az eszközöd iCloud vagy helyi biztonsági másolataiba, amelyeket te kezelhetsz az Apple beállításaiban."
+          }
+        ]
+      },
+      {
+        "h": "Értesítések",
+        "blocks": [
+          {
+            "p": "A karbantartási emlékeztetők a készüléken vannak beállítva; nincs szükség kiszolgálóra."
+          }
+        ]
+      },
+      {
+        "h": "Hivatkozások a súgóhoz",
+        "blocks": [
+          {
+            "p": "A „Súgó és kapcsolat” és a „Adatvédelem” hivatkozások megnyitják ezt az oldalt és a súgóoldalt a böngésződben. Az alkalmazás semmit nem továbbít ezekhez."
+          }
+        ]
+      },
+      {
+        "h": "Vásárlások",
+        "blocks": [
+          {
+            "p": "Az Aquarium Pro-t az Apple értékesíti és kezeli. Az alkalmazás nem látja a fizetési módot vagy az identitásodat; csak az App Store-on keresztül olvassa, hogy megvolt-e a vásárlás, hogy feloldja a funkciókat."
+          }
+        ]
+      },
+      {
+        "h": "Gyerekek",
+        "blocks": [
+          {
+            "p": "Az Aquarium semmilyen adatot nem gyűjt, még gyerekektől sem."
+          }
+        ]
+      },
+      {
+        "h": "Módosítások",
+        "blocks": [
+          {
+            "p": "Ha ez a szabályozás megváltozik, az új verzió ezen a lapon frissítési dátummal kerül közzétételre."
+          }
+        ]
+      },
+      {
+        "h": "Kapcsolat",
+        "blocks": [
+          {
+            "p": "Bármilyen kérdésed van ezzel a szabályozással kapcsolatban: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

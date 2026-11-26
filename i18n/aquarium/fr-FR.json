@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Le carnet de bord de ton aquarium d'eau douce : eau, entretien et compatibilité des poissons",
+    "contact": "Une question, une idée ou un souci avec l'application ? Écris-moi :<br>{email}",
+    "faq": [
+      {
+        "q": "Par où commencer ?",
+        "a": "Au premier lancement, touche « Créer mon bac » : donne-lui un nom, son volume et son type d'eau, « Tropical (chauffé) » ou « Eau froide ». Si le bac est récent, active « Je connais la date de mise en eau » : Aquarium suivra son rodage. Touche ensuite « Nouvelle mesure » pour noter ton premier test, puis ouvre l'onglet Poissons pour indiquer les espèces de ton bac."
+      },
+      {
+        "q": "Comment noter un test de l'eau ?",
+        "a": "Dans l'onglet Bac, touche « Nouvelle mesure » et remplis seulement ce que tu as mesuré : pH, ammoniaque, nitrites, nitrates, dureté totale (GH), dureté carbonatée (KH), température. Chaque valeur est jugée tout de suite, « Bon », « À surveiller » ou « À corriger », et la carte « À faire » te dit quoi faire. Pour corriger un relevé, ouvre l'onglet Eau et touche-le dans la liste « Relevés » ; pour le supprimer, fais glisser sa ligne vers la gauche."
+      },
+      {
+        "q": "D'où viennent les repères « Idéal » et « Toléré » ?",
+        "a": "Pour l'ammoniaque et les nitrites, la valeur attendue est zéro. Les nitrates sont jugés bons sous 25 mg/L et tolérés jusqu'à 50 mg/L. Pour le pH, la dureté totale et la température, Aquarium calcule la plage qui convient à toutes les espèces de ton bac ; tant que tu n'as indiqué aucun poisson, il prend une plage générale selon le type d'eau. Ces repères sont indicatifs et concernent l'eau douce : ils ne remplacent pas l'avis d'un vendeur spécialisé ou d'un vétérinaire."
+      },
+      {
+        "q": "Mon bac est neuf : qu'est-ce que le rodage ?",
+        "a": "Un bac neuf met environ un mois à se roder : les bactéries du filtre s'installent, et les nitrites montent puis retombent à zéro. Pendant 28 jours après la mise en eau, l'onglet Bac affiche « Bac en rodage » avec le jour en cours. Attends que les nitrites soient retombés à zéro avant d'ajouter des poissons. Pour indiquer ou corriger la date, touche « Modifier » dans l'onglet Bac et active « Je connais la date de mise en eau »."
+      },
+      {
+        "q": "Comment fonctionnent les rappels d'entretien ?",
+        "a": "À la création d'un bac, Aquarium prévoit un changement d'eau tous les 7 jours et un nettoyage du filtre tous les 30 jours. Touche un entretien pour changer son rythme, la part d'eau changée ou « Me le rappeler » ; le bouton + de la carte « Entretien » en ajoute d'autres, comme un test de l'eau ou une tâche à toi. Le jour prévu, tu reçois une notification à l'heure choisie dans Réglages › Rappels, puis une relance deux jours et sept jours plus tard si rien n'est coché. Touche « Fait » quand c'est fait : la prochaine date se calcule à partir de ce jour-là."
+      },
+      {
+        "q": "J'ai coché un entretien par erreur, que faire ?",
+        "a": "Dans l'onglet Bac, sous la liste des entretiens, ouvre « Historique ». Fais glisser la ligne en trop vers la gauche pour la retirer : la prochaine date est recalculée."
+      },
+      {
+        "q": "Je ne reçois pas les rappels, pourquoi ?",
+        "a": "Vérifie que les notifications sont autorisées : Réglages de l'iPhone › Notifications › Aquarium. Si elles sont coupées, l'application le signale dans Réglages › Rappels, avec le lien « Autoriser les notifications dans Réglages ». Vérifie aussi que « Me le rappeler » est activé pour l'entretien concerné, et qu'un mode Concentration n'est pas actif à l'heure des rappels."
+      },
+      {
+        "q": "Comment vérifier si des poissons peuvent vivre ensemble ?",
+        "a": "Dans l'onglet Poissons, touche le bouton + : cherche par nom ou par nom latin, ou filtre par famille. La fiche d'une espèce montre ses besoins, son comportement et, sous « Avec tes poissons », ce que son arrivée changerait dans ton bac. « Ajouter au bac » l'inscrit avec le nombre d'individus. En haut de l'onglet, le verdict (« Ils peuvent vivre ensemble », « Possible, à surveiller » ou « Cohabitation à éviter ») est suivi des raisons : température, pH, caractère, taille, nageoires, volume du bac. Le catalogue compte 85 espèces d'eau douce ; s'il en manque une que tu élèves, écris-moi."
+      },
+      {
+        "q": "Que contient Aquarium Pro et combien coûte-t-il ?",
+        "a": "La version gratuite n'a pas de limite de durée : un bac, toutes les mesures, tous les rappels et la compatibilité des poissons. Aquarium Pro est un achat unique, sans abonnement, de 4,99 € en France : plusieurs bacs et les graphiques de l'eau, sur un mois, trois mois, un an ou tout l'historique. Il est compatible avec le partage familial. Sur un nouvel appareil, ouvre Réglages › Aquarium Pro, puis touche « Restaurer mes achats »."
+      },
+      {
+        "q": "Où sont enregistrées mes données, et que se passe-t-il si je change d'iPhone ?",
+        "a": "Uniquement sur ton appareil : il n'y a ni compte, ni serveur, ni synchronisation entre appareils. Tes bacs, tes mesures et tes poissons font partie de la sauvegarde iCloud ou locale de ton iPhone ; ils reviennent quand tu restaures cette sauvegarde sur un nouvel appareil. Supprimer l'application efface tout."
+      },
+      {
+        "q": "Peut-on afficher les gallons et les degrés Fahrenheit ?",
+        "a": "Oui : Réglages › Unités, puis « Litres et °C », « Gallons et °F » ou « Automatique », qui suit la région de l'appareil."
+      }
+    ],
+    "privacy_summary": "Aquarium ne collecte aucune donnée, ne demande aucun compte et ne contient ni publicité ni traceur. Tes bacs, tes mesures et tes poissons restent sur ton appareil."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En résumé",
+        "blocks": [
+          {
+            "p": "Aquarium ne collecte aucune donnée. Tout ce que tu notes dans l'application reste sur ton iPhone ou ton iPad."
+          },
+          {
+            "ul": [
+              "Pas de compte, pas de publicité, pas de suivi : l'application ne contient aucun outil d'analyse ni de publicité, et ne t'identifie d'aucune manière."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Tes bacs, tes mesures et tes poissons",
+        "blocks": [
+          {
+            "p": "Tes bacs, tes relevés de l'eau, tes entretiens et la liste de tes poissons sont enregistrés dans le stockage privé de l'application, sur ton appareil. Ils ne sont transmis à personne, pas même au développeur."
+          },
+          {
+            "p": "Supprimer l'application efface toutes ces données. Elles peuvent être incluses dans les sauvegardes iCloud ou locales de ton appareil, que tu gères toi-même dans les réglages d'Apple."
+          }
+        ]
+      },
+      {
+        "h": "Notifications",
+        "blocks": [
+          {
+            "p": "Les rappels d'entretien sont programmés sur l'appareil ; aucun serveur n'est impliqué."
+          }
+        ]
+      },
+      {
+        "h": "Liens vers l'aide",
+        "blocks": [
+          {
+            "p": "Les liens « Aide et contact » et « Confidentialité » ouvrent cette page et la page d'aide dans ton navigateur. L'application n'y transmet aucune information."
+          }
+        ]
+      },
+      {
+        "h": "Achats",
+        "blocks": [
+          {
+            "p": "Aquarium Pro est vendu et géré par Apple. L'application ne voit ni ton moyen de paiement ni ton identité ; elle lit seulement, via l'App Store, si l'achat a été fait, pour débloquer les fonctions."
+          }
+        ]
+      },
+      {
+        "h": "Enfants",
+        "blocks": [
+          {
+            "p": "Aquarium ne collecte aucune donnée, y compris auprès des enfants."
+          }
+        ]
+      },
+      {
+        "h": "Modifications",
+        "blocks": [
+          {
+            "p": "Si cette politique change, la nouvelle version sera publiée sur cette page avec sa date de mise à jour."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "Pour toute question concernant cette politique : {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Knel za tvoj akvarij s vodom: voda, održavanje i kompatibilnost riba",
+    "contact": "Pitanje, ideja ili problem s aplikacijom? Pošalji mi poruku:<br>{email}",
+    "faq": [
+      {
+        "q": "Odakle početi?",
+        "a": "Na prvom pokretanju dodirni „Kreiraj svoj akvarij“: daj mu ime, volumen i vrstu vode, „Tropski (grijač)“ ili „Hladnovodni“. Ako je akvarij nov, uključi „Znam kada je akvarij pokrenut“: Aquarium će pratiti njegovo pokretanje akvarija. Zatim dodirni „Novo mjerenje“ kako bi zabilježio prvo testiranje, a zatim otvori karticu „Ribe“ kako bi naveo vrste u svom akvariju."
+      },
+      {
+        "q": "Kako zabilježiti test vode?",
+        "a": "U kartici „Akvarij“ dodirni „Novo mjerenje“ i popuni samo ono što si izmjerio: pH, amonijak, nitrit, nitrat, tvrdoća ukupna (GH), tvrdoća karbonatna (KH), temperatura. Svaka vrijednost odmah se ocjenjuje kao „Dobro“, „Nadzor“ ili „Potrebno popraviti“, a kartica „Učiniti“ ti kaže što treba učiniti. Da ispraviš mjerenje, otvori karticu „Voda“ i dodirni ga u popisu „Mjerenja“; da ga obrišeš, povuci njegov red prema lijevo."
+      },
+      {
+        "q": "Odakle dolaze oznake „Idealno“ i „Prihvaćeno“?",
+        "a": "Za amonijak i nitrit očekivana vrijednost je nula. Nitrat se smatra dobrom ispod 25 mg/L i prihvaćen do 50 mg/L. Za pH, tvrdoću ukupnu i temperaturu, Aquarium izračunava raspon koji odgovara svim vrstama u tvojem akvariju; dok nismo unijeli ribe, koristi opći raspon prema vrsti vode. Ove smjernice su samo upute i vrijede za slatku vodu: ne zamjenjuju savjet prodavača specijaliziranog trgovca ili veterinarne stručnosti."
+      },
+      {
+        "q": "Moj akvarij je nov: što je pokretanje akvarija?",
+        "a": "Novi akvarij traje otprilike mjesec dana za pokretanje akvarija: bakterije filtra se ustanove, a nitrit poraste pa opet padne na nulu. Tijekom 28 dana nakon pokretanja akvarija, kartica Akvarij prikazuje „Pokretanje akvarija“ s trenutnim danom. Pričekaj dok nitrit ne padne nazad na nulu prije nego što dodaješ ribe. Da bi unio ili ispravio datum, dodirni „Uredi“ u kartici Akvarij i aktiviraj „Znam kada je akvarij pokrenut“."
+      },
+      {
+        "q": "Kako rade podsjetnici za održavanje?",
+        "a": "Pri kreiranju akvarija, Aquarium planira izmjenu vode svakih 7 dana i čišćenje filtra svakih 30 dana. Dodirni zadatak da promijeniš raspored, dio vode koji se mjenja ili „Podsjeti me“; gumb + na kartici Održavanje dodaje još, poput testa vode ili zadatka po tvom izboru. Na dan kada je to predviđeno, dobiješ obavijest u odabranom satu u Postavkama › Podsjetnici, a zatim ponovnu obavijest dva i sedam dana kasnije ako ništa nije označeno. Dodirni „Gotovo“ kad je završeno: sljedeći datum se izračunava od tog dana."
+      },
+      {
+        "q": "Pogrešno sam označio održavanje, što mogu učiniti?",
+        "a": "U kartici Akvarij, ispod popisa zadataka, otvori „Povijest“. Povuci redak koji je višak prema lijevo da ga ukloniš: sljedeći datum se ponovno izračuna."
+      },
+      {
+        "q": "Ne dobivam podsjetnike, zašto?",
+        "a": "Provjeri je li omogućeno slanje obavijesti: Postavke iPhone-a › Obavijesti › Aquarium. Ako su isključene, aplikacija to prikazuje u Postavkama › Podsjetnici, s poveznicom „Dopusti obavijesti u Postavkama“. Provjeri i je li za zadatak aktivirano „Podsjeti me“, te da nije aktiviran način Fokus u trenutku kada bi trebao doći podsjetnik."
+      },
+      {
+        "q": "Kako provjeriti jesu li ribe u stanju živjeti zajedno?",
+        "a": "U kartici Ribe, dodirni gumb +: pretraži po imenu ili latinskom imenu, ili filtriraj po obitelji. Kartica vrste prikazuje njezine potrebe, ponašanje i, ispod „S tvojim ribama“, što bi njezino dolazak promijenio u tvom akvariju. „Dodaj u akvarij“ dodaje je s brojem pojedinaca. Na vrhu kartice, presuda („Mogu živjeti zajedno“, „Moguće, nadziraj pažljivo“ ili „Najbolje ne držati zajedno“) prati razlozi: temperatura, pH, karakter, veličina, peraje, volumen akvarija. Katalog ima 85 vrsta slatke vode; ako nedostaje ona koju uzgajate, pišite mi."
+      },
+      {
+        "q": "Što uključuje Aquarium Pro i koliko košta?",
+        "a": "Besplatna verzija nema ograničenje trajanja: jedan akvarij, sva mjerenja, svi podsjetnici i kompatibilnost riba. Aquarium Pro je jednokratna kupnja bez pretplate, za 4,99 € u Francuskoj: više akvarija i grafikoni vode, za mjesec, tri mjeseca, godinu ili cijelu povijest. Podržava dijeljenje porodice. Na novom uređaju otvori Postavke › Aquarium Pro, a zatim dodirni „Vrati kupnju“."
+      },
+      {
+        "q": "Gdje su pohranjene moje podatke, i što se događa ako promijenim iPhone?",
+        "a": "Samo na tvom uređaju: nema naloga, servera ni sinkronizacije između uređaja. Tvoji akvariji, mjerenja i ribe su dio iCloud ili lokalne sigurnosne kopije tvog iPhone-a; vraćaju se kada obnoviš tu sigurnosnu kopiju na novom uređaju. Brisanje aplikacije briše sve."
+      },
+      {
+        "q": "Može li se prikazivati galon i stupnjevi Fahrenheita?",
+        "a": "Da: Postavke › Jedinice, a zatim „Litri i °C“, „Galon i °F“ ili „Automatski“, koji prati regiju uređaja."
+      }
+    ],
+    "privacy_summary": "Aquarium ne prikuplja nikakve podatke, ne traži niti jedan račun i nema reklame ni praćenja. Tvoji akvariji, mjerenja i ribe ostaju na tvom uređaju."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ukratko",
+        "blocks": [
+          {
+            "p": "Aquarium ne prikuplja nikakve podatke. Sve što uneseš u aplikaciju ostaje na tvom iPhoneu ili iPadu."
+          },
+          {
+            "ul": [
+              "Bez računa, bez reklama, bez praćenja: aplikacija nema alate za analitiku ni reklame i ne identificira te na bilo koji način."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Tvoji akvariji, mjerenja i ribe",
+        "blocks": [
+          {
+            "p": "Tvoji akvariji, mjerenja vode, zadaci održavanja i popis tvojih riba pohranjuju se u privatni prostor aplikacije na tvom uređaju. Nisu poslani nikome, čak ni razvijatelju."
+          },
+          {
+            "p": "Brisanje aplikacije briše sve ove podatke. Mogu biti uključeni u iCloud ili lokalne sigurnosne kopije tvog uređaja, koje upravljaš sam u postavkama Applea."
+          }
+        ]
+      },
+      {
+        "h": "Obavijesti",
+        "blocks": [
+          {
+            "p": "Podsjetnici za održavanje su postavljeni na uređaju; nema uključenog poslužitelja."
+          }
+        ]
+      },
+      {
+        "h": "Poveznice ka pomoći",
+        "blocks": [
+          {
+            "p": "Poveznice „Pomoć i kontakt“ i „Privatnost“ otvaraju ovu stranicu i stranicu s pomoći u tvom pregledniku. Aplikacija ne prenosi nikakve informacije na te stranice."
+          }
+        ]
+      },
+      {
+        "h": "Kupnje",
+        "blocks": [
+          {
+            "p": "Aquarium Pro prodaje i upravlja Apple. Aplikacija ne vidi ni tvoj način plaćanja ni tvoju identitet; čita samo, putem App Storea, je li kupnja napravljena, kako bi omogućila funkcije."
+          }
+        ]
+      },
+      {
+        "h": "Djecu",
+        "blocks": [
+          {
+            "p": "Aquarium ne prikuplja nikakve podatke, uključujući i od djece."
+          }
+        ]
+      },
+      {
+        "h": "Promjene",
+        "blocks": [
+          {
+            "p": "Ako se ova politika promijeni, nova verzija bit će objavljena na ovoj stranici s datumom ažuriranja."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Za bilo kakvo pitanje vezano uz ovu politiku: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

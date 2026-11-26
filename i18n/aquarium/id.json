@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Catatanku untuk akuarium air tawarmu: air, perawatan, dan kompatibilitas ikan",
+    "contact": "Pertanyaan, ide, atau masalah dengan aplikasi? Tulis padaku:<br>{email}",
+    "faq": [
+      {
+        "q": "Mulai dari mana?",
+        "a": "Pada peluncuran pertama, sentuh \"Buat Akuarium Saya\": beri nama, volume, dan jenis airnya, \"Tropis (dengan pemanas)\" atau \"Air Dingin\". Jika akuarium barusan dipasang, aktifkan \"Saya tahu kapan akuarium ini dipasang\": Aquarium akan mengikuti proses cycling. Kemudian sentuh \"Pengukuran Baru\" untuk mencatat hasil tes pertamamu, lalu buka tab Ikan untuk memasukkan spesies di akuariummu."
+      },
+      {
+        "q": "Cara mencatat pengukuran air?",
+        "a": "Di tab Akuarium, sentuh \"Pengukuran Baru\" dan isi hanya nilai yang telah kamu ukur: pH, amonia, nitrit, nitrat, kesadahan total (GH), kesadahan karbonat (KH), suhu. Setiap nilai akan dinilai langsung, \"Baik\", \"Perhatikan\", atau \"Perlu diperbaiki\", dan grafik \"Harus Dilakukan\" akan menunjukkan apa yang harus dilakukan. Untuk memperbaiki pengukuran, buka tab Air dan sentuh pengukuran tersebut di daftar \"Pengukuran\"; untuk menghapusnya, geser barisnya ke kiri."
+      },
+      {
+        "q": "Dari mana asal angka \"Ideal\" dan \"Dapat Diterima\"?",
+        "a": "Untuk amonia dan nitrit, nilai yang diharapkan adalah nol. Nitrat dinilai baik di bawah 25 mg/L dan dapat diterima hingga 50 mg/L. Untuk pH, kesadahan total, dan suhu, Aquarium menghitung rentang yang sesuai untuk semua spesies di akuariummu; selama belum ada ikan yang dimasukkan, digunakan rentang umum berdasarkan jenis air. Angka-angka ini bersifat petunjuk dan berlaku untuk air tawar: tidak menggantikan saran dari toko khusus atau dokter hewan."
+      },
+      {
+        "q": "Akuarium saya baru: apa itu cycling?",
+        "a": "Akuarium baru membutuhkan sekitar satu bulan untuk cycling: bakteri filter menetap, nitrit naik lalu turun kembali ke nol. Selama 28 hari setelah akuarium dipasang, tab Akuarium menampilkan “Akuarium sedang cycling” dengan hari saat ini. Tunggu hingga nitrit turun kembali ke nol sebelum menambahkan ikan. Untuk memasukkan atau memperbaiki tanggal, sentuh “Sunting” di tab Akuarium dan aktifkan “Saya tahu kapan akuarium ini dipasang”."
+      },
+      {
+        "q": "Bagaimana cara kerja pengingat perawatan?",
+        "a": "Saat membuat akuarium, Aquarium merencanakan ganti air setiap 7 hari dan pembersihan filter setiap 30 hari. Sentuh perawatan untuk mengubah jadwal, jumlah air yang diganti, atau “Ingatkan Saya”; tombol + di kartu “Perawatan” menambahkan yang lain, seperti tes air atau tugas buatanmu sendiri. Pada hari yang ditentukan, kamu akan menerima notifikasi pada waktu yang dipilih di Pengaturan › Pengingat, lalu pengingat ulang dua hari dan tujuh hari kemudian jika belum dicentang. Sentuh “Selesai” saat selesai: tanggal berikutnya dihitung dari hari itu."
+      },
+      {
+        "q": "Saya menandai perawatan secara tidak sengaja, apa yang harus saya lakukan?",
+        "a": "Di tab Akuarium, di bawah daftar perawatan, buka “Riwayat”. Geser baris yang berlebih ke kiri untuk menghapusnya: tanggal berikutnya akan dihitung ulang."
+      },
+      {
+        "q": "Saya tidak menerima pengingat, mengapa?",
+        "a": "Periksa apakah notifikasi diizinkan: Pengaturan iPhone › Notifikasi › Aquarium. Jika dinonaktifkan, aplikasi akan menunjukkannya di Pengaturan › Pengingat, dengan tautan “Izinkan Notifikasi di Pengaturan”. Periksa juga bahwa “Ingatkan Saya” aktif untuk perawatan tersebut, dan tidak ada mode Fokus yang sedang aktif saat pengingat muncul."
+      },
+      {
+        "q": "Bagaimana cara memeriksa apakah ikan bisa hidup bersama?",
+        "a": "Di tab Ikan, ketuk tombol +: cari berdasarkan nama atau nama latin, atau filter berdasarkan keluarga. Halaman spesies menunjukkan kebutuhan, perilaku, dan, di bawah 'Dengan Ikanmu', apa yang akan berubah jika ikan tersebut dipindahkan ke akuariummu. 'Tambah ke Akuarium' akan menambahkan ikan tersebut dengan jumlah individu. Di bagian atas tab, kesimpulan ('Bisa hidup bersama', 'Mungkin, tetap waspada', atau 'Tidak disarankan hidup bersama') diikuti alasan-alasannya: suhu, pH, sifat, ukuran, sirip, dan volume akuarium. Katalog berisi 85 spesies air tawar; jika ada spesies yang kau pelihara tetapi tidak tercantum, kirimi saya."
+      },
+      {
+        "q": "Apa saja yang termasuk dalam Aquarium Pro dan berapa harganya?",
+        "a": "Versi gratis tidak memiliki batas waktu: satu akuarium, semua pengukuran, semua pengingat, dan kompatibilitas ikan. Aquarium Pro adalah pembelian sekali pakai tanpa langganan, seharga 4,99 € di Prancis: beberapa akuarium dan grafik air, selama satu bulan, tiga bulan, satu tahun, atau seluruh riwayat. Fitur ini kompatibel dengan berbagi keluarga. Di perangkat baru, buka Pengaturan › Aquarium Pro, lalu ketuk 'Pulihkan Pembelian'."
+      },
+      {
+        "q": "Di mana data saya disimpan, dan apa yang terjadi jika saya ganti iPhone?",
+        "a": "Hanya di perangkatmu: tidak ada akun, server, atau sinkronisasi antar perangkat. Akuarium, pengukuran, dan ikanmu termasuk dalam cadangan iCloud atau lokal iPhone-mu; data tersebut akan kembali saat kamu memulihkan cadangan itu di perangkat baru. Menghapus aplikasi akan menghapus semua data."
+      },
+      {
+        "q": "Apakah saya bisa menampilkan galon dan derajat Fahrenheit?",
+        "a": "Ya: Pengaturan › Satuan, lalu pilih 'Liter dan °C', 'Galon dan °F', atau 'Otomatis', yang akan mengikuti wilayah perangkatmu."
+      }
+    ],
+    "privacy_summary": "Aquarium tidak mengumpulkan data apa pun, tidak meminta akun, dan tidak memiliki iklan atau pelacak. Akuarium, pengukuran, dan ikanmu tetap ada di perangkatmu."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Singkatnya",
+        "blocks": [
+          {
+            "p": "Aquarium tidak mengumpulkan data. Semua yang kamu catat dalam aplikasi tetap ada di iPhone atau iPad-mu."
+          },
+          {
+            "ul": [
+              "Tidak perlu akun, tidak ada iklan, tidak ada pelacakan: aplikasi ini tidak memiliki alat analitik atau iklan, dan tidak mengidentifikasimu dengan cara apa pun."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Akuarium, pengukuran, dan ikanmu",
+        "blocks": [
+          {
+            "p": "Akuarium, pengukuran air, tugas perawatan, serta daftar ikanmu disimpan di penyimpanan pribadi aplikasi, di perangkatmu. Data tersebut tidak dikirim ke siapa pun, bahkan ke pengembangnya pun tidak."
+          },
+          {
+            "p": "Menghapus aplikasi akan menghapus semua data ini. Data tersebut bisa termasuk dalam cadangan iCloud atau lokal perangkatmu, yang kamu kelola sendiri di pengaturan Apple."
+          }
+        ]
+      },
+      {
+        "h": "Notifikasi",
+        "blocks": [
+          {
+            "p": "Pengingat perawatan dijadwalkan di perangkat; tidak ada server yang terlibat."
+          }
+        ]
+      },
+      {
+        "h": "Tautan ke bantuan",
+        "blocks": [
+          {
+            "p": "Tautan “Bantuan dan kontak” dan “Privasi” akan membuka halaman ini dan halaman bantuan di browser-mu. Aplikasi tidak mengirimkan informasi apa pun ke sana."
+          }
+        ]
+      },
+      {
+        "h": "Pembelian",
+        "blocks": [
+          {
+            "p": "Aquarium Pro dijual dan dikelola oleh Apple. Aplikasi tidak melihat metode pembayaran atau identitasmu; aplikasi hanya membaca, melalui App Store, apakah pembelian telah dilakukan, untuk membuka fitur-fiturnya."
+          }
+        ]
+      },
+      {
+        "h": "Anak-anak",
+        "blocks": [
+          {
+            "p": "Aquarium tidak mengumpulkan data apa pun, termasuk dari anak-anak."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika kebijakan ini berubah, versi terbaru akan diterbitkan di halaman ini bersama tanggal pembaruan."
+          }
+        ]
+      },
+      {
+        "h": "Kontak",
+        "blocks": [
+          {
+            "p": "Untuk pertanyaan apa pun mengenai kebijakan ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

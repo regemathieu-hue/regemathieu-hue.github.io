@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Akvaarioni loki: vesi, hoito ja kalojen yhteensopivuus",
+    "contact": "Kysymys, idea tai ongelma sovelluksen kanssa? Kirjoita minulle:<br>{email}",
+    "faq": [
+      {
+        "q": "Mistä aloittaa?",
+        "a": "Ensimmäisellä käynnistyksellä kosketa \"Luo akvaarioni\": anna sille nimi, tilavuus ja vesityyppi, \"Tropiset (lämmitetty)\" tai \"Kylmävesi\". Jos akvaario on uusi, aktivoi \"Tiedän, milloin akvaario alustettiin\": Aquarium seuraa kypsytystä. Kosketa sitten \"Uusi mittaus\", jotta voit kirjata ensimmäisen testin, ja avaa sitten kohta \"Kalat\" lisätäksesi akvaarioni lajit."
+      },
+      {
+        "q": "Miten merkitään veden testi?",
+        "a": "Kohtaan \"Akvaario\" kosketa \"Uusi mittaus\" ja täytä vain mitatut arvot: pH, ammoniakki, nitriitti, nitraatti, kovuus (GH), hiilihapotuksesta johtuva kovuus (KH), lämpötila. Jokainen arvo arvioidaan välittömästi: \"Hyvä\", \"Valvottava\" tai \"Tarvitsee korjata\", ja kaavio \"Tehtävät\" kertoo, mitä tehdä. Korjataksesi mittauksen, avaa kohta \"Vesi\" ja kosketa sitä listasta \"Mittaukset\"; poistuaksesi mittauksen, vedä rivin vasemmalle puolelle."
+      },
+      {
+        "q": "Missä \"Ihanteellinen\" ja \"Siedettävä\" -rajat tulevat?",
+        "a": "Ammoniakki- ja nitriittiarvojen odotettu arvo on nolla. Nitraatti on hyvä alle 25 mg/L ja siedettävä korkeintaan 50 mg/L. pH-, kovuus- ja lämpötila-arvojen osalta Aquarium laskee alueen, joka sopii kaikille akvaarioni lajeille; kunnes olet lisännyt kalat, se käyttää vesityypin mukaista yleistä aluetta. Nämä arviot ovat suuntaa antavia ja koskevat makeaa vettä: ne eivät korvaa asiantuntijan tai eläintenlääkärin neuvoa."
+      },
+      {
+        "q": "Uusi akvaario: mitä tarkoittaa kypsytys?",
+        "a": "Uusi akvaario kypsyttää noin kuukauden ajan: suodatinbakteerit asettuvat, ja nitriitti nousee ja laskee takaisin nollaan. Kypsytys kestää 28 päivää akvaarion alustamisesta lähtien, ja akvaario-levy näyttää “Akvaario kypsyttää” nykyisen päivän kanssa. Odota, kunnes nitriitti on laskeutunut nollaan ennen kalien lisäämistä. Jos haluat asettaa tai korjata alkupäivämäärän, koska “Muokkaa” akvaario-levyssä ja aktivoi “Tiedän, milloin akvaario alustettiin”."
+      },
+      {
+        "q": "Miten hoitomuistutukset toimivat?",
+        "a": "Kun luot akvaarion, Aquarium suunnittelee vedenvaihdon 7 päivän välein ja suodattimen puhdistuksen 30 päivän välein. Napauta hoitotehtävää muuttaaksesi sen aikataulua, vaihdettavan veden osuutta tai “Muistuta minua” -asetusta; “Hoito”-kortin +-painikkeella lisäät muita tehtäviä, kuten veden testauksen tai oman tehtäväsi. Sovittuna päivänä saat ilmoituksen kohdassa Asetukset › Muistutukset valitsemaasi aikaan ja uuden muistutuksen kahden ja seitsemän päivän kuluttua, jos mitään ei ole merkitty tehdyksi. Napauta “Valmis”, kun tehtävä on tehty: seuraava päivämäärä lasketaan siitä päivästä."
+      },
+      {
+        "q": "Olen merkinnyt hoitotehtävän vahingossa, mitä teen?",
+        "a": "Akvaario-levyssä tehtävien listan alapuolelta avaa “Historia”. Liikuta ylimääräinen rivi vasemmalle poistaaksesi sen: seuraava päivämäärä lasketaan uudelleen."
+      },
+      {
+        "q": "En saa muistutuksia, miksi?",
+        "a": "Tarkista, että ilmoitukset ovat sallittuja: iPhone-asetukset › Ilmoitukset › Aquarium. Jos ne on poistettu käytöstä, sovellus ilmoittaa siitä asetuksista › Muistutukset, jossa on linkki “Salli muistutukset asetuksista”. Tarkista myös, että “Muistuta minua” on käytössä kyseiselle tehtävälle, ja että keskittymismoodi ei ole aktiivinen muistutuksen aikaan."
+      },
+      {
+        "q": "Miten tarkistan, voivatko kalat elää yhdessä?",
+        "a": "Kalat- välilehdessä kosketa + -painiketta: hae nimellä tai latinalaisella nimellä tai suodata perheen mukaan. Lajin tiedot näyttävät tarpeet, käytöksen ja kohteen \"Omat kalasi kanssa\" muutokset, joita sen saapuminen aiheuttaisi akvaariossasi. \"Lisää akvaarioon\" lisää sen mukaan lukien kalien lukumäärä. Välilehden yläosassa näkyy tuomio (\"Voivat elää yhdessä\", \"Mahdollista, seuraa huolellisesti\" tai \"Ei suositella yhdessä\") sekä perusteet: lämpötila, pH, luontotyyppi, koko, evät, akvaarion tilavuus. Katalogissa on 85 makeavesilajia; jos puuttuu jokin, jonka hoidat, kirjoita minulle."
+      },
+      {
+        "q": "Mitä Aquarium Pro sisältää ja kuinka paljon se maksaa?",
+        "a": "Ilmainen versio ei ole aikarajoitettu: yksi akvaario, kaikki mittaukset, kaikki muistutukset ja kalien yhteensopivuus. Aquarium Pro on yksinkertainen ostos ilman tilausta 4,99 €:ssä Ranskassa: useita akvaarioita ja veden kaavioita, joko yhden kuukauden, kolmen kuukauden, vuoden tai koko historian ajalta. Se toimii perhejakelun kanssa. Uudella laitteella avaa Asetukset › Aquarium Pro ja kosketa \"Palauta ostokset\"."
+      },
+      {
+        "q": "Missä tietojani tallennetaan, ja mitä tapahtuu, jos vaihdan iPhone:n?",
+        "a": "Vain laitteellasi: ei ole tiliä, palvelinta tai laitteiden välistä synkronointia. Akvaarioisi, mittauksiisi ja kaloihisi kuuluu iPhone-laitteesi iCloud- tai paikallinen varmuuskopio; ne palautuvat, kun palautat varmuuskopion uudelle laitteelle. Poistamalla sovelluksen kaikki tietosi häviävät."
+      },
+      {
+        "q": "Voinko näyttää gallonia ja fahrenheit-asteita?",
+        "a": "Kyllä: Asetukset › Yksiköt, ja valitse \"Litroja ja °C\", \"Gallonia ja °F\" tai \"Automaattinen\", joka seuraa laitteen aluetta."
+      }
+    ],
+    "privacy_summary": "Aquarium ei kerää mitään tietoja, ei kysy tilin luomista eikä sisällä mainoksia tai seurantatyökaluja. Akvaarioasi, mittauksesi ja kalasi pysyvät laitteesi sisällä."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Yhteenveto",
+        "blocks": [
+          {
+            "p": "Aquarium ei kerää mitään tietoja. Kaikki, mitä kirjoitat sovellukseen, pysyy iPhone- tai iPad-laitteessasi."
+          },
+          {
+            "ul": [
+              "Ei tiliä, ei mainoksia, ei seurantaa: sovellus sisältää ei analytiikkaa eikä mainosvälineitä, eikä tunnista sinua millään tavalla."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Akvaarioasi, mittauksesi ja kalasi",
+        "blocks": [
+          {
+            "p": "Akvaarioasi, vedenmittauksesi, hoitotehtäväsi ja kalalajilistasi tallennetaan sovelluksen yksityiseen tallennustilaan laitteesi sisällä. Ne eivät lähetetä kenellekään, ei edes kehittäjälle."
+          },
+          {
+            "p": "Sovelluksen poistaminen tyhjentää kaiken tämän tiedon. Se voi olla mukana laitteesi iCloud- tai paikallisen varmuuskopion sisällä, joita hallinnoit itse Apple-asetuksissa."
+          }
+        ]
+      },
+      {
+        "h": "Muistutukset",
+        "blocks": [
+          {
+            "p": "Hoito- muistutukset suunnitellaan laitteessa; ei ole mukana palvelinta."
+          }
+        ]
+      },
+      {
+        "h": "Linkit apuun",
+        "blocks": [
+          {
+            "p": "Linkit \"Ohje ja yhteystiedot\" ja \"Tietosuoja\" avaa tämän sivun ja apusivun selaimessasi. Sovellus ei lähetä tähän mitään tietoa."
+          }
+        ]
+      },
+      {
+        "h": "Ostokset",
+        "blocks": [
+          {
+            "p": "Aquarium Pro myydään ja hallitaan Applella. Sovellus ei näe maksutapaa tai henkilöllisyyttäsi; se lukee vain App Storen kautta, onko osto tehty, jotta ominaisuudet saadaan käyttöön."
+          }
+        ]
+      },
+      {
+        "h": "Lapset",
+        "blocks": [
+          {
+            "p": "Aquarium ei kerää mitään tietoja, myöskään lapsista."
+          }
+        ]
+      },
+      {
+        "h": "Muutokset",
+        "blocks": [
+          {
+            "p": "Jos tätä käytäntöä muutetaan, uusi versio julkaistaan tässä sivussa päivämäärän kanssa."
+          }
+        ]
+      },
+      {
+        "h": "Yhteystiedot",
+        "blocks": [
+          {
+            "p": "Kysymyksissä tästä käytännöstä: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

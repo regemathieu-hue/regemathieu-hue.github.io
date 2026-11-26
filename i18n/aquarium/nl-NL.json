@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Het logboek voor jouw zoetwateraquarium: water, onderhoud en viscompatibiliteit",
+    "contact": "Een vraag, een idee of een probleem met de app? Stuur me een bericht:<br>{email}",
+    "faq": [
+      {
+        "q": "Waar begin ik?",
+        "a": "Bij de eerste keer openen, tik op “Maak mijn aquarium”: geef hem een naam, zijn volume en het type water, “Tropisch (verwarmd)” of “Koudwater”. Als het aquarium recent is, schakel dan “Ik weet wanneer het aquarium is opgezet” in: Aquarium volgt de opstartfase. Tik vervolgens op “Nieuwe meting” om je eerste test in te voeren, en open het tabblad Vissen om de soorten in jouw aquarium toe te voegen."
+      },
+      {
+        "q": "Hoe noteer ik een watermeting?",
+        "a": "In het tabblad Aquarium tik je op “Nieuwe meting” en vul je alleen in wat je hebt gemeten: pH, ammoniak, nitriet, nitraat, hardheid (GH), carbonaat-hardheid (KH), temperatuur. Elke waarde wordt direct beoordeeld als “Goed”, “Let op” of “Actie nodig”, en de grafiek “Te doen” laat je zien wat je moet doen. Om een meting te corrigeren, open je het tabblad Water en tik je op de meting in de lijst “Metingen”; om hem te verwijderen, schuif je de regel naar links."
+      },
+      {
+        "q": "Waar komen de referenties “Ideaal” en “Aanvaardbaar” vandaan?",
+        "a": "Voor ammoniak en nitriet is de verwachte waarde nul. Nitraat wordt als goed beoordeeld onder 25 mg/L en aanvaardbaar tot 50 mg/L. Voor pH, algemene hardheid en temperatuur berekent Aquarium het bereik dat past bij alle soorten in jouw aquarium; zolang je nog geen vissen hebt ingevoerd, gebruikt het een algemeen bereik op basis van het watertype. Deze richtlijnen zijn indicatief en gelden voor zoetwater: ze vervangen niet de adviezen van een gespecialiseerde winkel of dierenarts."
+      },
+      {
+        "q": "Mijn aquarium is nieuw: wat is de opstartfase?",
+        "a": "Een nieuw aquarium heeft ongeveer een maand nodig voor de opstartfase: de filterbacteriën vestigen zich, en nitriet stijgt, daarna daalt het weer naar nul. Gedurende 28 dagen na het opzetten van het aquarium toont het tabblad Aquarium ‘Aquarium in opstartfase’ met de huidige dag. Wacht tot het nitriet weer nul is voordat je vissen toevoegt. Om de datum in te voeren of te corrigeren, tik op ‘Bewerken’ in het tabblad Aquarium en activeer ‘Ik weet wanneer het aquarium is opgezet’."
+      },
+      {
+        "q": "Hoe werken herinneringen voor onderhoud?",
+        "a": "Bij het aanmaken van een aquarium plant Aquarium een waterverversing elke 7 dagen en een filterreiniging elke 30 dagen. Tik op een taak om het schema, het percentage water dat wordt ververst of ‘Herinner me’ te wijzigen; de + knop op de kaart ‘Onderhoud’ voegt meer taken toe, zoals een watermeting of een eigen taak. Op de geplande dag krijg je een melding op het gekozen tijdstip in Instellingen › Herinneringen, gevolgd door een herinnering twee dagen en zeven dagen later als niets is aangevinkt. Tik op ‘Klaar’ als het gedaan is: de volgende datum wordt vanaf dat moment berekend."
+      },
+      {
+        "q": "Ik heb per ongeluk een taak aangevinkt. Wat nu?",
+        "a": "In het tabblad Aquarium, onder de lijst met taken, open ‘Geschiedenis’. Swipe de extra regel naar links om hem te verwijderen: de volgende datum wordt opnieuw berekend."
+      },
+      {
+        "q": "Ik ontvang geen herinneringen. Waarom niet?",
+        "a": "Controleer of meldingen zijn toegestaan: iPhone Instellingen › Meldingen › Aquarium. Als ze uit staan, meldt de app dit in Instellingen › Herinneringen, met de link ‘Meldingen toestaan in Instellingen’. Controleer ook of ‘Herinner me’ is ingeschakeld voor de betreffende taak, en of er geen Focus-modus actief is op het moment van de herinnering."
+      },
+      {
+        "q": "Hoe controleer ik of vissen samen kunnen leven?",
+        "a": "In het tabblad Vissen tik je op de + knop: zoek op naam of latijnse naam, of filter op familie. Een soortenfiche toont haar behoeften, gedrag en onder ‘Met je vissen’ wat haar komst zou veranderen in jouw aquarium. ‘Toevoegen aan aquarium’ voegt haar toe met het aantal individuen. Bovenaan het tabblad staat het oordeel (‘Ze kunnen samen leven’, ‘Mogelijk, let op’ of ‘Niet samen houdbaar’) gevolgd door de redenen: temperatuur, pH, temperament, grootte, vinnen, aquariumvolume. Het catalogus bevat 85 soorten zoetwater; als er een ontbreekt die je houdt, schrijf dan naar me."
+      },
+      {
+        "q": "Wat bevat Aquarium Pro en hoeveel kost het?",
+        "a": "De gratis versie heeft geen tijdsbeperking: één aquarium, alle metingen, alle herinneringen en viscompatibiliteit. Aquarium Pro is een eenmalige aankoop, zonder abonnement, voor 4,99 € in Frankrijk: meerdere aquariums en watergrafieken, over één maand, drie maanden, één jaar of het volledige verleden. Het werkt met Familie Delen. Op een nieuw apparaat open je Instellingen › Aquarium Pro, en tik je op ‘Aankopen herstellen’."
+      },
+      {
+        "q": "Waar worden mijn gegevens opgeslagen, en wat gebeurt er als ik mijn iPhone wissel?",
+        "a": "Alleen op jouw apparaat: er is geen account, geen server en geen synchronisatie tussen apparaten. Jouw aquariums, metingen en vissen zijn onderdeel van de iCloud- of lokale backup van jouw iPhone; ze komen terug wanneer je die backup herstelt op een nieuw apparaat. Verwijderen van de app wist alles."
+      },
+      {
+        "q": "Kan ik gallons en graden Fahrenheit gebruiken?",
+        "a": "Ja: Instellingen › Eenheden, dan ‘Liter en °C’, ‘Gallons en °F’ of ‘Automatisch’, die de regio van het apparaat volgt."
+      }
+    ],
+    "privacy_summary": "Aquarium verzamelt geen gegevens, vraagt geen account aan en bevat geen advertenties of trackers. Jouw aquariums, metingen en vissen blijven op jouw apparaat."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort samengevat",
+        "blocks": [
+          {
+            "p": "Aquarium verzamelt geen gegevens. Alles wat je in de app noteert blijft op jouw iPhone of iPad."
+          },
+          {
+            "ul": [
+              "Geen account, geen advertenties, geen volgen: de app bevat geen analysetools of advertenties, en identificeert jou op geen enkele manier."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Jouw aquariums, metingen en vissen",
+        "blocks": [
+          {
+            "p": "Jouw aquariums, je watermetingen, je onderhoudstaken en je vislijst worden opgeslagen in de privé-opslag van de app, op jouw apparaat. Ze worden niet naar iemand anders gestuurd, zelfs niet naar de ontwikkelaar."
+          },
+          {
+            "p": "Als je de app verwijdert, worden al deze gegevens gewist. Ze kunnen wel zijn opgenomen in de iCloud- of lokale back-ups van jouw apparaat, die jij zelf beheert in de instellingen van Apple."
+          }
+        ]
+      },
+      {
+        "h": "Meldingen",
+        "blocks": [
+          {
+            "p": "Herinneringen voor onderhoud worden ingesteld op het apparaat; er is geen server betrokken."
+          }
+        ]
+      },
+      {
+        "h": "Koppelingen naar hulp",
+        "blocks": [
+          {
+            "p": "De koppelingen « Hulp en contact » en « Privacy » openen deze pagina en de helppagina in je browser. De app verzendt daar geen informatie naar."
+          }
+        ]
+      },
+      {
+        "h": "Aankopen",
+        "blocks": [
+          {
+            "p": "Aquarium Pro wordt verkocht en beheerd door Apple. De app ziet wederom jouw betaalmethode of identiteit niet; hij leest alleen via de App Store of de aankoop is gedaan, om de functies te ontgrendelen."
+          }
+        ]
+      },
+      {
+        "h": "Kinderen",
+        "blocks": [
+          {
+            "p": "Aquarium verzamelt geen gegevens, ook niet van kinderen."
+          }
+        ]
+      },
+      {
+        "h": "Wijzigingen",
+        "blocks": [
+          {
+            "p": "Als deze privacybeleid verandert, wordt de nieuwe versie op deze pagina gepubliceerd met de datum van de update."
+          }
+        ]
+      },
+      {
+        "h": "Hulp en contact",
+        "blocks": [
+          {
+            "p": "Stuur een e-mail naar {email} voor vragen over dit privacybeleid."
+          }
+        ]
+      }
+    ]
+  }
+}

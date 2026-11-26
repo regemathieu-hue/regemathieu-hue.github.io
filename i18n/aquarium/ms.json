@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Carnet bacaan akuarium air tawar anda: air, penyelenggaraan dan keserasian ikan",
+    "contact": "Soalan, idea atau masalah dengan aplikasi? Tulis kepada saya:<br>{email}",
+    "faq": [
+      {
+        "q": "Dari mana saya mula?",
+        "a": "Pada pemasangan pertama, sentuh \"Cipta Akuarium Saya\": beri nama, isipadu dan jenis air, \"Tropika (panaskan)\" atau \"Air Sejuk\". Jika akuarium baru, aktifkan \"Saya tahu bila akuarium dibina\": Aquarium akan mengikuti kitaran akuarium. Kemudian sentuh \"Bacaan Baru\" untuk mencatat ujian pertama, lalu buka tab Ikan untuk masukkan spesies dalam akuarium anda."
+      },
+      {
+        "q": "Bagaimana saya mencatat ujian air?",
+        "a": "Dalam tab Akuarium, sentuh \"Bacaan Baru\" dan isi hanya apa yang telah diukur: pH, ammonia, nitrit, nitrat, keliatan air (GH), keliatan karbonat (KH), suhu. Setiap nilai dinilai segera, \"Baik\", \"Pantau\" atau \"Perlu diperbaiki\", dan carta \"Perlu Buat\" akan menunjukkan apa yang perlu dilakukan. Untuk membetulkan bacaan, buka tab Air dan sentuhnya dalam senarai \"Bacaan\"; untuk menghapuskan, gelongsor baris tersebut ke kiri."
+      },
+      {
+        "q": "Darimana asal julat \"Sempurna\" dan \"Diterima\"?",
+        "a": "Untuk ammonia dan nitrit, nilai yang dijangka adalah sifar. Nitrat dinilai baik di bawah 25 mg/L dan diterima sehingga 50 mg/L. Untuk pH, keliatan air dan suhu, Aquarium mengira julat yang sesuai untuk semua spesies dalam akuarium anda; selagi tiada ikan dimasukkan, ia menggunakan julat umum berdasarkan jenis air. Penunjuk ini adalah rujukan dan merangkumi air tawar: ia tidak menggantikan nasihat daripada penjual pakar atau doktor haiwan."
+      },
+      {
+        "q": "Akuarium saya baru: apa itu kitaran akuarium?",
+        "a": "Akuarium baru mengambil masa kira-kira sebulan untuk kitaran akuarium: bakteria penapis akan menetap, nitrit akan naik kemudian turun semula ke sifar. Selama 28 hari selepas akuarium dibina, tab Akuarium akan paparkan “Akuarium sedang dalam kitaran” bersama hari semasa. Tunggu sehingga nitrit turun semula ke sifar sebelum menambah ikan. Untuk masukkan atau betulkan tarikh, sentuh “Sunting” di tab Akuarium dan aktifkan “Saya tahu bila akuarium dibina”."
+      },
+      {
+        "q": "Bagaimana peringatan penyelenggaraan berfungsi?",
+        "a": "Apabila anda cipta akuarium, Aquarium merancang tukar air setiap 7 hari dan bersihkan penapis setiap 30 hari. Sentuh satu tugasan untuk ubah jadual, peratusan air yang ditukar atau “Ingatkan Saya”; butang + di carta “Penyelenggaraan” menambah lagi seperti ujian air atau tugasan anda sendiri. Pada hari yang dirancang, anda akan menerima notifikasi pada waktu yang dipilih dalam Tetapan › Peringatan, kemudian pengingat tambahan dua hari dan tujuh hari selepas itu jika tiada yang dicatatkan. Sentuh “Selesai” apabila selesai: tarikh seterusnya dikira bermula dari hari ini."
+      },
+      {
+        "q": "Saya telah memilih tugasan secara tidak sengaja, apa yang patut saya buat?",
+        "a": "Di tab Akuarium, di bawah senarai tugasan, buka “Sejarah”. Geser baris berlebihan ke kiri untuk menghapuskan: tarikh seterusnya akan dikira semula."
+      },
+      {
+        "q": "Saya tidak menerima peringatan, kenapa?",
+        "a": "Pastikan notifikasi dibenarkan: Tetapan iPhone › Notifikasi › Aquarium. Jika dimatikan, aplikasi akan maklumkan dalam Tetapan › Peringatan, bersama pautan “Benarkan Pemberitahuan dalam Tetapan”. Pastikan juga “Ingatkan Saya” dihidupkan untuk tugasan berkaitan, dan tiada mod Fokus aktif pada waktu peringatan."
+      },
+      {
+        "q": "Bagaimana saya boleh semak sama ada ikan boleh hidup bersama?",
+        "a": "Di tab Ikan, sentuh butang +: cari mengikut nama atau nama Latin, atau tapis mengikut keluarga. Maklumat spesies menunjukkan keperluan, tingkah laku, dan di bawah «Dengan Ikan Anda», apa yang akan berubah apabila ikan itu ditambah ke akuarium anda. «Tambah ke Akuarium» akan mencatatkan ikan tersebut bersama bilangan individu. Di bahagian atas tab, keputusan («Boleh hidup bersama», «Mungkin, perhatikan dengan teliti» atau «Jangan dikongsi») diikuti sebab-sebabnya: suhu, pH, sifat, saiz, sirip, isipadu akuarium. Katalog ini mempunyai 85 spesies air tawar; jika terdapat spesies yang anda pelihara tetapi tidak ada dalam senarai, sila beritahu saya."
+      },
+      {
+        "q": "Apa yang termasuk dalam Aquarium Pro dan berapa harganya?",
+        "a": "Versi percuma tiada had masa: satu akuarium, semua bacaan, semua peringatan, dan keserasian ikan. Aquarium Pro adalah pembelian seumur hidup, tiada langganan, bernilai €4,99 di Perancis: beberapa akuarium dan carta air, selama sebulan, tiga bulan, satu tahun atau sejarah penuh. Ia menyokong perkongsian keluarga. Di peranti baharu, buka Tetapan › Aquarium Pro, kemudian sentuh «Pulihkan Pembelian»."
+      },
+      {
+        "q": "Di manakah data saya disimpan, dan apakah yang berlaku jika saya tukar iPhone?",
+        "a": "Hanya di peranti anda: tiada akaun, tiada pelayan, tiada penyelarasan antara peranti. Akuarium, bacaan, dan ikan anda adalah sebahagian daripada sandaran iCloud atau tempatan iPhone anda; ia akan kembali apabila anda memulihkan sandaran tersebut di peranti baharu. Menghapuskan aplikasi akan menghapuskan semua data."
+      },
+      {
+        "q": "Bolehkah saya menunjukkan galon dan darjah Fahrenheit?",
+        "a": "Ya: Tetapan › Unit, kemudian pilih «Liter dan °C», «Galon dan °F» atau «Automatik», yang akan mengikut kawasan peranti anda."
+      }
+    ],
+    "privacy_summary": "Aquarium tidak mengumpul sebarang data, tidak meminta akaun dan tiada iklan atau penjejak. Akuarium, bacaan dan ikan anda kekal di peranti anda."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Ringkasan",
+        "blocks": [
+          {
+            "p": "Aquarium tidak mengumpul sebarang data. Semua yang anda catat dalam aplikasi kekal di iPhone atau iPad anda."
+          },
+          {
+            "ul": [
+              "Tiada akaun, tiada iklan, tiada penjejakan: aplikasi ini tidak mengandungi alat analitik atau iklan, dan tidak mengenal pasti anda dalam apa jua cara."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Akuarium anda, bacaan air dan ikan anda",
+        "blocks": [
+          {
+            "p": "Akuarium, bacaan air, tugasan penyelenggaraan dan senarai ikan anda disimpan dalam storan peribadi aplikasi, di peranti anda. Ia tidak dikirim kepada sesiapa pun, bahkan kepada pembangun."
+          },
+          {
+            "p": "Menghapus aplikasi akan memadam semua data ini. Data tersebut boleh dimasukkan ke dalam sandaran iCloud atau tempatan peranti anda, yang anda kawal sendiri dalam tetapan Apple."
+          }
+        ]
+      },
+      {
+        "h": "Pemberitahuan",
+        "blocks": [
+          {
+            "p": "Peringatan penyelenggaraan dijadualkan pada peranti; tiada pelayan terlibat."
+          }
+        ]
+      },
+      {
+        "h": "Pautan ke bantuan",
+        "blocks": [
+          {
+            "p": "Pautan “Bantuan dan hubungi” dan “Privasi” akan membuka halaman ini dan halaman bantuan dalam pelayar anda. Aplikasi tidak menghantar sebarang maklumat kepada mereka."
+          }
+        ]
+      },
+      {
+        "h": "Pembelian",
+        "blocks": [
+          {
+            "p": "Aquarium Pro dijual dan dikelolakan oleh Apple. Aplikasi tidak melihat kaedah pembayaran atau identiti anda; ia hanya membaca, melalui App Store, sama ada pembelian telah dibuat, untuk membuka ciri-ciri."
+          }
+        ]
+      },
+      {
+        "h": "Kanak-kanak",
+        "blocks": [
+          {
+            "p": "Aquarium tidak mengumpul sebarang data, termasuk daripada kanak-kanak."
+          }
+        ]
+      },
+      {
+        "h": "Perubahan",
+        "blocks": [
+          {
+            "p": "Jika dasar ini berubah, versi baharu akan diterbitkan di halaman ini bersama tarikh kemaskini."
+          }
+        ]
+      },
+      {
+        "h": "Hubungi",
+        "blocks": [
+          {
+            "p": "Untuk sebarang soalan mengenai dasar ini: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

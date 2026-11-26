@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "The logbook for your freshwater aquarium: water, maintenance and fish compatibility",
+    "contact": "A question, an idea or a problem with the app? Write to me:<br>{email}",
+    "faq": [
+      {
+        "q": "Where do I start?",
+        "a": "On first launch, tap “Create My Tank”: give it a name, its volume and its water type, “Tropical (heated)” or “Coldwater”. If the tank is recent, turn on “I know when the tank was set up”: Aquarium will follow its cycle. Then tap “New Reading” to log your first test, and open the Fish tab to enter the species in your tank."
+      },
+      {
+        "q": "How do I log a water test?",
+        "a": "In the Tank tab, tap “New Reading” and fill in only what you measured: pH, ammonia, nitrite, nitrate, general hardness (GH), carbonate hardness (KH), temperature. Each value is rated right away, “Good”, “Watch” or “Needs fixing”, and the “To Do” card tells you what to do. To correct a reading, open the Water tab and tap it in the “Readings” list; to delete it, swipe its row to the left."
+      },
+      {
+        "q": "Where do the “Ideal” and “Tolerated” ranges come from?",
+        "a": "For ammonia and nitrite, the expected value is zero. Nitrate is rated good below 25 mg/L and tolerated up to 50 mg/L. For pH, general hardness and temperature, Aquarium works out the range that suits every species in your tank; as long as you haven't entered any fish, it uses a general range for the water type. These guidelines are indicative and apply to freshwater: they don't replace advice from a specialist store or a veterinarian."
+      },
+      {
+        "q": "My tank is new: what is cycling?",
+        "a": "A new tank takes about a month to cycle: the filter bacteria settle in, and nitrite rises, then drops back to zero. For 28 days after the tank was set up, the Tank tab shows “Tank cycling” with the current day. Wait until nitrite has dropped back to zero before adding fish. To enter or correct the date, tap “Edit” in the Tank tab and turn on “I know when the tank was set up”."
+      },
+      {
+        "q": "How do maintenance reminders work?",
+        "a": "When you create a tank, Aquarium plans a water change every 7 days and a filter cleaning every 30 days. Tap a task to change its schedule, the share of water changed or “Remind Me”; the + button on the “Maintenance” card adds more, such as a water test or a task of your own. On the day, you get a notification at the time chosen in Settings › Reminders, then another one two days and seven days later if nothing has been checked off. Tap “Done” when it's done: the next date is counted from that day."
+      },
+      {
+        "q": "I checked off a task by mistake. What can I do?",
+        "a": "In the Tank tab, below the list of tasks, open “History”. Swipe the extra row to the left to remove it: the next date is recalculated."
+      },
+      {
+        "q": "Why am I not getting reminders?",
+        "a": "Check that notifications are allowed: iPhone Settings › Notifications › Aquarium. If they are turned off, the app says so in Settings › Reminders, with the link “Allow Notifications in Settings”. Also check that “Remind Me” is on for the task, and that no Focus mode is active at the reminder time."
+      },
+      {
+        "q": "How do I check whether fish can live together?",
+        "a": "In the Fish tab, tap the + button: search by name or Latin name, or filter by family. A species sheet shows its needs, its behavior and, under “With Your Fish”, what its arrival would change in your tank. “Add to Tank” adds it with the number of fish. At the top of the tab, the verdict (“They can live together”, “Possible, keep watch” or “Best not kept together”) is followed by the reasons: temperature, pH, temperament, size, fins, tank volume. The catalog has 85 freshwater species; if one you keep is missing, write to me."
+      },
+      {
+        "q": "What does Aquarium Pro include and how much does it cost?",
+        "a": "The free version has no time limit: one tank, every reading, every reminder and fish compatibility. Aquarium Pro is a one-time purchase, with no subscription, at €4.99 in France: several tanks and water charts, over one month, three months, one year or the whole history. It works with Family Sharing. On a new device, open Settings › Aquarium Pro, then tap “Restore Purchases”."
+      },
+      {
+        "q": "Where is my data stored, and what happens if I change iPhone?",
+        "a": "Only on your device: there is no account, no server and no syncing between devices. Your tanks, readings and fish are part of your iPhone's iCloud or local backup; they come back when you restore that backup on a new device. Deleting the app erases everything."
+      },
+      {
+        "q": "Can I use gallons and degrees Fahrenheit?",
+        "a": "Yes: Settings › Units, then “Liters and °C”, “Gallons and °F” or “Automatic”, which follows the device's region."
+      }
+    ],
+    "privacy_summary": "Aquarium collects no data, asks for no account and contains no ads or trackers. Your tanks, readings and fish stay on your device."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In short",
+        "blocks": [
+          {
+            "p": "Aquarium collects no data. Everything you log in the app stays on your iPhone or iPad."
+          },
+          {
+            "ul": [
+              "No account, no ads, no tracking: the app contains no analytics or advertising tools, and does not identify you in any way."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Your tanks, readings and fish",
+        "blocks": [
+          {
+            "p": "Your tanks, your water readings, your maintenance tasks and your list of fish are saved in the app's private storage, on your device. They are not sent to anyone, not even the developer."
+          },
+          {
+            "p": "Deleting the app erases all of this data. It may be included in your device's iCloud or local backups, which you manage yourself in Apple's settings."
+          }
+        ]
+      },
+      {
+        "h": "Notifications",
+        "blocks": [
+          {
+            "p": "Maintenance reminders are scheduled on the device; no server is involved."
+          }
+        ]
+      },
+      {
+        "h": "Links to help",
+        "blocks": [
+          {
+            "p": "The “Help and Contact” and “Privacy” links open this page and the help page in your browser. The app sends no information to them."
+          }
+        ]
+      },
+      {
+        "h": "Purchases",
+        "blocks": [
+          {
+            "p": "Aquarium Pro is sold and managed by Apple. The app sees neither your payment method nor your identity; it only reads, through the App Store, whether the purchase was made, in order to unlock the features."
+          }
+        ]
+      },
+      {
+        "h": "Children",
+        "blocks": [
+          {
+            "p": "Aquarium collects no data, including from children."
+          }
+        ]
+      },
+      {
+        "h": "Changes",
+        "blocks": [
+          {
+            "p": "If this policy changes, the new version will be published on this page with its update date."
+          }
+        ]
+      },
+      {
+        "h": "Contact",
+        "blocks": [
+          {
+            "p": "For any question about this policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

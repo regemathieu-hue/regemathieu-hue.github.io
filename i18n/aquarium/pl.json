@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Książka dziennik twojego akwarium wody słodkiej: woda, pielęgnacja i kompatybilność ryb",
+    "contact": "Masz pytanie, pomysł lub problem z aplikacją? Napisz mi:<br>{email}",
+    "faq": [
+      {
+        "q": "Od czego zacząć?",
+        "a": "Po pierwszym uruchomieniu dotknij „Utwórz moje akwarium”: nadaj mu nazwę, jego objętość i typ wody – „Tropikalne (grzane)” lub „Zimnowodne”. Jeśli akwarium jest nowe, włącz opcję „Wiadomo, kiedy akwarium zostało uruchomione”: Aquarium będzie śledzić jego dojrzewanie. Następnie dotknij „Nowy pomiar”, aby zapisać pierwszy test, a potem otwórz kartę „Ryby”, by dodać gatunki znajdujące się w akwarium."
+      },
+      {
+        "q": "Jak zarejestrować pomiar wody?",
+        "a": "W karcie „Akwarium” dotknij „Nowy pomiar” i wypełnij tylko to, co zmierzyłeś: pH, amoniak, azotyny, azotany, twardość ogólna (GH), twardość węglanowa (KH), temperatura. Każda wartość jest od razu oceniana jako „Dobre”, „Obserwuj” lub „Wymaga naprawy”, a karta „Do zrobienia” poinformuje Cię, co zrobić. Aby poprawić pomiar, otwórz kartę „Woda” i dotknij go w liście „Pomiary”; aby usunąć, przesuń wiersz w lewo."
+      },
+      {
+        "q": "Skąd pochodzą oznaczenia „Idealne” i „Dopuszczalne”?",
+        "a": "Dla amoniaku i azotynów oczekiwana wartość to zero. Azotany są oceniane jako dobre poniżej 25 mg/L i dopuszczalne do 50 mg/L. Dla pH, twardości ogólnej i temperatury Aquarium oblicza zakres odpowiedni dla wszystkich gatunków w akwarium; dopóki nie dodałeś żadnych ryb, używa ogólnego zakresu dla typu wody. Te wartości są orientacyjne i dotyczą wody słodkiej: nie zastępują porady specjalisty lub weterynarza."
+      },
+      {
+        "q": "Mój akwarium jest nowy: co to jest dojrzewanie akwarium?",
+        "a": "Nowe akwarium trwa około miesiąca do dojrzewania akwarium: bakterie z filtra się osiedlają, azotyny rosną, a potem spadają do zera. Przez 28 dni od uruchomienia akwarium, karta Akwarium pokazuje „Dojrzewanie akwarium” z aktualnym dniem. Czekaj, aż azotyny spadną do zera, zanim dodasz ryby. Aby wpisać lub poprawić datę, dotknij „Edytuj” na karcie Akwarium i włącz opcję „Wiadomo, kiedy akwarium zostało uruchomione”."
+      },
+      {
+        "q": "Jak działają przypomnienia dotyczące pielęgnacji?",
+        "a": "Podczas tworzenia akwarium, Aquarium planuje podmianę wody co 7 dni i czyszczenie filtra co 30 dni. Dotknij zadania, aby zmienić jego cykl, ilość wody do podmiany lub opcję „Przypomnij mi”; przycisk + na karcie „Pielęgnacja” pozwala dodać inne zadania, takie jak test wody lub własne zadanie. W dniu zaplanowanym otrzymasz powiadomienie o wybranej godzinie w Ustawienia › Przypomnienia, a następnie przypomnienie dwa i siedem dni później, jeśli nic nie zostało oznaczone jako gotowe. Dotknij „Gotowe”, gdy zadanie zostanie wykonane: następna data jest obliczana od tego dnia."
+      },
+      {
+        "q": "Oznaczyłem przez przypadek zadanie do zrobienia – co mam zrobić?",
+        "a": "W karcie Akwarium, poniżej listy zadań, otwórz „Historia”. Przesuń nadmiarową linię w lewo, aby ją usunąć: następna data zostanie ponownie obliczona."
+      },
+      {
+        "q": "Nie otrzymuję przypomnień – dlaczego?",
+        "a": "Sprawdź, czy powiadomienia są dozwolone: Ustawienia iPhone’a › Powiadomienia › Aquarium. Jeśli są wyłączone, aplikacja wyświetli to w Ustawienia › Przypomnienia, z linkiem „Zezwól na powiadomienia w Ustawieniach”. Sprawdź również, czy opcja „Przypomnij mi” jest włączona dla danego zadania, oraz czy w momencie przypomnienia nie działa tryb skupienia."
+      },
+      {
+        "q": "Jak sprawdzić, czy ryby mogą żyć razem?",
+        "a": "W karcie Ryby naciśnij przycisk +: wyszukaj po nazwie lub łacińskiej nazwie, albo filtrować według rodziny. Karta gatunku pokazuje jego potrzeby, zachowanie oraz pod „Z Twoimi rybami” to, co jego przyjazd zmieni w Twoim akwarium. „Dodaj do akwarium” dodaje go z liczbą osobników. Na górze karty widzisz wyrok („Mogą żyć razem”, „Możliwe, ale uważaj” lub „Najlepiej nie trzymać razem”) oraz przyczyny: temperatura, pH, charakter, rozmiar, płetwy, pojemność akwarium. Katalog zawiera 85 gatunków wody słodkiej; jeśli brakuje jednego, który hodujesz, napisz do mnie."
+      },
+      {
+        "q": "Co zawiera Aquarium Pro i ile kosztuje?",
+        "a": "Wersja bezpłatna nie ma limitu czasowego: jedno akwarium, wszystkie pomiary, wszystkie przypomnienia i kompatybilność ryb. Aquarium Pro to jednorazowa płatność, bez subskrypcji, w wysokości 4,99 € we Francji: kilka akwariów oraz wykresy wody na miesiąc, trzy miesiące, rok lub całą historię. Działa z udostępnianiem rodzinnym. Na nowym urządzeniu otwórz Ustawienia › Aquarium Pro, a następnie naciśnij „Przywróć zakupy”."
+      },
+      {
+        "q": "Gdzie są przechowywane moje dane, i co się stanie, jeśli zmienię iPhone?",
+        "a": "Tylko na Twoim urządzeniu: nie ma konta, serwera ani synchronizacji między urządzeniami. Twoje akwaria, pomiary i ryby są częścią kopii zapasowej iCloud lub lokalnej Twojego iPhone’a; powracają, gdy przywracasz tę kopię zapasową na nowym urządzeniu. Usunięcie aplikacji skasuje wszystko."
+      },
+      {
+        "q": "Czy można wyświetlać galony i stopnie Fahrenheita?",
+        "a": "Tak: Ustawienia › Jednostki, a następnie „Litry i °C”, „Galony i °F” lub „Automatyczne”, które odpowiada regionowi urządzenia."
+      }
+    ],
+    "privacy_summary": "Aquarium nie zbiera żadnych danych, nie wymaga konta i nie zawiera reklam ani trackerów. Twoje akwaria, pomiary i ryby pozostają na Twoim urządzeniu."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "W skrócie",
+        "blocks": [
+          {
+            "p": "Aquarium nie zbiera żadnych danych. Wszystko, co zapiszesz w aplikacji, pozostaje na Twoim iPhone lub iPad."
+          },
+          {
+            "ul": [
+              "Brak konta, brak reklam, brak śledzenia: aplikacja nie zawiera narzędzi analitycznych ani reklamowych i nie identyfikuje Cię w żaden sposób."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Twoje akwaria, pomiary i ryby",
+        "blocks": [
+          {
+            "p": "Twoje akwaria, pomiary wody, zadania pielęgnacji oraz lista Twoich ryb są przechowywane w prywatnym magazynie aplikacji na Twoim urządzeniu. Nie są one przesyłane nikomu, nawet deweloperowi."
+          },
+          {
+            "p": "Usunięcie aplikacji usunie wszystkie te dane. Mogą one zostać uwzględnione w kopii zapasowej iCloud lub lokalnej Twojego urządzenia, którą zarządzasz sam w ustawieniach Apple."
+          }
+        ]
+      },
+      {
+        "h": "Powiadomienia",
+        "blocks": [
+          {
+            "p": "Przypomnienia dotyczące pielęgnacji są zaplanowane na urządzeniu; nie wykorzystuje się serwera."
+          }
+        ]
+      },
+      {
+        "h": "Linki do pomocy",
+        "blocks": [
+          {
+            "p": "Linki „Pomoc i kontakt” oraz „Prywatność” otwierają tę stronę i stronę pomocy w Twojej przeglądarce. Aplikacja nie przekazuje żadnych informacji do tych stron."
+          }
+        ]
+      },
+      {
+        "h": "Zakupy",
+        "blocks": [
+          {
+            "p": "Aquarium Pro jest sprzedawane i zarządzane przez Apple. Aplikacja nie widzi Twojego sposobu płatności ani Twojej tożsamości; odczytuje jedynie, poprzez App Store, czy zakup został dokonany, aby odblokować funkcje."
+          }
+        ]
+      },
+      {
+        "h": "Dzieci",
+        "blocks": [
+          {
+            "p": "Aquarium nie zbiera żadnych danych, w tym z dzieci."
+          }
+        ]
+      },
+      {
+        "h": "Zmiany",
+        "blocks": [
+          {
+            "p": "Jeśli ta polityka zostanie zmieniona, nowa wersja zostanie opublikowana na tej stronie z datą aktualizacji."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "W przypadku jakichkolwiek pytań dotyczących tej polityki: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

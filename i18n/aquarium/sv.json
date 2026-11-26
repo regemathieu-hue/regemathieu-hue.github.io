@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Din loggbok för sötvattenakvariet: vatten, skötsel och fiskkompatibilitet",
+    "contact": "En fråga, en idé eller ett problem med appen? Skriv till mig:<br>{email}",
+    "faq": [
+      {
+        "q": "Var börjar jag?",
+        "a": "Vid första starten trycker du på \"Skapa mitt akvarium\": ge det ett namn, volym och vattentyp, \"Tropisk (uppvärmd)\" eller \"Kallvatten\". Om akvariet är nytt, aktivera \"Jag vet när akvariet sattes upp\": Aquarium följer inkörningen. Tryck sedan på \"Ny mätning\" för att logga din första testning, och öppna fliken \"Fisk\" för att ange arterna i ditt akvarium."
+      },
+      {
+        "q": "Hur loggar jag en vattenmätning?",
+        "a": "I fliken Akvarium trycker du på \"Ny mätning\" och fyller bara i det du har mätt: pH, ammoniak, nitrit, nitrat, hårdhet (GH), karbonat-hårdhet (KH), temperatur. Varje värde bedöms direkt, \"Bra\", \"Observera\" eller \"Behöver fixas\", och diagrammet \"Att göra\" visar vad du ska göra. För att rätta en mätning öppnar du fliken Vatten och trycker på den i listan \"Mätningar\"; för att ta bort den, dra raden till vänster."
+      },
+      {
+        "q": "Var kommer \"Ideal\" och \"Tolererat\" från?",
+        "a": "För ammoniak och nitrit är det förväntade värdet noll. Nitrat bedöms som bra under 25 mg/L och tolererat upp till 50 mg/L. För pH, hårdhet och temperatur beräknar Aquarium ett intervall som passar alla arter i ditt akvarium; så länge du inte har lagt till några fiskar använder den en generell spann baserat på vattentypen. Dessa riktlinjer är indikativa och gäller för sötvatten: de ersätter inte råd från en specialbutik eller veterinär."
+      },
+      {
+        "q": "Mitt akvarium är nytt: vad är inkörning?",
+        "a": "Ett nytt akvarium tar cirka en månad att gå igenom inkörning: filterbakterier etablerar sig, nitrit stiger och sjunker sedan till noll. Under de första 28 dagarna efter att akvariet sattes upp visas i fliken Akvarium \"Akvarium i inkörning\" med dagens nummer. Vänta tills nitrit har sjunkit till noll innan du lägger till fiskar. För att ange eller rätta till datumet, tryck på \"Redigera\" i fliken Akvarium och aktivera \"Jag vet när akvariet sattes upp\"."
+      },
+      {
+        "q": "Hur fungerar skötsel-påminnelserna?",
+        "a": "När du skapar ett akvarium planerar Aquarium en vattenbyte varje 7:e dag och filterrengöring varje 30:e dag. Tryck på en uppgift för att ändra frekvensen, andelen vatten som byts eller \"Påminn mig\"; knappen + på fliken \"Skötsel\" lägger till fler, till exempel ett vattenprov eller en egen uppgift. Den dagen får du en notifikation vid den tid du valt i Inställningar › Påminnelser, och en påminnelse två och sju dagar senare om inget är markerat som klart. Tryck på \"Klart\" när det är gjort: nästa datum räknas från detta ögonblick."
+      },
+      {
+        "q": "Jag markerade en uppgift av misstag, vad gör jag?",
+        "a": "I fliken Akvarium, under listan över uppgifter, öppna \"Historik\". Skjut den extra raden åt vänster för att ta bort den: nästa datum räknas om."
+      },
+      {
+        "q": "Jag får inte några påminnelser, varför?",
+        "a": "Kontrollera att notifikationer är tillåtna: iPhone-inställningar › Notifikationer › Aquarium. Om de är avstängda meddelar appen detta i Inställningar › Påminnelser, med länken \"Tillåt påminnelser i Inställningar\". Kontrollera också att \"Påminn mig\" är aktiverat för uppgiften och att ingen Fokusläge är aktiverat vid påminnelsetiden."
+      },
+      {
+        "q": "Hur kontrollerar jag om fiskar kan leva tillsammans?",
+        "a": "I fliken Fisk trycker du på knappen +: sök efter namn eller latinnamn, eller filtrera efter familj. En artsida visar dess behov, beteende och, under \"Med dina fiskar\", vad dess ankomst skulle förändra i ditt akvarium. \"Lägg till i akvariet\" lägger till den med antalet individer. I toppen av fliken visas bedömningen (\"De kan leva tillsammans\", \"Möjligt, håll ögonen öppna\" eller \"Bäst inte tillsammans\") följt av orsakerna: temperatur, pH, temperament, storlek, fena, akvariumvolym. Katalogen innehåller 85 art av sötvatten; om en art du håller saknas, skriv till mig."
+      },
+      {
+        "q": "Vad ingår i Aquarium Pro och hur mycket kostar det?",
+        "a": "Den fria versionen har ingen tidsgräns: ett akvarium, alla mätningar, alla påminnelser och fiskkompatibilitet. Aquarium Pro är en enkel köp utan återkommande avgifter, till 4,99 € i Frankrike: flera akvarier och vatten-diagram, över en månad, tre månader, ett år eller hela historiken. Det fungerar med familjedelning. På ett nytt enhet öppnar du Inställningar › Aquarium Pro, sedan trycker du på \"Återställ köp\"."
+      },
+      {
+        "q": "Var lagras mina data, och vad händer om jag byter iPhone?",
+        "a": "Endast på din enhet: det finns ingen konto, ingen server och inget synk mellan enheter. Dina akvarier, mätningar och fiskar ingår i din iPhone:s iCloud- eller lokala säkerhetskopia; de återkommer när du återställer säkerhetskopian på en ny enhet. Att ta bort appen raderar allt."
+      },
+      {
+        "q": "Kan jag visa galloner och grader Fahrenheit?",
+        "a": "Ja: Inställningar › Enheter, sedan \"Liter och °C\", \"Galloner och °F\" eller \"Automatiskt\", som följer enhetens region."
+      }
+    ],
+    "privacy_summary": "Aquarium samlar inte in några data, kräver ingen konto och innehåller inga annonser eller spårare. Dina akvarier, mätningar och fiskar förblir på din enhet."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kort sagt",
+        "blocks": [
+          {
+            "p": "Aquarium samlar inte in några data. Allt du antecknar i appen finns kvar på din iPhone eller iPad."
+          },
+          {
+            "ul": [
+              "Inget konto, inga annonser, inget spårning: appen innehåller inga analysverktyg eller reklam, och identifierar dig inte på något sätt."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Dina akvarier, mätningar och fiskar",
+        "blocks": [
+          {
+            "p": "Dina akvarier, dina vattenmätningar, dina skötseluppgifter och din lista över fiskar sparas i appens privata lagring på din enhet. De skickas inte till någon, inte ens till utvecklaren."
+          },
+          {
+            "p": "Att ta bort appen raderar all denna data. Den kan ingå i iCloud- eller lokala säkerhetskopior av din enhet, som du själv hanterar i Apple:s inställningar."
+          }
+        ]
+      },
+      {
+        "h": "Påminnelser",
+        "blocks": [
+          {
+            "p": "Påminnelser för skötsel är schemalagda på enheten; ingen server är inblandad."
+          }
+        ]
+      },
+      {
+        "h": "Länkar till hjälp",
+        "blocks": [
+          {
+            "p": "Länkarna \"Hjälp och kontakt\" och \"Sekretess\" öppnar denna sida och hjälpsidan i din webbläsare. Appen skickar ingen information till dem."
+          }
+        ]
+      },
+      {
+        "h": "Köp",
+        "blocks": [
+          {
+            "p": "Aquarium Pro säljs och hanteras av Apple. Appen ser varken din betalmetod eller din identitet; den läser endast, via App Store, om köpet har gjorts, för att låsa upp funktionerna."
+          }
+        ]
+      },
+      {
+        "h": "Barn",
+        "blocks": [
+          {
+            "p": "Aquarium samlar ingen data, även inte från barn."
+          }
+        ]
+      },
+      {
+        "h": "Ändringar",
+        "blocks": [
+          {
+            "p": "Om denna policy ändras kommer den nya versionen att publiceras på denna sida med dess uppdateringsdatum."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "För frågor om denna policy: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Der Logbuch-App für dein Süßwasser-Becken: Wasser, Pflege und Fisch-Kompatibilität",
+    "contact": "Eine Frage, eine Idee oder ein Problem mit der App? Schreib mir einfach:<br>{email}",
+    "faq": [
+      {
+        "q": "Wo fange ich an?",
+        "a": "Beim ersten Start berühre „Mein Becken erstellen“: Gib ihm einen Namen, sein Volumen und seinen Wasser-Typ, „Tropisch (beheizt)“ oder „Kaltwasser“. Wenn das Becken neu ist, aktiviere „Ich weiß, wann das Becken eingerichtet wurde“: Aquarium wird die Einfahrphase verfolgen. Berühre danach „Neue Messung“, um deine erste Messung einzugeben, und öffne dann den Tab „Fische“, um die Arten in deinem Becken einzutragen."
+      },
+      {
+        "q": "Wie notiere ich eine Wasserprobe?",
+        "a": "Im Tab „Becken“ berühre „Neue Messung“ und fülle nur aus, was du gemessen hast: pH, Ammoniak, Nitrit, Nitrat, Härte (GH), Karbonathärte (KH), Temperatur. Jeder Wert wird sofort bewertet: „Gut“, „Beobachten“ oder „Handlungsbedarf“, und das Diagramm „Zu erledigen“ sagt dir, was zu tun ist. Um eine Messung zu korrigieren, öffne den Tab „Wasser“ und berühre sie in der Liste „Messungen“; um sie zu löschen, ziehe die Zeile nach links."
+      },
+      {
+        "q": "Woher stammen die Angaben „Ideal“ und „Toleriert“?",
+        "a": "Für Ammoniak und Nitrit ist der erwartete Wert null. Nitrat gilt als gut unter 25 mg/L und toleriert bis zu 50 mg/L. Für pH, Härte und Temperatur berechnet Aquarium den Bereich, der für alle Arten in deinem Becken geeignet ist; solange du keine Fische eingetragen hast, verwendet es einen allgemeinen Bereich je nach Wasser-Typ. Diese Werte sind Richtwerte und gelten für Süßwasser: Sie ersetzen keinen Rat von einem Fachhändler oder Tierarzt."
+      },
+      {
+        "q": "Mein Becken ist neu: Was ist die Einfahrphase?",
+        "a": "Ein neues Becken benötigt etwa einen Monat für die Einfahrphase: Die Bakterien im Filter setzen sich an, Nitrit steigt an und fällt dann wieder auf null zurück. Für 28 Tage nach der Einrichtung zeigt der Tab \"Becken\" \"Becken in Einfahrphase\" mit dem aktuellen Tag an. Warte, bis das Nitrit wieder bei null liegt, bevor du Fische hinzufügst. Um das Datum einzugeben oder zu korrigieren, tippe im Tab \"Becken\" auf \"Bearbeiten\" und aktiviere \"Ich weiß, wann das Becken eingerichtet wurde\"."
+      },
+      {
+        "q": "Wie funktionieren die Erinnerungen zur Pflege?",
+        "a": "Beim Anlegen eines Beckens plant Aquarium einen Wasserwechsel alle 7 Tage und eine Filterreinigung alle 30 Tage. Tippe auf eine Aufgabe, um ihren Zeitplan, den Anteil des gewechselten Wassers oder \"Erinnern\" zu ändern; der +-Button auf der Karte \"Pflege\" fügt weitere Aufgaben hinzu, wie beispielsweise ein Wassertest oder eine eigene Aufgabe. Am geplanten Tag erhältst du eine Benachrichtigung zur gewählten Uhrzeit in Einstellungen › Erinnerungen, danach eine Erinnerung zwei Tage und sieben Tage später, falls nichts als erledigt markiert wurde. Tippe auf \"Erledigt\", wenn es erledigt ist: Das nächste Datum wird ab diesem Tag berechnet."
+      },
+      {
+        "q": "Ich habe eine Pflegeaufgabe versehentlich als erledigt markiert. Was kann ich tun?",
+        "a": "Im Tab \"Becken\" unter der Liste der Aufgaben öffne den Verlauf. Wische die überflüssige Zeile nach links, um sie zu entfernen: Das nächste Datum wird neu berechnet."
+      },
+      {
+        "q": "Ich erhalte keine Erinnerungen. Warum?",
+        "a": "Stelle sicher, dass Benachrichtigungen aktiviert sind: iPhone-Einstellungen › Benachrichtigungen › Aquarium. Wenn sie deaktiviert sind, zeigt die App dies in Einstellungen › Erinnerungen an, mit dem Link \"Benachrichtigungen in Einstellungen erlauben\". Überprüfe auch, ob für die betreffende Aufgabe \"Erinnern\" aktiviert ist und ob zu der Zeit der Erinnerung kein Konzentrationsmodus aktiv ist."
+      },
+      {
+        "q": "Wie überprüfe ich, ob Fische zusammenleben können?",
+        "a": "Im Tab Fische tippe auf die Schaltfläche +: Suche nach Namen oder lateinischem Namen oder filtere nach Familie. Eine Artenspezifikation zeigt ihre Bedürfnisse, ihr Verhalten und unter „Mit deinen Fischen“, was ihre Ankunft in deinem Becken verändern würde. „Zum Becken hinzufügen“ fügt sie mit der Anzahl der Individuen hinzu. Oben im Tab steht das Urteil („Sie können zusammenleben“, „Möglich, im Auge behalten“ oder „Besser nicht zusammen halten“) gefolgt von den Gründen: Temperatur, pH, Verhalten, Größe, Flossen, Beckenvolumen. Der Katalog enthält 85 Süßwasserarten; wenn eine Art, die du hältst, fehlt, schreib mir bitte."
+      },
+      {
+        "q": "Was beinhaltet Aquarium Pro und wie viel kostet es?",
+        "a": "Die kostenlose Version hat keine zeitliche Beschränkung: ein Becken, alle Messungen, alle Erinnerungen und die Fischverträglichkeit. Aquarium Pro ist ein einmaliger Kauf ohne Abo zu 4,99 € in Frankreich: mehrere Becken und Wasser-Diagramme über einen Monat, drei Monate, ein Jahr oder den gesamten Verlauf. Es ist mit Family Sharing kompatibel. Auf einem neuen Gerät öffne Einstellungen › Aquarium Pro und tippe dann auf „Käufe wiederherstellen“."
+      },
+      {
+        "q": "Wo werden meine Daten gespeichert, und was passiert, wenn ich mein iPhone wechsle?",
+        "a": "Nur auf deinem Gerät: Es gibt kein Konto, keinen Server und keine Synchronisierung zwischen Geräten. Deine Becken, Messungen und Fische sind Teil der iCloud- oder lokalen Sicherung deines iPhones; sie kehren zurück, wenn du diese Sicherung auf einem neuen Gerät wiederherstellst. Das Löschen der App löscht alles."
+      },
+      {
+        "q": "Kann ich Gallonen und Grad Fahrenheit anzeigen?",
+        "a": "Ja: Einstellungen › Einheiten, dann „Liter und °C“, „Gallonen und °F“ oder „Automatisch“, das die Region deines Geräts übernimmt."
+      }
+    ],
+    "privacy_summary": "Aquarium sammelt keine Daten, verlangt kein Konto und enthält weder Werbung noch Tracker. Deine Becken, Messungen und Fische bleiben auf deinem Gerät."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "Kurz gesagt",
+        "blocks": [
+          {
+            "p": "Aquarium sammelt keine Daten. Alles, was du in der App notierst, bleibt auf deinem iPhone oder iPad."
+          },
+          {
+            "ul": [
+              "Kein Konto, keine Werbung, kein Tracking: Die App enthält weder Analyse- noch Werbeinstrumente und identifiziert dich auf keine Weise."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Deine Becken, Messungen und Fische",
+        "blocks": [
+          {
+            "p": "Deine Becken, deine Wasser-Messungen, deine Pflege-Aufgaben und deine Fischliste werden im privaten Speicher der App auf deinem Gerät gespeichert. Sie werden niemandem übermittelt, nicht einmal dem Entwickler."
+          },
+          {
+            "p": "Das Löschen der App löscht alle diese Daten. Sie können in den iCloud- oder lokalen Sicherungen deines Geräts enthalten sein, die du selbst in den Einstellungen von Apple verwaltest."
+          }
+        ]
+      },
+      {
+        "h": "Benachrichtigungen",
+        "blocks": [
+          {
+            "p": "Wartungs-Erinnerungen werden auf dem Gerät geplant; es ist kein Server beteiligt."
+          }
+        ]
+      },
+      {
+        "h": "Links zu Hilfe",
+        "blocks": [
+          {
+            "p": "Die Links „Hilfe und Kontakt“ und „Datenschutz“ öffnen diese Seite und die Hilfeseite in deinem Browser. Die App übermittelt keine Informationen an sie."
+          }
+        ]
+      },
+      {
+        "h": "Käufe",
+        "blocks": [
+          {
+            "p": "Aquarium Pro wird von Apple verkauft und verwaltet. Die App sieht weder deine Zahlungsmethode noch deine Identität; sie liest lediglich über den App Store, ob der Kauf getätigt wurde, um die Funktionen freizuschalten."
+          }
+        ]
+      },
+      {
+        "h": "Kinder",
+        "blocks": [
+          {
+            "p": "Aquarium sammelt keine Daten, auch nicht von Kindern."
+          }
+        ]
+      },
+      {
+        "h": "Änderungen",
+        "blocks": [
+          {
+            "p": "Wenn sich diese Richtlinie ändert, wird die neue Version auf dieser Seite mit dem Aktualisierungsdatum veröffentlicht."
+          }
+        ]
+      },
+      {
+        "h": "Kontakt",
+        "blocks": [
+          {
+            "p": "Für Fragen zu dieser Richtlinie: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

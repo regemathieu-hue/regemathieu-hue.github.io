@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "El diario de tu acuario de agua dulce: agua, mantenimiento y compatibilidad de peces",
+    "contact": "¿Una pregunta, una idea o un problema con la app? Escríbeme:<br>{email}",
+    "faq": [
+      {
+        "q": "¿Por dónde empiezo?",
+        "a": "Al iniciar por primera vez, toca «Crear mi acuario»: dale un nombre, su volumen y su tipo de agua, «Tropical (con calentador)» o «Agua fría». Si el acuario es reciente, activa «Sé cuándo se instaló el acuario»: Aquarium seguirá su ciclado. Después, toca «Nueva medición» para registrar tu primer test, y abre la pestaña Peces para indicar las especies de tu acuario."
+      },
+      {
+        "q": "¿Cómo registro una medición del agua?",
+        "a": "En la pestaña Acuario, toca «Nueva medición» y llena solo lo que mediste: pH, amoníaco, nitrito, nitrato, dureza total (GH), dureza carbonatada (KH), temperatura. Cada valor se evalúa de inmediato como «Bueno», «Observar» o «Necesita corrección», y la tarjeta «Por hacer» te indica qué hacer. Para corregir una medición, abre la pestaña Agua y toca la entrada en la lista «Mediciones»; para eliminarla, desliza su fila hacia la izquierda."
+      },
+      {
+        "q": "¿De dónde vienen los parámetros «Ideal» y «Tolerado»?",
+        "a": "Para el amoníaco y el nitrito, el valor esperado es cero. El nitrato se considera bueno por debajo de 25 mg/L y tolerado hasta 50 mg/L. Para el pH, la dureza total y la temperatura, Aquarium calcula el rango que conviene a todas las especies de tu acuario; mientras no hayas indicado ningún pez, usa un rango general según el tipo de agua. Estos parámetros son orientativos y se aplican al agua dulce: no reemplazan el consejo de un vendedor especializado o un veterinario."
+      },
+      {
+        "q": "Mi acuario es nuevo: ¿qué es el ciclado?",
+        "a": "Un acuario nuevo tarda unos 28 días en completar su ciclado: las bacterias del filtro se establecen, y el nitrito aumenta luego vuelve a cero. Durante los primeros 28 días después de llenarlo, la pestaña Acuario muestra «Acuario en ciclado» con el día actual. Espera a que el nitrito vuelva a cero antes de añadir peces. Para indicar o corregir la fecha, toca «Editar» en la pestaña Acuario y activa «Sé cuándo se instaló el acuario»."
+      },
+      {
+        "q": "¿Cómo funcionan los recordatorios de mantenimiento?",
+        "a": "Al crear un acuario, Aquarium planea un cambio de agua cada 7 días y una limpieza del filtro cada 30 días. Toca una tarea para cambiar su frecuencia, la cantidad de agua a cambiar o «Recordarme»; el botón + en la tarjeta «Mantenimiento» agrega otras, como una prueba de agua o una tarea personalizada. El día programado, recibirás una notificación a la hora elegida en Ajustes › Recordatorios, y otra recordatoria dos días y siete días después si no se marca como hecha. Toca «Hecho» cuando ya esté terminada: la próxima fecha se calcula desde ese día."
+      },
+      {
+        "q": "Marqué una tarea por error, ¿qué hago?",
+        "a": "En la pestaña Acuario, debajo de la lista de tareas, abre «Historial». Desliza la fila innecesaria hacia la izquierda para eliminarla: la próxima fecha se recalcula."
+      },
+      {
+        "q": "No recibo los recordatorios, ¿por qué?",
+        "a": "Verifica que las notificaciones estén permitidas: Configuración de iPhone › Notificaciones › Aquarium. Si están desactivadas, la app lo indica en Ajustes › Recordatorios, con el enlace «Permite notificaciones en Configuración». También verifica que «Recordarme» esté activado para la tarea correspondiente y que no haya un modo Concentración activo en el momento de los recordatorios."
+      },
+      {
+        "q": "¿Cómo verifico si los peces pueden vivir juntos?",
+        "a": "En la pestaña Peces, toca el botón +: búscalos por nombre o nombre latino, o filtra por familia. La ficha de una especie muestra sus necesidades, su comportamiento y, bajo « Con tus peces », lo que cambiaría su llegada en tu acuario. « Añadir al acuario » la agrega con el número de individuos. En la parte superior de la pestaña, el veredicto (« Pueden vivir juntos », « Posible, pero vigila » o « No se recomienda mantenerlas juntas ») va seguido de las razones: temperatura, pH, carácter, tamaño, aletas, volumen del acuario. El catálogo tiene 85 especies de agua dulce; si falta una que crías, escríbeme."
+      },
+      {
+        "q": "¿Qué incluye Aquarium Pro y cuánto cuesta?",
+        "a": "La versión gratuita no tiene límite de tiempo: un acuario, todas las mediciones, todos los recordatorios y compatibilidad de peces. Aquarium Pro es una compra única, sin suscripción, a 4,99 € en Francia: varios acuarios y gráficos del agua, durante un mes, tres meses, un año o todo el historial. Es compatible con el compartimiento familiar. En un dispositivo nuevo, abre Ajustes › Aquarium Pro, luego toca « Restaurar compras»."
+      },
+      {
+        "q": "¿Dónde se guardan mis datos, y qué pasa si cambio de iPhone?",
+        "a": "Únicamente en tu dispositivo: no hay cuenta, servidor ni sincronización entre dispositivos. Tus acuarios, mediciones y peces forman parte de la copia de seguridad de iCloud o local de tu iPhone; vuelven cuando restauras esa copia de seguridad en un nuevo dispositivo. Eliminar la aplicación borra todo."
+      },
+      {
+        "q": "¿Se pueden mostrar galones y grados Fahrenheit?",
+        "a": "Sí: Ajustes › Unidades, luego « Litros y °C », « Galones y °F » o « Automático », que sigue la región del dispositivo."
+      }
+    ],
+    "privacy_summary": "Aquarium no recopila ningún dato, no pide ninguna cuenta y no contiene publicidad ni rastreadores. Tus acuarios, tus mediciones y tus peces permanecen en tu dispositivo."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resumen",
+        "blocks": [
+          {
+            "p": "Aquarium no recopila ningún dato. Todo lo que anotas en la aplicación permanece en tu iPhone o iPad."
+          },
+          {
+            "ul": [
+              "Sin cuenta, sin publicidad, sin seguimiento: la aplicación no contiene herramientas de análisis ni publicidad, y no te identifica de ninguna manera."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Tus acuarios, tus mediciones y tus peces",
+        "blocks": [
+          {
+            "p": "Tus acuarios, tus mediciones del agua, tus tareas de mantenimiento y tu lista de peces se guardan en el almacenamiento privado de la aplicación, en tu dispositivo. No se envían a nadie, ni siquiera al desarrollador."
+          },
+          {
+            "p": "Eliminar la aplicación borra todos estos datos. Pueden incluirse en las copias de seguridad de iCloud o locales de tu dispositivo, que tú gestionas directamente en la configuración de Apple."
+          }
+        ]
+      },
+      {
+        "h": "Notificaciones",
+        "blocks": [
+          {
+            "p": "Los recordatorios de mantenimiento se programan en el dispositivo; ningún servidor está involucrado."
+          }
+        ]
+      },
+      {
+        "h": "Enlaces a la ayuda",
+        "blocks": [
+          {
+            "p": "Los enlaces « Ayuda y contacto » y « Privacidad » abren esta página y la página de ayuda en tu navegador. La aplicación no envía ninguna información a ellos."
+          }
+        ]
+      },
+      {
+        "h": "Compras",
+        "blocks": [
+          {
+            "p": "Aquarium Pro se vende y gestiona mediante Apple. La aplicación no ve ni tu método de pago ni tu identidad; solo lee, a través de la App Store, si se realizó la compra, para desbloquear las funciones."
+          }
+        ]
+      },
+      {
+        "h": "Niños",
+        "blocks": [
+          {
+            "p": "Aquarium no recopila ninguna información, incluso de los niños."
+          }
+        ]
+      },
+      {
+        "h": "Cambios",
+        "blocks": [
+          {
+            "p": "Si esta política cambia, la nueva versión se publicará en esta página con su fecha de actualización."
+          }
+        ]
+      },
+      {
+        "h": "Contacto",
+        "blocks": [
+          {
+            "p": "Para cualquier pregunta sobre esta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

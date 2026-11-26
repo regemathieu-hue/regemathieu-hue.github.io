@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "Il taccuino del tuo acquario d'acqua dolce: acqua, manutenzione e compatibilità dei pesci",
+    "contact": "Una domanda, un'idea o un problema con l'app? Scrivimi:<br>{email}",
+    "faq": [
+      {
+        "q": "Da dove iniziare?",
+        "a": "Al primo avvio, tocca «Crea la mia vasca»: assegnale un nome, il volume e il tipo d'acqua, «Tropicale (riscaldato)» o «Acqua fredda». Se la vasca è recente, attiva «So quando è stato avviato il tuo acquario»: Aquarium seguirà la sua maturazione. Poi tocca «Nuova misurazione» per registrare il primo test, quindi apri l'opzione «Pesci» per indicare le specie presenti nella tua vasca."
+      },
+      {
+        "q": "Come registrare un test dell'acqua?",
+        "a": "Nell'opzione «Vasca», tocca «Nuova misurazione» e compila solo i valori che hai misurato: pH, ammoniaca, nitriti, nitrati, durezza totale (GH), durezza carbonatica (KH), temperatura. Ogni valore viene subito valutato come «Buono», «Da tenere d'occhio» o «Da correggere», e la scheda «Da fare» ti indica cosa fare. Per correggere una misurazione, apri l'opzione «Acqua» e tocca quella nella lista «Misurazioni»; per eliminarla, scorri la riga verso sinistra."
+      },
+      {
+        "q": "Da dove vengono i riferimenti «Ideale» e «Tollerato»?",
+        "a": "Per l'ammoniaca e i nitriti, il valore atteso è zero. I nitrati sono considerati buoni al di sotto dei 25 mg/L e tollerati fino a 50 mg/L. Per il pH, la durezza totale e la temperatura, Aquarium calcola l'intervallo adatto a tutte le specie presenti nella tua vasca; finché non hai inserito alcun pesce, utilizza un intervallo generico in base al tipo d'acqua. Questi riferimenti sono indicativi e si applicano all'acqua dolce: non sostituiscono il parere di un negoziante specializzato o di un veterinario."
+      },
+      {
+        "q": "Il mio acquario è nuovo: cos'è la maturazione?",
+        "a": "Un nuovo acquario impiega circa un mese per completare la maturazione: le batterie del filtro si stabilizzano, i nitriti aumentano poi tornano a zero. Per 28 giorni dopo l'avvio, nella scheda Vasca appare \"Vasca in maturazione\" con il giorno corrente. Aspetta che i nitriti siano tornati a zero prima di aggiungere pesci. Per inserire o correggere la data, tocca \"Modifica\" nella scheda Vasca e attiva \"So quando è stato avviato il tuo acquario\"."
+      },
+      {
+        "q": "Come funzionano i promemoria per la manutenzione?",
+        "a": "All'apertura di una nuova vasca, Aquarium prevede un cambio d'acqua ogni 7 giorni e una pulizia del filtro ogni 30 giorni. Tocca un'attività per modificare il suo ritmo, la quantità d'acqua da cambiare o \"Promemoria\"; il pulsante + nella scheda \"Manutenzione\" ne aggiunge altre, come un test dell'acqua o un'attività personalizzata. Il giorno previsto ricevi una notifica all'ora scelta in Impostazioni › Promemoria, poi un promemoria aggiuntivo due giorni e sette giorni dopo se nulla è stato segnato come fatto. Tocca \"Fatto\" quando l'attività è completata: la data successiva viene calcolata da quel giorno."
+      },
+      {
+        "q": "Ho segnato per errore un'attività. Cosa posso fare?",
+        "a": "Nella scheda Vasca, sotto l'elenco delle attività, apri \"Cronologia\". Scorri verso sinistra la riga in eccesso per eliminarla: la data successiva viene ricalcolata."
+      },
+      {
+        "q": "Perché non ricevo i promemoria?",
+        "a": "Verifica che le notifiche siano abilitate: Impostazioni iPhone › Notifiche › Aquarium. Se sono disattivate, l'app lo segnala in Impostazioni › Promemoria, con il collegamento \"Permetti le notifiche in Impostazioni\". Controlla anche che \"Promemoria\" sia attivato per l'attività interessata e che al momento dei promemoria non sia attivo un modo Concentrazione."
+      },
+      {
+        "q": "Come verifico se i pesci possono convivere?",
+        "a": "Nell'opzione Pesci, tocca il pulsante +: cerca per nome o nome latino, oppure filtra per famiglia. La scheda di una specie mostra le sue esigenze, il suo comportamento e, sotto « Con i tuoi pesci », cosa cambierebbe con il suo arrivo nella tua vasca. « Aggiungi alla vasca » la inserisce con il numero di individui. In alto nell'opzione, il verdetto (« Possono convivere », « Possibile, tenere d'occhio » o « Meglio non tenerle insieme ») è seguito dalle ragioni: temperatura, pH, temperamento, dimensione, pinne, volume della vasca. Il catalogo include 85 specie di acqua dolce; se ne manca una che tieni, scrivimi."
+      },
+      {
+        "q": "Cosa contiene Aquarium Pro e quanto costa?",
+        "a": "La versione gratuita non ha limiti di durata: una vasca, tutte le misurazioni, tutti i promemoria e la compatibilità dei pesci. Aquarium Pro è un acquisto singolo, senza abbonamento, a 4,99 € in Francia: più vasche e grafici dell'acqua, su un mese, tre mesi, un anno o tutta la cronologia. È compatibile con il condivisione familiare. Su un nuovo dispositivo, apri Impostazioni › Aquarium Pro, quindi tocca « Ripristina acquisti»."
+      },
+      {
+        "q": "Dove sono salvate i miei dati, e cosa succede se cambio iPhone?",
+        "a": "Solo sul tuo dispositivo: non esiste alcun account, server o sincronizzazione tra dispositivi. Le tue vasche, le misurazioni e i pesci fanno parte del backup iCloud o locale del tuo iPhone; tornano quando ripristini quel backup su un nuovo dispositivo. Eliminare l'app cancella tutto."
+      },
+      {
+        "q": "Si può visualizzare in galloni e gradi Fahrenheit?",
+        "a": "Sì: Impostazioni › Unità, quindi « Litri e °C », « Galloni e °F » o « Automatico », che segue la regione del dispositivo."
+      }
+    ],
+    "privacy_summary": "Aquarium non raccoglie alcuna dato, non richiede alcun account e non contiene pubblicità né tracciatori. Le tue vasche, le tue misurazioni e i tuoi pesci rimangono sul tuo iPhone o iPad."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "In breve",
+        "blocks": [
+          {
+            "p": "Aquarium non raccoglie dati. Tutto ciò che registri nell'app rimane sul tuo iPhone o iPad."
+          },
+          {
+            "ul": [
+              "Nessun account, nessuna pubblicità, nessun tracciamento: l'app non contiene strumenti di analisi né pubblicitari e non ti identifica in alcun modo."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Le tue vasche, le tue misurazioni e i tuoi pesci",
+        "blocks": [
+          {
+            "p": "Le tue vasche, le tue misurazioni dell'acqua, le attività di manutenzione e l'elenco dei tuoi pesci sono salvati nell'archivio privato dell'applicazione, sul tuo dispositivo. Non vengono inviati a nessuno, neppure allo sviluppatore."
+          },
+          {
+            "p": "Eliminare l'app cancella tutti questi dati. Possono essere inclusi nei backup iCloud o locali del tuo dispositivo, che gestisci tu stesso nelle impostazioni di Apple."
+          }
+        ]
+      },
+      {
+        "h": "Notifiche",
+        "blocks": [
+          {
+            "p": "I promemoria di manutenzione sono programmati sul dispositivo; non è coinvolto alcun server."
+          }
+        ]
+      },
+      {
+        "h": "Collegamenti all'assistenza",
+        "blocks": [
+          {
+            "p": "I collegamenti « Aiuto e contatto » e « Privacy » aprono questa pagina e la pagina dell'assistenza nel tuo browser. L'applicazione non trasmette alcuna informazione a questi siti."
+          }
+        ]
+      },
+      {
+        "h": "Acquisti",
+        "blocks": [
+          {
+            "p": "Aquarium Pro è venduto e gestito da Apple. L'applicazione non vede né il tuo metodo di pagamento né la tua identità; legge solo, tramite l'App Store, se l'acquisto è stato effettuato, per sbloccare le funzioni."
+          }
+        ]
+      },
+      {
+        "h": "Bambini",
+        "blocks": [
+          {
+            "p": "Aquarium non raccoglie alcuna dato, neanche dai bambini."
+          }
+        ]
+      },
+      {
+        "h": "Modifiche",
+        "blocks": [
+          {
+            "p": "Se questa politica viene modificata, la nuova versione sarà pubblicata su questa pagina con la relativa data di aggiornamento."
+          }
+        ]
+      },
+      {
+        "h": "Contatto",
+        "blocks": [
+          {
+            "p": "Per qualsiasi domanda riguardo a questa politica: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "support": {
+    "subtitle": "El carnet de bord del teu aquari d'aigua dolça: aigua, manteniment i compatibilitat de peixos",
+    "contact": "Una pregunta, una idea o un problema amb l'aplicació? Escrigue'm:<br>{email}",
+    "faq": [
+      {
+        "q": "Per on començar?",
+        "a": "Al primer llançament, toca «Crea el teu aquari»: dona-li un nom, el seu volum i el tipus d'aigua, «Tropical (amb escalfador)» o «Aigua freda». Si l'aquari és recent, activa «Sé quan va començar l'aquari»: Aquarium seguirà el seu ciclat. Després toca «Nova mesura» per registrar el teu primer test, i obre la pestanya «Peixos» per indicar les espècies del teu aquari."
+      },
+      {
+        "q": "Com registrar una mesura d'aigua?",
+        "a": "A la pestanya «Aquari», toca «Nova mesura» i omple només el que has mesurat: pH, amoníac, nitrits, nitrats, duresa total (GH), duresa carbonatada (KH), temperatura. Cada valor es valora immediatament, «Bo», «Observa» o «Necessita correcció», i la carta «Per fer» et diu què cal fer. Per corregir una mesura, obre la pestanya «Aigua» i toca-la a la llista «Mesures»; per suprimir-la, desplaça la seva fila cap a l'esquerra."
+      },
+      {
+        "q": "On venen els referents «Ideal» i «Tolerat»?",
+        "a": "Per a l'amoníac i els nitrits, el valor esperat és zero. Els nitrats es consideren bons sota 25 mg/L i tolerats fins a 50 mg/L. Pel pH, la duresa total i la temperatura, Aquarium calcula l'interval que convé a totes les espècies del teu aquari; mentrestant no hagis indicat cap peix, pren un interval general segons el tipus d'aigua. Aquests referents són orientatius i es refereixen a aigua dolça: no substitueixen l'opinió d'un venedor especialitzat o d'un veterinari."
+      },
+      {
+        "q": "El meu aquari és nou: què és el ciclat?",
+        "a": "Un aquari nou triga uns 28 dies a ciclar: les bactèries del filtre s'instal·len, i el nitrit puja i després torna a zero. Durant els primers 28 dies després de posar l'aigua, la pestanya Aquari mostra « Aquari en ciclat » amb el dia actual. Espereu fins que el nitrit torni a zero abans d'afegir peixos. Per indicar o corregir la data, toqueu « Editar » a la pestanya Aquari i activeu « Sé quan va començar l'aquari»."
+      },
+      {
+        "q": "Com funcionen els recordatoris de manteniment?",
+        "a": "Quan creeu un aquari, Aquarium preveu un canvi d'aigua cada 7 dies i una neteja del filtre cada 30 dies. Toqueu una tasca per canviar-ne el ritme, la quantitat d'aigua a canviar o « Recorda'm »; el botó + de la carta « Manteniment » en afegeix d'altres, com un test d'aigua o una tasca personalitzada. El dia previst, rebeu una notificació a l'hora escollida a Ajustaments › Recordatoris, i una altra recordatori dos dies i set dies més tard si no heu marcat res. Toqueu « Fet » quan estigui fet: la següent data es calcula des d'aquest dia."
+      },
+      {
+        "q": "He marcat un manteniment per error, què puc fer?",
+        "a": "A la pestanya Aquari, sota la llista de tasques, obriu « Històric ». Desplaceu cap a l'esquerra la fila de més per eliminar-la: es recalcula la següent data."
+      },
+      {
+        "q": "No rebo els recordatoris, per què?",
+        "a": "Comproveu que les notificacions estiguin permeses: Ajustaments de l'iPhone › Notificacions › Aquarium. Si estan desactivades, l'aplicació ho indica a Ajustaments › Recordatoris, amb el link « Permet les notificacions a Configuració ». Comproveu també que « Recorda'm » estigui activat per la tasca corresponent, i que no hi hagi cap mode Concentració actiu a l'hora del recordatori."
+      },
+      {
+        "q": "Com verificar si els peixos poden viure junts?",
+        "a": "A l'etiqueta Peixos, toca el botó +: busca per nom o per nom llatí, o filtra per família. La fitxa d'una espècie mostra les seves necessitats, el seu comportament i, sota « Amb els teus peixos », el que canviaria la seva arribada al teu aquari. « Afegeix a l'aquari » l'inscriu amb el nombre d'individus. A dalt de l'etiqueta, el veredicte (« Poden viure junts », « Possible, vigila-ho » o « Millor no mantenir-los junts ») va seguit de les raons: temperatura, pH, temperament, mida, aletes, volum de l'aquari. El catàleg té 85 espècies d'aigua dolça; si en falta una que tens, escriu-me."
+      },
+      {
+        "q": "Què inclou Aquarium Pro i quant costa?",
+        "a": "La versió gratuïta no té límit de temps: un aquari, totes les mesures, tots els recordatoris i la compatibilitat dels peixos. Aquarium Pro és una compra única, sense subscripció, a 4,99 € a França: diversos aquaris i gràfics de l'aigua, durant un mes, tres mesos, un any o tot l'historial. És compatible amb el compartiment familiar. En un dispositiu nou, obre Configuració › Aquarium Pro, després toca « Restaura les compres »."
+      },
+      {
+        "q": "On es guarden les meves dades, i què passa si canvio d'iPhone?",
+        "a": "Només al teu dispositiu: no hi ha cap compte, cap servidor ni sincronització entre dispositius. Els teus aquaris, mesures i peixos formen part de la còpia de seguretat d'iCloud o local del teu iPhone; tornen quan restableixes aquesta còpia en un nou dispositiu. Eliminar l'aplicació esborra tot."
+      },
+      {
+        "q": "Es pot mostrar els gallons i els graus Fahrenheit?",
+        "a": "Sí: Configuració › Unitats, després « Llits i °C », « Gallons i °F » o « Automàtic », que segueix la regió del dispositiu."
+      }
+    ],
+    "privacy_summary": "Aquarium no recull cap dada, no demana cap compte i no conté publicitat ni rastrejadors. Els teus aquaris, les teves mesures i els teus peixos romanen al teu dispositiu."
+  },
+  "privacy": {
+    "sections": [
+      {
+        "h": "En resum",
+        "blocks": [
+          {
+            "p": "Aquarium no recull cap dada. Tot el que escrius a l'aplicació roman al teu iPhone o iPad."
+          },
+          {
+            "ul": [
+              "Cap compte, cap publicitat, cap seguiment: l'aplicació no conté cap eina d'anàlisi ni publicitat, i no et identifica de cap manera."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "Els teus aquaris, les teves mesures i els teus peixos",
+        "blocks": [
+          {
+            "p": "Els teus aquaris, les teves mesures d'aigua, els teus manteniments i la llista dels teus peixos es desen a l'emmagatzematge privat de l'aplicació, al teu dispositiu. No es transmeten a ningú, ni tan sols al desenvolupador."
+          },
+          {
+            "p": "Eliminar l'aplicació esborra totes aquestes dades. Poden incloure's en les còpies de seguretat d'iCloud o locals del teu dispositiu, que gestiones tu mateix als ajustaments d'Apple."
+          }
+        ]
+      },
+      {
+        "h": "Recordatoris",
+        "blocks": [
+          {
+            "p": "Els recordatoris de manteniment s'organitzen al dispositiu; cap servidor està implicat."
+          }
+        ]
+      },
+      {
+        "h": "Enllaços a l'ajuda",
+        "blocks": [
+          {
+            "p": "Els enllaços « Ajuda i contacte » i « Privacitat » obren aquesta pàgina i la pàgina d'ajuda al navegador. L'aplicació no transmet cap informació a aquests llocs."
+          }
+        ]
+      },
+      {
+        "h": "Compres",
+        "blocks": [
+          {
+            "p": "Aquarium Pro es ven i es gestiona a Apple. L'aplicació no veu ni el teu mitjà de pagament ni la teva identitat; només llegeix, mitjançant l'App Store, si s'ha fet la compra, per desbloquejar les funcions."
+          }
+        ]
+      },
+      {
+        "h": "Nens",
+        "blocks": [
+          {
+            "p": "Aquarium no recull cap dada, incloent-hi dades dels nens."
+          }
+        ]
+      },
+      {
+        "h": "Canvis",
+        "blocks": [
+          {
+            "p": "Si aquesta política canvia, la nova versió s'publicarà en aquesta pàgina amb la seva data d'actualització."
+          }
+        ]
+      },
+      {
+        "h": "Contacte",
+        "blocks": [
+          {
+            "p": "Per qualsevol pregunta sobre aquesta política: {email}"
+          }
+        ]
+      }
+    ]
+  }
+}
